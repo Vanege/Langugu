@@ -24,9 +24,9 @@ bazita sur la skriba formo, mi forigas literojn
 vorto ne finiĝu per konsonanto
 
 yeso: jes (affirmative)
-no: ne
+ni: ne
 (? maybe change to yesi, ni)
-nu: mal
+na-: mal
 
 pi: Past
 ri: futuRe
@@ -45,19 +45,19 @@ wito: kun, per
 ? do: de, da, "el"
 kaso: pro, ĉar
 fo: al, por
-nufo: el
+nafo: el
 untilo: ĝis
 pasto: antaŭ (shortform po?)
-??? nopasto: post (shortform nopo?)
+??? napasto: post (shortform napo?)
 stedo: anstataŭ
 wilo: dum
 eksepto: krom
 wayo: laŭ
 spito: malgraŭ, kvankam
 temo: pri
-nowito: sen
+nawito: sen
 bako: malantaŭ (behind)
-nubako: antaŭ (in front of)
+nabako: antaŭ (in front of)
 kroso: tra
 
 -o = in x-u of
@@ -87,7 +87,7 @@ Mi laboras multe pri mia lingvo nun
 mu nowi mani woka mi spektolu
 
 Don't fall in the traps!
-! no fala fo trapu
+! ni fala fo trapu
 
 Mi devos vekiĝi frue morgaŭ
 mu tomori musta soni wake
@@ -96,7 +96,7 @@ donu al mi frazon kiun mi tradukos
 giba wodaru fo mu wo mu oterlanguga
 
 I will not go to school tomorrow
-mu nupi no goma lenplasu tomori
+mu ri ni goma lenplasu tomori
 
 The cat prefers to eat gray mice
 to katu morlika eta gri mosu
@@ -134,7 +134,7 @@ to talk - speka
 to speak - speka
 tool - tolu
 language - spektolu
-front - nubaku
+front - nabaku
 back - baku
 place (time or space) - atu
 place (space) - plasu
@@ -146,7 +146,7 @@ cause - kaso
 way - wayu
 origin - fromu
 past - pastu
-future - nupastu
+future - napastu
 now - nowu
 array - aru
 group - aru
