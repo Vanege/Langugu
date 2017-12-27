@@ -1,5 +1,5 @@
 a e i o u
-b d f g k l m n p r s t v w z
+b d f g k l m n p r s t w
 
 
 -- Special words
@@ -28,26 +28,24 @@ no: ne
 (? maybe change to yesi, ni)
 nu: mal
 
-pi: past
-vi: future
+pi: Past
+ri: futuRe
 nowi: nun
-gi : imperfect
-di : perfect
-
-? Remove r in roots if followed by a consonent ?
+gi : imperfect (inG)
+di : perfect (eD)
 
 -----------------------------------------------
 
 Esperanto prepositions fusions :
 ? so: en, ĉe, je 
 nero: apud
-overo: sur, super
+obero: sur, super
 undero: sub
 wito: kun, per
-? do: de, da, el
+? do: de, da, "el"
 kaso: pro, ĉar
 fo: al, por
-fromo: el
+nufo: el
 untilo: ĝis
 pasto: antaŭ (shortform po?)
 ??? nopasto: post (shortform nopo?)
@@ -95,10 +93,10 @@ Mi devos vekiĝi frue morgaŭ
 mu tomori musta soni wake
 
 donu al mi frazon kiun mi tradukos
-giva wodaru fo mu wo mu oterlanguga
+giba wodaru fo mu wo mu oterlanguga
 
 I will not go to school tomorrow
-mu vi no goma lenplasu tomori
+mu nupi no goma lenplasu tomori
 
 The cat prefers to eat gray mice
 to katu morlika eta gri mosu
@@ -117,7 +115,7 @@ to learn - lena
 place - plasu
 to translate - oterlanguga
 language - langugu
-to give - giva
+to give - giba
 other - oteri
 to wake (someone up) - waka   
 tomorrow - tomori
@@ -169,9 +167,12 @@ How to find a word
 3) Try to put roots from the list together
 4) Export from English
 
-- remove h
 - remove consecutive vowels (aeoiuyw)
+- remove h
+- change z to s
+- change v to b
 - turn c into s or k depending on the pronunciation
 - remove r if followed by consonent (does not apply for combined roots)
+
 
 5) Take from other source
