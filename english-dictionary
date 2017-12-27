@@ -1,12 +1,18 @@
-ta = that
-wa = what
-to = all prepositions
+a e i o u
+b d f g h k l m n p r s t v w z
+
+
+-- Special words
+to = that
+wo = what
+--
 
 mu, mi = I/me, my
 yu, yi = you, your
-itu, iti = ri, ria
+tu, ti
 malu, mali = we, our
-italu, itali = they, their
+yalu, yalu
+talu, tali = they, their
 
 a: active
 e: pasive
@@ -23,22 +29,24 @@ no: ne
 nu: mal
 
 pi: past
-wi: future
+vi: future
 nowi: nun
+gi : imperfect
+di : perfect
 
 ? Remove r in roots if followed by a consonent ?
 
 -----------------------------------------------
 
 Esperanto prepositions fusions :
-ato: en, ĉe, je 
+? so: en, ĉe, je 
 nero: apud
 overo: sur, super
 undero: sub
 wito: kun, per
-ofo: de, da
+? do: de, da, el
 kaso: pro, ĉar
-to: al, por
+fo: al, por
 fromo: el
 untilo: ĝis
 pasto: antaŭ (shortform po?)
@@ -60,7 +68,22 @@ kroso: tra
 
 I must make sentences to try the language
 Mi devas fari frazojn por provi la lingvon
-Mu musta maka wordaru to testa spektolu
+Mu musta maka wordaru fo testa spektolu
+
+I make it (become/be) good
+Mu maka tu godi
+
+kato manĝxnta
+katu wo eta
+
+kato manĝxta
+katu wo ete
+
+The killed snake is fat
+to snaku wo (di) kile fati
+
+Lernejo enirita de kato
+Len-plasu gome katu
 
 ------------------------------------------------
 
@@ -98,4 +121,4 @@ I - mu
 to must - musta
 to do - maka
 to make - maka
-
+? to become - bekoma
