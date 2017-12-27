@@ -17,8 +17,14 @@ o: preposition
 bazita sur la skriba formo, mi forigas literojn
 vorto ne finiĝu per konsonanto
 
-ni: ne
-no: mal
+yeso: jes (affirmative)
+no: ne
+(? maybe change to yesi, ni)
+nu: mal
+
+pi: past
+wi: future
+nowi: nun
 
 ? Remove r in roots if followed by a consonent ?
 
@@ -35,8 +41,8 @@ kaso: pro, ĉar
 to: al, por
 fromo: el
 untilo: ĝis
-pasto: antaŭ (shortform paso?)
-futuro: post (shortform futo?)
+pasto: antaŭ (shortform po?)
+??? nopasto: post (shortform nopo?)
 stedo: anstataŭ
 wilo: dum
 eksepto: krom
@@ -45,7 +51,7 @@ spito: malgraŭ, kvankam
 temo: pri
 nowito: sen
 bako: malantaŭ (behind)
-nobako: antaŭ (in front of)
+nubako: antaŭ (in front of)
 kroso: tra
 
 -o = in x-u of
@@ -58,6 +64,8 @@ Mu musta maka wordaru to testa spektolu
 
 ------------------------------------------------
 
+to go - goma? mi iras al vi -> mu goma yu (fusion to avoid people to create "to come")
+to come - goma?
 to start - begina
 to begin - begina
 to try - testa
@@ -67,7 +75,7 @@ to talk - speka
 to speak - speka
 tool - tolu
 language - spektolu
-front - nobaku
+front - nubaku
 back - baku
 place (time or space) - atu
 place (space) - plasu
@@ -79,7 +87,7 @@ cause - kaso
 way - wayu
 origin - fromu
 past - pastu
-future - futuru
+future - nupastu
 now - nowu
 array - aru
 group - aru
