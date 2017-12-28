@@ -1,11 +1,13 @@
 a e i o u
-b d f g k l m n p r s t w
+b d f g h k l m n p r s t w
 
 
 -- Special words
 to = that
 wo = what
-alo = ĉiu / ĉio
+lo = ĉiu / ĉio
+nalo = neniu / nenio
+ono = iu / io
 
 i = and
 o = or
@@ -112,12 +114,17 @@ mu ri ni goma lenplasu tomori
 The cat prefers to eat gray mice
 to katu morlika foda gri mosu
 
+Mi ŝatas manĝi biskvitojn kun lakto ĉar la lakto multe plibongustigas la biskvitojn <3
+Mu lika foda biskutu wito milku kaso milku mani morgoda biskutu ❤️
 
 ------------------------------------------------
 Oni kutime xa xu
 
 ? mean / "celi"
 
+hug - hugu
+to make happy - hapa
+happy - hapi
 goal - golu
 to function - puposa
 function - puposu
@@ -217,7 +224,7 @@ How to find a word
 
 - avoid words with j, or try replacing with y
 - remove consecutive vowels (aeoiu), but also (yw) if word too short or collision
-- remove h
+- remove h if it is after a consonent
 - change z to s
 - change v to b
 - turn c into s or k depending on the pronunciation
