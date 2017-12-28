@@ -5,6 +5,11 @@ b d f g k l m n p r s t w
 -- Special words
 to = that
 wo = what
+alo = ĉiu / ĉio
+
+i = and
+o = or
+-u = pluralo (nedeviga)
 --
 
 mu, mi = I/me, my
@@ -14,18 +19,17 @@ malu, mali = we, our
 yalu, yalu
 talu, tali = they, their
 
-a: active
-e: pasive
-u: noun
-i: adjective/adverb
-o: preposition
+-a: active
+-e: pasive
+-u: noun
+-i: adjective/adverb
+-o: preposition
 
 bazita sur la skriba formo, mi forigas literojn
 vorto ne finiĝu per konsonanto
 
-yeso: jes (affirmative)
+yesi: jes
 ni: ne
-(? maybe change to yesi, ni)
 
 pi: Past
 ri: futuRe
@@ -55,7 +59,7 @@ fo (komo) : al, por
 nafo: el
 untilo: ĝis
 pasto: antaŭ (shortform po?)
-??? napasto: post (shortform napo?)
+napasto: post (shortform napo?)
 stedo: anstataŭ
 wilo: dum
 eksepto: krom
