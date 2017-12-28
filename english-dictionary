@@ -37,6 +37,8 @@ di : perfect (eD)
 -----------------------------------------------
 
 Esperanto prepositions fusions :
+New words because they should be short, but can be derived from others
+
 ? so: en, ĉe, je 
 nero: apud
 obero: sur, super
@@ -44,7 +46,7 @@ undero: sub
 wito: kun, per
 ? do: de, da, "el"
 kaso: pro, ĉar
-fo: al, por
+fo (komo) : al, por
 nafo: el
 untilo: ĝis
 pasto: antaŭ (shortform po?)
@@ -87,7 +89,7 @@ Mi laboras multe pri mia lingvo nun
 mu nowi mani woka mi spektolu
 
 Don't fall in the traps!
-! ni fala fo trapu
+! ni fala trapu
 
 Mi devos vekiĝi frue morgaŭ
 mu tomori musta soni wake
@@ -99,32 +101,54 @@ I will not go to school tomorrow
 mu ri ni goma lenplasu tomori
 
 The cat prefers to eat gray mice
-to katu morlika eta gri mosu
+to katu morlika foda gri mosu
 
 
 ------------------------------------------------
+Oni kutime xa xu
+
+to prepare - prepara
+ready - prepari
+to pay - paya
+cost - payu
+to read - reda
+to write - teksta
+writing - tekstu
+to acquire - beginava
+to have - ava
+to possess - ava
+possesion - avu
+food - fodu
+to eat / to drink - foda
 mouse - mosu
 grey - gri
-to eat - eta
 to prefer - morlika
 to like - lika
+hobby - liku
 more - mori
-to eat - eta
 school - lenplasu
 to learn - lena
+to study - lena
+study - lenu
+to know - kna
+a knowledge - knu
 place - plasu
 to translate - oterlanguga
 language - langugu
 to give - giba
+donation - gibu
+gift - gibu
+to change (something) - otera
 other - oteri
 to wake (someone up) - waka   
 tomorrow - tomori
-to fall - fala
+to fall (in) - fala ; mi falas en kaptilon -> mu fala trapu
 many - mani
-to work - woka
+to work (on) - woka
 a lot - mani
-to go - goma? mi iras al vi -> mu goma yu (fusion to avoid people to create "to come")
-to come - goma?
+to go - koma ; mi iras al vi -> mu goma yu (fusion to avoid people to create "to come")
+to come - koma
+destination - komu
 to start - begina
 to begin - begina
 to try - testa
@@ -155,9 +179,15 @@ sentence - wodaru
 
 I - mu
 to must - musta
-to do - maka
+to do - maka / akta
 to make - maka
-? to become - bekoma
+to create - maka
+creation - maku
+result - maku
+to act (to do an action) - akta
+action - aktu
+to become - koma
+
 
 ---------
 
@@ -167,7 +197,7 @@ How to find a word
 3) Try to put roots from the list together
 4) Export from English
 
-- remove consecutive vowels (aeoiuyw)
+- remove consecutive vowels (aeoiu), but also (yw) if word too short or collision
 - remove h
 - change z to s
 - change v to b
