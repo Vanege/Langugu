@@ -12,6 +12,8 @@ ono = iu / io
 i = and
 o = or
 -u = pluralo (nedeviga)
+
+do = ĉu (nedeviga, tono povas sufiĉi, bv meti ? je la komenco de la frazo)
 --
 
 mu, mi = I/me, my
@@ -50,14 +52,14 @@ na-: mal
 Esperanto prepositions fusions :
 New words because they should be short, but can be derived from others
 
-? so: en, ĉe, je 
+? bo: en, ĉe, je (by)
 nero: apud
 obero: sur, super
 undero: sub
 wito: kun, per
-? do: de, da, "el"
+? so: de, da, "el" ('s but reversed)
 kaso: pro, ĉar
-fo (komo) : al, por
+fo (komo) : al, por (for)
 nafo: el
 untilo: ĝis
 pasto: antaŭ (shortform po?)
