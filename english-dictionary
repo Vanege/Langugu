@@ -2,12 +2,27 @@ a e i o u
 b d f g h k l m n p r s t w
 
 
--- Special words
+-- Independant prefixes
+
 to = that
 wo = what
-nano = ĉiu / ĉio / ? jes
 no = neniu / nenio / 0 / ne (no godi = no "esti" godi)
+nano = ĉiu / ĉio / ? jes
 ? ono / ? lo = iu / io
+
+---
+
+wo = kiu afero = kio
+kx = wo-x
+kia = wo-tipi
+kial = wo-kosi
+kiel = wo-lo
+kiam = wo-timi
+kie = wo-plasu
+kiu = wo-pesonu
+kiom = wo-kuntitu
+
+---
 
 ? yeso = jes
 
@@ -16,13 +31,14 @@ o = or
 -u = pluralo (nedeviga)
 
 do = ĉu (nedeviga, tono povas sufiĉi, bv meti ? je la komenco de la frazo)
+
 --
 
 mu, mi = I/me, my
 yu, yi = you, your
 tu, ti
 malu, mali = we, our
-yalu, yalu
+yalu, yali (you all)
 talu, tali = they, their
 
 -a: active
@@ -84,13 +100,16 @@ mis- ; mis- ; mis-
 Esperanto prepositions fusions :
 New words because they should be short, but can be derived from others
 
-? bo: en, ĉe, je (by)
-nero: apud
-nasubo: sur, super
-subo: sub ("below" don't confuse with "low" = "natali") 
-wito: kun, per
 ? so: de, da, "el" ('s but reversed)
+? bo: en, ĉe, je (by)
+? nabo: ekster
+nero: apud
+subo: sub
+nasubo: sur, super
+wito: kun, per
+nawito: sen
 kaso: pro, ĉar
+nakaso: malgraŭ
 fo : al, por (for)
 nafo: el
 ? untilo: ĝis
@@ -100,9 +119,8 @@ stedo: anstataŭ
 wilo: dum
 eksepto: krom
 wayo: laŭ
-spito: malgraŭ, kvankam
+
 temo: pri
-nawito: sen
 bako: malantaŭ (behind)
 nabako: antaŭ (in front of)
 kroso: tra
