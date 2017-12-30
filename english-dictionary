@@ -5,9 +5,12 @@ b d f g h k l m n p r s t w
 -- Special words
 to = that
 wo = what
-lo = ĉiu / ĉio
+nano = ĉiu / ĉio / ? jes
+no = neniu / nenio / 0 / ne (no godi = no "esti" godi)
 nalo = neniu / nenio
-ono = iu / io
+? ono = iu / io
+
+? yeso = jes
 
 i = and
 o = or
@@ -32,13 +35,11 @@ talu, tali = they, their
 bazita sur la skriba formo, mi forigas literojn
 vorto ne finiĝu per konsonanto
 
-yesi: jes
-ni: ne
 
 pi: Past
 ri: futuRe
 nowi: nun
-gi : imperfect (inG)
+gi : imperfect (inG) (onGoing)
 di : perfect (eD)
 
 -------------------------------
@@ -91,7 +92,7 @@ undero: sub
 wito: kun, per
 ? so: de, da, "el" ('s but reversed)
 kaso: pro, ĉar
-fo (komo) : al, por (for)
+fo : al, por (for)
 nafo: el
 untilo: ĝis
 pasto: antaŭ (shortform po?)
@@ -134,7 +135,7 @@ Mi laboras multe pri mia lingvo nun
 mu nowi mani woka mi spektolu
 
 Don't fall in the traps!
-! ni fala trapu
+! no fala trapu
 
 Mi devos vekiĝi frue morgaŭ
 mu tomori musta soni wake
@@ -143,7 +144,7 @@ donu al mi frazon kiun mi tradukos
 giba wodaru fo mu wo mu oterlanguga
 
 I will not go to school tomorrow
-mu ri ni goma lenplasu tomori
+mu ri no ga lenplasu tomori
 
 The cat prefers to eat gray mice
 to katu morlika eta gri mosu
@@ -205,9 +206,10 @@ many - mani
 very - mani
 a lot - mani
 to work (on) - woka
-to go - koma
-to come - koma
-destination - komu
+to go - ga (or koma, but it's sure that only one word must be kept)
+to come - ga
+destination - gu
+to become - ga ("he went crazy")
 to start - begina
 to begin - begina
 to try - testa
@@ -245,7 +247,6 @@ creation - maku
 result - maku
 to act (to do an action) - akta
 action - aktu
-to become - koma
 
 
 ---------
