@@ -7,8 +7,8 @@ to = that
 wo = what
 nano = ĉiu / ĉio / ? jes
 no = neniu / nenio / 0 / ne (no godi = no "esti" godi)
-nalo = neniu / nenio
-? ono = iu / io
+nano = neniu / nenio
+? ono / ? lo = iu / io
 
 ? yeso = jes
 
@@ -37,10 +37,10 @@ vorto ne finiĝu per konsonanto
 
 
 pi: Past
-ri: futuRe
+napi / ? ri: futuRe
 nowi: nun
 gi : imperfect (inG) (onGoing)
-di : perfect (eD)
+nagi / ? di : perfect (eD)
 
 -------------------------------
 Affixes: Esperanto roots are used since English words tend to form bulky consonent clusters
