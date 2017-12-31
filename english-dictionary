@@ -8,9 +8,23 @@ to = that
 wo = what
 no = neniu / nenio / 0 / ne (no godi = no "esti" godi)
 nano = ĉiu / ĉio / ? jes
-? ono / ? lo = iu / io
 
----
+-- Numbers
+
+one = unu / iu / io
+two
+tre
+for(i)
+five
+siks(i)
+seven(i)
+egt(i)
+nin(i)
+ten(i)
+hundred(i)
+tosand(i)
+
+-- "Correlatives"
 
 wo = kiu afero = kio
 kx = wo x
@@ -23,8 +37,6 @@ kiu = wo pesonu
 kiom = wo kuntitu
 
 ---
-
-? yeso = jes
 
 i = and
 o = or
