@@ -1,5 +1,5 @@
 a e i o u
-b d f g h k l m n p r s t w
+b d f g h k l m n p r s t w y
 
 
 -- Independant prefixes
@@ -98,7 +98,7 @@ mis- ; mis- ; mis-
 -bos (-estr ne estas tre ofta)
 ? -ig ; -ig ; x (really risky as people may use it to verbs (they are already transitive)
 ? -iĝ ; -iĝ ; x (really really risky, people should use -e) 
-? -il ; -il ; -tool (teorie -er sufiĉas, kaj la rezulto per -er pli rekoneblas, sed eble utilas por krei distingojn) 
+? -il ; -il ; -tool (teorie -er sufiĉas, kaj la rezulto per -er pli rekoneblas, sed eble utilas por krei distingojn ! sed tiam ni povas uzi -tul) 
 -ism ; mapped on English (careful, isma is about a school of thoughts)
 -ist ; mapped on English (careful, ista is about a person that follows a school of thoughts) (atentu Esperantistoj, ne temas pri profesio)
 -os ; -plena ; -ful
@@ -130,7 +130,7 @@ napasto: post (shortform ? napo ? too short)
 stedo: anstataŭ
 wilo: dum
 eksepto: krom
-wayo: laŭ
+pato: laŭ
 
 temo: pri
 bako: malantaŭ (behind)
@@ -266,7 +266,8 @@ theme - temu
 exception - ekseptu
 duration - wilu
 cause - kaso
-way - wayu
+path - patu
+way - patu
 origin - fromu
 past - pastu
 future - napastu
