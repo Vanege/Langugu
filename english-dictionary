@@ -8,6 +8,7 @@ to = that
 wo = what
 no = neniu / nenio / 0 / ne (no godi = no "esti" godi)
 nano = ĉiu / ĉio / ? jes
+yeso = yes
 
 -- Numbers
 
@@ -121,8 +122,8 @@ subo: sub
 nasubo: sur, super
 wito: kun, per
 nawito: sen
-bekaso: pro, ĉar
-nabekaso: malgraŭ
+kaso: pro, ĉar
+nakaso: malgraŭ
 fo : al, por (for)
 nafo: el
 ? untilo: ĝis
@@ -187,7 +188,13 @@ Oni kutime xa xu
 
 ? mean / "celi"
 
-because - bekaso
+maybe - maybi
+true - nafalsi
+false - falsi
+fame - famu
+famous - fami
+still - stili
+because - kaso
 to watch - loka
 to look - loka
 to see - loka
