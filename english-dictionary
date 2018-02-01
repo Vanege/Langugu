@@ -1,7 +1,6 @@
 a e i o u
 b d f g h k l m n p r s t w y
 
-
 -- Independant prefixes
 
 to = that
@@ -39,8 +38,8 @@ kiom = wo kuntitu
 
 ---
 
-i = and
-o = or
+ando / i? = and
+oro / o? = or
 -u = pluralo (nedeviga)
 
 do = ĉu (nedeviga, tono povas sufiĉi, bv meti ? je la komenco de la frazo)
@@ -65,11 +64,9 @@ vorto ne finiĝu per konsonanto
 
 
 pi: Past
-napi / ? ri: futuRe
-(so: napi)
-nowi: nun
-gi : imperfect (inG) (onGoing)
-nagi / ? di : perfect (eD)
+napi: futuRe
+fi: Finished (perfect aspect)
+nafi : imperfect aspect
 
 -------------------------------
 Affixes: Esperanto roots are used since English words tend to form bulky consonent clusters
@@ -111,12 +108,18 @@ mis- ; mis- ; mis-
 
 -----------------------------------------------
 
-Esperanto prepositions fusions :
-New words because they should be short, but can be derived from others
+Prepositions and other little things
 
-? so: de, da, "el" ('s but reversed)
-? bo: en, ĉe, je (by)
-? nabo: ekster
+For future uses or simplifying common word, with no hearing problem in practice
+unused twoletters: b-, r- 
+
+ga: to go
+si: plural (quick plurality after a word, not a necessity)
+? lo: do, (so, as a result)
+
+ofo: de, da, "el"
+ato: en, ĉe, je (at, by, in)
+naato: ekster
 nero: apud
 subo: sub
 nasubo: sur, super
@@ -124,8 +127,8 @@ wito: kun, per
 nawito: sen
 kaso: pro, ĉar
 nakaso: malgraŭ
-fo : al, por (for)
-nafo: el
+foro: al, por (for, to)
+naforo: el
 ? untilo: ĝis
 pasto: antaŭ (shortform ? po ? too short)
 napasto: post (shortform ? napo ? too short)
