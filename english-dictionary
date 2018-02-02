@@ -6,7 +6,7 @@ b d f g h k l m n p r s t w y
 to = that
 wo = what
 no = neniu / nenio / 0 / ne (no godi = no "esti" godi)
-nano = ĉiu / ĉio / ? jes
+alo = ĉiu / ĉio / ? jes
 yeso = yes
 
 -- Numbers
@@ -67,44 +67,6 @@ pi: Past
 napi: futuRe
 fi: Finished (perfect aspect)
 nafi : imperfect aspect
-
--------------------------------
-Affixes: Esperanto roots are used since English words tend to form bulky consonent clusters
-(lenplasu -> leneyu)
-Also, it will bring a good habit of word-building from Esperanto
-
-na-: mal- ; un-
-re-: re- ; re-
-ek- ; ek- ; x
-eks- ; eks- ; x
-mis- ; mis- ; mis-
--ad ; -ad ; -ment, -ing (-ing is too polysemic)
--as ; -aĵ ; -thing
--an ; -an -er ; -member -part
--up ; -ar ; -group -ry (-ar too similar to -er)
--abl ; -ebl ; -abl
--es ; -ec ; -ness -ship
--od ; x ; -ish -oid
--eg ; -eg ; x
--or ; x (pli) ; -er (to not confuse it with the french -eur/-er)
--ost ; x (plej) ; -est
--et ; -et ; many
--em ; -em ; tendency to 
--end ; -end ; x
--ind ; -ind ; x
--ey ; -ej -uj -ing ; -place
--er ; -ulo -anto -isto (profesiulo) ?-il ; -er (intence malpreciza)
--bos (-estr ne estas tre ofta)
-? -ig ; -ig ; x (really risky as people may use it to verbs (they are already transitive)
-? -iĝ ; -iĝ ; x (really really risky, people should use -e) 
-? -il ; -il ; -tool (teorie -er sufiĉas, kaj la rezulto per -er pli rekoneblas, sed eble utilas por krei distingojn ! sed tiam ni povas uzi -tul) 
--ism ; mapped on English (careful, isma is about a school of thoughts)
--ist ; mapped on English (careful, ista is about a person that follows a school of thoughts) (atentu Esperantistoj, ne temas pri profesio)
--os ; -plena ; -ful
--obl
--on
--op
--um (use it to create words in the go, please do not standardize words with it such as "brakumo" or "operaciumo" because they are lazy and imprecise)
 
 -----------------------------------------------
 
@@ -190,7 +152,13 @@ Mu lika eta biskutu wito milku kaso milku mani morgoda biskutu ❤️
 ------------------------------------------------
 Oni kutime xa xu
 
-
+boss - bosu
+at least - atlesto
+name - namu
+just (just happened) - yusti
+just (only) - onli
+other - oteri
+similar - similari
 cold - nawami
 warm - wami
 hot - man-wami
