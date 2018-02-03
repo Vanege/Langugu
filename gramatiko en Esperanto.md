@@ -1,126 +1,151 @@
-### Literoj kaj sonoj
+## Literoj kaj sonoj
 
 a e i o u  
 b d f g h k l m n p r s t w y  
-Elparolitaj kiel en IFA, krom "y" kiu estas [j]  
+Elparolitaj kiel en IFA, krom **y** kiu estas **/j/**  
 Granda alofona diverseco  
+
+
 
 ## Vortaj finaĵoj
 
--a: verbo aktiva  
-> katu eta fisu: kato manĝas fiŝon  
--e: verbo pasiva  
-> katu ete fisu: kato estas manĝata de fiŝo  
--u: substantivoj  
--i: adjektivo se antaŭ u-vorto, se ne, adverbo  
-> fasti katu eta: rapida kato manĝas  
-> katu fasti eta: kato rapide manĝas  
-> katu eta fasti: kato manĝas rapide  
--o: prepozicioj, kaj aliaj  
-> fisu fo katu: fiŝo por kato  
+* -a: verbo aktiva  
+
+> katu **eta** fisu: kato **manĝas** fiŝon  
+
+* -e: verbo pasiva  
+
+> katu **ete** fisu: kato **estas manĝata de** fiŝo  
+
+* -u: substantivoj  
+
+> **katu**: **kato / katoj**  
+> oni katu: (unu) kato  
+> mani katu: multaj katoj  
+
+* -i: adjektivo aŭ adverbo
+
+> **fasti** katu eta: **rapida** kato manĝas  
+> katu **fasti** eta: kato **rapide** manĝas  
+> katu eta **fasti**: kato manĝas **rapide**  
+
+* -o: prepozicioj, kaj aliaj  
+
+> fisu **foro** katu: fiŝo **por** kato  
 
 
-## Tempo, Aspekto, "Modo"
+## Tempo, aspekto, modo...
 
-Verbo estas en ajna tempo. Kunteksto ofte sufiĉas
+Verbo povas esti en ajna. Oni precizigas per adverbo:  
 
-Oni povas precizigi tempon per adverbo
-  katu eta: kato manĝas / kato manĝis / kato manĝos
-  katu nowi eta: kato (nun) manĝas
-  katu pi eta: kato (antaŭe) manĝis
-  katu napi eta: kato (poste) manĝos
+* Precizigi tempon (**pi** kiel *past*)
 
-Oni povas precizigi aspekton per adverbo
-  katu pi eta: kato estis manĝanta / kato estis manĝinta
-  katu pi nafi eta: kato estis manĝanta
-  katu pi fi eta: kato estis manĝinta
+>  katu eta: kato manĝas / kato manĝis / kato manĝos  
+>  katu **nowi** eta: kato (nun) manĝ**as**  
+>  katu **pi** eta: kato (antaŭe) manĝ**is**  
+>  katu **napi** eta: kato (poste) manĝ**os**  
 
-Oni povas precizigi modon per adverbo
-  katu musti eta: A cat must eat
-  katu maybi eta: A cat may eat
-  yu eta!: You eat!
+* Precizigi aspekton (**fi** kiel *finished*)
+
+>  katu pi eta: kato estis manĝinta / kato estis manĝanta  
+>  katu pi **fi** eta: kato estis manĝ**i**nta  
+>  katu pi **nafi** eta: kato estis manĝ**a**nta  
+
+* Precizigi modon
+
+>  katu **musti** eta: kato manĝ**u**  
+>  katu **maybi** eta: kato manĝ**us**  
+>  (yu) eta!: manĝu!  
 
 
 ## Pronomoj
 
-Ili funkcias kiel u-vortoj kaj i-vortoj
 
-mu: mi, min
-  mi: mia, miaj, mian
-yu: vi, oni ...
-  yi: via, onia ...
-hu: ĝi, li, ŝi, ri ... 
-mumu: ni
-  mumi: nia, niaj, nian
-yuyu: vi
-huhu: ili
+**mu**, **yu**, **hu**: mi, vi, ri/ĝi   
+**mumu**, **yuyu**, **huhu**: ni, vi, ili  
 
-Anstataŭ "si", oni povas uzi la adejktivon "selfi" apud la taŭga pronomo
-  Ĝi vidas sin: hu loka hu selfi / hu loka hu
-Tio ne estas limigita al la tria persono.
-  Vi ŝatas vin (mem): yu lika yu selfi / yu lika yu
+**mi**: mia/miaj/mian/miajn  
+**mumi**: nia/niaj/nian/niajn  
 
 
 ## Neado
 
-"no" antaŭ la elemento
-  mu no wanta slepa: mi ne volas dormi
-  no mu wanta slepa buto hu: ne mi volas dormi sed ri
-  mu wanta no slepa buto talka: mi volas ne dormi sed paroli/diri
+**no** staras antaŭ la elemento neita:
+>  mu **no** wanta slepa: mi ne volas dormi  
+>  **no** mu wanta slepa buto hu: ne mi volas dormi sed ri  
+>  mu wanta **no** slepa buto talka: mi volas ne dormi sed paroli/diri  
 
 
 ## "Tabelvortoj"
 
-to = tio / tiu / la
-wo = kio / kiu
-no = neniu / nenio / 0 / ne
-nano = ĉiu / ĉio / ? jes
+La unua elemento finiĝas per o, la dua elemento estas normala vorto, do oni devas atenti pri la finaĵo. 
 
-kx = wo x
-tx = to x
-tio = to / to tingu
-kio = wo / wo tingu
-tia = to tipi
-kia = wo tipi
-kial = wo kosi
-kiel = wo maneri
-kiam = wo timi
-kie = wo plasu
-kiu = wo pesonu
-kiom = wo kuntitu
+* **to** = tio / tiu / la  
+* **wo** = kio / kiu  
+* **ono** = iu / io / 1  
+* **no** = neniu / nenio / 0 / ne  
+* **alo** = ĉiu / ĉio  
 
+tio = to / to tingu  
+kio = wo / wo tingu  
+tia = to tipi  
+kia = wo tipi  
+kial = wo kosi  
+kiel = wo maneri  
+kiam = wo timi  
+kie = wo plasu  
+kiu = wo pesonu  
+kiom = wo kuntitu  
+
+La listo ne estas fermita, oni povas krei tiom da "tabelvortoj" kiom oni volas.
 
 ## "Ke"
 
-Oni ne bezonas ĝin, ĝi povas malaperi, kiel foje "that" en la Angla.
-  mu liki katu eta: mi ŝatas ke la kato manĝas
-Se oni volas klarigi, oni povas uzi "to" (tio) kun identiga priskribo:
-  mu liki to: katu eta
+Oni tre ofte ne bezonas ĝin. En la Angla, oni ofte ne uzas "that" tie.
+
+> mu lika katu eta: mi ŝatas ke la kato manĝas
+
+Se oni volas klarigi, oni povas uzi "to:" (tio) kun identiga priskribo:
+
+> mu liki to: katu eta
 
 
 ## Rilataj subfrazoj
 
-Oni povas mencii parton de ĉeffrazo per "wo (u-vorto)" en subfrazo.
-Por klarigi komencon de subfrazo, oni povas uzi ",".
-  Mi volas la pomon, kiun vi manĝas:
-    mu wanta to aplo, wo (aplo) yu eta // OSV-subfrazo
-    mu wanta to aplo, yu eta wo (aplo) // SVO-subfrazo
-    
-La lingvo estas tute en la vortordo SVO, sed foje la vortordo OSV povas aperi en rilata subfrazo kie S estas "wo (u-vorto)".
-En la komenco, ni povas provi neniam uzi OSV en subfrazo.
+Kiel la ti-ki-pontoj de Esperanto: oni mencias parton de ĉeffrazo per "wo (u-vorto)" en subfrazo. Por klarigi komencon de subfrazo, oni povas uzi ",".
 
-Noto: la supra frazo povas esti simpligita en unu frazo kun pivota strukturo kaj e-vorto:
-  mu wanta to aplo eta yu: mi volas tiun pomon manĝatan de vi
+*  Mi volas la pomon, kiun vi manĝas: 
+ 
+>    mu wanta **to aplo**, **wo (aplo)** yu eta // OSV-subfrazo  
+>    mu wanta **to aplo**, yu eta **wo (aplo)** // SVO-subfrazo  
+    
+Kiel en Esperanto, la ti-parto povas esti neskribita, aŭ povas esti alia tabelparto:
+
+> mu wanta **katu**, **wo** slepa  
+> mu wanta **alo katu**, **wo** preti  
+
+
+La lingvo ĉiam estas en la vortordo SVO, krom foje en tiuj rilataj subfrazoj, ĉar "wo" en la komenco helpas scii kie komencas subfrazo. Tiam la subfrazo uzas la vortordon OSV.
 
 
 ## Pivota strukturo
 
 La objekto de verbo povas esti subjekto alia verbo kiu troviĝas post ĝi:
-  mu wanta mi katu lika mu giba fisu: mi volas, ke mia kato ŝatu, ke mi donas fiŝon
-  mu hopa yu lika to langugu: mi esperas, ke vi ŝatas tiun lingvon
+
+>  mu **hopa** yu **lika** to langugu: mi **esperas, ke** vi **ŝatas** tiun lingvon  
+>  mu **wanta** mi katu **lika** mu **giba** fisu: mi **volas, ke** mia kato **ŝatu, ke** mi **donas** fiŝon  
+ 
+
+Tio povas helpi simpligi frazojn:
+
+* mu wanta **aplo, wo yu eta**: mi volas pomon, kiun vi manĝas  
+
+> mu wanta **aplo ete yu**: mi volas pomon manĝatan de vi
 
 
 ## "Participaj adjektivoj"
+
+Ili estas anstataŭigeblaj per rapidaj subfrazoj:
 
 katu wo eta: kato kiu manĝas = kato manĝanta / kato manĝinta
 katu wo ete: kato kiu estas manĝata = kato manĝata / kato manĝita
