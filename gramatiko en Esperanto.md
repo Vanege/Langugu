@@ -6,7 +6,6 @@ Elparolitaj kiel en IFA, krom **y** kiu estas **/j/**
 Granda alofona diverseco  
 
 
-
 ## Vortaj finaĵoj
 
 * -a: verbo aktiva  
@@ -145,44 +144,70 @@ Tio povas helpi simpligi frazojn:
 
 ## "Participaj adjektivoj"
 
-Ili estas anstataŭigeblaj per rapidaj subfrazoj:
+Ili estas anstataŭigeblaj per mallongaj rilataj subfrazoj:
 
-katu wo eta: kato kiu manĝas = kato manĝanta / kato manĝinta
-katu wo ete: kato kiu estas manĝata = kato manĝata / kato manĝita
-katu wo nagi ete: kato kiu estas manĝita = kato manĝita
+> katu, wo eta, : kato kiu manĝas = kato manĝanta / kato manĝinta  
+> katu, wo ete, : kato kiu estas manĝata = kato manĝata / kato manĝita  
+> katu, wo fi ete, : kato kiu estas manĝita = kato manĝita
 
 
 ## Radik-kunmetado
 
-Kiel en Esperanto, sed oni metas - inter la radikoj. "-" sonas kiel /o/
-  talk-tolu /talkotolu/ : parolilo
-  slep-plasu /slepoplasu/ : dormejo
+Simile al Esperanto, sed kun **-** inter la dekstra (ĉefa) kaj maldekstra (priskriba) radiko. La signo **-** estas elparolata **/o/**.
 
 
-## Diveni vortojn
+> mor-godi: pli bona    
+> most-godi: plej bona    
+> begin-pesonu: komenculo/komencanto  
+> et-tolu: manĝilo  
 
-Antaŭ ĉio, petu al la homoj ĉirkaŭ vi, tio ankaŭ certigos ke ili komprenos vin kiam vi uzos la vorton.
-Unue, konsultu la oficialan vortaron el la Angla: https://github.com/Vanege/talkeru/blob/master/english-dictionary
-Due, se vi ne trovas tradukon, provu uzi la finaĵojn -a -e -i -o -u por krei tiun vorton el la jamekzistantaj radikoj
-Trie, se tio ne sufiĉas, provu radik-kunmetadon.
-Kvare, uzu tiun procezon pro krei novan radikon:
+
+## Afiksoj
+
+Ekzistas malpli da afiksoj ol en Esperanto. Oni preferas kunmeti radikojn, tiel la vortoj restas pli rekoneblaj kaj ne estas du vortoj por la sama afero. (ulo/persono, ejo/persono ...)
+
+* **na**fasti: **mal**rapida
+* **re**begina: **re**komenci
+
+## Diveni vortojn el la Angla
+
+Antaŭ ĉio, demandu al la homoj ĉirkaŭ vi, tio ankaŭ certigos ke ili komprenos vin kiam vi uzos la vorton.  
+
+1. Konsultu la oficialan vortaron el la Angla: https://github.com/Vanege/talkeru/blob/master/english-dictionary
+
+2. Provu uzi la finaĵojn -a -e -i -o -u por krei tiun vorton el la jamekzistantaj radikoj
+
+3. Provu radik-kunmetadon kaj afiksojn.
+
+4. Generu ĝin:
 
 1) Elektu la plej oftan vorton por tiu koncepto, kiu ne ŝajnas konfuzebla kun jamaj radikoj
   Vi povas rigardi la facilecon kaj sinonimojn per Cambridge Dictionary: https://dictionary.cambridge.org/dictionary/english/
+
 2) Kiam pluraj vokaloj (aeoiuy) aperas apude, konservu nur la unuan. (dinosaur -> dinosar)
+
 3) Forigu la vokalojn kiuj troviĝas je la fino de vorto. (potato -> potat)
+
 4) Forigu duoblajn konsonantojn. (battle -> batl)
+
 5) Ŝanĝu c al k aŭ s depende de ĝia sono. (coat -> kot) (process -> proses)
+
 6) Ŝanĝu j al y. (joke -> yok)
+
 7) Ŝanĝu z al s. (zebra -> sebr)
+
 8) Ŝanĝu v al b. (give -> gib)
+
 9) Forigu h kiam ĝi estas post konsonanto. (while -> wil)
+
 10) Forigu w kiam ĝi estas antaŭ r. (write -> rit)
+
 11) Forigu r kiam ĝi estas antaŭ konsonanto. (word -> wod)
 
-Se ĉio ne funkciis, se la Angla ne havas bonan fontan vorton por tio, se la koncepto estas tro nova, kreu novan radikon diskutante.
+Se ĉio ne funkciis, se la Angla ne havas bonan fontan vorton por tio, se la koncepto estas tro nova, kreu novan radikon post diskuto kun la komunumo.
 
 
-Dankon pro via legado.
-Bonvolu provi la lingvon kun ni en nia Telegrama grupo, kie oni rajtas uzi la lingvon, Esperanton kaj la Anglan:
+## Komunumo
+
+Telegram: grupo en Heli, Esperanto, la Angla: 
 https://t.me/joinchat/EjukbkmivHgrInfX_5nJ4A
