@@ -186,7 +186,7 @@ Antaŭ ĉio, demandu al la homoj ĉirkaŭ vi, tio ankaŭ certigos ke ili kompren
 
 2) Kiam pluraj vokaloj (aeoiuy) aperas apude, konservu nur la unuan. (dinosaur -> dinosar)
 
-3) Forigu la vokalojn kiuj troviĝas je la fino de vorto. (potato -> potat)
+3) Forigu la vokalojn kiuj troviĝas je la fino de vorto. (potato -> potat) Krom se estas pluraj vokaloj kaj la lasta estas y aŭ w. (know -> know) (boy -> boy)
 
 4) Forigu duoblajn konsonantojn. (battle -> batl)
 
