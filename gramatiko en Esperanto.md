@@ -1,4 +1,4 @@
-## Literoj kaj Sonoj
+### Literoj kaj sonoj
 
 a e i o u  
 b d f g h k l m n p r s t w y  
@@ -8,16 +8,16 @@ Granda alofona diverseco
 ## Vortaj finaĵoj
 
 -a: verbo aktiva  
-  katu eta fisu: kato manĝas fiŝon  
+> katu eta fisu: kato manĝas fiŝon  
 -e: verbo pasiva  
-  katu ete fisu: kato estas manĝata de fiŝo  
+> katu ete fisu: kato estas manĝata de fiŝo  
 -u: substantivoj  
 -i: adjektivo se antaŭ u-vorto, se ne, adverbo  
-  fasti katu eta: rapida kato manĝas  
-  katu fasti eta: kato rapide manĝas  
-  katu eta fasti: kato manĝas rapide  
+> fasti katu eta: rapida kato manĝas  
+> katu fasti eta: kato rapide manĝas  
+> katu eta fasti: kato manĝas rapide  
 -o: prepozicioj, kaj aliaj  
-  fisu fo katu: fiŝo por kato  
+> fisu fo katu: fiŝo por kato  
 
 
 ## Tempo, Aspekto, "Modo"
