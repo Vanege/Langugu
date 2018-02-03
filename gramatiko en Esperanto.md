@@ -1,32 +1,26 @@
-- Simplega gramatiko
-- Radikoj bazitaj sur bazaj skribitaj anglaj vortoj, kiuj estas laŭregule ŝanĝitaj
-- Baza vortaro por malmultigi la nombron de lernendaj vortoj 
-- Eblo kunmeti radikojn
-
-
-## Literoj
+## Literoj kaj Sonoj
 
 a e i o u  
 b d f g h k l m n p r s t w y  
-Elparolitaj kiel en IFA, krom "y" kiu estas [j]
-Granda alofona diverseco
+Elparolitaj kiel en IFA, krom "y" kiu estas [j]  
+Granda alofona diverseco  
 
 ## Vortaj finaĵoj
 
--a: verbo aktiva
-  katu eta fisu: kato manĝas fiŝon
--e: verbo pasiva
-  katu ete fisu: kato estas manĝata de fiŝo
--u: substantivoj
--i: adjektivo se antaŭ u-vorto, se ne, adverbo
-  fasti katu eta: rapida kato manĝas
-  katu fasti eta: kato rapide manĝas
-  katu eta fasti: kato manĝas rapide
--o: prepozicioj, kaj aliaj
-  fisu fo katu: fiŝo por kato
+-a: verbo aktiva  
+  katu eta fisu: kato manĝas fiŝon  
+-e: verbo pasiva  
+  katu ete fisu: kato estas manĝata de fiŝo  
+-u: substantivoj  
+-i: adjektivo se antaŭ u-vorto, se ne, adverbo  
+  fasti katu eta: rapida kato manĝas  
+  katu fasti eta: kato rapide manĝas  
+  katu eta fasti: kato manĝas rapide  
+-o: prepozicioj, kaj aliaj  
+  fisu fo katu: fiŝo por kato  
 
 
-## Tempo, Aspekto, Modo
+## Tempo, Aspekto, "Modo"
 
 Verbo estas en ajna tempo. Kunteksto ofte sufiĉas
 
