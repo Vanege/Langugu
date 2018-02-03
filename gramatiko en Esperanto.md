@@ -6,8 +6,8 @@
 
 ## Literoj
 
-a e i o u
-b d f g h k l m n p r s t w y
+a e i o u  
+b d f g h k l m n p r s t w y  
 Elparolitaj kiel en IFA, krom "y" kiu estas [j]
 Granda alofona diverseco
 
