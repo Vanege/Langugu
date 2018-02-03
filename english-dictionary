@@ -310,8 +310,8 @@ school - lenplasu
 to learn - lena
 to study - lena
 study - lenu
-to know - kna
-a knowledge - knu
+to know - knowa !
+a knowledge - knowu
 place - plasu
 to translate - oter-languga
 language - langugu
@@ -369,30 +369,8 @@ now - nowu !
 group - gropu
 word - wodu
 sentence - sentensu
-
-I - mu
 to must - musta
 to make / act - maka
 to create - maka
 act - maku
 result / creation - mak-tingu
-
-
----------
-
-How to find a word
-1) Ask people
-2) Check the list
-3) Try to put roots from the list together
-4) Export from English
-
-- avoid words with j, or try replacing with y
-- remove consecutive vowels (aeoiu), but also (yw) if word too short or collision
-- remove h if it is after a consonent
-- change z to s
-- change v to b
-- turn c into s or k depending on the pronunciation
-- remove r if followed by consonent (does not apply for combined roots)
-
-
-5) Take from other source
