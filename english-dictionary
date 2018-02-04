@@ -35,7 +35,7 @@ kiel = wo maneri
 kiam = wo timi
 kie = wo plasu
 kiu = wo pesonu
-kiom = wo kuntitu
+kiom = wo amontu
 
 ---
 
@@ -366,16 +366,14 @@ powerful - fosi
 power - abilitu
 capacity - abilitu
 ability - abilitu
-to talk - talka
-to say - talka
-to shout - fosi talka
-to speak - talka
+to talk - saya
+to say - saya (priority to transitive (and same often))
+to speak - saya
 tool - tolu
-language - talktolu
+language - langugu
 front - nabaku
 back - baku
-place (time or space) - atu
-place (space) - plasu
+place - plasu
 stead (place for a function) - stedu
 theme - temu
 exception - ekseptu
