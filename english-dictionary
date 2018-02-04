@@ -6,6 +6,7 @@ b d f g h k l m n p r s t w y
 to = that
 wo = what
 no = neniu / nenio / 0 / ne (no godi = no "esti" godi)
+ono = iu / io / 1
 alo = ĉiu / ĉio / ? jes
 yeso = yes
 
@@ -29,7 +30,7 @@ tosand(i)
 wo = kiu afero = kio
 kx = wo x
 kia = wo tipi
-kial = wo kosi
+kial = wo kasi
 kiel = wo maneri
 kiam = wo timi
 kie = wo plasu
