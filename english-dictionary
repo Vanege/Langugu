@@ -159,6 +159,8 @@ excellent - MAN-godi
 better - MOR-godi
 best - MOST-godi
 display - lok-MAKA
+edible - et-ABLI
+"manĝpova" - et-KANI
 ...
 
 ------------------------------------------------
@@ -168,6 +170,12 @@ to bore - nainteresta
 to be bored - naintereste
 
 
+to kill - kila
+to die - kile
+to give birth to - nakila
+to be born - nakile
+to live - liva
+life - livu
 father - fateru
 mother - moteru
 sibling / son / daughter - siblingu
@@ -175,8 +183,8 @@ to sound - sonda
 to hear - hera
 to need - neda
 to thank - tanka
-new - newi !
-old - nanewi !
+new - newi
+old - nanewi
 to wear / to carry - wera
 a wear - weru
 shoe - fot-weru
@@ -310,7 +318,7 @@ school - lenplasu
 to learn - lena
 to study - lena
 study - lenu
-to know - knowa !
+to know - knowa
 a knowledge - knowu
 place - plasu
 to translate - oter-languga
@@ -360,12 +368,12 @@ theme - temu
 exception - ekseptu
 duration - wilu
 cause - kaso
-path - wayu !
-way - wayu !
+path - wayu
+way - wayu
 origin - fromu
 past - pastu
 future - napastu
-now - nowu !
+now - nowu
 group - gropu
 word - wodu
 sentence - sentensu
