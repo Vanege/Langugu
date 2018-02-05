@@ -1,7 +1,7 @@
 ## Literoj kaj sonoj
 
 a e i o u  
-b d f g h k l m n p r s t w y  
+b d f g h k l m n p s t w y  
 Elparolitaj kiel en IFA, krom **y** kiu estas **/j/**  
 Granda alofona diverseco  
 
@@ -30,7 +30,7 @@ Granda alofona diverseco
 
 * -o: prepozicioj, kaj aliaj  
 
-> fisu **foro** katu: fiŝo **por** kato  
+> fisu **folo** katu: fiŝo **por** kato  
 
 
 ## Tempo, aspekto, modo...
@@ -156,7 +156,7 @@ Ili estas anstataŭigeblaj per mallongaj rilataj subfrazoj:
 Simile al Esperanto, sed kun **-** inter la dekstra (ĉefa) kaj maldekstra (priskriba) radiko. La signo **-** estas elparolata **/o/**.
 
 
-> mor-godi: pli bona    
+> mol-godi: pli bona    
 > most-godi: plej bona    
 > begin-pesonu: komenculo/komencanto  
 > et-tolu: manĝilo  
@@ -167,7 +167,7 @@ Simile al Esperanto, sed kun **-** inter la dekstra (ĉefa) kaj maldekstra (pris
 Ekzistas malpli da afiksoj ol en Esperanto. Oni preferas kunmeti radikojn, tiel la vortoj restas pli rekoneblaj kaj ne estas du vortoj por la sama afero. (ulo/persono, ejo/persono ...)
 
 * **na**fasti: **mal**rapida
-* **re**begina: **re**komenci
+* **le**begina: **re**komenci
 
 ## Diveni vortojn el la Angla
 
@@ -184,7 +184,7 @@ Antaŭ ĉio, demandu al la homoj ĉirkaŭ vi, tio ankaŭ certigos ke ili kompren
 1) Elektu la plej oftan vorton por tiu koncepto, kiu ne ŝajnas konfuzebla kun jamaj radikoj
   Vi povas rigardi la facilecon kaj sinonimojn per Cambridge Dictionary: https://dictionary.cambridge.org/dictionary/english/
 
-2) Kiam pluraj vokaloj (aeoiuy) aperas apude, konservu nur la unuan. (dinosaur -> dinosar)
+2) Kiam pluraj vokaloj (aeoiuy) aperas apude, konservu nur la unuan.
 
 3) Forigu la vokalojn kiuj troviĝas je la fino de vorto. (potato -> potat) Krom se estas pluraj vokaloj kaj la lasta estas y aŭ w. (know -> know) (boy -> boy)
 
@@ -194,15 +194,17 @@ Antaŭ ĉio, demandu al la homoj ĉirkaŭ vi, tio ankaŭ certigos ke ili kompren
 
 6) Ŝanĝu j al y. (joke -> yok)
 
-7) Ŝanĝu z al s. (zebra -> sebr)
+7) Ŝanĝu r al l. (girl -> gil)
 
-8) Ŝanĝu v al b. (give -> gib)
+8) Ŝanĝu z al s. (zebra -> sebl)
 
-9) Forigu h kiam ĝi estas post konsonanto. (while -> wil)
+9) Ŝanĝu v al b. (give -> gib)
 
-10) Forigu w kiam ĝi estas antaŭ r. (write -> rit)
+10) Ŝanĝu q al k.
 
-11) Forigu r kiam ĝi estas antaŭ konsonanto. (word -> wod)
+11) Forigu h kiam ĝi estas post konsonanto. (while -> wil)
+
+12) Forigu w kiam ĝi estas antaŭ r/l. (write -> lit)
 
 Se ĉio ne funkciis, se la Angla ne havas bonan fontan vorton por tio, se la koncepto estas tro nova, kreu novan radikon post diskuto kun la komunumo.
 
