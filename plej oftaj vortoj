@@ -343,7 +343,7 @@ facila, esi
 ŝerco, yoku
 akuzativo, akusatibu
 universitato, unibelsitatu
-skribi, lita / komposa
+skribi, teksta / lita / komposa
 pardono, solu
 ludas, playa
 lasta, lasti
@@ -398,106 +398,106 @@ programo, ploglamu
 pola, polisi
 legas, leda
 finfine, finali
-semajno, 
-povos, 
-listo, 
-forgesis, 
-nederlando, 
-demandis, 
+semajno, weku
+povos, napi kana
+listo, listu
+forgesis, pi folgeta
+nederlando, netelandu
+demandis, pi aska
 zamenhof, 
-plaĉas, 
-kongreso, 
-denaska, 
-trovas, 
-nuntempe, 
-feliĉa, 
-strange, 
-religio, 
-maniero, 
+plaĉas, plesa
+kongreso, konglesu
+denaska, natibi
+trovas, finda
+nuntempe, nowi
+feliĉa, hapi
+strange, stlangi
+religio, leliginu / ??
+maniero, manelu
 malgranda, tini
-ludi, 
-dependas, 
-ekzakte, 
-demandas, 
-tuj, 
-skribis, 
-malnova, 
-idisto, 
-for, 
-ano, 
-persa, 
-patro, 
-provas, 
-iros, 
-vikipedio, 
-skribas, 
-he, 
-besto, 
-nepre, 
-iris, 
-hieraŭ, 
-elektado, 
-celas, 
-verbo, 
-uzata, 
-subŝtato, 
-timas, 
-labori, 
-kafo, 
-novaĵo, 
-teksto, 
-malfacile, 
-fama, 
-poŝtelefono, 
-spektis, 
-ok, 
-minuto, 
-japana, 
-germanio, 
-aha, 
-spekti, 
-sendi, 
-gramatiko, 
-komencis, 
-prezidento, 
-manĝis, 
+ludi, playa
+dependas, dependa
+ekzakte, eksakti
+demandas, aska
+tuj, imediti
+skribis, pi teksta / pi lita / pi komposa
+malnova, nanewi
+idisto, id-pelsonu
+for, awayi / ??
+ano, membelu
+persa, pelsini
+patro, fatelu
+provas, atempta
+iros, napi ga
+vikipedio, wikipedu
+skribas, teksta / lita / komposa
+he, hey
+besto, animalu
+nepre, seteni / ??
+iris, pi ga
+hieraŭ, yesteldayu
+elektado, elekt-aktu
+celas, mena / talgeta / gola (preni kiel celon)
+verbo, belbu
+uzata, wo usa
+subŝtato, stat-paltu
+timas, skale ("fela" tro konfuzebla kun "to feel")
+labori, wolka
+kafo, kofu
+novaĵo, new-tingu
+teksto, tekstu
+malfacile, naesi
+fama, fami ("fame" estas la plej simpla formo)
+poŝtelefono, telefonu / fonu
+spektis, pi loka / pi watsa
+ok, egtu
+minuto, minutu
+japana, yapanesi
+germanio, gelman-landu
+aha, ??
+spekti, loka / watsa
+sendi, senda
+gramatiko, glamatiku
+komencis, pi begina
+prezidento, plesidentu
+manĝis, pi eta
 eo, 
-domo, 
-regiono, 
-nombro, 
-familio, 
-dankego, 
-bebo, 
-samtempe, 
-opinio, 
-normala, 
-fojo, 
-akvo, 
-traduki, 
-popolo, 
-indonezio, 
-hispanio, 
-temperaturo, 
-proksime, 
-prezidanto, 
-fundamento, 
-scipovas, 
-nacia, 
-kulturo, 
-juna, 
-frue, 
-dika, 
-diferenco, 
-celo, 
-ŝanĝi, 
-terura, 
-simpla, 
-ruso, 
-rimarkis, 
-finna, 
-dormas, 
-okazos, 
-mankas, 
+domo, hosu
+regiono, leginu
+nombro, numbelu
+familio, familu
+dankego, big-tanku / man-tanku
+bebo, babu
+samtempe, sam-timi
+opinio, opininu
+normala, normali
+fojo, timi
+akvo, watelu
+traduki, tlanslata
+popolo, pesonu / humanu
+indonezio, indonesin-landu
+hispanio, spanis-landu
+temperaturo, tempelatulu
+proksime, neli
+prezidanto, plesid-pesonu
+fundamento, basisu
+scipovas, knowa
+nacia, natini / landi
+kulturo, kultulu
+juna, yongi
+frue, soni
+dika, tiki ("thick")
+diferenco, difelensu
+celo, wantu / golu
+ŝanĝi, sanga
+terura, telibli
+simpla, simpli
+ruso, rusin-pesonu
+rimarkis, notisa
+finna, finisi
+dormas, slepa
+okazos, napi hapena
+mankas, misi (pomo mankas al mi -> mu misa aplu ; aplu misi)
 malbone, 
 ĝustas, 
 belega, 
@@ -606,10 +606,10 @@ krokodilo,
 ie, 
 elsendo, 
 devis, 
-bonvole, 
+bonvole, plesi
 bedaŭras, 
 aŭskulti, 
-spektas, 
+spektas, loka / watsa
 profilbildo, 
 petas, 
 legu, 
@@ -1194,7 +1194,7 @@ vestaĵo,
 verki, 
 titolo, 
 televido, 
-spektos, 
+spektos, napi loka / napi watsa
 reformo, 
 plia, 
 pilko, 
@@ -1407,7 +1407,7 @@ utilas,
 ties, 
 teorio, 
 tagmanĝo, 
-spektu, 
+spektu, loka / watsa
 slava, 
 regi, 
 pigrulo, 
@@ -1498,7 +1498,7 @@ sendiulo,
 sano, 
 rigardi, 
 ridinda, 
-respektas, 
+respektas, lespekta
 prononco, 
 profilo, 
 prezidenta, 
@@ -1531,7 +1531,7 @@ devu,
 desegni, 
 ĉiukaze, 
 atingas, 
-aspekto, 
+aspekto, semu
 amegas, 
 alternativo, 
 akiri, 
@@ -2413,7 +2413,7 @@ serĉilo,
 rumana, 
 rizo, 
 restos, 
-respekti, 
+respekti, lespekta
 repo, 
 reklami, 
 reciproke, 
@@ -2717,7 +2717,7 @@ subtitolo,
 strukturo, 
 ŝtormo, 
 state, 
-spektanta, 
+spektanta, wo loka / wo watsa
 societo, 
 signifus, 
 ŝerci, 
@@ -2856,7 +2856,7 @@ bildrakonto,
 belulino, 
 bazopilko, 
 aŭtuna, 
-aspekti, 
+aspekti, sema
 apude, 
 aparato, 
 antaŭĝojas, 
@@ -2896,7 +2896,7 @@ svislando,
 strangulo, 
 ŝtelos, 
 spertas, 
-spektaĵo, 
+spektaĵo, loku / watsu
 specio, 
 sorto, 
 sopiris, 
