@@ -155,39 +155,49 @@ Ili estas anstataŭigeblaj per mallongaj rilataj subfrazoj:
 > katu, wo hadi ete, : kato kiu estas manĝita = kato manĝita
 
 
-## Radik-kunmetado
+## Krei vorton
+
+Kiel en Esperanto, vortoj povas esti kreitaj laŭ bezono. Foje, tiuj vortoj jam ekzistas en la Angla, kaj oni povas rekte importi ilin de la Angla post ŝanĝo (legu sube) sen bezoni krei vorton. Tamen importitaj vortoj povas esti malfacile rekoneblaj skribe aŭ aŭde pro la suba algoritmo, aŭ malofte konataj de neangleparolantaj denaskuloj. Do oni provu rekrei malsimplajn anglajn vortojn per simplaj anglaj vortoj importitaj, kiujn oni kunmetas.
+
+### Radik-kunmetado
 
 Simile al Esperanto, sed kun **-** inter la dekstra (ĉefa) kaj maldekstra (priskriba) radiko. La signo **-** estas elparolata **/o/**.
 
-
 > mol-godi: pli bona    
 > most-godi: plej bona    
-> begin-pesonu: komenculo/komencanto  
+> big-hosu: domego
+> begin-pelsonu: komenculo/komencanto  
 > et-tolu: manĝilo  
+> bad-pelsonu: aĉulo
+> leln-maka: lernigi
+> et-abli: manĝebla
+> et-kani: manĝpova
+> big-nesu: grandeco
 
 
-## Afiksoj
+### Afiksoj
 
-Ekzistas malpli da afiksoj ol en Esperanto. Oni preferas kunmeti radikojn, tiel la vortoj restas pli rekoneblaj kaj ne estas du vortoj por la sama afero. (ulo/persono, ejo/persono ...)
+Ekzistas malpli da afiksoj ol en Esperanto. Oni preferas kunmeti radikojn, tiel la vortoj restas pli rekoneblaj kaj ne ekzistas du vortoj por la sama afero. (ulo/persono, ejo/persono ...)
 
 * **na**fasti: **mal**rapida
 * **le**begina: **re**komenci
 
-## Diveni vortojn el la Angla
+## Importi vorton el la Angla
 
 Antaŭ ĉio, demandu al la homoj ĉirkaŭ vi, tio ankaŭ certigos ke ili komprenos vin kiam vi uzos la vorton.  
 
-1. Konsultu la oficialan vortaron el la Angla: https://github.com/Vanege/talkeru/blob/master/english-dictionary
+1. Konsultu la konsilan vortaron el la Angla: https://github.com/Vanege/talkeru/blob/master/english-dictionary
 
 2. Provu uzi la finaĵojn -a -e -i -o -u por krei tiun vorton el la jamekzistantaj radikoj
 
-3. Provu radik-kunmetadon kaj afiksojn.
+3. Provu radik-kunmetadon kaj afiksojn (legu supre).
 
-4. Generu ĝin:
+4. Importu la vorton:
 
 1) Elektu la plej oftan vorton por tiu koncepto, kiu ne ŝajnas konfuzebla kun jamaj radikoj
-  Vi povas trovi la facilecon kaj sinonimojn per Cambridge Dictionary: https://dictionary.cambridge.org/dictionary/english/
-
+  Vi povas trovi la konatecon de Angla vorto per Cambridge Dictionary: https://dictionary.cambridge.org/dictionary/english/
+  Vi povas trovi sinonimojn per Thesaurus: http://www.thesaurus.com/
+  
 2) Kiam pluraj vokaloj (aeoiuy) aperas apude, konservu nur la unuan.
 
 3) Forigu la vokalojn kiuj troviĝas je la fino de vorto. (potato -> potat) Krom se estas pluraj vokaloj kaj la lasta estas y aŭ w. (know -> know) (boy -> boy)
@@ -210,7 +220,7 @@ Antaŭ ĉio, demandu al la homoj ĉirkaŭ vi, tio ankaŭ certigos ke ili kompren
 
 12) Forigu w kiam ĝi estas antaŭ r/l. (write -> lit)
 
-Se ĉio ne funkciis, se la Angla ne havas bonan fontan vorton por tio, se la koncepto estas tro nova, kreu novan radikon post diskuto kun la komunumo.
+Foje la rezulta vorto estas tro longa, aŭ havas ĝenan konsonantaron (undeLSTanda), do oni preferu vorton iom malpli oftan kiu povas havi tiun sencon (folowa). Foje, vorto estas malpli rekonebla (stalta), do oni preferu vorton malpli ŝanĝitan de la algoritmo (begina). Tio, kio gravas, por ke la lingvo estu facila, estas ke **oni uzu la vortojn, kiuj estas plej bone rekonataj de baznivelaj angleparolantoj kaj uzantoj de Heli**. Por tio, oni ofte imitu la skribadon de oftaj uzantoj, ĉar ili uzas la vortojn, kiujn ili kapablas memori kaj komprenigi.
 
 
 ## Komunumo
