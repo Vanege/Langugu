@@ -59,7 +59,7 @@ scias, knowa
 homo, humanu
 da, ofo
 volas, wanta
-estis, pi
+estis, wasi
 el, ofo / nafolo
 kial, wo kasi
 iu, one pelsonu
@@ -111,7 +111,7 @@ diras, saya
 neniam, no timi
 je, ato
 konas, knowa
-diris, pi saya (memoru: "pi" ne estas bezonata se estas alia indikilo pri tempo)
+diris, saya (memoru: "wasi" ne estas bezonata se estas alia indikilo pri tempo)
 esperantisto, espelant-pelsonu
 ŝi, hu
 fari, maka
@@ -156,15 +156,15 @@ devus, musta (ofte "maybi" ne estas bezonata)
 granda, biga
 sur, nasubo
 mem, selfi
-estos, napi
+estos, wili
 simple, simpli
 nokto, nigtu
 kompreneble, setani
 tia, to tipi
 ĉio, alo
 verŝajne, plesumabli / ??
-poste, napi
-faris, pi maka
+poste, wili / afteli
+faris, maka
 amas, loba
 plu, kontini
 urbo, situ
@@ -175,7 +175,7 @@ bonege, man-godi
 mesaĝo, mesagu
 sen, nawito
 sama, sami
-vidis, pi loka ("see" is too deformed and similar to "do = so")
+vidis, loka ("see" is too deformed and similar to "do = so")
 mu, kow-sondu ??
 gravas, impoltanta 
 hispana, spanisi
@@ -191,14 +191,14 @@ rusa, lusini
 mondo, planetu / plasu ("vorto" estas pli ofta)
 sufiĉe, enogi
 iam, one timi
-legis, pi leda
+legis, leda
 vidas, loka
 sal, helu
-pensis, pi tinka
+pensis, tinka
 telegramo, teleglamu
 pardonu, solu
 venas, koma
-bildo, pi
+bildo, piktulu
 same, sami
 ktp, atmt (ando to maneli moli)
 filmo, filmu
@@ -210,7 +210,7 @@ ve, popu / ??
 iomete, somi
 ajn, ani
 libro, boku
-trovis, pi finda
+trovis, finda
 esperante, espelanti
 bovino, kowu
 horo, holu
@@ -221,7 +221,7 @@ tiam, to timi
 kutime, habiti (kutimo = "a habit")
 tuta, woli
 mojosa, koli
-havis, pi haba
+havis, haba
 ligilo, linku
 kara, deli
 parto, paltu
@@ -236,14 +236,14 @@ duolingo, duolingo (proper nouns are not changed)
 funkcias, wolka / funktina
 vivo, livu
 pravas, kolekti / godi (to BE correct)
-volis, pi wanta
+volis, wanta
 memoras, lememba
 glumarko, stikelu
 baldaŭ, soni
 legi, leda
 kurso, leson-gropu ("kosu" estas tro nerekonebla)
 havi, haba
-aŭdis, pi hela
+aŭdis, listena ("hela" tro simila al "hello")
 vidi, loka
 esperantujo, espelant-landu
 iri, ga
@@ -257,14 +257,14 @@ ambaŭ, boti
 tial, to kasi
 franca, flensi
 mono, moneyu
-sciis, pi knowa
+sciis, knowa
 roboto, lobotu
 prave, kolekti
 temas, abota ?
 okazas, hapena
 lernejo, leln-plasu
 trovi, finda
-lernis, pi lelna
+lernis, lelna
 okej, oko
 filmeto, tin-filmu
 bonvolu, plesi
@@ -279,18 +279,18 @@ flago, flagu
 laboro, wolku
 kanalo, kanelu
 babilejo, say-plasu
-antaŭe, pi
+antaŭe, wasi / befoli
 nomiĝas, name
 ege, mani / bigi
 versio, velsionu
 diru, saya
-komprenis, pi folowa / pi undelstanda
+komprenis, folowa / undelstanda
 germana, gelmani
 dua, twoi
 ulo, pelsonu
 kompreni, folowa / undelstanda
 dormi, slepa
-uzis, pi usa
+uzis, usa
 grava, impoltanti
 estu, musta
 rusio, lus-landu
@@ -315,7 +315,7 @@ retejo, websitu
 nedankinde, no neda danku
 litero, letelu
 sistemo, sistemu
-parolis, pi talka
+parolis, talka
 dirus, saya
 viro, manu
 partio, paltu (la distingo kun "parto" ne ŝajnas necesa)
@@ -325,7 +325,7 @@ dek, ten
 volus, wanta
 klavaro, key-glopu
 eraro, elalu
-provis, pi atempta
+provis, atempta
 mojose, koli
 supozas, suposa
 ŝtato, statu
@@ -337,7 +337,7 @@ bonas, godi (evitu la stativajn verbojn de EO)
 simila, similari
 rajtas, kana / alowi kana
 usona, ?? (bonvolu ne "amerikani")
-okazis, pi hapena
+okazis, hapena
 laboras, wolka
 virino, womanu
 longa, longi
@@ -363,7 +363,7 @@ helpi, helpa
 finnlando, finlandu 
 enhavas, haba / kontana
 kialo, kasu (cause)
-faros, napi maka
+faros, maka
 unue, onei
 uzu, usa
 lernu, lelna / studa
@@ -372,7 +372,7 @@ manĝas, eta
 gratulo, konglatulatu (words based on the more simple form (often the verb))
 ŝatus, lika
 respondo, answelu
-povis, pi kana
+povis, kana
 malamas, hata / naloba
 kvankam, ebeni ifo
 ilia, huhi
@@ -381,7 +381,7 @@ muziko, musiku
 eŭropo, elopu
 sin, hu selfi
 morgaŭ, tomolowi
-kreis, pi maka
+kreis, maka
 itala, italini
 internacia, betwen-stati / ...
 temo, temu
@@ -397,18 +397,18 @@ ekde, begini ofo
 artikolo, altiklu
 angle, englisi
 manĝaĵo, etu
-havos, napi haba
+havos, haba
 hundo, dogu
 programo, ploglamu
 pola, polisi
 legas, leda
 finfine, finali
 semajno, weku
-povos, napi kana
+povos, kana
 listo, listu
-forgesis, pi folgeta
+forgesis, folgeta
 nederlando, netelandu
-demandis, pi aska
+demandis, aska
 zamenhof, 
 plaĉas, plesa
 kongreso, konglesu
@@ -425,7 +425,7 @@ dependas, dependa
 ekzakte, eksakti
 demandas, aska
 tuj, imediti
-skribis, pi teksta / pi lita / pi komposa
+skribis, teksta / lita / komposa
 malnova, nanewi
 idisto, id-pelsonu
 for, naneli (mal-proksime)
@@ -433,13 +433,13 @@ ano, membelu
 persa, pelsini
 patro, fatelu
 provas, atempta
-iros, napi ga
+iros, ga
 vikipedio, wikipedu
 skribas, teksta / lita / komposa
 he, hey
 besto, animalu
 nepre, setani / ??
-iris, pi ga
+iris, ga
 hieraŭ, yesteldayu
 elektado, elekt-aktu
 celas, mena / talgeta / gola (preni kiel celon)
@@ -454,7 +454,7 @@ teksto, tekstu
 malfacile, naesi
 fama, fami ("fame" estas la plej simpla formo)
 poŝtelefono, telefonu / fonu
-spektis, pi loka / pi watsa
+spektis, loka / watsa
 ok, egtu
 minuto, minutu
 japana, yapanesi
@@ -463,9 +463,9 @@ aha, ??
 spekti, loka / watsa
 sendi, senda
 gramatiko, glamatiku
-komencis, pi begina
+komencis, begina
 prezidento, plesidentu
-manĝis, pi eta
+manĝis, eta
 eo, 
 domo, hosu
 regiono, leginu
@@ -501,7 +501,7 @@ ruso, rusin-pesonu
 rimarkis, notisa
 finna, finisi
 dormas, slepa
-okazos, napi hapena
+okazos, hapena
 mankas, misi (pomo mankas al mi -> mu misa aplu ; aplu misi)
 malbone, nagodi / badi
 ĝustas, kolekti
@@ -548,7 +548,7 @@ vidu, loka
 venonta, komi / afteli
 parolanto, talk-pesonu / say-pesonu
 doni, giba
-celis, pi mena / pi talgeta
+celis, mena / talgeta
 uzus, usa
 seĝo, setu
 malŝatas, nalika
@@ -557,9 +557,9 @@ francio, flans-landu
 demandi, aska
 ĉirkaŭ, alondi
 voĉo, vosu
-venis, pi koma
-ŝatis, pi lika
-provos, napi atempta
+venis, koma
+ŝatis, lika
+provos, atempta
 montras, sowa
 ilo, tolu
 dialekto, dilektu 
@@ -576,7 +576,7 @@ opinias, opinina (mi opinina aplu godi)
 oficiala, ofisili
 momento, momentu
 mil, tosandu
-konis, pi knowa
+konis, knowa
 informo, infu
 subteksto, subtitlu
 naskiĝis, bolne
@@ -613,7 +613,7 @@ elsendo, emitu
 devis, musta
 bonvole, plesi
 bedaŭras, legleta
-aŭskulti, hela / listena
+aŭskulti, listena
 spektas, loka / watsa
 profilbildo, plofili piktulu
 petas, aska
@@ -652,87 +652,87 @@ trolo, tlolu
 serĉas, selsa
 farita, make
 atendas, wata
-argentino, 
-aliulo, 
-voĉdoni, 
-utila, 
-teksaso, 
-teamo, 
-sukcesis, 
-ŝia, 
-scio, 
-hispane, 
+argentino, algentinin-landu
+aliulo, oteli pelsonu
+voĉdoni, bota
+utila, usi
+teksaso, teksasu
+teamo, glopu
+sukcesis, sukseda
+ŝia, hi
+scio, knowu
+hispane, spanisi
 havus, 
-aŭskultis, 
-telegrama, 
-sendu, 
-sendis, 
-plura, 
-kvin, 
-kutima, 
-knabo, 
-atendu, 
-amuze, 
-alfabeto, 
-tajpas, 
-suda, 
-sub, 
-studas, 
-loĝis, 
-fino, 
-finis, 
-efektive, 
-aĉas, 
-uzo, 
-tokipono, 
-signolingvo, 
-si, 
-ŝanĝis, 
-parenteze, 
-mallonga, 
-elekti, 
-ekzameno, 
-tra, 
-taŭgas, 
+aŭskultis, listena
+telegrama, teleglami
+sendu, senda
+sendis, senda
+plura, plulali
+kvin, fibe
+kutima, ofteni / habiti
+knabo, boyu
+atendu, wata
+amuze, funi
+alfabeto, alpabetu
+tajpas, komposa / tipa ? (simila al "tipo")
+suda, soti
+sub, subo
+studas, studa
+loĝis, liba / lesida
+fino, endu / nabeginu
+finis, enda / nebegina
+efektive, fakti
+aĉas, badi / nagodi
+uzo, usu
+tokipono, tokiponu 
+signolingvo, sign-langugu
+si, x selfi
+ŝanĝis, sanga
+parenteze, palentesisi
+mallonga, nalongi (nalongi pli klaras ol "solti")
+elekti, sosa
+ekzameno, eksaminu ("to examine")
+tra, tlogo
+taŭgas, adekuti
 pmeg, 
-pano, 
-latina, 
-kredis, 
-kapo, 
-ĝojas, 
-freneza, 
-ĉefe, 
-bele, 
+pano, bledu
+latina, latini / latin-langugu
+kredis, beliba
+kapo, hedu
+ĝojas, hapi
+freneza, krasi
+ĉefe, manli
+bele, pleti
 telegramoorg, 
-pollando, 
-politika, 
-plejparte, 
-pensi, 
-partopreni, 
-naskiĝtago, 
-forta, 
-blanka, 
-atingi, 
-aliĝis, 
-sekso, 
-provinco, 
-projekto, 
-mortigi, 
-klare, 
-aĉulo, 
-tero, 
-studis, 
-simile, 
-parolu, 
-morta, 
-instruas, 
-frato, 
-donu, 
-donas, 
-aliĝi, 
-podkasto, 
-korekta, 
-japanio, 
+pollando, polandu
+politika, politiki
+plejparte, mosti
+pensi, tinka
+partopreni, paltisipata
+naskiĝtago, boln-dayu
+forta, stlongi
+blanka, witi
+atingi, resa / atana ("to reach" "to attain")
+aliĝis, yona
+sekso, seksu
+provinco, plobinsu
+projekto, ployektu
+mortigi, kila
+klare, kleli
+aĉulo, bad-pelsonu
+tero, eltu
+studis, studa
+simile, similali
+parolu, talka ("to speak" ne ŝajnas bezonata)
+morta, dedi ("to die" ne permesas konstrui facile)
+instruas, leln-maka
+frato, blotelu
+donu, giba
+donas, giba
+aliĝi, yona
+podkasto, podkastu
+korekta, kolekti / kolekt-maki
+japanio, yapanes-landu
 ĉefa, 
 ĉambro, 
 aŭstralio, 
@@ -1199,7 +1199,7 @@ vestaĵo,
 verki, 
 titolo, 
 televido, 
-spektos, napi loka / napi watsa
+spektos, loka / watsa
 reformo, 
 plia, 
 pilko, 
