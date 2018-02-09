@@ -37,18 +37,20 @@ Granda alofona diverseco
 
 Verbo povas esti en ajna. Oni precizigas per adverbo:  
 
-* Precizigi tempon (**pi** kiel *past*)
+* Precizigi tempon
 
 >  katu eta: kato manĝas / kato manĝis / kato manĝos  
 >  katu **nowi** eta: kato (nun) manĝ**as**  
->  katu **pi** eta: kato (antaŭe) manĝ**is**  
->  katu **napi** eta: kato (poste) manĝ**os**  
+>  katu **wasi** eta: kato (antaŭe) manĝ**is**  
+>  katu **wili** eta: kato (poste) manĝ**os**  
+>  katu **yusti** eta: kato **ĵus** manĝis  
+>  katu **soni** eta: kato **baldaŭ** manĝos  
 
-* Precizigi aspekton (**fi** kiel *finished*)
+* Precizigi aspekton
 
->  katu pi eta: kato estis manĝinta / kato estis manĝanta  
->  katu pi **fi** eta: kato estis manĝ**i**nta  
->  katu pi **nafi** eta: kato estis manĝ**a**nta  
+>  katu wasi eta: kato estis manĝinta / kato estis manĝanta  
+>  katu wasi **hadi** eta: kato estis manĝ**i**nta  
+>  katu wasi **ingi** eta: kato estis manĝ**a**nta  
 
 * Precizigi modon
 
@@ -90,11 +92,11 @@ kio = wo / wo tingu
 tia = to tipi  
 kia = wo tipi  
 kial = wo kasi  
-kiel = wo maneri  
+kiel = wo maneli  
 kiam = wo timi  
 kie = wo plasu  
-kiu = wo pesonu  
-kiom = wo kuntitu  
+kiu = wo pelsonu  
+kiom = wo amontu  
 
 La listo ne estas fermita, oni povas krei tiom da "tabelvortoj" kiom oni volas.
 
@@ -121,7 +123,7 @@ Kiel la ti-ki-pontoj de Esperanto: oni mencias parton de ĉeffrazo per "wo (u-vo
 Kiel en Esperanto, la ti-parto povas esti neskribita, aŭ povas esti alia tabelparto:
 
 > mu wanta **katu**, **wo** slepa  
-> mu wanta **alo katu**, **wo** preti  
+> mu wanta **alo katu**, **wo** slepa  
 
 
 La lingvo ĉiam estas en la vortordo SVO, krom foje en tiuj rilataj subfrazoj, ĉar "wo" en la komenco helpas scii kie komencas subfrazo. Tiam la subfrazo uzas la vortordon OSV.
@@ -133,9 +135,11 @@ La objekto de verbo povas esti subjekto alia verbo kiu troviĝas post ĝi:
 
 >  mu **hopa** yu **lika** to langugu: mi **esperas, ke** vi **ŝatas** tiun lingvon  
 >  mu **wanta** mi katu **lika** mu **giba** fisu: mi **volas, ke** mia kato **ŝatu, ke** mi **donas** fiŝon  
- 
+>  mu **wanta** mu godi: mi **volas, ke** mi **estu** bona = mi volas esti bona  
 
-Tio povas helpi simpligi frazojn:
+Verbo por "esti" ne ekzistas. Se oni vidas u-vorton apud alia u-vorto aŭ i-vorto, oni ofte povas supozi ke ĉi tie troviĝas "esti". En kelkaj okazoj, oni povas anstataŭigi "esti" per "eksista" (ekzisti) aŭ "sama" (esti sama kiel).
+
+Pivota strukturo povas helpi simpligi frazojn:
 
 * mu wanta **aplo, wo yu eta**: mi volas pomon, kiun vi manĝas  
 
@@ -148,7 +152,7 @@ Ili estas anstataŭigeblaj per mallongaj rilataj subfrazoj:
 
 > katu, wo eta, : kato kiu manĝas = kato manĝanta / kato manĝinta  
 > katu, wo ete, : kato kiu estas manĝata = kato manĝata / kato manĝita  
-> katu, wo fi ete, : kato kiu estas manĝita = kato manĝita
+> katu, wo hadi ete, : kato kiu estas manĝita = kato manĝita
 
 
 ## Radik-kunmetado
@@ -182,7 +186,7 @@ Antaŭ ĉio, demandu al la homoj ĉirkaŭ vi, tio ankaŭ certigos ke ili kompren
 4. Generu ĝin:
 
 1) Elektu la plej oftan vorton por tiu koncepto, kiu ne ŝajnas konfuzebla kun jamaj radikoj
-  Vi povas rigardi la facilecon kaj sinonimojn per Cambridge Dictionary: https://dictionary.cambridge.org/dictionary/english/
+  Vi povas trovi la facilecon kaj sinonimojn per Cambridge Dictionary: https://dictionary.cambridge.org/dictionary/english/
 
 2) Kiam pluraj vokaloj (aeoiuy) aperas apude, konservu nur la unuan.
 
