@@ -194,9 +194,9 @@ Antaŭ ĉio, demandu al la homoj ĉirkaŭ vi, tio ankaŭ certigos ke ili kompren
 
 4. Importu la vorton:
 
-1) Elektu la plej oftan vorton por tiu koncepto, kiu ne ŝajnas konfuzebla kun jamaj radikoj
-  Vi povas trovi la konatecon de Angla vorto per Cambridge Dictionary: https://dictionary.cambridge.org/dictionary/english/
-  Vi povas trovi sinonimojn per Thesaurus: http://www.thesaurus.com/
+1) Elektu la plej oftan vorton por tiu koncepto, kiu ne ŝajnas konfuzebla kun jamaj radikoj  
+  Vi povas trovi la konatecon de Angla vorto per Cambridge Dictionary: https://dictionary.cambridge.org/dictionary/english/  
+  Vi povas trovi sinonimojn per Thesaurus: http://www.thesaurus.com/  
   
 2) Kiam pluraj vokaloj (aeoiuy) aperas apude, konservu nur la unuan.
 
