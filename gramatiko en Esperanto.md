@@ -79,24 +79,26 @@ Verbo povas esti en ajna. Oni precizigas per adverbo:
 
 ## "Tabelvortoj"
 
-La unua elemento finiĝas per o, la dua elemento estas normala vorto, do oni devas atenti pri la finaĵo. 
+La unua elemento estas adjektivo, la dua elemento estas normala vorto, do oni devas atenti pri la finaĵo. 
 
-* **to** = tio / tiu / la  
-* **wo** = kio / kiu  
-* **ono** = iu / io / 1  
-* **no** = neniu / nenio / 0 / ne  
-* **alo** = ĉiu / ĉio  
+* **ti** = tiu / la  
+* **wi** = kiu  
+* **onei** = iu  
+* **ni** = neniu   
+* **ali** = ĉiu  
+* **oteli** = alia    
+* **ani** = ajna  
 
-tio = to / to tingu  
-kio = wo / wo tingu  
-tia = to tipi  
-kia = wo tipi  
-kial = wo kasi  
-kiel = wo maneli  
-kiam = wo timi  
-kie = wo plasu  
-kiu = wo pelsonu  
-kiom = wo amontu  
+tio = ti tingu / ti ("tingu" subkomprenita)  
+kio = wi tingu / wi    
+tia = ti tipi  
+kia = wi tipi  
+kial = wi kasi  
+kiel = wi maneli  
+kiam = wi timi  
+kie = wi plasu  
+kiu = wi pelsonu  
+kiom = wi amontu  
 
 La listo ne estas fermita, oni povas krei tiom da "tabelvortoj" kiom oni volas.
 
@@ -106,34 +108,34 @@ Oni tre ofte ne bezonas ĝin. En la Angla, oni ofte ne uzas "that" tie.
 
 > mu lika katu eta: mi ŝatas ke la kato manĝas
 
-Se oni volas klarigi, oni povas uzi "to:" (tio) kun identiga priskribo:
+Se oni volas klarigi, oni povas uzi "ti (tingu):" (tiu (afero)) kun identiga priskribo:
 
-> mu liki to: katu eta
+> mu liki ti: katu eta
 
 
 ## Rilataj subfrazoj
 
-Kiel la ti-ki-pontoj de Esperanto: oni mencias parton de ĉeffrazo per "wo (u-vorto)" en subfrazo. Por klarigi komencon de subfrazo, oni povas uzi ",".
+Kiel la ti-ki-pontoj de Esperanto: oni mencias parton de ĉeffrazo per "wi (u-vorto)" en subfrazo. Por klarigi komencon de subfrazo, oni povas uzi ",".
 
 *  Mi volas la pomon, kiun vi manĝas: 
  
->    mu wanta **to aplo**, **wo (aplo)** yu eta // OSV-subfrazo  
->    mu wanta **to aplo**, yu eta **wo (aplo)** // SVO-subfrazo  
+>    mu wanta **ti aplo**, **wi (aplo)** yu eta // OSV-subfrazo  
+>    mu wanta **ti aplo**, yu eta **wi (aplo)** // SVO-subfrazo  
     
 Kiel en Esperanto, la ti-parto povas esti neskribita, aŭ povas esti alia tabelparto:
 
-> mu wanta **katu**, **wo** slepa  
-> mu wanta **alo katu**, **wo** slepa  
+> mu wanta **katu**, **wi** slepa  
+> mu wanta **ali katu**, **wi** slepa  
 
 
-La lingvo ĉiam estas en la vortordo SVO, krom foje en tiuj rilataj subfrazoj, ĉar "wo" en la komenco helpas scii kie komencas subfrazo. Tiam la subfrazo uzas la vortordon OSV.
+La lingvo ĉiam estas en la vortordo SVO, krom foje en tiuj rilataj subfrazoj, ĉar "wi" en la komenco helpas scii kie komencas subfrazo. Tiam la subfrazo uzas la vortordon OSV.
 
 
 ## Pivota strukturo
 
 La objekto de verbo povas esti subjekto alia verbo kiu troviĝas post ĝi:
 
->  mu **hopa** yu **lika** to langugu: mi **esperas, ke** vi **ŝatas** tiun lingvon  
+>  mu **hopa** yu **lika** ti langugu: mi **esperas, ke** vi **ŝatas** tiun lingvon  
 >  mu **wanta** mi katu **lika** mu **giba** fisu: mi **volas, ke** mia kato **ŝatu, ke** mi **donas** fiŝon  
 >  mu **wanta** mu godi: mi **volas, ke** mi **estu** bona = mi volas esti bona  
 
@@ -141,7 +143,7 @@ Verbo por "esti" ne ekzistas. Se oni vidas u-vorton apud alia u-vorto aŭ i-vort
 
 Pivota strukturo povas helpi simpligi frazojn:
 
-* mu wanta **aplo, wo yu eta**: mi volas pomon, kiun vi manĝas  
+* mu wanta **aplo, wi yu eta**: mi volas pomon, kiun vi manĝas  
 
 > mu wanta **aplo ete yu**: mi volas pomon manĝatan de vi
 
@@ -150,9 +152,9 @@ Pivota strukturo povas helpi simpligi frazojn:
 
 Ili estas anstataŭigeblaj per mallongaj rilataj subfrazoj:
 
-> katu, wo eta, : kato kiu manĝas = kato manĝanta / kato manĝinta  
-> katu, wo ete, : kato kiu estas manĝata = kato manĝata / kato manĝita  
-> katu, wo hadi ete, : kato kiu estas manĝita = kato manĝita
+> katu, wi eta, : kato kiu manĝas = kato manĝanta / kato manĝinta  
+> katu, wi ete, : kato kiu estas manĝata = kato manĝata / kato manĝita  
+> katu, wi hadi ete, : kato kiu estas manĝita = kato manĝita
 
 
 ## Krei vorton
