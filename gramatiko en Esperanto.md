@@ -83,7 +83,6 @@ La unua elemento estas adjektivo, la dua elemento estas normala vorto, do oni de
 
 * **ti** = tiu / la  
 * **wi** = kiu  
-* **onei** = iu  
 * **ni** = neniu   
 * **ali** = ĉiu  
 * **oteli** = alia    
