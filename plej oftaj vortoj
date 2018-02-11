@@ -4,7 +4,7 @@ Ne hezitu krei vian propran tradukon.
 Por tio, sekvu la regulojn de kreado de la gramatiko. 
 
 mi, mu
-la, x / to
+la, x / ti
 estas, x / sama
 ne, no
 vi, yu
@@ -14,32 +14,32 @@ en, ato
 de, ofo
 sed, buto
 ke, x / to:
-tio, to
+tio, ti / ti tingu
 al, folo
 por, folo
 jes, yeso
 mia, mi
-tiu, to
+tiu, ti
 pri, aboto / ato
 ĝi, hu
-kiu, wo
-kiel, wo maneli
-kio, wo
+kiu, wi
+kiel, wi maneli
+kio, wi / wi tingu
 ankaŭ, alsi
 povas, kana
 havas, haba
 saluto, helu
 ĝin, hu
 ni, mumu
-ĉi, to
+ĉi, ti
 oni, yu / pelsonu
 ili, huhu
 esperanto, espelantu 
 pli, moli
 bona, godi
 nur, onli
-tie, to plasi
-ĉiu, alo / alo pelsonu
+tie, ti plasi
+ĉiu, ali / ali pelsonu
 li, hu
 aŭ, olo
 do, so
@@ -61,15 +61,15 @@ da, ofo
 volas, wanta
 estis, wasi
 el, ofo / nafolo
-kial, wo kasi
-iu, one pelsonu
+kial, wi kasi
+iu, pelsonu
 ja, reli
 min, mu
 jam, aledi
 alia, oteli
 pensas, tinka
 ŝatas, lika
-kiam, wo timi
+kiam, wi timi
 mdr, ?? / haha
 nu, ?? / mmm
 grupo, glopu
@@ -79,13 +79,13 @@ vere, leli
 uzas, usa
 multe, mani
 parolas, talka / saya
-kie, wo plasi
+kie, wi plasi
 plej, mosti
-tiel, to maneli
+tiel, ti maneli
 ol, tano
 afero, tingu
 pro, bekaso / bekaso
-unu, one (nombro ne havas plian finaĵon, krom por fini per vokalo, kaj krom -i por "ordinal number")
+unu, one (nombro ne havas plian finaĵon, krom por fini per vokalo)
 nomo, namu
 angla, englisi
 vin, yu
@@ -107,8 +107,8 @@ esperanta, espelanti
 haha, ?? / haha
 nova, newi
 diras, saya
-ĉiam, alo timi
-neniam, no timi
+ĉiam, ali timi
+neniam, ni timi
 je, ato
 konas, knowa
 diris, saya (memoru: "wasi" ne estas bezonata se estas alia indikilo pri tempo)
@@ -127,7 +127,7 @@ kelka, somi
 bezonas, neda
 paroli, talka / saya
 ĵus, yusti
-tiom, to amontu
+tiom, ti amontu
 nia, mumi
 kato, katu
 usono, ???
@@ -142,14 +142,14 @@ du, two
 tamen, buto
 antaŭ, befolo
 kredas, beliba
-iom, somi
+iom, amontu / somi
 hodiaŭ, todayi
 post, aftelo
 povus, maybi kana
-neniu, no pelsonu
+neniu, ni pelsonu
 lerni, lelna
 faras, maka
-kia, wo tipi
+kia, wi tipi
 ŝajnas, sema
 jen, loka / ?? ("vidu: ")
 devus, musta (ofte "maybi" ne estas bezonata)
@@ -160,8 +160,8 @@ estos, wili
 simple, simpli
 nokto, nigtu
 kompreneble, setani
-tia, to tipi
-ĉio, alo
+tia, ti tipi
+ĉio, ali / ali tingu
 verŝajne, plesumabli / ??
 poste, wili / afteli
 faris, maka
@@ -182,15 +182,15 @@ hispana, spanisi
 sia, hu (selfi)
 inter, betweno
 mateno, molningu
-kiom, wo amontu
-nenio, no tingu
+kiom, wi amontu
+nenio, ni / ni tingu
 problemo, ploblemu
 unua, onei
 interesa, intedesi
 rusa, lusini
 mondo, planetu / plasu ("vorto" estas pli ofta)
 sufiĉe, enogi
-iam, one timi
+iam, timi
 legis, leda
 vidas, loka
 sal, helu
@@ -216,7 +216,7 @@ bovino, kowu
 horo, holu
 vortaro, wod-boku
 vera, nafalsi (io estas vera aŭ malvera)
-tiam, to timi
+tiam, ti timi
 ĝuste, kolekti
 kutime, habiti (kutimo = "a habit")
 tuta, woli
@@ -254,7 +254,7 @@ lernas, lelna / studa
 ludo, gamu
 ido, idu (language) / kidu / desendantu
 ambaŭ, boti
-tial, to kasi
+tial, ti kasi
 franca, flensi
 mono, moneyu
 sciis, knowa
@@ -392,7 +392,7 @@ usonano,
 hmm, hmm
 vespero, ebeningu 
 kontraŭ, agansto
-ia, one tipu
+ia, tipi
 ekde, begini ofo
 artikolo, altiklu
 angle, englisi
@@ -534,7 +534,7 @@ radiko, rotu / radikalu
 provu, atempta
 nomas, nama
 ĉina, sinesi
-ĉie, alo plasi
+ĉie, ali plasi
 apud, nelo
 zorgas, kala
 pico, pisu (por "piso" estas sinonimo, ne timu)
@@ -552,7 +552,7 @@ celis, mena / talgeta
 uzus, usa
 seĝo, setu
 malŝatas, nalika
-iel, one maneli
+iel, maneli
 francio, flans-landu
 demandi, aska
 ĉirkaŭ, alondi
@@ -585,7 +585,7 @@ rido, lagu
 ricevis, geta
 lastatempe, lesentli
 italujo, italin-landu
-ĉiutage, alo dayi
+ĉiutage, ali dayi
 aplikaĵo, aplikatinu
 vivas, liba
 varma, walmi / nakoldi
@@ -608,7 +608,7 @@ regulo, lulu
 pronomo, plononu
 novulo, new-pelsonu
 krokodilo, klokodilu
-ie, one plasi
+ie, plasi
 elsendo, emitu
 devis, musta
 bonvole, plesi
@@ -1417,7 +1417,7 @@ slava,
 regi, 
 pigrulo, 
 nomata, 
-neniel, 
+neniel, ni maneli
 mislegis, 
 memorigas, 
 malsamas, 
