@@ -199,9 +199,9 @@ Antaŭ ĉio, demandu al la homoj ĉirkaŭ vi, tio ankaŭ certigos ke ili kompren
   Vi povas trovi la konatecon de Angla vorto per Cambridge Dictionary: https://dictionary.cambridge.org/dictionary/english/  
   Vi povas trovi sinonimojn per Thesaurus: http://www.thesaurus.com/  
   
-2) Kiam pluraj vokaloj (aeoiuy) aperas apude, konservu nur la unuan.
+2) Kiam pluraj vokaloj (aeoiu) aperas apude, konservu nur la unuan.
 
-3) Forigu la vokalojn kiuj troviĝas je la fino de vorto. (potato -> potat) Krom se estas pluraj vokaloj kaj la lasta estas y aŭ w. (know -> know) (boy -> boy)
+3) Forigu la vokalojn kiuj troviĝas je la fino de vorto, kaj y se ĝi estas sola. (potato -> potat) (pretty -> plet) (boy -> boy)
 
 4) Forigu duoblajn konsonantojn. (battle -> batl)
 
