@@ -217,9 +217,11 @@ Antaŭ ĉio, demandu al la homoj ĉirkaŭ vi, tio ankaŭ certigos ke ili kompren
 
 10) Ŝanĝu q al k.
 
-11) Forigu h kiam ĝi estas post konsonanto. (while -> wil)
+11) Ŝanĝu x al ks.
 
-12) Forigu w kiam ĝi estas antaŭ r/l. (write -> lit)
+12) Forigu h kiam ĝi estas post konsonanto. (while -> wil)
+
+13) Forigu w kiam ĝi estas antaŭ r/l. (write -> lit)
 
 Foje la rezulta vorto estas tro longa, aŭ havas ĝenan konsonantaron (undeLSTanda), do oni preferu vorton iom malpli oftan kiu povas havi tiun sencon (folowa). Foje, vorto estas malpli rekonebla (stalta), do oni preferu vorton malpli ŝanĝitan de la algoritmo (begina). Tio, kio gravas, por ke la lingvo estu facila, estas ke **oni uzu la vortojn, kiuj estas plej bone rekonataj de baznivelaj angleparolantoj kaj uzantoj de Heli**. Por tio, oni ofte imitu la skribadon de oftaj uzantoj, ĉar ili uzas la vortojn, kiujn ili kapablas memori kaj komprenigi.
 
