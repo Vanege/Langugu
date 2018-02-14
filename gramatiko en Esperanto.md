@@ -194,7 +194,7 @@ Simile al Esperanto, sed kun **-** inter la dekstra (ĉefa) kaj maldekstra (pris
 
 ### Afiksoj
 
-Ekzistas malpli da afiksoj ol en Esperanto. Oni preferas kunmeti radikojn, tiel la vortoj restas pli rekoneblaj kaj ne ekzistas du vortoj por la sama afero. (ulo/persono, ejo/persono ...)
+Ekzistas malpli da afiksoj ol en Esperanto. Oni preferas kunmeti radikojn, tiel la vortoj restas pli rekoneblaj kaj ne ekzistas du vortoj por la sama afero. (ulo/persono, ejo/loko ...)
 
 * **na**fasti: **mal**rapida
 * **le**begina: **re**komenci
