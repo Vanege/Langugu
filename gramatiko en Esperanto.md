@@ -243,6 +243,13 @@ C. Provu radik-kunmetadon kaj afiksojn (legu supre).
 Foje la rezulta vorto estas tro longa, aŭ havas ĝenan konsonantaron (undeLSTanda), do oni preferu vorton iom malpli oftan kiu povas havi tiun sencon (folowa). Foje, vorto estas malpli rekonebla (stalta), do oni preferu vorton malpli ŝanĝitan de la algoritmo (begina). Tio, kio gravas, por ke la lingvo estu facila, estas ke **oni uzu la vortojn, kiuj estas plej bone rekonataj de baznivelaj angleparolantoj kaj uzantoj de Heli**. Por tio, oni ofte imitu la skribadon de oftaj uzantoj, ĉar ili uzas la vortojn, kiujn ili kapablas memori kaj komprenigi.
 
 
+## Faciliga ə
+
+Inter du konsonantoj, oni rajtas uzi elparoli ə se tio helpas
+* talka: /talka/ aŭ /taləka/
+* two: /two/ aŭ /təwo/
+
+
 ## Komunumo
 
 Telegram: grupo en Heli, Esperanto, la Angla: 
