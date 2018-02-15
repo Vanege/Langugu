@@ -69,7 +69,48 @@ Verbo povas esti en ajna. Oni precizigas per adverbo:
 **mumi**: nia/niaj/nian/niajn  
 
 
-## Neado
+## o-vortoj, ekzemploj (ili povas ŝanĝiĝi laŭ la preferoj de la komunumo)
+
+so: do (kiel en la Angla "so")  
+to: al  
+flomo: el  
+ofo: de, da  
+ato: en, ĉe, je  
+naato: ekster  
+nelo/ploksimo: apud  
+subo: sub  
+nasubo: sur, super  
+wito: kun, per  
+nawito: sen  
+bekaso: pro, ĉar  
+foro: por  
+naforo: el  
+untilo: ĝis  
+befolo: antaŭ  
+aftelo: post  
+instedo: anstataŭ  
+wilo: dum  
+eksepto: krom  
+wayo/opinino: laŭ  
+aboto: pri  
+bako: malantaŭ (behind / in the back of)  
+nabako: antaŭ (in front of)  
+tlogo: tra  
+
+
+### Demandoj
+
+Por ĉu-demandoj, oni uzas **do** en la komenco de frazo, kaj la signon "?":  
+
+* **do** yu lika slepa?: **Ĉu** vi ŝatas dormi?  
+
+Por ki-demandoj, oni uzas **wi** (kio/kiu what/which) antaŭ la koncernita afero, kaj la signon "?":  
+
+* yu wanta **wi** animalu?: **Kiun** beston vi volas?  
+* mumu maka **wi** (tingu)?: **Kiun** (aferon) ni faras?  
+
+
+### Neado
 
 **no** staras antaŭ la elemento neita:
 >  mu **no** wanta slepa: mi ne volas dormi  
