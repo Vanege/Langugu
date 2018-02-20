@@ -2,8 +2,7 @@
 
 a e i o u  
 b d f g h k l m n p s t w y  
-Elparolitaj kiel en IFA, krom **y** kiu estas **/j/**  
-Granda alofona diverseco  
+Ili estas elparolitaj kiel en la IFA, krom **y** kiu estas **/j/**  
 
 
 ## Vortaj finaĵoj
@@ -184,7 +183,7 @@ Kiel en Esperanto, la ti-parto povas esti neskribita, aŭ povas esti alia tabelp
 > mu wanta **ali katu**, **wi** slepa  
 
 
-La lingvo ĉiam estas en la vortordo SVO, krom foje en tiuj rilataj subfrazoj, ĉar "wi" en la komenco helpas scii kie komencas subfrazo. Tiam la subfrazo uzas la vortordon OSV.
+La lingvo ĉiam estas en la vortordo SVO, krom foje en tiuj rilataj subfrazoj, ĉar "wi" povas helpi scii kie subfrazo komenciĝas. Tiam la subfrazo uzas la vortordon OSV.
 
 
 ## Pivota strukturo
@@ -286,7 +285,7 @@ Foje la rezulta vorto estas tro longa, aŭ havas ĝenan konsonantaron (undeLSTan
 
 ## Faciliga ə
 
-Inter du konsonantoj, oni rajtas uzi elparoli ə se tio helpas
+Inter du konsonantoj, oni rajtas elparoli ə se tio helpas:
 * talka: /talka/ aŭ /taləka/
 * two: /two/ aŭ /təwo/
 
