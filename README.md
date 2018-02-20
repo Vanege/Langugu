@@ -7,5 +7,5 @@
 :green_heart: Heli estas lingvo kun simpla gramatiko, kiu uzas vortojn de la Angla, kiuj estas ŝanĝitaj per algoritmo por faciligi.
 
 
-:fr: Heli est une langue avec une grammaire simple, qui utilise les mots de l'anglais, qui sont modifiés par un algorithme por simplifier.
+:fr: Heli est une langue avec une grammaire simple, qui utilise les mots de l'anglais, qui sont modifiés par un algorithme rendre plus facile.
 
