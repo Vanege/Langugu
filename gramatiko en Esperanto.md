@@ -195,7 +195,7 @@ La objekto de verbo povas esti subjekto alia verbo kiu troviĝas post ĝi:
 >  mu **wanta** mi katu **lika** mu **giba** fisu: mi **volas, ke** mia kato **ŝatu, ke** mi **donas** fiŝon  
 >  mu **wanta** mu godi: mi **volas, ke** mi **estu** bona = mi volas esti bona  
 
-Verbo por "esti" ne ekzistas. Se oni vidas u-vorton apud alia u-vorto aŭ i-vorto, oni ofte povas supozi ke ĉi tie troviĝas "esti". En kelkaj okazoj, oni povas anstataŭigi "esti" per "eksista" (ekzisti) aŭ "sama" (esti sama kiel).
+Verbo por "esti" ekzistas ("ba"), sed ofte ne estas uzata. Se oni vidas u-vorton apud alia u-vorto aŭ i-vorto, oni ofte povas supozi ke ĉi tie troviĝas "esti". En kelkaj okazoj, oni povas anstataŭigi "esti" per "eksista" (ekzisti) aŭ "sama" (esti sama kiel).
 
 Pivota strukturo povas helpi simpligi frazojn:
 
