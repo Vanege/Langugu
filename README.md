@@ -7,7 +7,10 @@
 
 ## Pelsonu usa Heli ato wi plasu?
 
-Mumu usa Heli ato Telegram, yu kana usa inglisi ando espelanti ato ti plasu: https://t.me/joinchat/EjukbkmivHgrInfX_5nJ4A  
+:sunny: Mumu talka wito Heli ando aboto Heli ato Telegram: https://t.me/joinchat/EjukbkmivHgrInfX_5nJ4A  
+:gb: We talk with Heli and about Heli in Telegram. We also can use English!  
+:green_heart: Ni parolas per Heli kaj pri Heli en Telegram. Ni ankaŭ povas uzi Esperanton!  
+:fr: Nous parlons en Heli et à propos de l'Heli dans Telegram. Utilisez le français si vous ne parlez pas Heli, Anglais ou Espéranto.  
 
 ## Pelsonu maka wi tingu wito Heli?
 
