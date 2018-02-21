@@ -238,7 +238,7 @@ Ekzistas malpli da afiksoj ol en Esperanto. Oni preferas kunmeti radikojn, tiel 
 
 * **na**fasti: **mal**rapida
 * **le**begina: **re**komenci
-
+* begin**el**u: komenca**nt**o (kaj -int- -ont- -it- -ot- -ul- -ist- -il- ktp)
 
 ## Importi vorton el la Angla
 
