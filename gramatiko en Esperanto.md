@@ -83,7 +83,7 @@ wito: kun, per
 nawito: sen  
 bekaso: pro, ĉar  
 foro: por  
-naforo: el  
+naforo: kontraŭ  
 untilo: ĝis  
 befolo: antaŭ  
 aftelo: post  
