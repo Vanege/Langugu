@@ -72,26 +72,26 @@ Verbo povas esti en ajna. Oni precizigas per adverbo:
 
 so: do (kiel en la Angla "so")  
 to: al  
-flomo: el  
+nato: el  
 ofo: de, da  
-ato: en, ĉe, je  
-naato: ekster  
-nelo/ploksimo: apud  
+bo: en, ĉe, je  
+nabo: ekster  
+nelo: apud  
 subo: sub  
-nasubo: sur, super  
-wito: kun, per  
-nawito: sen  
+nasubo / bo: sur, super  
+wito / bo: kun, per  
+nawito / nabo: sen  
 bekaso: pro, ĉar  
-foro: por  
-naforo: kontraŭ  
+folo: por  
+nafolo: kontraŭ  
 untilo: ĝis  
-befolo: antaŭ  
-aftelo: post  
+befolo: antaŭ (tempe)  
+aftelo: post (tempe)  
 instedo: anstataŭ  
 wilo: dum  
 eksepto: krom  
 wayo/opinino: laŭ  
-aboto: pri  
+aboto / bo: pri  
 bako: malantaŭ (behind / in the back of)  
 nabako: antaŭ (in front of)  
 tlogo: tra  
