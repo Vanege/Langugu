@@ -16,7 +16,7 @@ for i : folo
 you p : yu
 he p : hu
 with i : wito
-on i : bo, 
+on i : bo (I'm on the train) (on the table), upo (physically on)
 do v : maka (I do my homework), leli (I do like chocolate)
 say v : saya
 this d : ti
@@ -32,7 +32,7 @@ n't x : no
 by i : wito (I travel by train), nelo (It is by the beach), ofo
 she p : hu
 or c : olo
-as c : natano, wi wayi
+as c : natano (As a doctor ...), wi wayi
 what d : wi, wi tingu
 go v : ga
 their a : huhi
@@ -63,7 +63,7 @@ some d : namani
 me p : mu
 people n : humanu 
 take v : taka
-out r : naini
+out r : nabo (he lives out of the house), naini, oti
 into i : to
 just r : yusti
 see v : loka
@@ -74,7 +74,7 @@ could v : ifi kana, mayi kana
 now r : nowi
 than c : tano (A dog is louder than a cat)
 like i : lika (I like cats), natano (They are like pigs)
-other j : ali
+other j : oteli
 how r : wi wayi
 then r : so, afteli
 its a : hi
@@ -84,7 +84,7 @@ more r : moli
 these d : ti
 want v : wanta
 way n : wayu
-look v : loka
+look v : loka (she looks at the window), sema (he looks good)
 first m : onei (he is the first -> hu (ti) onei)
 also r : alsi
 new j : newi
@@ -119,88 +119,88 @@ there r : ti plasu
 work v : wolka
 down r : downi
 may v : mayi (I may sleep), maya
-after i : 
-should v : 
-call v : 
-world n : 
-over i : 
-school n : 
-still r : 
+after i : wilo
+should v : ifi musta, mayi musta
+call v : kala
+world n : woldu
+over i : upo
+school n : stud-plasu
+still r : stili
 try v : tla
-in r : 
-as r : 
-last m : 
-ask v : 
-need v : 
+in r : bo, ini
+as r : natano, wi wayi
+last m : lasti
+ask v : aska
+need v : neda
 too r : tomusi
-feel v : 
-three m : 
-when r : 
-state n : 
-never r : 
-become v : 
-between i : 
-high j : 
+feel v : fela
+three m : tle
+when r : wi timi
+state n : statu
+never r : ni timi
+become v : bekoma
+between i : betweno
+high j : higi
 really r : leli, mani
-something p : 
-most r : 
-another d : 
-much d : 
-family n : 
-own d : 
-out i : 
+something p : tingu 
+most r : mosti
+another d : oteli
+much d : mani
+family n : familu
+own d : selfi
+out i : nabo, naini, oti
 leave v : naga
 put v : puta
-old j : 
-while c : 
-mean v : 
-on r : 
-keep v : 
-student n : 
-why r : 
-let v : 
-great j : 
-same d : 
-big j : 
-group n : 
-begin v : 
-seem v : 
-country n : 
+old j : nanewi
+while c : dulingo
+mean v : mena
+on r : bo (I'm on the train) (on the table), upo (physically on)
+keep v : kepa (I keep the trophy) (I keep eating)
+student n : wi studa 
+why r : wi kasi
+let v : leta (I let you eat the cake)
+great j : bigi, (mani) godi
+same d : sami
+big j : bigi
+group n : glopu
+begin v : begina
+seem v : sema
+country n : landu
 help v : helpa
 talk v : saya
-where c : 
-turn v : 
-problem n : 
-every a : 
-start v : 
-hand n : 
-might v : 
-American j : 
-show v : 
-part n : 
-about r : 
-against i : 
+where c : wi plasi
+turn v : tulna
+problem n : ploblemu
+every a : ani
+start v : begina
+hand n : handu
+might v : ifi kana, maybi kana
+American j : ameliki (humanu)
+show v : maka x loka y  
+part n : nawolu
+about r : aboto
+against i : nafolo 
 place n : plasu
-over r : 
-such d : 
-again r : 
-few d : 
+over r : upo, nadowno
+such d : ti tipi
+again r : agani
+few d : namani
 case n : hapenu
-most d : 
-week n : 
-company n : 
-where r : 
-system n : 
-each d : 
+most d : mosti
+week n : weku
+company n : kompanu
+where r : wi plasi
+system n : sistemu
+each d : ani
 right r : rigti (placed right), kolekti (he/it is right)
-program n : 
-hear v : 
-so c : 
-question n : 
-during i : 
-work n : 
-play v : 
-government n : 
+program n : ploglamu
+hear v : hela
+so c : so
+question n : asku 
+during i : dulingo
+work n : wolka
+play v : playa
+government n :  
 run v : 
 small j : 
 number n : 
@@ -219,13 +219,13 @@ bring v :
 happen v : hapena
 next m : 
 without i : 
-before i : 
+before i : nawilo, waso
 large j : 
 all r : 
 million m : 
 must v : musta, musti
 home n : 
-under i : 
+under i : downo
 water n : 
 room n : 
 write v : 
@@ -240,13 +240,13 @@ month n :
 different j : 
 lot n : 
 right n : 
-study n : 
+study n : studu
 book n : 
 eye n : 
 job n : 
 word n : 
 though c : 
-business n : 
+business n : kompanu, tladu
 issue n : 
 side n : 
 kind n : 
@@ -304,7 +304,7 @@ once r :
 white j : 
 least r : 
 president n : 
-learn v : 
+learn v : studa
 real j : 
 change v : 
 team n : 
@@ -339,7 +339,7 @@ speak v :
 others n : 
 read v : 
 level n : 
-allow v : 
+allow v : leta
 add v : mola
 office n : 
 spend v : 
@@ -351,7 +351,7 @@ sure j :
 such i : 
 war n : 
 history n : 
-party n : 
+party n : paltu
 within i : 
 grow v : 
 result n : 
@@ -371,7 +371,7 @@ before c :
 moment n : 
 himself p : 
 air n : 
-teacher n : 
+teacher n : wi maka studa
 force n : 
 offer v : 
 enough r : 
@@ -407,7 +407,7 @@ die v :
 send v : 
 expect v : 
 home r : 
-sense n : 
+sense n : felu, fel-tolu
 build v : 
 stay v : 
 fall v : 
@@ -467,7 +467,7 @@ leader n :
 light n : 
 voice n : 
 wife n : 
-whole j : 
+whole j : wolu (the whole chicken)
 police n : 
 mind n : 
 finally r : 
@@ -501,3 +501,113 @@ thank v :
 receive v : taka
 value n : 
 international j : 
+building n : 
+action n : 
+full j : 
+model n : 
+join v : 
+season n : 
+society n : 
+because i : 
+tax n : 
+director n : 
+early r : 
+position n : 
+player n : 
+agree v : 
+especially r : 
+record n : 
+pick v : 
+wear v : 
+paper n : 
+special j : 
+space n : 
+ground n : 
+form n : 
+support v : 
+event n : 
+official n : 
+whose d : 
+matter n : 
+everyone p : ali humanu
+center n : 
+couple n : 
+site n : 
+end v : 
+project n : 
+hit v : 
+base v : 
+activity n : 
+star n : 
+table n : 
+need n : 
+court n : 
+produce v : 
+eat v : 
+American n : 
+teach v : maka x studa y
+oil n : 
+half d : 
+situation n : 
+easy j : 
+cost n : 
+industry n : 
+figure n : 
+face v : 
+street n : 
+image n : 
+itself p : 
+phone n : 
+either r : 
+data n : 
+cover v : 
+quite r : 
+picture n : 
+clear j : 
+practice n : 
+piece n : 
+land n : 
+recent j : 
+describe v : 
+product n : 
+doctor n : 
+wall n : 
+patient n : 
+worker n : 
+news n : 
+test n : 
+movie n : 
+certain j : 
+north n : 
+love n : 
+personal j : 
+open j : 
+support n : 
+simply r : 
+third m : 
+technology n : 
+catch v : 
+step n : 
+baby n : 
+computer n : 
+type n : tipu
+attention n : 
+draw v : 
+film n : 
+Republican n : 
+tree n : 
+source n : 
+red j : 
+nearly r : 
+organization n : 
+choose v : 
+cause v : kasa
+hair n : 
+look n : loku (the action of looking)
+point v : 
+century n : 
+evidence n : 
+window n : 
+difficult j : 
+listen v : 
+soon r : 
