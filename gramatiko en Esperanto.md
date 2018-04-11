@@ -49,7 +49,7 @@ Verbo povas esti en ajna. Oni precizigas per adverbo:
 
 >  katu wasi eta: kato estis manĝinta / kato estis manĝanta  
 >  katu wasi **hadi** eta: kato estis manĝ**i**nta  
->  katu wasi **ingi** eta: kato estis manĝ**a**nta  
+>  katu wasi **kepi** eta: kato estis manĝ**a**nta  
 
 * Precizigi modon
 
