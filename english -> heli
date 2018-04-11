@@ -76,7 +76,7 @@ than c : tano (A dog is louder than a cat)
 like i : lika (I like cats), natano (They are like pigs)
 other j : oteli
 how r : wi wayi
-then r : so, afteli
+then r : so, wili, afteli
 its a : hi
 our a : mumi
 two m : two
@@ -122,7 +122,7 @@ may v : mayi (I may sleep), maya
 after i : wilo
 should v : ifi musta, mayi musta
 call v : kala
-world n : woldu
+world n : bigi plasu, big-plasu
 over i : upo
 school n : stud-plasu
 still r : stili
@@ -154,7 +154,7 @@ put v : puta
 old j : nanewi
 while c : dulingo
 mean v : mena
-on r : bo (I'm on the train) (on the table), upo (physically on)
+on r : bo (I'm on the train) (on the table), upo (physically on), aktiba
 keep v : kepa (I keep the trophy) (I keep eating)
 student n : wi studa 
 why r : wi kasi
@@ -200,112 +200,112 @@ question n : asku
 during i : dulingo
 work n : wolka
 play v : playa
-government n :  
-run v : 
-small j : 
-number n : 
-off r : 
-always r : 
-move v : 
-like v : 
-night n : 
+government n : gobelnu, gobelni glopu  
+run v : luna
+small j : nabigi
+number n : numbelu
+off r : naaktiba
+always r : ali timi
+move v : moba
+like v : lika
+night n : nigtu
 live v : lifa
-Mr n : 
-point n : 
-believe v : 
-hold v : 
-today r : 
-bring v : 
+Mr n : x
+point n : pontu 
+believe v : belifa
+hold v : mani haba
+today r : now-dayu
+bring v : moba x to y
 happen v : hapena
-next m : 
-without i : 
+next m : afteli
+without i : nawito
 before i : nawilo, waso
-large j : 
-all r : 
-million m : 
+large j : bigi
+all r : ali
+million m : milinu
 must v : musta, musti
-home n : 
+home n : lif-plasu
 under i : downo
-water n : 
-room n : 
-write v : 
-mother n : 
-area n : 
-national j : 
-money n : 
-story n : 
-young j : 
-fact n : 
-month n : 
-different j : 
-lot n : 
-right n : 
+water n : watelu
+room n : hos-nawolu
+write v : letela
+mother n : femi palentu
+area n : plasu
+national j : natini
+money n : moneyu
+story n : stolu
+young j : newi, kidi
+fact n : faktu
+month n : montu
+different j : nasami 
+lot n : mani
+right n : rigtu
 study n : studu
-book n : 
-eye n : 
-job n : 
-word n : 
-though c : 
+book n : boku
+eye n : eyu
+job n : wolku
+word n : woldu
+though c : ali wayi
 business n : kompanu, tladu
-issue n : 
-side n : 
-kind n : 
-four m : 
-head n : 
-far r : 
-black j : 
-long j : 
-both d : 
-little j : 
-house n : 
-yes u : 
-after c : 
-since c : 
-long r : 
-provide v : 
-service n : 
-around i : 
-friend n : 
-important j : 
-father n : 
-sit v : 
-away r : 
-until c : 
-power n : 
-hour n : 
-game n : 
-often r : 
-yet r : 
-line n : 
-political j : 
-end n : 
-among i : 
-ever r : 
-stand v : 
-bad j : 
+issue n : ploblemu
+side n : sidu
+kind n : tipu (a kind of), kindi (kind and thoughtful person)
+four m : folu
+head n : hedu
+far r : naneli
+black j : blaki
+long j : longi
+both d : boti
+little j : nabigi
+house n : hosu
+yes u : yeso
+after c : aftelo
+since c : sinso (since 2 hours I can't ...), kaso (I gave him since he is nice)
+long r : longi
+provide v : moba x to y
+service n : selbu
+around i : alondi
+friend n : flindu
+important j : impoltanti
+father n : mali palentu
+sit v : sita
+away r : naneli
+until c : nasinso
+power n : powelu
+hour n : holu
+game n : gamu
+often r : ofteni
+yet r : stili
+line n : linu
+political j : politiki 
+end n : endu
+among i : betweno
+ever r : ani timi
+stand v : standa
+bad j : nagodi
 lose v : nawina (You lose. You lose two points), nafinda (I lost my keys)
-however r : 
-member n : 
-pay v : 
-law n : 
-meet v : 
-car n : 
-city n : 
-almost r : 
-include v : 
-continue v : 
-set v : 
-later r : 
-community n : 
-much r : 
-name n : 
-five m : 
-once r : 
-white j : 
-least r : 
-president n : 
+however r : buto
+member n : membelu
+pay v : paya
+law n : lawu
+meet v : meta
+car n : atu
+city n : situ
+almost r : almosti
+include v : haba
+continue v : kepa
+set v : puta, maka x ledi
+later r : wili (in the future), nasoni (not soon)
+community n : humani glopu, komunitu
+much r : mani
+name n : namu
+five m : fibu
+once r : one timi
+white j : nablaka
+least r : namaksi
+president n : wi plesida
 learn v : studa
-real j : 
+real j : leli
 change v : 
 team n : 
 minute n : 
@@ -327,7 +327,7 @@ watch v :
 together r : 
 follow v : 
 around r : 
-parent n : 
+parent n : palentu
 only j : 
 stop v : 
 face n : 
@@ -401,7 +401,7 @@ buy v :
 probably r : 
 human j : 
 wait v : 
-serve v : 
+serve v : selba
 market n : 
 die v : 
 send v : 
@@ -470,7 +470,7 @@ wife n :
 whole j : wolu (the whole chicken)
 police n : 
 mind n : 
-finally r : 
+finally r : endi
 pull v : 
 return v : 
 free j : 
@@ -487,7 +487,7 @@ even c :
 develop v : 
 view n : 
 relationship n : 
-carry v : 
+carry v : baki haba, handi haba ...
 town n : 
 road n : 
 drive v : 
@@ -501,7 +501,7 @@ thank v :
 receive v : taka
 value n : 
 international j : 
-building n : 
+building n : hosu
 action n : 
 full j : 
 model n : 
@@ -518,7 +518,7 @@ agree v :
 especially r : 
 record n : 
 pick v : 
-wear v : 
+wear v : bodi haba
 paper n : 
 special j : 
 space n : 
@@ -610,4 +610,393 @@ evidence n :
 window n : 
 difficult j : 
 listen v : 
-soon r : 
+soon r : soni
+culture n : 
+billion m : 
+chance n : 
+brother n : 
+energy n : 
+period n : 
+course n : 
+summer n : 
+less d : 
+realize v : 
+hundred m : 
+available j : 
+plant n : 
+likely j : 
+opportunity n : 
+term n : 
+short j : 
+letter n : letelu
+condition n : 
+choice n : 
+place v : puta
+single j : 
+rule n : 
+daughter n : 
+administration n : 
+south n : 
+husband n : 
+Congress n : 
+floor n : 
+campaign n : 
+material n : 
+population n : 
+well i : 
+call n : 
+economy n : 
+medical j : 
+hospital n : 
+church n : 
+close v : 
+thousand m : 
+risk n : 
+current j : 
+fire n : 
+future n : 
+wrong j : 
+involve v : 
+defense n : 
+anyone p : 
+increase v : 
+security n : 
+bank n : 
+myself p : 
+certainly r : 
+west n : 
+sport n : 
+board n : 
+seek v : 
+per i : 
+subject n : 
+officer n : 
+private j : 
+rest n : 
+behavior n : 
+deal v : 
+performance n : 
+fight v : 
+throw v : 
+top n : 
+quickly r : 
+past j : 
+goal n : 
+second n : 
+bed n : 
+order n : 
+author n : 
+fill v : 
+represent v : 
+focus v : 
+foreign j : 
+drop v : 
+plan v : 
+blood n : 
+upon i : 
+agency n : 
+push v : 
+nature n : 
+color n : 
+no r : 
+recently r : 
+store n : 
+reduce v : 
+sound n : 
+note v : 
+fine j : 
+before r : 
+near i : 
+movement n : 
+page n : 
+enter v : 
+share v : 
+than i : 
+common j : 
+poor j : 
+other p : 
+natural j : 
+race n : 
+concern n : 
+series n : 
+significant j : 
+similar j : 
+hot j : 
+language n : 
+each p : 
+usually r : 
+response n : 
+dead j : 
+rise v : 
+animal n : 
+factor n : 
+decade n : 
+article n : 
+shoot v : 
+east n : 
+save v : 
+seven m : 
+artist n : 
+away i : 
+scene n : 
+stock n : 
+career n : 
+despite i : 
+central j : 
+eight m : 
+thus r : 
+treatment n : 
+beyond i : 
+happy j : 
+exactly r : 
+protect v : 
+approach n : 
+lie v : nastanda (to lie down), falsi saya
+size n : 
+dog n : 
+fund n : 
+serious j : 
+occur v : 
+media n : 
+ready j : ledi
+sign n : 
+thought n : 
+list n : 
+individual n : 
+simple j : 
+quality n : 
+pressure n : 
+accept v : 
+answer n : naasku
+hard r : 
+resource n : 
+identify v : 
+left j : lefti
+meeting n : 
+determine v : 
+prepare v : 
+disease n : 
+whatever d : 
+success n : 
+argue v : 
+cup n : 
+particularly r : 
+amount n : 
+ability n : 
+staff n : 
+recognize v : 
+indicate v : 
+character n : 
+growth n : 
+loss n : 
+degree n : 
+wonder v : 
+attack n : 
+herself p : 
+region n : 
+television n : 
+box n : 
+TV n : 
+training n : 
+pretty r : 
+trade n : 
+deal n : 
+election n : 
+everybody p : 
+physical j : 
+lay v : 
+general j : 
+feeling n : 
+standard n : 
+bill n : 
+message n : 
+fail v : 
+outside i : 
+arrive v : 
+analysis n : 
+benefit n : 
+name v : 
+sex n : 
+forward r : 
+lawyer n : 
+present v : 
+section n : 
+environmental j : 
+glass n : 
+answer v : 
+skill n : 
+sister n : 
+PM r : 
+professor n : 
+operation n : 
+financial j : 
+crime n : 
+stage n : 
+ok r : 
+compare v : 
+authority n : 
+miss v : 
+design n : 
+sort n : 
+one n : 
+act v : 
+ten m : 
+knowledge n : 
+gun n : 
+station n : 
+blue j : 
+state v : 
+strategy n : 
+little d : 
+clearly r : 
+discuss v : 
+indeed r : 
+force v : 
+truth n : 
+song n : 
+example n : 
+democratic j : 
+check v : 
+environment n : 
+leg n : 
+dark j : 
+public n : 
+various j : 
+rather r : 
+laugh v : 
+guess v : 
+executive n : 
+set n : 
+study v : studa
+prove v : 
+hang v : 
+entire j : 
+rock n : 
+design v : 
+enough d : 
+forget v : 
+since i : 
+claim v : 
+note n : 
+remove v : 
+manager n : 
+help n : 
+close j : 
+sound v : 
+enjoy v : 
+network n : 
+legal j : 
+religious j : 
+cold j : 
+form v : 
+final j : 
+main j : 
+science n : 
+green j : 
+memory n : 
+card n : 
+above i : 
+seat n : 
+cell n : 
+establish v : 
+nice j : godi
+trial n : 
+expert n : 
+that r : 
+spring n : 
+firm n : 
+Democrat n : 
+radio n : 
+visit v : 
+management n : 
+care v : 
+avoid v : 
+imagine v : 
+tonight r : 
+huge j : 
+ball n : 
+no u : 
+close r : 
+finish v : 
+yourself p : yu selfi
+talk n : sayu
+theory n : 
+impact n : 
+respond v : 
+statement n : 
+maintain v : 
+charge n : 
+popular j : 
+traditional j : 
+onto i : 
+reveal v : 
+direction n : 
+weapon n : 
+employee n : 
+cultural j : 
+contain v : 
+peace n : 
+head v : 
+control v : 
+base n : 
+pain n : 
+apply v : 
+play n : 
+measure n : 
+wide j : 
+shake v : 
+fly v : 
+interview n : 
+manage v : 
+chair n : 
+fish n : 
+particular j : 
+camera n : 
+structure n : 
+politics n : 
+perform v : 
+bit n : 
+weight n : 
+suddenly r : 
+discover v : 
+candidate n : 
+top j : 
+production n : 
+treat v : 
+trip n : 
+evening n : 
+affect v : 
+inside i : 
+conference n : 
+unit n : 
+best r : 
+style n : 
+adult n :
+worry v : 
+range n : 
+mention v : 
+rather i : 
+far j : 
+deep j : 
+past n : 
+edge n : 
+individual j : 
+specific j : 
+writer n : 
+trouble n : 
+necessary j : 
+throughout i : 
+challenge n : 
+fear n : 
+shoulder n : 
+institution n : 
+middle j : 
+sea n : 
+dream n : 
+bar n : 
+beautiful j : 
+property n : 
+instead r : 
+improve v : 
+stuff n : 
+detail n : 
