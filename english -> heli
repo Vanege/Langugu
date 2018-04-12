@@ -17,7 +17,7 @@ you p : yu
 he p : hu
 with i : wito
 on i : bo (I'm on the train) (on the table), upo (physically on)
-do v : maka (I do my homework), leli (I do like chocolate)
+do v : maka (I do my homework), nafalsi (I do like chocolate)
 say v : saya
 this d : ti
 they p : huhu
@@ -89,11 +89,11 @@ first m : onei (he is the first -> hu (ti) onei)
 also r : alsi
 new j : newi
 because c : kaso
-day n : dayu
+day n : dayu (24h), nanigtu (not the night)
 more d : moli
 use v : usa
 no a : ni
-man n : mali humanu, mal-humanu
+man n : mali humanu
 find v : finda
 here r : ti plasi
 thing n : tingu
@@ -110,7 +110,7 @@ even r : ebeni
 back r : baki
 any d : ani
 good j : godi
-woman n : femi humanu, fem-humanu
+woman n : femi humanu
 through i : tlogo
 us p : mumu
 life n : lifu
@@ -121,10 +121,10 @@ down r : downi
 may v : mayi (I may sleep), maya
 after i : wilo
 should v : ifi musta, mayi musta
-call v : kala
-world n : bigi plasu, big-plasu
+call v : vosa (I called him yesterday)
+world n : bigi plasu
 over i : upo
-school n : stud-plasu
+school n : studi plasu / studi hosu
 still r : stili
 try v : tla
 in r : bo, ini
@@ -132,7 +132,7 @@ as r : natano, wi wayi
 last m : lasti
 ask v : aska
 need v : neda
-too r : tomusi
+too r : tomusi (I have too much: mu haba tomusi)
 feel v : fela
 three m : tle
 when r : wi timi
@@ -141,7 +141,7 @@ never r : ni timi
 become v : bekoma
 between i : betweno
 high j : higi
-really r : leli, mani
+really r : nafalsi (for real), mani (a lot)
 something p : tingu 
 most r : mosti
 another d : oteli
@@ -192,7 +192,7 @@ company n : kompanu
 where r : wi plasi
 system n : sistemu
 each d : ani
-right r : rigti (placed right), kolekti (he/it is right)
+right r : rigti (placed right), nafalsi (he/it is right)
 program n : ploglamu
 hear v : hela
 so c : so
@@ -214,7 +214,7 @@ Mr n : x
 point n : pontu 
 believe v : belifa
 hold v : mani haba
-today r : now-dayu
+today r : nowi dayu
 bring v : moba x to y
 happen v : hapena
 next m : afteli
@@ -224,10 +224,10 @@ large j : bigi
 all r : ali
 million m : milinu
 must v : musta, musti
-home n : lif-plasu
+home n : lifi plasu
 under i : downo
 water n : watelu
-room n : hos-nawolu
+room n : lomu
 write v : letela
 mother n : femi palentu
 area n : plasu
@@ -259,8 +259,8 @@ both d : boti
 little j : nabigi
 house n : hosu
 yes u : yeso
-after c : aftelo
-since c : sinso (since 2 hours I can't ...), kaso (I gave him since he is nice)
+after c : wilo
+since c : natilo (since 2 hours I can't ...), kaso (I gave him since he is nice)
 long r : longi
 provide v : moba x to y
 service n : selbu
@@ -270,7 +270,7 @@ important j : impoltanti
 father n : mali palentu
 sit v : sita
 away r : naneli
-until c : nasinso
+until c : tilo
 power n : powelu
 hour n : holu
 game n : gamu
@@ -294,8 +294,8 @@ city n : situ
 almost r : almosti
 include v : haba
 continue v : kepa
-set v : puta, maka x ledi
-later r : wili (in the future), nasoni (not soon)
+set v : puta
+later r : wili (in the future)
 community n : humani glopu, komunitu
 much r : mani
 name n : namu
@@ -304,119 +304,119 @@ once r : one timi
 white j : nablaka
 least r : namaksi
 president n : wi plesida
-learn v : studa
-real j : leli
-change v : 
-team n : 
-minute n : 
-best j : 
-several d : 
-idea n : 
-kid n : 
-body n : 
-information n : 
-nothing p : 
-ago r : 
-right j : 
-lead v : 
-social j : 
-understand v : 
-whether c : 
+learn v : studa (a subject), nafolgeta (get new info in mind)
+real j : nafalsi
+change v : sanga
+team n : temu
+minute n : minutu
+best j : mosti godi
+several d : poli
+idea n : idu
+kid n : kidu
+body n : bodu
+information n : infu
+nothing p : ni tingu
+ago r : wasi
+right j : rigti (at the right), kanu (a right), nafalsi (true, correct)
+lead v : komanda (note: collision with "ready" for which I don't find good alternative)
+social j : sosili
+understand v : folowa
+whether c : ifo 
 back n : baku
-watch v : 
-together r : 
-follow v : 
-around r : 
+watch v : loka, longi loka
+together r : witi
+follow v : folowa
+around r : alondi
 parent n : palentu
-only j : 
-stop v : 
-face n : 
-anything p : 
+only j : onli
+stop v : stopa
+face n : fasu
+anything p : ani tingu
 create v : maka
-public j : 
-already r : 
-speak v : 
-others n : 
-read v : 
-level n : 
+public j : publiki
+already r : aledi
+speak v : saya
+others n : oteli humanu
+read v : nateksa
+level n : lebelu
 allow v : leta
 add v : mola
-office n : 
-spend v : 
-door n : 
-health n : 
-person n : 
-art n : 
-sure j : 
-such i : 
-war n : 
-history n : 
+office n : wolki plasu, wolki hosu
+spend v : usa x folo y, paya x folo y
+door n : dolu
+health n : nasiku
+person n : humanu, pelsonu
+art n : altu
+sure j : seltani (I am sure)
+such i : wi wayi
+war n : walu
+history n : timi stolu
 party n : paltu
-within i : 
-grow v : 
-result n : 
-open v : 
-change n : 
-morning n : 
-walk v : 
-reason n : 
-low j : 
+within i : bo
+grow v : bekoma bigi, maka x bigi
+result n : endi tingu
+open v : naklosa
+change n : sangu
+morning n : nanigtu
+walk v : walka
+reason n : kasu 
+low j : nahigi / lowi
 win v : wina
-research n : 
-girl n : 
-guy n : 
-early j : 
-food n : 
-before c : 
-moment n : 
-himself p : 
-air n : 
+research n : sinsi selsu
+girl n : femi kidu
+guy n : humanu, mali humanu
+early j : eli
+food n : etu
+before c : waso
+moment n : timu
+himself p : hu selfi
+air n : gasu
 teacher n : wi maka studa
-force n : 
-offer v : 
-enough r : 
-both r : 
-education n : 
-across i : 
-although c : 
-remember v : 
-foot n : 
-second m : 
-boy n : 
+force n : powelu
+offer v : kana nataka
+enough r : enogi
+both r : ali two
+education n : studi maku
+across i : akloso
+although c : buto, ebeni ifo
+remember v : stili knowa
+foot n : fotu
+second m : twoi 
+boy n : mali kidu
 maybe r : mayi
-toward i : 
-able j : 
-age n : 
-off i : 
-policy n : 
-everything p : 
-love v : 
-process n : 
-music n : 
-including i : 
-consider v : 
-appear v : 
-actually r : 
-buy v : 
-probably r : 
-human j : 
-wait v : 
+toward i : to
+able j : kani
+age n : yelu
+off i : naaktiba
+policy n : planu
+everything p : ali tingu 
+love v : loba
+process n : plosesu
+music n : musiku
+including i : natano, wi wayi
+consider v : konsidela
+appear v : (newi) loke
+actually r : fakti, nafalsi
+buy v : buya
+probably r : (mani) mayi 
+human j : humanu
+wait v : wata
 serve v : selba
 market n : 
-die v : 
+die v : kile
 send v : 
 expect v : 
 home r : 
-sense n : felu, fel-tolu
+sense n : felu, feli tolu
 build v : 
 stay v : 
 fall v : 
 oh u : 
 nation n : 
-plan n : 
+plan n : planu
 cut v : 
 college n : 
-interest n : 
+interest n : kalu
 death n : 
 course r : 
 someone p : 
@@ -424,7 +424,7 @@ experience n :
 behind i : 
 reach v : 
 local j : 
-kill v : 
+kill v : kila
 six m : 
 remain v : 
 effect n : 
@@ -432,12 +432,12 @@ use n :
 yeah u : 
 suggest v : 
 class n : 
-control n : 
+control n : seku
 raise v : 
-care n : 
+care n : kalu
 perhaps r : 
 little r : 
-late j : 
+late j : naeli
 hard j : 
 field n : 
 else r : 
@@ -463,9 +463,9 @@ possible j :
 heart n : 
 drug n : 
 show n : 
-leader n : 
+leader n : wi komanda
 light n : 
-voice n : 
+voice n : vosu
 wife n : 
 whole j : wolu (the whole chicken)
 police n : 
@@ -610,7 +610,7 @@ evidence n :
 window n : 
 difficult j : 
 listen v : 
-soon r : soni
+soon r : neli wili / soni
 culture n : 
 billion m : 
 chance n : 
@@ -649,7 +649,7 @@ economy n :
 medical j : 
 hospital n : 
 church n : 
-close v : 
+close v : klosa
 thousand m : 
 risk n : 
 current j : 
@@ -726,7 +726,7 @@ language n :
 each p : 
 usually r : 
 response n : 
-dead j : 
+dead j : dedi, dedi tingu
 rise v : 
 animal n : 
 factor n : 
@@ -874,7 +874,7 @@ entire j :
 rock n : 
 design v : 
 enough d : 
-forget v : 
+forget v : folgeta
 since i : 
 claim v : 
 note n : 
@@ -891,7 +891,7 @@ cold j :
 form v : 
 final j : 
 main j : 
-science n : 
+science n : sinsu
 green j : 
 memory n : 
 card n : 
@@ -909,7 +909,7 @@ Democrat n :
 radio n : 
 visit v : 
 management n : 
-care v : 
+care v : kala
 avoid v : 
 imagine v : 
 tonight r : 
@@ -917,7 +917,7 @@ huge j :
 ball n : 
 no u : 
 close r : 
-finish v : 
+finish v : enda
 yourself p : yu selfi
 talk n : sayu
 theory n : 
@@ -935,9 +935,9 @@ weapon n :
 employee n : 
 cultural j : 
 contain v : 
-peace n : 
+peace n : nawalu
 head v : 
-control v : 
+control v : leda (I control the country), seka
 base n : 
 pain n : 
 apply v : 
