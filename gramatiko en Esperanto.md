@@ -77,21 +77,21 @@ ofo: de, da
 bo: en, ĉe, je  
 nabo: ekster  
 nelo: apud  
-subo: sub  
-nasubo / bo: sur, super  
+downo: sub  
+upo / bo / nadowno: sur, super  
 wito / bo: kun, per  
 nawito / nabo: sen  
-bekaso: pro, ĉar  
+kaso: pro, ĉar  
 folo: por  
 nafolo: kontraŭ  
-untilo: ĝis  
-befolo: antaŭ (tempe)  
-aftelo: post (tempe)  
+tilo: ĝis  
+waso: antaŭ (tempe)  
+wilo: post (tempe)  
 instedo: anstataŭ  
-wilo: dum  
+dulingo: dum  
 eksepto: krom  
-wayo/opinino: laŭ  
-aboto / bo: pri  
+wayo / opinino / tinko: laŭ  
+aboto: pri  
 bako: malantaŭ (behind / in the back of)  
 nabako: antaŭ (in front of)  
 tlogo: tra  
@@ -276,9 +276,11 @@ C. Provu radik-kunmetadon kaj afiksojn (legu supre).
 
 11) Ŝanĝu x al ks.
 
-12) Forigu h kiam ĝi estas post konsonanto. (while -> wil)
+12) Ŝanĝu ph al f.
 
-13) Forigu w kiam ĝi estas antaŭ r/l. (write -> lit)
+13) Forigu h kiam ĝi estas post konsonanto. (while -> wil)
+
+14) Forigu w kiam ĝi estas antaŭ r/l. (write -> lit)
 
 Foje la rezulta vorto estas tro longa, aŭ havas ĝenan konsonantaron (undeLSTanda), do oni preferu vorton iom malpli oftan kiu povas havi tiun sencon (folowa). Foje, vorto estas malpli rekonebla (stalta), do oni preferu vorton malpli ŝanĝitan de la algoritmo (begina). Tio, kio gravas, por ke la lingvo estu facila, estas ke **oni uzu la vortojn, kiuj estas plej bone rekonataj de baznivelaj angleparolantoj kaj uzantoj de Heli**. Por tio, oni ofte imitu la skribadon de oftaj uzantoj, ĉar ili uzas la vortojn, kiujn ili kapablas memori kaj komprenigi.
 
