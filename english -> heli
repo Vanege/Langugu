@@ -66,10 +66,10 @@ take v : taka
 out r : nabo (he lives out of the house), naini, oti
 into i : to
 just r : yusti
-see v : loka
+see v : sa
 him p : hu
 your a : yi, yiyi
-come v : ga
+come v : ga (to)
 could v : ifi kana, mayi kana
 now r : nowi
 than c : tano (A dog is louder than a cat)
@@ -84,7 +84,7 @@ more r : moli
 these d : ti
 want v : wanta
 way n : wayu
-look v : loka (she looks at the window), sema (he looks good)
+look v : sa (she looks at the window), sema (he looks good)
 first m : onei (he is the first -> hu (ti) onei)
 also r : alsi
 new j : newi
@@ -167,7 +167,7 @@ begin v : begina
 seem v : sema
 country n : landu
 help v : helpa
-talk v : saya
+talk v : talka, saya
 where c : wi plasi
 turn v : tulna
 problem n : ploblemu
@@ -176,8 +176,8 @@ start v : begina
 hand n : handu
 might v : ifi kana, maybi kana
 American j : ameliki (humanu)
-show v : maka x loka y  
-part n : nawolu
+show v : maka x sa y  
+part n : paltu, nawolu
 about r : aboto
 against i : nafolo 
 place n : plasu
@@ -214,7 +214,7 @@ Mr n : x
 point n : pontu 
 believe v : belifa
 hold v : mani haba
-today r : nowi dayu
+today r : todayu, nowi dayu
 bring v : moba x to y
 happen v : hapena
 next m : nalasti (the next one)
@@ -224,11 +224,11 @@ large j : bigi
 all r : ali
 million m : milinu
 must v : musta, musti
-home n : lifi plasu
+home n : homu, lifi plasu
 under i : downo
 water n : watelu
 room n : lomu
-write v : letela
+write v : teksta, letela
 mother n : femi palentu
 area n : plasu
 national j : natini
@@ -290,7 +290,7 @@ pay v : paya
 law n : lawu
 meet v : meta
 car n : atu
-city n : situ
+city n : townu
 almost r : almosti
 include v : haba
 continue v : kepa
@@ -323,7 +323,7 @@ social j : sosili
 understand v : glaspa
 whether c : ifo 
 back n : baku
-watch v : loka, longi loka
+watch v : sa, longi sa, watsa
 together r : witi
 follow v : folowa (to follow a track)
 around r : alondi
@@ -462,7 +462,7 @@ strong j : poweli
 possible j : kani
 heart n : heltu
 drug n : dlugu
-show n : maka x loka y
+show n : maka x sa y
 leader n : wi komanda
 light n : nahebi (weight), ligtu (of the sun)
 voice n : vosu
@@ -485,7 +485,7 @@ son n : mali napalentu
 hope v : hopa
 even c : ebeni
 develop v : maka
-view n : loka, maka loka
+view n : sa, maka sa
 relationship n : 
 carry v : baki haba, handi haba ...
 town n : townu
@@ -998,3 +998,5 @@ beautiful j :
 property n : 
 instead r : 
 improve v : 
+stuff n : 
+detail n : 
