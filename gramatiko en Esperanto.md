@@ -81,7 +81,7 @@ downo: sub
 upo / bo / nadowno: sur, super  
 wito / bo: kun, per  
 nawito / nabo: sen  
-kaso: pro, ĉar  
+bekaso: pro, ĉar  
 folo: por  
 nafolo: kontraŭ  
 tilo: ĝis  
