@@ -1,347 +1,1182 @@
-Introduction
-
-Heli is an attempt to create the most inclusive language. The easiest language to learn for the median earthling. At the present time (2018), English is the most influential and studied language in the world. However, it is not inclusive: it has too many phonemes and it is not written like it is pronounced. The grammar can also be greatly simplified, following those of the most modern constructed auxiliary languages.
-
-Heli is an original and pragmatic take on planned languages. A major part of language learning is memorizing a lot of words. This takes time, and people don't have that (even more if they are busy learning English). So let's not do that. Instead, Heli uses English words, that are regularly transformed using a simple set of rules. Most English words can become a valid Heli word, but some synonyms may be preferred by the community.
-
-Heli is highly derivational, similarly to Esperanto, with part-of-speech endings and a prefix for opposites. This greatly reduces the number of words to learn, and allows creating new words with no direct equivalent in English.
-
-Heli is ready to learn and already in use by a very small group of people in Telegram: https://t.me/joinchat/EjukbkmivHgrInfX_5nJ4A
-
-
-
-Alphabet
-a e i o u
-b d f g h k l m n p s t w y
-They are all pronounced like in English, except for the vowels
-a like pat
-e like pet
-i like pee
-o like pope (but a pure sound, not a diphthong)
-u like poop
-
-Each vowel represents a syllable
-onei -> o ne i
-
-Stress on the first syllable
-potatu -> POtatu
-
-People who have trouble pronouncing consonant clusters can add virtual "ə" or "e". They must not be stressed.
-musta -> "musəta"
-landu -> "lanədu"
-
-Nouns end with u
-way -> wayu
-human -> humanu
-
-There are no indefinite article (a/an)
-a kid -> kidu
-a land -> landu
-
-The, this and that are replaced with ti
-this hand -> ti handu
-the money -> ti moneyu
-
-Importation and derivation
-Derivation (you will learn this later) is often preferred over importation from English, since it reduces the number of collisions (words that end up being the same) and reduces the number of words to learn in order to achieve basic fluency. First, you will see the 15 rules of importation.
-
-(1) Vowels (a/e/i/o/u) at the end are removed before adding an ending
-time -> timu
-a state -> statu
-lifu -> lifu
-
-(2) y at the end is removed when it does not follow a consonant
-a body -> bodu
-a wayu -> wayu
-a family -> familu
-
-(3) When a vowel (a/e/i/o/u) follows a vowel, only the first is kept
-a season -> sesonu
-a house -> hosu
-
-(4) ph is replaced with f
-a telephone -> telefonu
-a philosophy -> filosofu
-
-(5) h is removed when it follows a consonant
-this thing -> ti tingu
-the help -> ti helpu
-that night -> ti nigtu
-
-(6) c is replaced with k when it sounds like k
-a fact -> faktu
-music -> musiku
-
-(7) c is replaced with s when it does not sound like k
-a change -> sangu
-this face -> ti fasu
-
-(8) r is replaced with l
-water -> watelu
-a story -> stolu
-the program -> ti ploglamu
-
-(9) v is replaced with b
-a level -> lebelu
-love -> loba
-
-(10) z is replaced with s
-the magazine -> ti magasinu
-a zebra -> seblu
-
-(11) j is replaced with y
-a jungle -> yunglu
-a joke -> yoku
-
-(12) q is replaced with k
-a question -> kustinu
-a technique -> tekniku
-
-(13) x is replaced with ks
-an exit -> eksitu
-a tax -> taksu
-
-(14) w is removed when l/r follows it
-This is very rare, and synonyms will do the job. You will see later.
-
-(15) When a consonant follows the same consonant, it is removed
-coffee -> kofu
-hello -> helu
-
-Verbs in the active voice end with a. They are mostly based on the infinitive form. They don't change.
-to say -> saya
-to go -> ga
-
-"to be" is "ba". It can be removed if the sentence stays understandable.
-a human is an animal -> humanu ba animalu
-the school is the house -> ti skolu ba ti hosu
-
-Pronouns take the noun ending (u)
-I -> mu ; you -> yu ; he/she/it -> hu
-I have hope -> mu haba hopu
-You say a thing -> yu saya tingu
-
-Pronouns stay the same when they are objects
-me -> mu ; you -> yu ; him/her/it -> hu
-You can have it -> yu kana haba hu
-She knows her -> hu knowa hu
-
-Plural pronouns are made by duplicating the singular pronoun
-we/us -> mumu ; you/your -> yuyu ; they/them -> huhu
-We make a group -> mumu maka glopu
-He takes them -> hu taka huhu
-
-Possesives are made by replacing the last u of a pronoun with i
-I see his problem -> mu sa hi ploblemu
-They need your love -> huhu neda yi lobu
-
-Adjectives end with i and are placed before nouns
-I want good food -> mu wanta godi fodu
-He has a big head -> hu haba bigi hedu
-
-The prefix na expresses the opposite of a word
-nagodi -> bad
-nanigtu -> morning
-nataka -> to give
-nabigi -> small
-
-Quantifiers (ni, mani, namani, ali)
-all -> ali
-no -> ni
-many / very / much / a lot -> mani
-few / some -> namani
-
-All other i-words that are not placed before a noun are adverbs
-The cat sleeps well -> ti katu slepa godi
-The horse runs fast -> ti holsu luna fasti
-
-Gender: You can precise the gender of a noun/pronoun with an adjective
-he -> mali hu
-she -> femi hu
-father -> mali palentu
-mother -> femi palentu
-
-Number: Plurality can be expressed with "poly", but many adjectives can do it too
-cat / cats -> katu
-one cat -> one katu
-several cats -> poli katu
-many cats -> mani katu
-no cat -> ni katu
-all cats -> ali katu 
-dogs -> poli dogu
-
-Experimental! Fast plural: a fast way to express plurality is to put an additional u after a noun.
-cat / cats -> katu
-cats -> katuu
-dogs -> doguu
-
-Time: You can express the past (wasi) or the future (wili) with an adverb
-I talked -> mu wasi talka
-I will talk -> mu wili talka
-
-Aspect: You can express that an action is ongoing (kepi) or completed (hadi) with an adverb
-I ate -> mu wasi eta
-I was eating -> mu wasi kepi eta
-I had eaten -> mu wasi hadi eta
-I will be eating -> mu wili kepi eta
-
-Verbs in the passive voice end with e. It inverts the position of the subject and object.
-A cat eats a fish -> katu eta fisu
-A fish is eaten -> fisu ete
-A fish is eaten by a cat -> fisu ete katu
-
-Using the e-ending may replace some verbs in English.
-The bird kills the mouse -> ti bildu kila ti mosu
-The mouse is killed by the bird -> ti mosu kile ti bildu
-The mouse dies by the bird -> to mosu kile ti bildu
-A dog scares a cat -> dogu skala katu
-A cat is afraid of a dog -> katu skale dogu
-
-Verbs can be chained
-You can use the map -> yu kana usa ti mapu
-You must find the place -> yu musta finda ti plasu
-A tool can be needed -> tolu kana nede
-
-All other words except of numbers end with o. Prepositions.
-I am in the train -> mu ba bo ti tlanu
-I am out of the train -> mu ba nabo ti tlanu
-
-Prepositions (note: "to go" and "to come" can be expressed with "to go" and a preposition)
-I go to the town -> mu ga to ti townu
-He comes from the town -> hu ga nato ti townu
-
-Prepositions
-He voted for you -> hu wasi bota folo yu
-He voted against you -> hu wasi bota nafolo yu
-
-Prepositions
-The card is made of paper -> ti kaldu made ofo papelu
-This is the bed of my cat -> ti ba ti bedu ofo mi katu
-
-Prepositions
-He is on the train -> hu ba bo ti tlanu
-You are in the house -> yu ba bo ti hosu
-I am at the station -> mu ba bo ti statinu
-I am out of the station -> mu ba nabo ti statinu
-
-Prepositions
-next to the table -> nelo ti tablu
-near the table -> nelo ti tablu
-far from the table -> nanelo ti tablu
-
-Prepositions
-under the table -> downo ti tablu
-on the table -> bo ti tablu
-over the table -> upo ti tablu
-
-Prepositions
-with my friend -> wito mi flindu
-with a tool -> wito tolu
-without help -> nawito helpu
-
-Prepositions
-before the night -> waso ti nigtu
-after the night -> wilo ti nigtu
-
-Prepositions
-behind the fence -> bako ti fensu
-in front of the fence -> nabako ti fensu
-
-Prepositions
-because of the rain -> kaso ti lanu
-until this day -> tilo ti dayu
-
-Prepositions
-instead of an apple -> instedo aplu
-during the night -> dulingo ti nigtu
-except the cat -> eksepto ti katu
-
-Prepositions
-according to him -> tinko hu
-about him -> aboto hu
-through him -> tlogo hu
-
-Conjunctions end with o
-an apple and an orange -> aplu ando olangu
-an apple or an orange -> aplu olo olangu
-
-Do-questions start with "do", they can be answered with "yeso" or "no"
-Do I look pretty? -> do mu sema pleti?
-Do you like sport? -> do yu lika spoltu?
-
-Affirmation and negation
-I do like sleeping! -> mu yeso lika slepa!
-I don't like sleeping -> mu no lika slepa
-
-Be sure to place "no" before the word you negate
-Not me wants an apple -> no mu wanta aplu
-I don't want an apple -> mu no wanta aplu
-I want not an apple (but,) -> mu wanta no aplu
-
-Wi-questions are made with "wi" and the tone. "wi" is placed before the word you are asking about. "wi" + the word is often moved to the start.
-Which apple do you want? -> wi aplu yu wanta?
-Who did you help? -> wi pelsonu yu wasi helpa?
-When will you go? -> wi timi yu wili ga?
-Where do you stay? -> wi plasi yu staya?
-
-Numbers don't have a special ending, so they stay more distant from each other. When a number (0-9) does not end with a vowel, u is added.
-selo, one, two, tle, folu, fibe, siksu, sebenu, egtu, nine, tenu, hundledu, tosandu
-
-Big numbers
-11 235 -> tenu one tosandu two hundledu tle tenu fibe
-5 201 -> fibe tosandu two hundledu one 
-
-Ordinal numbers are made by adding i
-first -> onei
-second -> twoi
-third -> tlei
-
-Some planned languages have a concept called "correlatives". They can be recreated in Heli using adjectives and nouns.
-I see that thing -> mu sa ti tingu
-I love this person -> mu loba ti pelsonu
-I eat there -> mu eta ti plasi
-I like this kind of cloth -> mu lika ti kindu ofo klotu
-I walk for this reason -> mu walka ti kosi
-
-Note: when you see "ti", "wi", "ali", "ni", "ani", "oteli" and other similar words without a word at the right, you can imagine the word "tingu" there.
-Why do you study this? -> wi kosi yu studa ti?
-How much do you want? -> wi kuntitu yu wanta?
-It can sleep everywhere -> hu kana slepa ali plasi
-How are you? -> wi maneli yu ba?
-I never liked him -> mu ni timi lika hu
-
-Content clause: the "that" used in English to link this kind of clause can be removed. In "mu want yu slepa", you can see "yu slepa" as the object of the verb "wanta".
-I want that you sleep -> mu want yu slepa
-He said that he will win -> hu wasi saya hu wili wina
-You like that the language is easy -> yu lika ti langugu ba esi
-
-Relative clause: they start with a comma and "wi". "wi" refers to something in the main clause, that is sometimes not explicitly written in English. You can see "ti" and "wi" as a bridge between the main clause and the relative clause.
-I want (that,) what you have -> mu wanta (ti tingu), wi tingu yu haba
-I am (there,) where you want -> mu ba (ti plasi), wi plasi yu wanta
-I don't see (that,) what I can do -> mu no glaspa (ti tingu), wi tingu mu kana maka 
-
-Relative clause 2: Be aware that in English, it is sometimes the "wi"-part that is not written. In Heli, the "wi"-part is always written, and the "ti"-part can be removed if the sentence stays understandable.
-I love the person(, which person) you love -> mu loba (ti pelsonu), wi pelsonu yu loba
-He broke the lamp(, what (lamp)) you made -> hu wasi bleka (ti lampu), wi lampu yu wasi maka
-
-Participles are replaced by relative clauses
-the cat, who is killing a bird -> ti katu, wi kila bildu
-the bird-killing cat -> ti katu, wi kila bildu
-the killer cat -> ti katu, wi kila
-the killing cat -> ti katu, wi kila
-the killed bird -> ti katu, wi kile
-
-Actor of an action
-a sleeper -> (tingu) wi slepa
-a killer -> (tingu) wi kila
-the cat is a killer -> ti katu ba wi kila
-
-Vocabulary tips
-1) Try to find if a more common word with the same meaning already exist (quick -> fast) https://dictionary.cambridge.org/dictionary/english/
-2) Ask the community in Telegram: https://t.me/joinchat/EjukbkmivHgrInfX_5nJ4A
-3) Check on the dictionary: https://github.com/Vanege/Heli/blob/master/english%20-%3E%20heli
-4) Try derivation:
-- Change the ending of an already imported word (hapena -> hapenu)
-- Try the prefix na- (fasti -> nafasti)
-- Sometimes, it is simpler to use an adjective or an adverb next to an already existing word
-5) Import from English. If the result is not good, try derivation again, or try importing from a synonym in English: http://www.thesaurus.com/
+export const lessons = [
+  {
+    "name": "Alphabet",
+    "text": "The letters are a e i o u b d f g h k l m n p s t w y, they are all pronounced like in English, except for the vowels",
+    "examples": [
+      {
+        "prompt": "a",
+        "answers": [ "pAt" ]
+      },
+      {
+        "prompt": "e",
+        "answers": [ "pEt" ]
+      },
+      {
+        "prompt": "i",
+        "answers": [ "pEE" ]
+      },
+      {
+        "prompt": "o",
+        "answers": [ "pOpe (but a pure sound, not a diphthong)"]
+      },
+      {
+        "prompt": "u",
+        "answers": [ "pOOp" ]
+      }
+    ]
+  },
+  {
+    "name": "A syllable per vowel",
+    "text": "Each vowel (and the consonants before it) represents a syllable. Vowels (a/e/i/o/u) must not be blended together",
+    "examples": [
+      {
+        "prompt": "onei",
+        "answers": [ "o ne i" ]
+      },
+      {
+        "prompt": "humanu",
+        "answers": [ "hu ma nu" ]
+      },
+    ]
+  },
+  {
+    "name": "Stress",
+    "text": "The first syllable of a word must be pronounced louder",
+    "examples": [
+      {
+        "prompt": "mu",
+        "answers": [ "MU" ]
+      },
+      {
+        "prompt": "lika",
+        "answers": [ "LIka" ]
+      },
+      {
+        "prompt": "potatu",
+        "answers": [ "POtatu" ]
+      }
+    ]
+  },
+  {
+    "name": "Helping ə",
+    "text": 'People who have trouble pronouncing consonant clusters can pronounce a virtual "ə" or "e" between consonants. They must not be stressed',
+    "examples": [
+      {
+        "prompt": "musta",
+        "answers": [ "musəta" ]
+      },
+      {
+        "prompt": "landu",
+        "answers": [ "lanədu" ]
+      }
+    ]
+  },
+  {
+    "name": "Noun",
+    "text": "Nouns end with u. Note: you can hover words to see translations",
+    "examples": [
+      {
+        "prompt": "way",
+        "answers": [ "wayu" ]
+      }
+    ],
+    "tests": [
+      {
+        "prompt": "human",
+        "answers": [ "humanu" ]
+      }
+    ]
+  },
+  {
+    "name": "No indefinite article",
+    "text": "There are no indefinite article (a/an)",
+    "examples": [
+      {
+        "prompt": "a kid",
+        "answers": [ "kidu" ]
+      }
+    ],
+    "tests": [
+      {
+        "prompt": "a land",
+        "answers": [ "landu" ]
+      }
+    ]
+  },
+  {
+    "name": "Demonstrative",
+    "text": "The, this and that are replaced with ti",
+    "examples": [
+      {
+        "prompt": "this hand",
+        "answers": [ "ti handu" ]
+      }
+    ],
+    "tests": [
+      {
+        "prompt": "the money",
+        "answers": [ "ti moneyu" ]
+      }
+    ]
+  },
+  {
+    "name": "Importation and derivation",
+    "text": "There are two main ways to create words in Heli: derivation and importation. Derivation (you will learn this later) is often preferred over importation from English, since it reduces the number of collisions (words that end up being the same) and reduces the number of words to learn in order to achieve basic fluency. First, you will see the 15 rules of importation",
+  },
+  {
+    "name": "Importation (1)",
+    "text": "Vowels (a/e/i/o/u) at the end are removed before adding an ending",
+    "examples": [
+      {
+        "prompt": "time",
+        "answers": [ "timu" ]
+      },
+      {
+        "prompt": "a state",
+        "answers": [ "statu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "life",
+        "answers": [ "lifu" ]
+      },
+    ]
+  },
+  {
+    "name": "Importation (2)",
+    "text": "y at the end is removed when it does not follow a consonant",
+    "examples": [
+      {
+        "prompt": "a body",
+        "answers": [ "bodu" ]
+      },
+      {
+        "prompt": "a way",
+        "answers": [ "wayu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "a family",
+        "answers": [ "familu" ]
+      },
+    ]
+  },
+  {
+    "name": "Importation (3)",
+    "text": "When a vowel (a/e/i/o/u) follows a vowel, only the first one is kept",
+    "examples": [
+      {
+        "prompt": "a season",
+        "answers": [ "sesonu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "a house",
+        "answers": [ "hosu" ]
+      },
+    ]
+  },
+  {
+    "name": "Importation (4)",
+    "text": "ph is replaced with f",
+    "examples": [
+      {
+        "prompt": "a telephone",
+        "answers": [ "telefonu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "a philosophy",
+        "answers": [ "filosofu" ]
+      },
+    ]
+  },
+  {
+    "name": "Importation (5)",
+    "text": "h is removed when it follows a consonant",
+    "examples": [
+      {
+        "prompt": "this thing",
+        "answers": [ "ti tingu" ]
+      },
+      {
+        "prompt": "the help",
+        "answers": [ "ti helpu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "that night",
+        "answers": [ "ti nigtu" ]
+      },
+    ]
+  },
+  {
+    "name": "Importation (6)",
+    "text": "c is replaced with k when it sounds like k",
+    "examples": [
+      {
+        "prompt": "a fact",
+        "answers": [ "faktu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "music",
+        "answers": [ "musiku" ]
+      },
+    ]
+  },
+  {
+    "name": "Importation (7)",
+    "text": "c is replaced with s when it does not sound like k",
+    "examples": [
+      {
+        "prompt": "a change",
+        "answers": [ "sangu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "this face",
+        "answers": [ "ti fasu" ]
+      },
+    ]
+  },
+  {
+    "name": "Importation (8)",
+    "text": "r is replaced with l",
+    "examples": [
+      {
+        "prompt": "water",
+        "answers": [ "watelu" ]
+      },
+      {
+        "prompt": "a story",
+        "answers": [ "stolu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "the program",
+        "answers": [ "ti ploglamu" ]
+      },
+    ]
+  },
+  {
+    "name": "Importation (9)",
+    "text": "v is replaced with b",
+    "examples": [
+      {
+        "prompt": "a level",
+        "answers": [ "lebelu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "the love",
+        "answers": [ "ti lobu" ]
+      },
+    ]
+  },
+  {
+    "name": "Importation (10)",
+    "text": "z is replaced with s",
+    "examples": [
+      {
+        "prompt": "the magazine",
+        "answers": [ "ti magasinu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "a zebra",
+        "answers": [ "seblu" ]
+      },
+    ]
+  },
+  {
+    "name": "Importation (11)",
+    "text": "j is replaced with y",
+    "examples": [
+      {
+        "prompt": "a jungle",
+        "answers": [ "yunglu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "a joke",
+        "answers": [ "yoku" ]
+      },
+    ]
+  },
+  {
+    "name": "Importation (12)",
+    "text": "q is replaced with k",
+    "examples": [
+      {
+        "prompt": "a question",
+        "answers": [ "kustinu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "a quality",
+        "answers": [ "kulitu" ]
+      },
+    ]
+  },
+  {
+    "name": "Importation (13)",
+    "text": "x is replaced with ks",
+    "examples": [
+      {
+        "prompt": "an exit",
+        "answers": [ "eksitu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "a tax",
+        "answers": [ "taksu" ]
+      },
+    ]
+  },
+  {
+    "name": "Importation (14)",
+    "text": "w is removed when l/r follows it. This happens rarely, you will see examples later",
+  },
+  {
+    "name": "Importation (15)",
+    "text": "When a consonant follows the same consonant, it is removed",
+    "examples": [
+      {
+        "prompt": "coffee",
+        "answers": [ "kofu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "hello",
+        "answers": [ "helu" ]
+      },
+    ]
+  },
+  {
+    "name": "Verb in the active voice",
+    "text": "Verbs in the active voice end with a. They are mostly based on the infinitive form. They don't change",
+    "examples": [
+      {
+        "prompt": "to_say",
+        "answers": [ "saya" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "to_go",
+        "answers": [ "ga" ]
+      },
+    ]
+  },
+  {
+    "name": "Copula",
+    "text": '"to be" is "ba". It can be removed if the sentence stays understandable.',
+    "examples": [
+      {
+        "prompt": "a human is an animal",
+        "answers": [ "humanu ba animalu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "the school is the house",
+        "answers": [ "ti skolu ba ti hosu" ]
+      },
+    ]
+  },
+  {
+    "name": "Pronoun",
+    "text": "Pronouns take the noun ending (u) ; I -> mu ; you -> yu ; he/she/it -> hu",
+    "examples": [
+      {
+        "prompt": "I have hope",
+        "answers": [ "mu haba hopu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "you say a thing",
+        "answers": [ "yu saya tingu" ]
+      },
+    ]
+  },
+  {
+    "name": "Pronoun as an object",
+    "text": "Pronouns stay the same when they are objects ; me -> mu ; you -> yu ; him/her/it -> hu",
+    "examples": [
+      {
+        "prompt": "you can have it",
+        "answers": [ "yu kana haba hu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "she knows her",
+        "answers": [ "hu knowa hu" ]
+      },
+    ]
+  },
+  {
+    "name": "Plural pronoun",
+    "text": "Plural pronouns are made by duplicating the singular pronoun ; we/us -> mumu ; you/your -> yuyu ; they/them -> huhu",
+    "examples": [
+      {
+        "prompt": "we make a group",
+        "answers": [ "mumu maka glopu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "he takes them",
+        "answers": [ "hu taka huhu" ]
+      },
+    ]
+  },
+  {
+    "name": "Possesive",
+    "text": "Possesives are made by replacing the last u of a pronoun with i. For non-pronouns, you can use the preposition \"ofo\" followed by the owner",
+    "examples": [
+      {
+        "prompt": "I see his problem",
+        "answers": [ "mu sa hi ploblemu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "they need your love",
+        "answers": [ "huhu neda yi lobu" ]
+      },
+    ]
+  },
+  {
+    "name": "Adjective",
+    "text": "Adjectives end with i and are placed before nouns",
+    "examples": [
+      {
+        "prompt": "I want good food",
+        "answers": [ "mu wanta godi fodu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "he has a big head",
+        "answers": [ "hu haba bigi hedu" ]
+      },
+    ]
+  },
+  {
+    "name": "Prefix for opposite (na-)",
+    "text": "The prefix na expresses the opposite of a word",
+    "examples": [
+      {
+        "prompt": "bad",
+        "answers": [ "nagodi" ]
+      },
+      {
+        "prompt": "morning",
+        "answers": [ "nanigtu" ]
+      },
+      {
+        "prompt": "to_give",
+        "answers": [ "nataka" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "small",
+        "answers": [ "nabigi", "tini" ]
+      },
+    ]
+  },
+  {
+    "name": "Quantifier (examples)",
+    "text": "They are adjectives",
+    "examples": [
+      {
+        "prompt": "all",
+        "answers": [ "ali" ]
+      },
+      {
+        "prompt": "no",
+        "answers": [ "ni" ]
+      },
+      {
+        "prompt": "many / very / much / a_lot",
+        "answers": [ "mani" ]
+      },
+      {
+        "prompt": "few / some",
+        "answers": [ "namani" ]
+      },
+    ]
+  },
+  {
+    "name": "Gender",
+    "text": "You can precise the gender of a noun/pronoun with an adjective",
+    "examples": [
+      {
+        "prompt": "he",
+        "answers": [ "mali hu" ]
+      },
+      {
+        "prompt": "she",
+        "answers": [ "femi hu" ]
+      },
+      {
+        "prompt": "father",
+        "answers": [ "mali palentu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "mother",
+        "answers": [ "femi palentu" ]
+      },
+    ]
+  },
+  {
+    "name": "Number",
+    "text": "Plurality can be expressed with \"poly\", but many adjectives can do it too",
+    "examples": [
+      {
+        "prompt": "cat / cats",
+        "answers": [ "katu" ]
+      },
+      {
+        "prompt": "one cat / cat",
+        "answers": [ "one katu" ]
+      },
+      {
+        "prompt": "several cats / cats",
+        "answers": [ "poli katu" ]
+      },
+      {
+        "prompt": "many cats",
+        "answers": [ "mani katu" ]
+      },
+      {
+        "prompt": "no cat",
+        "answers": [ "ni katu" ]
+      },
+      {
+        "prompt": "all cats",
+        "answers": [ "ali katu" ]
+      },
+    ]
+  },
+  {
+    "name": "Experimental! Fast plural",
+    "text": "A fast way to express plurality is to put an additional u after a noun. It does not have to be present, especially if an adjective indicates it",
+    "examples": [
+      {
+        "prompt": "cat / cats",
+        "answers": [ "katu" ]
+      },
+      {
+        "prompt": "cats",
+        "answers": [ "katuu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "dogs",
+        "answers": [ "doguu" ]
+      },
+    ]
+  },
+  {
+    "name": "Adverb",
+    "text": "i-words that are not placed before a noun are adverbs",
+    "examples": [
+      {
+        "prompt": "the cat sleeps well",
+        "answers": [ "ti katu slepa godi" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "the horse runs fast",
+        "answers": [ "ti holsu luna fasti" ]
+      },
+    ]
+  },
+  {
+    "name": "Time",
+    "text": "You can express the past (wasi) or the future (wili) with an adverb",
+    "examples": [
+      {
+        "prompt": "I talked / I was talking",
+        "answers": [ "mu wasi talka" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "I will talk",
+        "answers": [ "mu wili talka" ]
+      },
+    ]
+  },
+  {
+    "name": "Experimental! Fast past",
+    "text": "A fast way to express past is to put an additional a after an active verb (or e after a passive verb)",
+    "examples": [
+      {
+        "prompt": "I slept / I was sleeping",
+        "answers": [ "mu wasi slepa" ]
+      },
+      {
+        "prompt": "I slept / I was sleeping",
+        "answers": [ "mu slepaa" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "you studied",
+        "answers": [ "yu studaa" ]
+      },
+    ]
+  },
+  {
+    "name": "Aspect",
+    "text": "You can express that an action is ongoing (kepi) or completed (hadi) with an adverb",
+    "examples": [
+      {
+        "prompt": "I ate / I was eating",
+        "answers": [ "mu wasi eta" ]
+      },
+      {
+        "prompt": "I was eating (in the past, the action is ongoing)",
+        "answers": [ "mu wasi kepi eta" ]
+      },
+      {
+        "prompt": "I had eaten (in the past, the action is completed)",
+        "answers": [ "mu wasi hadi eta" ]
+      },
+    ],
+  },
+  {
+    "name": "Derived verb with e",
+    "text": "Word endings can be freely changed to form a word in a new word-class. Changing active verbs into passive verbs can replace some English verbs",
+    "examples": [
+      {
+        "prompt": "the bird kills the mouse",
+        "answers": [ "ti bildu kila ti mosu" ]
+      },
+      {
+        "prompt": "the mouse is_killed_by the bird",
+        "answers": [ "ti mosu kile ti bildu" ]
+      },
+      {
+        "prompt": "the mouse dies_by the bird",
+        "answers": [ "ti mosu kile ti bildu" ]
+      },
+      {
+        "prompt": "a dog scares a cat",
+        "answers": [ "dogu skala katu" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "a cat is_afraid_of a dog",
+        "answers": [ "katu skale dogu" ]
+      },
+    ]
+  },
+  {
+    "name": "Chained verb",
+    "text": "Verbs can be chained",
+    "examples": [
+      {
+        "prompt": "you can use the map",
+        "answers": [ "yu kana usa ti mapu" ]
+      },
+      {
+        "prompt": "a tool can be_made",
+        "answers": [ "tolu kana make" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "you must find the place",
+        "answers": [ "yu musta finda ti plasu" ]
+      },
+    ]
+  },
+  {
+    "name": "Preposition (1)",
+    "text": "Prepositions end with o",
+    "examples": [
+      {
+        "prompt": "I am in the train",
+        "answers": [ "mu ba bo ti tlanu" ]
+      },
+      {
+        "prompt": "I am out_of the train",
+        "answers": [ "mu ba nabo ti tlanu" ]
+      },
+    ]
+  },
+  {
+    "name": "Preposition (2)",
+    "text": "Note: \"to go\" and \"to come\" can both be expressed with \"to go\" and the preposition \"to\" or \"from\"",
+    "examples": [
+      {
+        "prompt": "I go to the town",
+        "answers": [ "mu ga to ti townu" ]
+      },
+      {
+        "prompt": "I come from the town",
+        "answers": [ "mu ga nato ti townu" ]
+      },
+    ]
+  },
+  {
+    "name": "Preposition (3)",
+    "text": "",
+    "examples": [
+      {
+        "prompt": "he voted for you",
+        "answers": [ "hu wasi bota folo yu" ]
+      },
+      {
+        "prompt": "he voted against you",
+        "answers": [ "hu wasi bota nafolo yu" ]
+      },
+    ]
+  },
+  {
+    "name": "Preposition (4)",
+    "text": "",
+    "examples": [
+      {
+        "prompt": "the card is_made of paper",
+        "answers": [ "ti kaldu make ofo papelu" ]
+      },
+      {
+        "prompt": "this is the bed of my cat",
+        "answers": [ "ti ba ti bedu ofo mi katu" ]
+      },
+    ]
+  },
+  {
+    "name": "Preposition (5)",
+    "text": "",
+    "examples": [
+      {
+        "prompt": "he is on the train",
+        "answers": [ "hu ba bo ti tlanu" ]
+      },
+      {
+        "prompt": "you are in the house",
+        "answers": [ "yu ba bo ti hosu" ]
+      },
+      {
+        "prompt": "I am at the station",
+        "answers": [ "mu ba bo ti statinu" ]
+      },
+      {
+        "prompt": "I am out_of the station",
+        "answers": [ "mu ba nabo ti statinu" ]
+      },
+    ]
+  },
+  {
+    "name": "Preposition (6)",
+    "text": "",
+    "examples": [
+      {
+        "prompt": "under the table",
+        "answers": [ "downo ti tablu" ]
+      },
+      {
+        "prompt": "over the table",
+        "answers": [ "upo ti tablu" ]
+      }
+    ]
+  },
+  {
+    "name": "Preposition (7)",
+    "text": "",
+    "examples": [
+      {
+        "prompt": "with my friend",
+        "answers": [ "wito mi flindu" ]
+      },
+      {
+        "prompt": "with a tool",
+        "answers": [ "wito tolu" ]
+      },
+      {
+        "prompt": "without help",
+        "answers": [ "nawito helpu" ]
+      },
+    ]
+  },
+  {
+    "name": "Preposition (8)",
+    "text": "",
+    "examples": [
+      {
+        "prompt": "before the night",
+        "answers": [ "waso ti nigtu" ]
+      },
+      {
+        "prompt": "after the night",
+        "answers": [ "wilo ti nigtu" ]
+      }
+    ]
+  },
+  {
+    "name": "Preposition (9)",
+    "text": "",
+    "examples": [
+      {
+        "prompt": "because_of the rain",
+        "answers": [ "bekaso ti lanu" ]
+      },
+      {
+        "prompt": "until this day",
+        "answers": [ "tilo ti dayu" ]
+      }
+    ]
+  },
+  {
+    "name": "Preposition (10)",
+    "text": "Prepositions are not a closed word-class. If you create a preposition from a u-word, then the o-word means \"in/at u-word of\"",
+    "examples": [
+      {
+        "prompt": "instead_of an apple",
+        "answers": [ "stedo aplu" ]
+      },
+      {
+        "prompt": "during the night",
+        "answers": [ "dulingo ti nigtu" ]
+      },
+      {
+        "prompt": "except the cat",
+        "answers": [ "eksepto ti katu" ]
+      },
+    ]
+  },
+  {
+    "name": "Preposition (11)",
+    "text": "",
+    "examples": [
+      {
+        "prompt": "according_to him",
+        "answers": [ "tinko hu" ]
+      },
+      {
+        "prompt": "about him",
+        "answers": [ "aboto hu" ]
+      },
+      {
+        "prompt": "through him",
+        "answers": [ "tlogo hu" ]
+      },
+      {
+        "prompt": "better than him",
+        "answers": [ "moli godi tano hu" ]
+      },
+    ]
+  },
+  {
+    "name": "Conjunction",
+    "text": "Conjunctions (and all other words except of numbers) end with o ",
+    "examples": [
+      {
+        "prompt": "an apple and an orange",
+        "answers": [ "aplu ando olangu" ]
+      },
+      {
+        "prompt": "an apple or an orange",
+        "answers": [ "aplu olo olangu" ]
+      },
+    ]
+  },
+  {
+    "name": "Do-question",
+    "text": "Do-questions start with \"do\", they can be answered with \"yeso\" or \"no\"",
+    "examples": [
+      {
+        "prompt": "do I look pretty?",
+        "answers": [ "do mu sema pleti?" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "do you like a plant?",
+        "answers": [ "do yu lika plantu?" ]
+      },
+    ]
+  },
+  {
+    "name": "Affirmation and negation",
+    "text": "Affirmations are done with yeso and negations with no before the concerned word.",
+    "examples": [
+      {
+        "prompt": "I do like sleeping",
+        "answers": [ "mu yeso lika slepa" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "I don't like sleeping",
+        "answers": [ "mu no lika slepa" ]
+      },
+    ]
+  },
+  {
+    "name": "Position of no",
+    "text": "Be sure to place \"no\" before the word you negate",
+    "examples": [
+      {
+        "prompt": "not me wants an apple",
+        "answers": [ "no mu wanta aplu" ]
+      },
+      {
+        "prompt": "I don't want an apple",
+        "answers": [ "mu no wanta aplu" ]
+      },
+      {
+        "prompt": "I want not an apple (but)",
+        "answers": [ "mu wanta no aplu" ]
+      },
+    ],
+  },
+  {
+    "name": "Wi-question",
+    "text": "Wi-questions are made with \"wi\" and the tone. \"wi\" is placed before the word you are asking about. \"wi\" + the word are often moved to the start of the sentence, but they don't have to be.",
+    "examples": [
+      {
+        "prompt": "which apple do you want?",
+        "answers": [ "wi aplu yu wanta?" ]
+      },
+      {
+        "prompt": "who (which person) did you help?",
+        "answers": [ "wi pelsonu yu wasi helpa?" ]
+      },
+      {
+        "prompt": "when (at which time) will you go?",
+        "answers": [ "bo wi timu yu wili ga? / wi timi yu wili ga?" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "where (at which place) do you stay?",
+        "answers": [ "bo wi plasu yu staya?", "wi plasi yu staya?" ]
+      },
+    ]
+  },
+  {
+    "name": "Number",
+    "text": "Numbers don't have a special ending (so they look and sound more distinct). When a number (0-9) does not end with a vowel, u is added",
+    "examples": [
+      {
+        "prompt": "zero one two three four five six seven eight nine ten hundred thousand",
+        "answers": [ "selo one two tle folu fibe siksu sebenu egtu nine tenu hundledu tosandu" ]
+      },
+    ]
+  },
+  {
+    "name": "Big number",
+    "text": "",
+    "examples": [
+      {
+        "prompt": "133 000",
+        "answers": [ "hundledu tle tenu tle tosandu" ]
+      },
+      {
+        "prompt": "11 235",
+        "answers": [ "tenu one tosandu two hundledu tle tenu fibe" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "5 201",
+        "answers": [ "fibe tosandu two hundledu one" ]
+      },
+    ]
+  },
+  {
+    "name": "Ordinal number",
+    "text": "Ordinal numbers are made by adding i, don't forget to pronounce each vowel (a/e/i/o/u) separately",
+    "examples": [
+      {
+        "prompt": "first",
+        "answers": [ "onei" ]
+      },
+      {
+        "prompt": "second",
+        "answers": [ "twoi" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "third",
+        "answers": [ "tlei" ]
+      },
+    ]
+  },
+  {
+    "name": "Correlative (1)",
+    "text": "Some planned languages have a concept called \"correlatives\". They can be recreated in Heli using adjectives and nouns",
+    "examples": [
+      {
+        "prompt": "I see that (thing)",
+        "answers": [ "mu sa ti (tingu)" ]
+      },
+      {
+        "prompt": "I love this person",
+        "answers": [ "mu loba ti pelsonu" ]
+      },
+      {
+        "prompt": "I eat there (at that place)",
+        "answers": [ "mu eta bo ti plasu / mu eta ti plasi" ]
+      },
+      {
+        "prompt": "I like this type of cloth",
+        "answers": [ "mu lika ti tipu ofo klotu" ]
+      },
+      {
+        "prompt": "I walk for this reason",
+        "answers": [ "mu walka folo ti lesonu / mu walka ti lesoni" ]
+      },
+    ],
+  },
+  {
+    "name": "Correlative (2)",
+    "text": "Note: when you see \"ti\", \"wi\", \"ali\", \"ni\", \"ani\", \"oteli\" and other similar words without a word at the right, you can imagine the word \"tingu\" there",
+    "examples": [
+      {
+        "prompt": "why do you study this?",
+        "answers": [ "wi lesoni yu studa ti? / folo wi lesonu yu studa ti?" ]
+      },
+      {
+        "prompt": "how_much do you want?",
+        "answers": [ "wi kuntitu yu wanta?" ]
+      },
+      {
+        "prompt": "it can sleep everywhere",
+        "answers": [ "hu kana slepa ali plasi / hu kana slepa bo ali plasu" ]
+      },
+      {
+        "prompt": "how do you do this?",
+        "answers": [ "wi maneli yu maka ti? / bo wi manelu yu maka ti?" ]
+      },
+      {
+        "prompt": "I never liked him",
+        "answers": [ "mu ni timi wasi lika hu / mu wasi lika hu bo ni timu" ]
+      },
+    ],
+  },
+  {
+    "name": "Content clause",
+    "text": "The \"that\" used in English to link this kind of clause can be removed. In \"mu want yu slepa\", you can see \"yu slepa\" as the object of the verb \"wanta\"",
+    "examples": [
+      {
+        "prompt": "I want that you sleep",
+        "answers": [ "mu wanta yu slepa" ]
+      },
+      {
+        "prompt": "he said that he will win",
+        "answers": [ "hu wasi saya hu wili wina" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "I hope that the language is easy",
+        "answers": [ "mu hopa ti langugu ba esi", "mu hopa ti langugu esi" ]
+      },
+    ]
+  },
+  {
+    "name": "Relative clause (1)",
+    "text": "They start with a comma and \"wi\". \"wi\" refers to something in the main clause, that is sometimes not explicitly written in English. You can see \"ti\" and \"wi\" as a bridge between the main clause and the relative clause",
+    "examples": [
+      {
+        "prompt": "I want (that,) what you have",
+        "answers": [ "mu wanta (ti (tingu)), wi (tingu) yu haba" ]
+      },
+      {
+        "prompt": "I am (there,) where you want",
+        "answers": [ "mu ba (ti plasi), wi plasi yu wanta" ]
+      },
+      {
+        "prompt": "I don't understand (that,) what I can do",
+        "answers": [ "mu no glaspa (ti (tingu)), wi (tingu) mu kana maka" ]
+      },
+    ]
+  },
+  {
+    "name": "Relative clause (2)",
+    "text": "Be aware that in English, it is sometimes the \"wi\"-part that is not written. In Heli the \"wi\"-part (in the relative clause) is always written, and the \"ti\"-part (in the main clause) can be removed if the sentence stays understandable",
+    "examples": [
+      {
+        "prompt": "I love the person(, which person) you love",
+        "answers": [ "mu loba (ti pelsonu), wi (pelsonu) yu loba" ]
+      },
+      {
+        "prompt": "he broke the lamp(, what (lamp)) you made",
+        "answers": [ "hu wasi bleka (ti lampu), wi (lampu) yu wasi maka" ]
+      },
+    ]
+  },
+  {
+    "name": "Participle (1)",
+    "text": "Participles are replaced by relative clauses",
+    "examples": [
+      {
+        "prompt": "the killing cat",
+        "answers": [ "ti katu, wi kila" ]
+      },
+      {
+        "prompt": "the cat, who is killing a bird / the cat, who kills birds",
+        "answers": [ "ti katu, wi kila bildu" ]
+      },
+      {
+        "prompt": "the killer cat",
+        "answers": [ "ti katu, wi kila" ]
+      },
+    ],
+    "tests": [
+      {
+        "prompt": "the killed bird",
+        "answers": [ "ti bildu, wi kile" ]
+      },
+    ]
+  },
+  {
+    "name": "Participle (2)",
+    "text": "",
+    "examples": [
+      {
+        "prompt": "a sleeper",
+        "answers": [ "(tingu) wi slepa" ]
+      },
+      {
+        "prompt": "a killer",
+        "answers": [ "(tingu) wi kila" ]
+      },
+      {
+        "prompt": "the cat is a killer",
+        "answers": [ "ti katu ba wi kila" ]
+      },
+    ]
+  },
+];
