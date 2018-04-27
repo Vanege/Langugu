@@ -145,7 +145,7 @@ export const lessons = [
   },
   {
     "name": "Importation (2)",
-    "text": "y at the end is removed when it does not follow a consonant",
+    "text": "When y is at the end, look at the letter before it. If it is a consonant, remove y",
     "examples": [
       {
         "prompt": "a body",
@@ -513,7 +513,7 @@ export const lessons = [
       },
       {
         "prompt": "no",
-        "answers": [ "ni" ]
+        "answers": [ "selo" ]
       },
       {
         "prompt": "many / very / much / a_lot",
@@ -571,7 +571,7 @@ export const lessons = [
       },
       {
         "prompt": "no cat",
-        "answers": [ "ni katu" ]
+        "answers": [ "selo katu" ]
       },
       {
         "prompt": "all cats",
@@ -1081,7 +1081,7 @@ export const lessons = [
       },
       {
         "prompt": "I never liked him",
-        "answers": [ "mu ni timi wasi lika hu / mu wasi lika hu bo ni timu" ]
+        "answers": [ "mu selo timi wasi lika hu / mu wasi lika hu bo selo timu" ]
       },
     ],
   },
