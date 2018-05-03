@@ -209,38 +209,20 @@ Ili estas anstataŭigeblaj per mallongaj rilataj subfrazoj:
 
 > katu, wi eta, : kato kiu manĝas = kato manĝanta / kato manĝinta  
 > katu, wi ete, : kato kiu estas manĝata = kato manĝata / kato manĝita  
-> katu, wi hadi ete, : kato kiu estas manĝita = kato manĝita
+> katu, wi hadi ete, : kato kiu estas manĝita = kato manĝita  
 
-
-## Krei vorton
-
-Kiel en Esperanto, vortoj povas esti kreitaj laŭ bezono. Foje, tiuj vortoj jam ekzistas en la Angla, kaj oni povas rekte importi ilin de la Angla post ŝanĝo (legu sube) sen bezoni krei vorton. Tamen importitaj vortoj povas esti malfacile rekoneblaj skribe aŭ aŭde pro la suba algoritmo, aŭ malofte konataj de neangleparolantaj denaskuloj. Do oni provu rekrei malsimplajn anglajn vortojn per simplaj anglaj vortoj importitaj, kiujn oni kunmetas.
-
-### Radik-kunmetado
-
-Simile al Esperanto, sed kun **-** inter la dekstra (ĉefa) kaj maldekstra (priskriba) radiko. La signo **-** estas elparolata **/o/**.
-
-> mol-godi: pli bona    
-> most-godi: plej bona    
-> big-hosu: domego
-> begin-pelsonu: komenculo/komencanto  
-> et-tolu: manĝilo  
-> bad-pelsonu: aĉulo
-> leln-maka: lernigi
-> et-abli: manĝebla
-> et-kani: manĝpova
-> big-nesu: grandeco
-> hop-fuli: esperplene
-
-### Prefikso na-
+## Prefikso na-
 
 Ĝi funkcias kiel mal- en Esperanto. Ĝi estas uzata pli ofte ol en Esperanto. Ĝi helpas eviti vortajn koliziojn (kiam du vortoj rezultiĝas samsone.)
 
 * **na**fasti: **mal**rapida  
 
+
 ## Importi vorton el la Angla
 
-Antaŭ ĉio, demandu al la homoj ĉirkaŭ vi, tio ankaŭ certigos ke ili komprenos vin kiam vi uzos la vorton.  
+Antaŭ ol importi vorton el la Angla, oni provu trovi ĉu jam ekzistas sinonimo en Heli. Ekzemple, oni ne bezonas importi "quick" ĉar jam ekzistas "fasti" por fast. Oni ankaŭ rigardu ĉu eblas simple aldoni la prefikson na-. Ekzemple, oni ne bezonas importi "hard" ĉar oni jam havas "softi" kaj "esi", oni do povas konstrui "nasofti" kaj "naesi". Oni ankaŭ rigardu ĉu eblas simple aldoni adjektivon aŭ adverbon. Ekemple, oni ne bezonas importi "to prefer" ĉar oni jam povas diri "moli lika", kaj oni ne bezonas importi "to agree" ĉar oni jam povas diri "sami tinka".  
+
+Antaŭ ĉio, demandu al la homoj ĉirkaŭ vi ĉu ili jam havas vorton por tio, tio certigos ke ili komprenos vin kiam vi uzos la vorton.  
 
 A. Konsultu la konsilan vortaron el la Angla: https://github.com/Vanege/talkeru/blob/master/english-dictionary
 
@@ -280,7 +262,7 @@ C. Provu radik-kunmetadon kaj afiksojn (legu supre).
 
 14) Forigu w kiam ĝi estas antaŭ r/l. (write -> lit)
 
-Foje la rezulta vorto estas tro longa, aŭ havas ĝenan konsonantaron (undeLSTanda), do oni preferu vorton iom malpli oftan kiu povas havi tiun sencon (folowa). Foje, vorto estas malpli rekonebla (stalta), do oni preferu vorton malpli ŝanĝitan de la algoritmo (begina). Tio, kio gravas, por ke la lingvo estu facila, estas ke **oni uzu la vortojn, kiuj estas plej bone rekonataj de baznivelaj angleparolantoj kaj uzantoj de Heli**. Por tio, oni ofte imitu la skribadon de oftaj uzantoj, ĉar ili uzas la vortojn, kiujn ili kapablas memori kaj komprenigi.
+Foje la rezulta vorto estas tro longa, aŭ havas ĝenan konsonantaron (undeLSTanda), do oni preferu vorton iom malpli oftan kiu povas havi tiun sencon (glaspa). Foje, vorto estas malpli rekonebla (stalta), do oni preferu vorton malpli ŝanĝitan de la algoritmo (begina). Tio, kio gravas, por ke la lingvo estu facila, estas ke **oni uzu la vortojn, kiuj estas plej bone rekonataj de baznivelaj angleparolantoj kaj uzantoj de Heli**. Por tio, oni ofte imitu la skribadon de oftaj uzantoj, ĉar ili uzas la vortojn, kiujn ili kapablas memori kaj komprenigi.  
 
 
 ## Faciliga ə
