@@ -551,7 +551,7 @@ export const lessons = [
   },
   {
     "name": "Number",
-    "text": "Plurality can be expressed with \"poly\", but many adjectives can do it too",
+    "text": "Plurality can be expressed with \"poli\", but many adjectives can do it too. Numbers (like \"selo\" and \"one\") don't follow the importation rules. You will see them later",
     "examples": [
       {
         "prompt": "cat / cats",
@@ -719,7 +719,7 @@ export const lessons = [
   },
   {
     "name": "Preposition (1)",
-    "text": "Prepositions end with o",
+    "text": "Prepositions end with o. Prepositions in the course are suggestions. You can still import English prepositions and add the -o ending",
     "examples": [
       {
         "prompt": "I am in the train",
@@ -801,11 +801,11 @@ export const lessons = [
     "examples": [
       {
         "prompt": "under the table",
-        "answers": [ "downo ti tablu" ]
+        "answers": [ "undelo ti tablu" ]
       },
       {
         "prompt": "over the table",
-        "answers": [ "upo ti tablu" ]
+        "answers": [ "obelo ti tablu" ]
       }
     ]
   },
@@ -988,8 +988,12 @@ export const lessons = [
     "text": "Numbers don't have a special ending (so they look and sound more distinct). When a number (0-9) does not end with a vowel, u is added",
     "examples": [
       {
-        "prompt": "zero one two three four five six seven eight nine ten hundred thousand",
-        "answers": [ "selo one two tle folu fibe siksu sebenu egtu nine tenu hundledu tosandu" ]
+        "prompt": "zero one two three four five six",
+        "answers": [ "selo one two tle folu fibe siksu" ]
+      },
+      {
+        "prompt": "seven eight nine ten hundred thousand",
+        "answers": [ "sebenu egtu nine tenu hundledu tosandu" ]
       },
     ]
   },
@@ -1069,7 +1073,7 @@ export const lessons = [
       },
       {
         "prompt": "how_much do you want?",
-        "answers": [ "wi kuntitu yu wanta?" ]
+        "answers": [ "wi kuntitu yu wanta? / wi amontu yu wanta" ]
       },
       {
         "prompt": "it can sleep everywhere",
@@ -1087,7 +1091,7 @@ export const lessons = [
   },
   {
     "name": "Content clause",
-    "text": "The \"that\" used in English to link this kind of clause can be removed. In \"mu want yu slepa\", you can see \"yu slepa\" as the object of the verb \"wanta\"",
+    "text": "The \"that\" used in English to link this kind of clause can be removed. In \"mu wanta yu slepa\", you can see \"yu slepa\" as the object of the verb \"wanta\"",
     "examples": [
       {
         "prompt": "I want that you sleep",
