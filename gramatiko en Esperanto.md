@@ -77,8 +77,8 @@ ofo: de, da
 bo: en, ĉe, je  
 nabo: ekster  
 nelo: apud  
-downo: sub  
-upo / bo / nadowno: sur, super  
+undelo: sub  
+obelo: sur, super  
 wito / bo: kun, per  
 nawito / nabo: sen  
 bekaso: pro, ĉar  
@@ -232,13 +232,11 @@ Simile al Esperanto, sed kun **-** inter la dekstra (ĉefa) kaj maldekstra (pris
 > big-nesu: grandeco
 > hop-fuli: esperplene
 
-### Afiksoj
+### Prefikso na-
 
-Ekzistas malpli da afiksoj ol en Esperanto. Oni preferas kunmeti radikojn, tiel la vortoj restas pli rekoneblaj kaj ne ekzistas du vortoj por la sama afero. (ulo/persono, ejo/loko ...)
+Ĝi funkcias kiel mal- en Esperanto. Ĝi estas uzata pli ofte ol en Esperanto. Ĝi helpas eviti vortajn koliziojn (kiam du vortoj rezultiĝas samsone.)
 
-* **na**fasti: **mal**rapida
-* **le**begina: **re**komenci
-* begin**el**u: komenca**nt**o (kaj -int- -ont- -it- -ot- -ul- -ist- -il- ktp)
+* **na**fasti: **mal**rapida  
 
 ## Importi vorton el la Angla
 
