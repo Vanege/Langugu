@@ -1,3 +1,6 @@
+:gb: You can learn Heli from English here: https://heli-demo-course.glitch.me/
+
+
 ## Heli ba wi tingu?
 
 :sunny: Heli ba langugu wito simpli glamatiku, wi usa inglisi woldu, wi sange wito algolitmu folo maka ali tingu moli esi.  
