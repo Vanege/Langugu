@@ -1,4 +1,6 @@
-:gb: You can learn Heli from English here: https://heli-demo-course.glitch.me/
+Kolsu / Course / Kurso : https://heli-demo-course.glitch.me/  
+Blogu / Blog / Blogo : https://medium.com/helu-heli  
+Komunitu / Community / Komunumo : https://t.me/joinchat/EjukbkmivHgrInfX_5nJ4A  
 
 
 ## Heli ba wi tingu?
