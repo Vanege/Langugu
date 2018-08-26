@@ -138,7 +138,8 @@ Por ordaj nombroj, oni aldonas la adjektivan finaĵon -i.
 La unua elemento estas adjektivo, la dua elemento estas normala vorto, do oni devas atenti pri la finaĵo. 
 
 * **ti** = tiu / la  
-* **wi** = kiu  
+* **wi** = kiu (demanda)  
+* **ki** = kiu (rilata)  
 * **ni** = neniu   
 * **ali** = ĉiu  
 * **oteli** = alia    
@@ -170,12 +171,12 @@ Se oni volas klarigi, oni povas uzi "ti (tingu):" (tiu (afero)) kun identiga pri
 
 ## Rilataj subfrazoj
 
-Kiel la ti-ki-pontoj de Esperanto: oni mencias parton de ĉeffrazo per "wi (u-vorto)" en subfrazo. Por klarigi komencon de subfrazo, oni povas uzi ",".
+Kiel la ti-ki-pontoj de Esperanto: oni mencias parton de ĉeffrazo per "ki (u-vorto)" en subfrazo. Por klarigi komencon de subfrazo, oni povas uzi ",".
 
 *  Mi volas la pomon, kiun vi manĝas: 
  
->    mu wanta **ti aplo**, **wi (aplo)** yu eta // OSV-subfrazo  
->    mu wanta **ti aplo**, yu eta **wi (aplo)** // SVO-subfrazo  
+>    mu wanta **ti aplu**, **ki (aplu)** yu eta // OSV-subfrazo  
+>    mu wanta **ti aplu**, yu eta **ki (aplu)** // SVO-subfrazo  
     
 Kiel en Esperanto, la ti-parto povas esti neskribita, aŭ povas esti alia tabelparto:
 
@@ -198,7 +199,7 @@ Verbo por "esti" ekzistas ("ba"), sed ofte ne estas uzata. Se oni vidas u-vorton
 
 Pivota strukturo povas helpi simpligi frazojn:
 
-* mu wanta **aplo, wi yu eta**: mi volas pomon, kiun vi manĝas  
+* mu wanta **aplo, ki yu eta**: mi volas pomon, kiun vi manĝas  
 
 > mu wanta **aplo ete yu**: mi volas pomon manĝatan de vi
 
@@ -207,9 +208,9 @@ Pivota strukturo povas helpi simpligi frazojn:
 
 Ili estas anstataŭigeblaj per mallongaj rilataj subfrazoj:
 
-> katu, wi eta, : kato kiu manĝas = kato manĝanta / kato manĝinta  
-> katu, wi ete, : kato kiu estas manĝata = kato manĝata / kato manĝita  
-> katu, wi hadi ete, : kato kiu estas manĝita = kato manĝita  
+> katu, ki eta, : kato kiu manĝas = kato manĝanta / kato manĝinta  
+> katu, ki ete, : kato kiu estas manĝata = kato manĝata / kato manĝita  
+> katu, ki hadi ete, : kato kiu estas manĝita = kato manĝita  
 
 ## Prefikso na-
 
@@ -262,7 +263,7 @@ C. Provu radik-kunmetadon kaj afiksojn (legu supre).
 
 14) Forigu w kiam ĝi estas antaŭ r/l. (write -> lit)
 
-Foje la rezulta vorto estas tro longa, aŭ havas ĝenan konsonantaron (undeLSTanda), do oni preferu vorton iom malpli oftan kiu povas havi tiun sencon (glaspa). Foje, vorto estas malpli rekonebla (stalta), do oni preferu vorton malpli ŝanĝitan de la algoritmo (begina). Tio, kio gravas, por ke la lingvo estu facila, estas ke **oni uzu la vortojn, kiuj estas plej bone rekonataj de baznivelaj angleparolantoj kaj uzantoj de Heli**. Por tio, oni ofte imitu la skribadon de oftaj uzantoj, ĉar ili uzas la vortojn, kiujn ili kapablas memori kaj komprenigi.  
+Foje la rezulta vorto estas tro longa, aŭ havas ĝenan konsonantaron (undeLSTanda), do oni preferu vorton iom malpli oftan kiu povas havi tiun sencon (glaspa). Foje, vorto estas malpli rekonebla (stalta), do oni preferu vorton malpli ŝanĝitan de la algoritmo (begina). Tio, kio gravas, por ke la lingvo estu facila, estas ke **oni uzu la vortojn, kiuj estas plej bone rekonataj de baznivelaj angleparolantoj kaj uzantoj de Heli**. Por tio, oni ofte imitu la skribadon de oftaj uzantoj, ĉar ili uzas la vortojn, kiujn ili kapablas memori kaj komprenigi.
 
 
 ## Faciliga ə
