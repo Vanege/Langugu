@@ -67,6 +67,10 @@ Verbo povas esti en ajna. Oni precizigas per adverbo:
 **mi**: mia/miaj/mian/miajn  
 **mumi**: nia/niaj/nian/niajn  
 
+hu lika hu: ri ŝatas rin / ri ŝatas sin  
+hu lika **selfi** hu: ri ŝatas sin  
+hu lika naselfi hu: ri ŝatas rin (alian personon/aferon)  
+
 
 ## o-vortoj, ekzemploj (ili povas ŝanĝiĝi laŭ la preferoj de la komunumo)
 
