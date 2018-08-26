@@ -1065,7 +1065,7 @@ export const lessons = [
   },
   {
     "name": "Correlative (2)",
-    "text": "Note: when you see \"ti\", \"wi\", \"ali\", \"ni\", \"ani\", \"oteli\" and other similar words without a word at the right, you can imagine the word \"tingu\" there",
+    "text": "Note: when you see \"ti\", \"wi\", \"ki\", \"ali\", \"ni\", \"ani\", \"oteli\" and other similar words without a word at the right, you can imagine the word \"tingu\" there",
     "examples": [
       {
         "prompt": "why do you study this?",
@@ -1111,33 +1111,33 @@ export const lessons = [
   },
   {
     "name": "Relative clause (1)",
-    "text": "They start with a comma and \"wi\". \"wi\" refers to something in the main clause, that is sometimes not explicitly written in English. You can see \"ti\" and \"wi\" as a bridge between the main clause and the relative clause",
+    "text": "They start with a comma and \"ki\". \"ki\" refers to something in the main clause, that is sometimes defined by \"ti\" or an other "correlative". You can see \"ti\" and \"ki\" as a bridge between the main clause and the relative clause",
     "examples": [
       {
         "prompt": "I want (that,) what you have",
-        "answers": [ "mu wanta (ti (tingu)), wi (tingu) yu haba" ]
+        "answers": [ "mu wanta (ti (tingu)), ki (tingu) yu haba" ]
       },
       {
         "prompt": "I am (there,) where you want",
-        "answers": [ "mu ba (ti plasi), wi plasi yu wanta" ]
+        "answers": [ "mu ba (ti plasi), ki plasi yu wanta" ]
       },
       {
         "prompt": "I don't understand (that,) what I can do",
-        "answers": [ "mu no glaspa (ti (tingu)), wi (tingu) mu kana maka" ]
+        "answers": [ "mu no glaspa (ti (tingu)), ki (tingu) mu kana maka" ]
       },
     ]
   },
   {
     "name": "Relative clause (2)",
-    "text": "Be aware that in English, it is sometimes the \"wi\"-part that is not written. In Heli the \"wi\"-part (in the relative clause) is always written, and the \"ti\"-part (in the main clause) can be removed if the sentence stays understandable",
+    "text": "Be aware that in English, it is sometimes the \"ki\"-part that is not written. In Heli the \"ki\"-part (in the relative clause) is always written, and the \"ti\"-part (in the main clause) can be removed if the sentence stays understandable",
     "examples": [
       {
         "prompt": "I love the person(, which person) you love",
-        "answers": [ "mu loba (ti pelsonu), wi (pelsonu) yu loba" ]
+        "answers": [ "mu loba (ti pelsonu), ki (pelsonu) yu loba" ]
       },
       {
         "prompt": "he broke the lamp(, what (lamp)) you made",
-        "answers": [ "hu wasi bleka (ti lampu), wi (lampu) yu wasi maka" ]
+        "answers": [ "hu wasi bleka (ti lampu), ki (lampu) yu wasi maka" ]
       },
     ]
   },
@@ -1147,21 +1147,21 @@ export const lessons = [
     "examples": [
       {
         "prompt": "the killing cat",
-        "answers": [ "ti katu, wi kila" ]
+        "answers": [ "ti katu, ki kila" ]
       },
       {
         "prompt": "the cat, who is killing a bird / the cat, who kills birds",
-        "answers": [ "ti katu, wi kila bildu" ]
+        "answers": [ "ti katu, ki kila bildu" ]
       },
       {
         "prompt": "the killer cat",
-        "answers": [ "ti katu, wi kila" ]
+        "answers": [ "ti katu, ki kila" ]
       },
     ],
     "tests": [
       {
         "prompt": "the killed bird",
-        "answers": [ "ti bildu, wi kile" ]
+        "answers": [ "ti bildu, ki kile" ]
       },
     ]
   },
@@ -1171,15 +1171,15 @@ export const lessons = [
     "examples": [
       {
         "prompt": "a sleeper",
-        "answers": [ "(tingu) wi slepa" ]
+        "answers": [ "(tingu) ki slepa" ]
       },
       {
         "prompt": "a killer",
-        "answers": [ "(tingu) wi kila" ]
+        "answers": [ "(tingu) ki kila" ]
       },
       {
         "prompt": "the cat is a killer",
-        "answers": [ "ti katu ba wi kila" ]
+        "answers": [ "ti katu ba ki kila" ]
       },
     ]
   },
