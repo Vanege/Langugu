@@ -1238,21 +1238,21 @@ export const lessons = [
     "examples": [
       {
         "prompt": "which apple do you want?",
-        "answers": [ "wi aplu yu wanta?" ]
+        "answers": [ "yu wanta wi aplu? / wi aplu yu wanta?" ]
       },
       {
         "prompt": "who (which person) did you help?",
-        "answers": [ "wi pelsonu yu wasi helpa?" ]
+        "answers": [ "yu wasi helpa wi pelsonu? / wi pelsonu yu wasi helpa?" ]
       },
       {
         "prompt": "when (at which time) will you go?",
-        "answers": [ "bo wi timu yu wili ga? / wi timi yu wili ga?" ]
+        "answers": [ "yu wili ga bo wi timu? / yu wili ga wi timi? / bo wi timu yu wili ga? / wi timi yu wili ga?" ]
       },
     ],
     "tests": [
       {
         "prompt": "where (at which place) do you stay?",
-        "answers": [ "bo wi plasu yu staya?", "wi plasi yu staya?" ]
+        "answers": [ "bo wi plasu yu staya?", "wi plasi yu staya?", "yu staya bo wi plasu?", "yu staya wi plasi?" ]
       },
     ]
   },
@@ -1384,7 +1384,7 @@ export const lessons = [
   },
   {
     "name": "Relative clause (1)",
-    "text": "They start with a comma and \"ki\". \"ki\" refers to something in the main clause, that is sometimes defined by \"ti\" or an other "correlative". You can see \"ti\" and \"ki\" as a bridge between the main clause and the relative clause",
+    "text": "They start with a comma and \"ki\". \"ki\" refers to something in the main clause, that is sometimes defined by \"ti\" or an other \"correlative\". You can see \"ti\" and \"ki\" as a bridge between the main clause and the relative clause",
     "examples": [
       {
         "prompt": "I want (that,) what you have",
