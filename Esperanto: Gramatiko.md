@@ -123,7 +123,7 @@ Por ki-demandoj, oni uzas **wi** (kio/kiu what/which) antaŭ la koncernita afero
 
 ## Nombroj
 
-Por ĉiferoj, la vortoj de la Angla estas rekte uzataj. La vokalo -u estas aldonata se vorto ne jam finiĝas per vokalo.
+Por ciferoj, la vortoj de la Angla estas rekte uzataj. La vokalo -u estas aldonata se vorto ne jam finiĝas per vokalo.
 
 * selo, one, two, tle, fol**u**, fibe, siks**u**, seben**u**, egt**u**, nine, ten**u**, hundled**u**, tosand**u** ...
 
@@ -193,7 +193,7 @@ La lingvo ĉiam estas en la vortordo SVO, krom foje en tiuj rilataj subfrazoj, �
 
 ## Pivota strukturo
 
-La objekto de verbo povas esti subjekto alia verbo kiu troviĝas post ĝi:
+La objekto de verbo povas esti la subjekto de alia verbo kiu troviĝas post ĝi:
 
 >  mu **hopa** yu **lika** ti langugu: mi **esperas, ke** vi **ŝatas** tiun lingvon  
 >  mu **wanta** mi katu **lika** mu **giba** fisu: mi **volas, ke** mia kato **ŝatu, ke** mi **donas** fiŝon  
@@ -227,7 +227,7 @@ Ili estas anstataŭigeblaj per mallongaj rilataj subfrazoj:
 
 Antaŭ ol importi vorton el la Angla, oni provu trovi ĉu jam ekzistas sinonimo en Heli. Ekzemple, oni ne bezonas importi "quick" ĉar jam ekzistas "fasti" por fast. Oni ankaŭ rigardu ĉu eblas simple aldoni la prefikson na-. Ekzemple, oni ne bezonas importi "hard" ĉar oni jam havas "softi" kaj "esi", oni do povas konstrui "nasofti" kaj "naesi". Oni ankaŭ rigardu ĉu eblas simple aldoni adjektivon aŭ adverbon. Ekemple, oni ne bezonas importi "to prefer" ĉar oni jam povas diri "moli lika", kaj oni ne bezonas importi "to agree" ĉar oni jam povas diri "sami tinka".  
 
-Antaŭ ĉio, demandu al la homoj ĉirkaŭ vi ĉu ili jam havas vorton por tio, tio certigos ke ili komprenos vin kiam vi uzos la vorton.  
+Antaŭ ĉio, demandu al la homoj ĉirkaŭ vi ĉu ili jam havas vorton por tiu koncepto. Uzi la saman vorton certigos ke ili komprenos vin kiam vi uzos ĝin.  
 
 A. Konsultu la konsilan vortaron el la Angla: https://github.com/Vanege/talkeru/blob/master/english-dictionary
 
