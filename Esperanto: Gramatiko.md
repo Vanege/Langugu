@@ -229,7 +229,7 @@ Antaŭ ol importi vorton el la Angla, oni provu trovi ĉu jam ekzistas sinonimo 
 
 Antaŭ ĉio, demandu al la homoj ĉirkaŭ vi ĉu ili jam havas vorton por tiu koncepto. Uzi la saman vorton certigos ke ili komprenos vin kiam vi uzos ĝin.  
 
-A. Konsultu la konsilan vortaron el la Angla: https://github.com/Vanege/talkeru/blob/master/english-dictionary
+A. Konsultu la konsilan vortaron el Esperanto: https://github.com/Vanege/Heli/blob/master/Esperanto:%20Konsila%20vortaro
 
 B. Provu uzi la finaĵojn -a -e -i -o -u por krei tiun vorton el la jamekzistantaj radikoj
 
