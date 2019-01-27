@@ -1,3 +1,5 @@
+Tiu paĝo ĉiam estas la plej ĝisdata rilate al la gramatiko de la lingvo. Se vi vidas ke io ne kongruas kun alia instrumetodo, fidu tiun paĝon unue.
+
 ## Literoj kaj sonoj
 
 a e i o u  
@@ -19,6 +21,7 @@ Ili estas elparolitaj kiel en la IFA, krom **y** kiu estas **/j/**
 
 > **katu**: **kato / katoj**  
 > oni katu: (unu) kato  
+> si katu: pluraj katoj  
 > mani katu: multaj katoj  
 
 * -i: adjektivo aŭ adverbo
@@ -40,26 +43,25 @@ Verbo povas esti en ajna. Oni precizigas per adverbo:
 
 >  katu eta: kato manĝas / kato manĝis / kato manĝos  
 >  katu **nowi** eta: kato (nun) manĝ**as**  
->  katu **wasi** eta: kato (antaŭe) manĝ**is**  
+>  katu **di** eta: kato (antaŭe) manĝ**is**  
 >  katu **wili** eta: kato (poste) manĝ**os**  
 >  katu **yusti** eta: kato **ĵus** manĝis  
 >  katu **soni** eta: kato **baldaŭ** manĝos  
 
 * Precizigi aspekton
 
->  katu wasi eta: kato estis manĝinta / kato estis manĝanta  
->  katu wasi **hadi** eta: kato estis manĝ**i**nta  
->  katu wasi **kepi** eta: kato estis manĝ**a**nta  
+>  katu di eta: kato estis manĝinta / kato estis manĝanta  
+>  katu di **ba** eta: kato estis manĝ**a**nta  
+>  katu di **haba** eta: kato estis manĝ**i**nta  
 
 * Precizigi modon
 
->  katu **musti** eta: kato manĝ**u**  
+>  katu **musta** eta: kato manĝ**u**  
 >  katu **maybi** eta: kato manĝ**us**  
 >  (yu) eta!: manĝu!  
 
 
 ## Pronomoj
-
 
 **mu**, **yu**, **hu**: mi, vi, ri/ĝi   
 **mumu**, **yuyu**, **huhu**: ni, vi, ili  
@@ -175,12 +177,12 @@ Se oni volas klarigi, oni povas uzi "ti (tingu):" (tiu (afero)) kun identiga pri
 
 ## Rilataj subfrazoj
 
-Kiel la ti-ki-pontoj de Esperanto: oni mencias parton de ĉeffrazo per "ki (u-vorto)" en subfrazo. Por klarigi komencon de subfrazo, oni povas uzi ",".
+Kiel la ti-ki-pontoj de Esperanto: oni mencias parton de ĉeffrazo per "wi (u-vorto)" en subfrazo. Por klarigi komencon de subfrazo, oni povas uzi ",".
 
 *  Mi volas la pomon, kiun vi manĝas: 
  
->    mu wanta **ti aplu**, **ki (aplu)** yu eta // OSV-subfrazo  
->    mu wanta **ti aplu**, yu eta **ki (aplu)** // SVO-subfrazo  
+>    mu wanta **ti aplu**, **wi (aplu)** yu eta // OSV-subfrazo  
+>    mu wanta **ti aplu**, yu eta **wi (aplu)** // SVO-subfrazo  
     
 Kiel en Esperanto, la ti-parto povas esti neskribita, aŭ povas esti alia tabelparto:
 
@@ -203,7 +205,7 @@ Verbo por "esti" ekzistas ("ba"), sed ofte ne estas uzata. Se oni vidas u-vorton
 
 Pivota strukturo povas helpi simpligi frazojn:
 
-* mu wanta **aplo, ki yu eta**: mi volas pomon, kiun vi manĝas  
+* mu wanta **aplo, wi yu eta**: mi volas pomon, kiun vi manĝas  
 
 > mu wanta **aplo ete yu**: mi volas pomon manĝatan de vi
 
@@ -212,9 +214,9 @@ Pivota strukturo povas helpi simpligi frazojn:
 
 Ili estas anstataŭigeblaj per mallongaj rilataj subfrazoj:
 
-> katu, ki eta, : kato kiu manĝas = kato manĝanta / kato manĝinta  
-> katu, ki ete, : kato kiu estas manĝata = kato manĝata / kato manĝita  
-> katu, ki hadi ete, : kato kiu estas manĝita = kato manĝita  
+> katu, wi eta, : kato kiu manĝas = kato manĝanta / kato manĝinta  
+> katu, wi ete, : kato kiu estas manĝata = kato manĝata / kato manĝita  
+> katu, wi haba ete, : kato kiu estas manĝita = kato manĝita  
 
 ## Prefikso na-
 
