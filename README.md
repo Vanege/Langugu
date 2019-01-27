@@ -1,6 +1,5 @@
-Kolsu / Course / Kurso : https://Langugu-demo-course.glitch.me/  
-Blogu / Blog / Blogo : https://medium.com/helu-Langugu  
 Komunitu / Community / Komunumo : https://t.me/joinchat/EjukbkmivHgrInfX_5nJ4A  
+Nanewi kolsu / Old course / Malnova kurso : https://Langugu-demo-course.glitch.me/  
 
 
 ## Langugu ba wi tingu?
