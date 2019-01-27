@@ -281,5 +281,5 @@ Inter du konsonantoj, oni rajtas elparoli ə se tio helpas:
 
 ## Komunumo
 
-Telegram: grupo en Heli, Esperanto, la Angla: 
+Telegram: grupo en Langugu, Esperanto, la Angla: 
 https://t.me/joinchat/EjukbkmivHgrInfX_5nJ4A
