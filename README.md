@@ -1,5 +1,5 @@
 Komunitu / Community / Komunumo : https://t.me/joinchat/EjukbkmivHgrInfX_5nJ4A  
-Nanewi kolsu / Old course / Malnova kurso : https://Langugu-demo-course.glitch.me/  
+Nanewi kolsu / Old course / Malnova kurso : https://heli-demo-course.glitch.me/  
 
 
 ## Langugu ba wi tingu?
