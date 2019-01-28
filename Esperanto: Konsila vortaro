@@ -221,7 +221,7 @@ vera, nafalsi (io estas vera aŭ malvera)
 tiam, ti timi
 ĝuste, kolekti
 kutime, habiti (kutimo = "a habit")
-tuta, woli
+tuta, totali
 mojosa, koli
 havis, haba
 ligilo, linku
@@ -236,7 +236,7 @@ ekzemple, eksamplu
 bedaŭrinde, soli
 duolingo, duolingo (proper nouns are not changed)
 funkcias, wolka / funktina
-vivo, livu
+vivo, libu
 pravas, kolekti / godi (to BE correct)
 volis, wanta
 memoras, lememba
@@ -281,7 +281,7 @@ flago, flagu
 laboro, wolku
 kanalo, kanelu
 babilejo, say-plasu
-antaŭe, wasi / befoli
+antaŭe, befoli / naneksti
 nomiĝas, name
 ege, mani / bigi
 versio, velsionu
@@ -350,7 +350,7 @@ facila, esi
 ŝerco, yoku
 akuzativo, akusatibu
 universitato, unibelsitatu
-skribi, teksta / lita / komposa
+skribi, teksta / komposa
 pardono, solu
 ludas, playa
 lasta, lasti
@@ -427,7 +427,7 @@ dependas, dependa
 ekzakte, eksakti
 demandas, aska
 tuj, imediti
-skribis, teksta / lita / komposa
+skribis, teksta / komposa
 malnova, nanewi
 idisto, id-pelsonu
 for, naneli (mal-proksime)
@@ -437,7 +437,7 @@ patro, fatelu
 provas, atempta
 iros, ga
 vikipedio, wikipedu
-skribas, teksta / lita / komposa
+skribas, teksta / komposa
 he, hey
 besto, animalu
 nepre, setani / ??
@@ -456,7 +456,7 @@ teksto, tekstu
 malfacile, naesi
 fama, fami ("fame" estas la plej simpla formo)
 poŝtelefono, telefonu / fonu
-spektis, loka / woli loka / longi loka
+spektis, loka / totali loka / longi loka
 ok, egtu
 minuto, minutu
 japana, yapanesi
@@ -872,7 +872,7 @@ simbolo, simbolu
 populara, populali
 parlamento, palimentu
 mortos, deda
-lacas, tile (to tire someone)
+lacas, fatiga ("to tire" tro malklara)
 komencas, begina
 kanabo, kanabisu
 elŝuti, down-loda
@@ -902,7 +902,7 @@ scienco, sinsu
 respondis, answela
 nokte, nigti
 nivelo, lebelu
-lernanto, leln-pelsonu
+lernanto, wi lelna
 komuna, komoni
 komprenebla, folowi
 kies, ofo ki
@@ -972,7 +972,7 @@ himno, himnu
 helpos, helpa
 gramatika, glamatiki
 gajnos, wina
-foriris, awaya
+foriris, ga awayi
 diros, saya
 des, moli x, moli y(ju pli x, des pli y)
 ĉapelo, hatu
@@ -1003,89 +1003,88 @@ danke, tanki
 ĉino, sinesu
 cerbo, blanu
 vojaĝo, tlavelu / voyagu
-vidpunkto, lok-pontu / pontu ofo loku
+vidpunkto, pontu ofo loku
 uzado, usu / us-aktu
-turka, 
-tria, 
-terpomo, 
-speco, 
-sekva, 
-samo, 
-rigardas, 
-renkontiĝo, 
-pugo, 
-prepozicio, 
-pagi, 
-okazo, 
-najbaro, 
-mensogo, 
-loĵbano, 
-kredi, 
-junulo, 
-helpis, 
-foriri, 
-finno, 
-farus, 
-eraris, 
-ekzistis, 
-certa, 
+turka, tulkisi
+tria, tlei
+terpomo, potatu
+speco, kindu
+sekva, neksti
+samo, samu
+rigardas, loka
+renkontiĝo, metu
+pugo, asu
+prepozicio, pleposisu
+pagi, paya
+okazo, hapenu
+najbaro, negbolu
+mensogo, desetu (to deceit)
+loĵbano, losbanu
+kredi, beliba
+junulo, wi yongi
+helpis, helpa
+foriri, ga awayi
+finno, finisi
+farus, maybi maka
+eraris, elala
+ekzistis, eksista
+certa, setani
 belege, mani pleti
-ago, 
-volapuko, 
-vivu, 
+ago, aktu
+volapuko, bolapuku 
+vivu, liba
 venos, wili ga
-venkis, 
-somero, 
-rigardis, 
-probable, 
-parolos, 
-panjo, 
-miliono, 
-mias, 
-loĝi, 
-loĝanto, 
-laca, tili
-knabino, 
-kata, 
-italio, 
-intencas, 
-helpu, 
-alvenis, 
-afikso, 
-voĉdono, 
-vino, 
-uzos, 
-testo, 
-supre, 
-sento, 
-rilate, 
-politikisto, 
-pigra, 
-orienta, 
-ofta, 
-nigra, 
-mortas, 
-moldavio, 
-meti, 
-meksiko, 
-lernado, 
-leciono, 
-komenci, 
-forigi, 
-entute, 
-eniri, 
-drinki, 
-aldonis, 
-afiŝo, 
-verko, 
-unufoje, 
-telefono, 
-servo, 
-serĉu, 
-ŝanĝo, 
-samas, 
-salato, 
-regas, 
+venkis, wina
+somero, sumelu
+rigardis, loka
+probable, plobabli
+parolos, saya
+panjo, momu
+miliono, milinu
+loĝi, liba
+loĝanto, wi liba
+laca, fatigi
+knabino, gilu
+kata, kati
+italio, italu
+intencas, plana
+helpu, helpa
+alvenis, di ga
+afikso, afiksu
+voĉdono, balotu (pli klara ol "vote", por ambaŭ voĉdono kaj voĉdonujo)
+vino, winu ???
+uzos, usa
+testo, testu
+supre, obeli
+sento, felu
+rilate, aboti
+politikisto, wi politika
+pigra, lasi
+orienta, olintali
+ofta, ofteni
+nigra, blaki
+mortas, pelisa (pli klara ol "die")
+moldavio, moldavu
+meti, puta
+meksiko, meksiku
+lernado, lelnu
+leciono, lesinu
+komenci, begina
+forigi, awaya / maka awayi
+entute, totali
+eniri, ga bo
+drinki, drinka
+aldonis, ada
+afiŝo, postu
+verko, komposu
+unufoje, one timi
+telefono, telefonu 
+servo, selbisu
+serĉu, selsa
+ŝanĝo, sangu
+samas, sami
+salato, saladu
+regas, kontlola
 piĉo, 
 pagas, 
 novas, 
@@ -1307,7 +1306,7 @@ fremda,
 fonto, 
 filino, 
 estro, 
-eliri, 
+eliri, ga nabo / ga nato
 danĝera, 
 damna, 
 ĉesi, 
@@ -1604,7 +1603,7 @@ sezono,
 ŝati, 
 rilata, 
 ricevos, 
-renkonti, 
+renkonti, meta
 radio, 
 prelego, 
 preferus, 
@@ -2993,7 +2992,7 @@ literatura,
 lite, 
 lernolibro, 
 lavas, 
-laciga, wo tila
+laciga, wi fatiga
 laboristo, 
 kvartalo, 
 kuiras, 
