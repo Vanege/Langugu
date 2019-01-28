@@ -15,7 +15,7 @@ Nanewi kolsu / Old course / Malnova kurso : https://Langugu-demo-course.glitch.m
 :sunny: Mumu talka wito Langugu ando aboto Langugu bo Telegram: https://t.me/joinchat/EjukbkmivHgrInfX_5nJ4A  
 :gb: We talk with Langugu and about Langugu in Telegram. We also can use English!  
 :green_heart: Ni parolas per Langugu kaj pri Langugu en Telegram. Ni ankaŭ povas uzi Esperanton!  
-:fr: Nous parlons en Langugu et à propos de l'Langugu dans Telegram. Utilisez le français si vous ne parlez pas Langugu, Anglais ou Espéranto.  
+:fr: Nous parlons en Langugu et à propos de Langugu dans Telegram. Utilisez le français si vous ne parlez pas Langugu, Anglais ou Espéranto.  
 🇳🇱 We praten met Langugu en over Langugu in Telegram.  
 
 ## Pelsonu maka wi tingu wito Langugu?
