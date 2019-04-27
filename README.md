@@ -1,6 +1,6 @@
 Komunitu / Community / Komunumo : https://t.me/joinchat/EjukbkmivHgrInfX_5nJ4A  
 
-## Langugu ba ki?
+## Langugu ba ki tingu?
 
 :sunny: Langugu ba langugu wito simpli gramatiku, ki usa worduu fromo ti Englisi langugu. Ti worduu di sange wito regulari algoritmu foro maka lerningu ando spekingu mori esi.  
 :gb: Langugu is a language with a simple grammar, that uses words from the English language. The words are changed with a regular algorithm to make learning and speaking easier.  
