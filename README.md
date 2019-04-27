@@ -1,5 +1,3 @@
-Komunitu / Community / Komunumo : https://t.me/joinchat/EjukbkmivHgrInfX_5nJ4A  
-
 ## Langugu ba ki tingu?
 
 :sunny: Langugu ba langugu wito simpli gramatiku, ki usa worduu fromo ti Englisi langugu. Ti worduu di sange wito regulari algoritmu foro maka lerningu ando spekingu mori esi.  
@@ -9,7 +7,7 @@ Komunitu / Community / Komunumo : https://t.me/joinchat/EjukbkmivHgrInfX_5nJ4A
 
 ## Langugu use bo ki plasu?
 
-:sunny: Muu talka wito Langugu ando aboto Langugu bo Telegram: https://t.me/joinchat/EjukbkmivHgrInfX_5nJ4A  
+:sunny: Muu talka wito Langugu ando aboto Langugu bo Telegram: http://langugu.telegramo.org  
 :gb: We talk with Langugu and about Langugu in Telegram. We also can use English!  
 :green_heart: Ni parolas per Langugu kaj pri Langugu en Telegram. Ni ankaŭ povas uzi Esperanton!  
 :fr: Nous parlons en Langugu et à propos de Langugu sur Telegram.
