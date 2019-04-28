@@ -4,8 +4,12 @@ Tiu paĝo ĉiam estas la plej ĝisdata rilate al la gramatiko de la lingvo. Se v
 
 a e i o u  
 b d f g h k l m n p s t w y  
-Ili estas elparolitaj kiel en la IFA, krom **y** kiu estas **/j/**  
-
+r v z  
+Ili estas elparolitaj kiel en la IFA, sed:  
+* **y** estas **[j]** (kiel en Esperanto)  
+* **r** povas esti elparolita kiel **l**, kaj ĉiuj naciaj variaĵoj de **r**  
+* **v** povas esti elparolita kiel **b**  
+* **z** povas esti elparolita kiel **s**  
 
 ## Vortaj finaĵoj
 
@@ -21,7 +25,7 @@ Ili estas elparolitaj kiel en la IFA, krom **y** kiu estas **/j/**
 
 > **katu**: **kato / katoj**  
 > oni katu: (unu) kato  
-> si katu: pluraj katoj  
+> si katu / katuu: pluraj katoj  
 > mani katu: multaj katoj  
 
 * -i: adjektivo aŭ adverbo
@@ -52,19 +56,19 @@ Verbo povas esti en ajna. Oni precizigas per adverbo:
 
 >  katu di eta: kato estis manĝinta / kato estis manĝanta  
 >  katu di **ba** eta: kato estis manĝ**a**nta  
->  katu di **haba** eta: kato estis manĝ**i**nta  
+>  katu di **hava** eta: kato estis manĝ**i**nta  
 
 * Precizigi modon
 
 >  katu **musta** eta: kato manĝ**u**  
->  katu **maybi** eta: kato manĝ**us**  
+>  katu **wolda** eta: kato manĝ**us**  
 >  (yu) eta!: manĝu!  
 
 
 ## Pronomoj
 
-**mu**, **yu**, **hu**: mi, vi, ri/ĝi   
-**mumu**, **yuyu**, **huhu**: ni, vi, ili  
+**mu**, **yu**, **hu**, **itu** : mi, vi, ri/ĝi (persono), ĝi (konkreta aĵo)     
+**mumu**, **yuyu**, **huhu**/**ituitu** : ni, vi, ili  
 
 **mi**: mia/miaj/mian/miajn  
 **mumi**: nia/niaj/nian/niajn  
@@ -76,31 +80,33 @@ hu lika naselfi hu: ri ŝatas rin (alian personon/aferon)
 
 ## o-vortoj, ekzemploj (ili povas ŝanĝiĝi laŭ la preferoj de la komunumo)
 
+bo: en, ĉe, je, kun, per  
+nabo: ekster, sen  
+
 so: do (kiel en la Angla "so")  
 to: al  
-nato: el  
+fromo: el  
 ofo: de, da  
-bo: en, ĉe, je  
-nabo: ekster  
-nelo: apud  
-undelo: sub  
-obelo: sur, super  
-wito / bo: kun, per  
+insido: en  
+neksto: apud  
+undero: sub  
+overo: sur, super  
+wito: kun, per  
 nawito / nabo: sen  
 bekaso: pro, ĉar  
-folo: por  
-nafolo: kontraŭ  
-tilo: ĝis  
-waso: antaŭ (tempe)  
-wilo: post (tempe)  
+foro: por  
+naforo / agansto: kontraŭ  
+untilo: ĝis  
+beforo: antaŭ (tempe)  
+aftero: post (tempe)  
 instedo: anstataŭ  
-dulingo: dum  
+duringo: dum  
 eksepto: krom  
-wayo / opinino / tinko: laŭ  
+alongo / tinko: laŭ  
 aboto: pri  
 bako: malantaŭ (behind / in the back of)  
-nabako: antaŭ (in front of)  
-tlogo: tra  
+fronto: antaŭ (in front of)  
+trogo: tra  
 
 
 ### Demandoj
@@ -109,10 +115,10 @@ Por ĉu-demandoj, oni uzas **do** en la komenco de frazo, kaj la signon "?":
 
 * **do** yu lika slepa?: **Ĉu** vi ŝatas dormi?  
 
-Por ki-demandoj, oni uzas **wi** (kio/kiu what/which) antaŭ la koncernita afero, kaj la signon "?":  
+Por ki-demandoj, oni uzas **ki** (kio/kiu what/which) antaŭ la koncernita afero, kaj la signon "?":  
 
-* yu wanta **wi** animalu?: **Kiun** beston vi volas?  
-* mumu maka **wi** (tingu)?: **Kiun** (aferon) ni faras?  
+* yu wanta **ki** animalu?: **Kiun** beston vi volas?  
+* mumu maka **ki** (tingu)?: **Kiun** (aferon) ni faras?  
 
 
 ### Neado
