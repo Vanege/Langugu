@@ -133,16 +133,16 @@ Por ki-demandoj, oni uzas **ki** (kio/kiu what/which) antaŭ la koncernita afero
 
 Por ciferoj, la vortoj de la Angla estas rekte uzataj. La vokalo -u estas aldonata se vorto ne jam finiĝas per vokalo.
 
-* selo, one, two, tle, fol**u**, fibe, siks**u**, seben**u**, egt**u**, nine, ten**u**, hundled**u**, tosand**u** ...
+* zeru, onu, twu, t**i**ru, foru, fivu, siksu, sevenu, egtu, ninu, tenu, hundredu, tosandu ...
 
 Por krei grandan nombron, oni metas ilin apud la aliajn.
 
-* two tenu: dudek
-* tenu two: dek du
+* twu tenu: dudek
+* tenu twu: dek du
 
 Por ordaj nombroj, oni aldonas la adjektivan finaĵon -i.
 
-* one**i**: unua ; two**i**: dua ...
+* on**i**: unua ; tw**i**: dua ...
 
 
 ## "Tabelvortoj"
@@ -150,45 +150,46 @@ Por ordaj nombroj, oni aldonas la adjektivan finaĵon -i.
 La unua elemento estas adjektivo, la dua elemento estas normala vorto, do oni devas atenti pri la finaĵo. 
 
 * **ti** = tiu / la  
-* **wi** = kiu (demanda)  
-* **ki** = kiu (rilata)  
+* **ki** = kiu (demanda kaj rilata)  
 * **ni** = neniu   
 * **ali** = ĉiu  
-* **oteli** = alia    
+* **oteri** = alia    
 * **ani** = ajna  
+* **onu** = iu  
 
-tio = ti tingu / ti ("tingu" subkomprenita)  
-kio = wi tingu / wi    
+tio = ti tingu / ti ("tingu" estas subkomprenita se neniu u-vorto troviĝas dekstre)  
+kio = ki tingu / ki    
 tia = ti tipi  
-kia = wi tipi  
-kial = wi kasi  
-kiel = wi maneli  
-kiam = wi timi  
-kie = wi plasu  
-kiu = wi pelsonu  
-kiom = wi amontu  
+kia = ki tipi  
+kial = ki resoni  
+kiel = ki maneri  
+kiam = ki timi  
+kie = ki plasu  
+kiu = ki personu  
+kiom = ki musu  
 
 La listo ne estas fermita, oni povas krei tiom da "tabelvortoj" kiom oni volas.
 
+
 ## "Ke"
 
-Oni tre ofte ne bezonas ĝin. En la Angla, oni ofte ne uzas "that" tie.
+Kiel en la Angla, oni povas ne uzi "that" tiuloke se ĝi ne nepras por kompreno.
 
-> mu lika katu eta: mi ŝatas ke la kato manĝas
+> mu lika (ti) yu eta: mi ŝatas ke vi manĝas
 
-Se oni volas klarigi, oni povas uzi "ti (tingu):" (tiu (afero)) kun identiga priskribo:
+Se oni volas klarigi, oni povas uzi "ti (tingu):". Tiam vi povas konsideri la dekstran subfrazon kiel identigan priskribon de "tingu".
 
-> mu liki ti: katu eta
+> mu liki ti: yu eta
 
 
 ## Rilataj subfrazoj
 
-Kiel la ti-ki-pontoj de Esperanto: oni mencias parton de ĉeffrazo per "wi (u-vorto)" en subfrazo. Por klarigi komencon de subfrazo, oni povas uzi ",".
+Ili tute funkcias kiel la ti-ki-pontoj en Esperanto. Kiel en Esperanto, la ti-parto ne estas deviga. Por evidentigi komencon de subfrazo, oni povas uzi ", " antaŭ "ki".
 
 *  Mi volas la pomon, kiun vi manĝas: 
  
->    mu wanta **ti aplu**, **wi (aplu)** yu eta // OSV-subfrazo  
->    mu wanta **ti aplu**, yu eta **wi (aplu)** // SVO-subfrazo  
+> mu wanta **ti aplu**, **ki (aplu)** yu eta // OSV-subfrazo  
+> mu wanta **ti aplu**, yu eta **ki (aplu)** // SVO-subfrazo  
     
 Kiel en Esperanto, la ti-parto povas esti neskribita, aŭ povas esti alia tabelparto:
 
@@ -216,34 +217,40 @@ Pivota strukturo povas helpi simpligi frazojn:
 > mu wanta **aplo ete yu**: mi volas pomon manĝatan de vi
 
 
-## "Participaj adjektivoj"
+## "Participoj"
 
-Ili estas anstataŭigeblaj per mallongaj rilataj subfrazoj:
+Ili ne ekzistas ĉar ili ne estas bezonataj. Kiel en Esperanto, oni povas anstataŭigi ilin per rilata subfrazo:  
 
-> katu, wi eta, : kato kiu manĝas = kato manĝanta / kato manĝinta  
-> katu, wi ete, : kato kiu estas manĝata = kato manĝata / kato manĝita  
-> katu, wi haba ete, : kato kiu estas manĝita = kato manĝita  
+> katu, ki eta, : kato kiu manĝas = kato manĝanta / kato manĝinta  
+> katu, ki ete, : kato kiu estas manĝata = kato manĝata / kato manĝita  
+> katu, ki hava ete, : kato kiu estas manĝita = kato manĝita  
 
-## Prefikso na-
+
+## Afiksoj
+
+### na- (mal-)
 
 Ĝi funkcias kiel mal- en Esperanto. Ĝi estas uzata pli ofte ol en Esperanto. Ĝi helpas eviti vortajn koliziojn (kiam du vortoj rezultiĝas samsone.)
 
 * **na**fasti: **mal**rapida  
 
+### -er- kaj -ed- (-(i/a)nt- kaj -(i/a)t-)
+
+> onu ki kila ba kileru : iu kiu mortigas estas mortiganto  
+> onu ki kile ba kiledu : iu kiu estas mortigata estas mortigato/viktimo  
+
+### -ing- (-ad-)
+
+### -nes- (-ec-)
+
+### -ful- (-plena-)
+
+### WIP
+
 
 ## Importi vorton el la Angla
 
-Antaŭ ol importi vorton el la Angla, oni provu trovi ĉu jam ekzistas sinonimo en Heli. Ekzemple, oni ne bezonas importi "quick" ĉar jam ekzistas "fasti" por fast. Oni ankaŭ rigardu ĉu eblas simple aldoni la prefikson na-. Ekzemple, oni ne bezonas importi "hard" ĉar oni jam havas "softi" kaj "esi", oni do povas konstrui "nasofti" kaj "naesi". Oni ankaŭ rigardu ĉu eblas simple aldoni adjektivon aŭ adverbon. Ekemple, oni ne bezonas importi "to prefer" ĉar oni jam povas diri "moli lika", kaj oni ne bezonas importi "to agree" ĉar oni jam povas diri "sami tinka".  
-
-Antaŭ ĉio, demandu al la homoj ĉirkaŭ vi ĉu ili jam havas vorton por tiu koncepto. Uzi la saman vorton certigos ke ili komprenos vin kiam vi uzos ĝin.  
-
-A. Konsultu la konsilan vortaron el Esperanto: https://github.com/Vanege/Heli/blob/master/Esperanto:%20Konsila%20vortaro
-
-B. Provu uzi la finaĵojn -a -e -i -o -u por krei tiun vorton el la jamekzistantaj radikoj
-
-C. Provu radik-kunmetadon kaj afiksojn (legu supre).
-
-Ĉ. Importu la vorton:
+Se okazas, ke vi ne trovas vorton por diri ion. Unue petu al aliaj uzantoj de la lingvo kiel ili dirus tion. Se ili ne scias, kaj ke ne eblas uzi sinonimon aŭ konstrui la vorton kiun vi bezonas el elementoj jam en la lingvo, vi povas lastrimede importi vorton el la Angla. Estu certa antaŭ ol fari tion, ĉar estas multe pli facile memori kaj kompreni la vortojn "mani preti" ol "betifuli" por iu kiu ne parolas la Anglan altnivele. Aliaj ekzemploj estas "mori lika" kontraŭ "preferi", kaj "kiledu" kontraŭ "viktimu".
 
 1) Elektu la plej oftan vorton por tiu koncepto, kiu ne ŝajnas konfuzebla kun jamaj radikoj  
   Vi povas trovi la konatecon de Angla vorto per Cambridge Dictionary: https://dictionary.cambridge.org/dictionary/english/  
@@ -251,7 +258,7 @@ C. Provu radik-kunmetadon kaj afiksojn (legu supre).
   
 2) Kiam pluraj vokaloj (aeoiu) aperas apude, konservu nur la unuan.
 
-3) Forigu la vokalojn kiuj troviĝas je la fino de vorto, kaj y se ĝi estas sola. (potato -> potat) (pretty -> plet) (boy -> boy)
+3) Forigu la vokalojn kiuj troviĝas je la fino de vorto. (potato -> potat) (pretty -> plet) (boy -> boy)
 
 4) Forigu duoblajn konsonantojn. (battle -> batl)
 
@@ -259,33 +266,23 @@ C. Provu radik-kunmetadon kaj afiksojn (legu supre).
 
 6) Ŝanĝu j al y. (joke -> yok)
 
-7) Ŝanĝu r al l. (girl -> gil)
+7) Ŝanĝu q al k.
 
-8) Ŝanĝu z al s. (zebra -> sebl)
+8) Ŝanĝu x al ks.
 
-9) Ŝanĝu v al b. (give -> gib)
+9) Forigu h kiam ĝi estas post konsonanto. (ghost -> gost)
 
-10) Ŝanĝu q al k.
-
-11) Ŝanĝu x al ks.
-
-12) Ŝanĝu ph al f.
-
-13) Forigu h kiam ĝi estas post konsonanto. (while -> wil)
-
-14) Forigu w kiam ĝi estas antaŭ r/l. (write -> lit)
-
-Foje la rezulta vorto estas tro longa, aŭ havas ĝenan konsonantaron (undeLSTanda), do oni preferu vorton iom malpli oftan kiu povas havi tiun sencon (glaspa). Foje, vorto estas malpli rekonebla (stalta), do oni preferu vorton malpli ŝanĝitan de la algoritmo (begina). Tio, kio gravas, por ke la lingvo estu facila, estas ke **oni uzu la vortojn, kiuj estas plej bone rekonataj de baznivelaj angleparolantoj kaj uzantoj de Heli**. Por tio, oni ofte imitu la skribadon de oftaj uzantoj, ĉar ili uzas la vortojn, kiujn ili kapablas memori kaj komprenigi.
+10) Forigu w kiam ĝi estas antaŭ r. (write -> rit)
 
 
 ## Faciliga ə
 
 Inter du konsonantoj, oni rajtas elparoli ə se tio helpas:
 * talka: /talka/ aŭ /taləka/
-* two: /two/ aŭ /təwo/
+* twu: /twu/ aŭ /təwu/
 
 
 ## Komunumo
 
 Telegram: grupo en Langugu, Esperanto, la Angla: 
-https://t.me/joinchat/EjukbkmivHgrInfX_5nJ4A
+https://langugu.telegramo.org
