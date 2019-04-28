@@ -62,7 +62,7 @@ Verbo povas esti en ajna. Oni precizigas per adverbo:
 
 >  katu **musta** eta: kato manĝ**u**  
 >  katu **wolda** eta: kato manĝ**us**  
->  (yu) eta!: manĝu!  
+>  eta!: manĝu!  
 
 
 ## Pronomoj
@@ -78,12 +78,13 @@ hu lika **selfi** hu: ri ŝatas sin
 hu lika naselfi hu: ri ŝatas rin (alian personon/aferon)  
 
 
-## o-vortoj, ekzemploj (ili povas ŝanĝiĝi laŭ la preferoj de la komunumo)
+## Prepozicioj kaj aliaj: o-vortoj
+
+La listo ne estas ferimta. Ili povas ŝanigi laŭ la preferoj de la komunumo.
 
 bo: en, ĉe, je, kun, per  
 nabo: ekster, sen  
 
-so: do (kiel en la Angla "so")  
 to: al  
 fromo: el  
 ofo: de, da  
@@ -108,6 +109,9 @@ bako: malantaŭ (behind / in the back of)
 fronto: antaŭ (in front of)  
 trogo: tra  
 
+so: do (kiel en la Angla "so")  
+than: tano  
+
 
 ### Demandoj
 
@@ -128,21 +132,23 @@ Por ki-demandoj, oni uzas **ki** (kio/kiu what/which) antaŭ la koncernita afero
 >  **no** mu wanta slepa buto hu: ne mi volas dormi sed ri  
 >  mu wanta **no** slepa buto talka: mi volas ne dormi sed paroli/diri  
 
+(Kial ne "ni"? Ĉar estas tro da risko ke ĝi estas konfuzata kun finaĵo de adjektivo kiel "mani")  
+
 
 ## Nombroj
 
-Por ciferoj, la vortoj de la Angla estas rekte uzataj. La vokalo -u estas aldonata se vorto ne jam finiĝas per vokalo.
+Por ciferoj, la vortoj de la Angla estas rekte uzataj.
 
-* zeru, onu, twu, t**i**ru, foru, fivu, siksu, sevenu, egtu, ninu, tenu, hundredu, tosandu ...
+* zeri, oni, twi, t**i**ri, fori, fivi, siksi, seveni, egti, nini, teni, hundredi, tosandi ...
 
 Por krei grandan nombron, oni metas ilin apud la aliajn.
 
-* twu tenu: dudek
-* tenu twu: dek du
+* twi teni: dudek
+* teni twi: dek du
 
-Por ordaj nombroj, oni aldonas la adjektivan finaĵon -i.
+Por ordaj nombroj, oni uzas la sufikson finaĵon -if-.
 
-* on**i**: unua ; tw**i**: dua ...
+* on**ifi**: unua ; tw**ifi**: dua ...
 
 
 ## "Tabelvortoj"
@@ -151,11 +157,11 @@ La unua elemento estas adjektivo, la dua elemento estas normala vorto, do oni de
 
 * **ti** = tiu / la  
 * **ki** = kiu (demanda kaj rilata)  
-* **ni** = neniu   
+* **zeri** = neniu   
+* **oni** = iu  
 * **ali** = ĉiu  
 * **oteri** = alia    
 * **ani** = ajna  
-* **onu** = iu  
 
 tio = ti tingu / ti ("tingu" estas subkomprenita se neniu u-vorto troviĝas dekstre)  
 kio = ki tingu / ki    
@@ -166,7 +172,7 @@ kiel = ki maneri
 kiam = ki timi  
 kie = ki plasu  
 kiu = ki personu  
-kiom = ki musu  
+kiom = ki musu / ki amontu  
 
 La listo ne estas fermita, oni povas krei tiom da "tabelvortoj" kiom oni volas.
 
@@ -184,37 +190,20 @@ Se oni volas klarigi, oni povas uzi "ti (tingu):". Tiam vi povas konsideri la de
 
 ## Rilataj subfrazoj
 
-Ili tute funkcias kiel la ti-ki-pontoj en Esperanto. Kiel en Esperanto, la ti-parto ne estas deviga. Por evidentigi komencon de subfrazo, oni povas uzi ", " antaŭ "ki".
+Ili tute funkcias kiel la ti-ki-pontoj en Esperanto. Por evidentigi komencon de subfrazo, oni povas uzi ", " antaŭ "ki".
 
 *  Mi volas la pomon, kiun vi manĝas: 
  
 > mu wanta **ti aplu**, **ki (aplu)** yu eta // OSV-subfrazo  
 > mu wanta **ti aplu**, yu eta **ki (aplu)** // SVO-subfrazo  
     
-Kiel en Esperanto, la ti-parto povas esti neskribita, aŭ povas esti alia tabelparto:
+Kiel en Esperanto, la ti-parto povas esti neskribita, aŭ povas esti alia unua elemento de "tabelvorto":
 
-> mu wanta **katu**, **wi** slepa  
-> mu wanta **ali katu**, **wi** slepa  
-
-
-La lingvo ĉiam estas en la vortordo SVO, krom foje en tiuj rilataj subfrazoj, ĉar "wi" povas helpi scii kie subfrazo komenciĝas. Tiam la subfrazo uzas la vortordon OSV.
+> mu wanta **katu**, **ki** slepa  
+> mu wanta **ali katu**, **ki** slepa  
 
 
-## Pivota strukturo
-
-La objekto de verbo povas esti la subjekto de alia verbo kiu troviĝas post ĝi:
-
->  mu **hopa** yu **lika** ti langugu: mi **esperas, ke** vi **ŝatas** tiun lingvon  
->  mu **wanta** mi katu **lika** mu **giba** fisu: mi **volas, ke** mia kato **ŝatu, ke** mi **donas** fiŝon  
->  mu **wanta** mu godi: mi **volas, ke** mi **estu** bona = mi volas esti bona  
-
-Verbo por "esti" ekzistas ("ba"), sed ofte ne estas uzata. Se oni vidas u-vorton apud alia u-vorto aŭ i-vorto, oni ofte povas supozi ke ĉi tie troviĝas "esti". En kelkaj okazoj, oni povas anstataŭigi "esti" per "eksista" (ekzisti) aŭ "sama" (esti sama kiel).
-
-Pivota strukturo povas helpi simpligi frazojn:
-
-* mu wanta **aplo, wi yu eta**: mi volas pomon, kiun vi manĝas  
-
-> mu wanta **aplo ete yu**: mi volas pomon manĝatan de vi
+La lingvo ĉiam estas en la vortordo SVO, krom foje en tiuj rilataj subfrazoj, ĉar "ki" povas helpi scii kie subfrazo komenciĝas. Tiam la subfrazo uzas la vortordon OSV.
 
 
 ## "Participoj"
