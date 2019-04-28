@@ -247,7 +247,7 @@ Se okazas, ke vi ne trovas vorton por diri ion. Unue petu al aliaj uzantoj de la
   
 2) Kiam pluraj vokaloj (aeoiu) aperas apude, konservu nur la unuan.
 
-3) Forigu la vokalojn kiuj troviĝas je la fino de vorto. (potato -> potat) (pretty -> plet) (boy -> boy)
+3) Forigu la vokalojn kiuj troviĝas je la fino de vorto. (potato -> potat) (pretty -> plet). Faru ankaŭ tion por la litero y, sed ne se vokalo troviĝas tuj antaŭ ĝi. (body -> bod) (boy -> boy)
 
 4) Forigu duoblajn konsonantojn. (battle -> batl)
 
