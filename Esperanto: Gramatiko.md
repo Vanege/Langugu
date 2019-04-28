@@ -47,7 +47,7 @@ Verbo povas esti en ajna. Oni precizigas per adverbo:
 
 >  katu eta: kato manĝas / kato manĝis / kato manĝos  
 >  katu **nowi** eta: kato (nun) manĝ**as**  
->  katu **di** eta: kato (antaŭe) manĝ**is**  
+>  katu **di** eta / katu eta**a**: kato (antaŭe) manĝ**is**  
 >  katu **wili** eta: kato (poste) manĝ**os**  
 >  katu **yusti** eta: kato **ĵus** manĝis  
 >  katu **soni** eta: kato **baldaŭ** manĝos  
