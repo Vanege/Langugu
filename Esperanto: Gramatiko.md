@@ -217,24 +217,20 @@ Ili ne ekzistas ĉar ili ne estas bezonataj. Kiel en Esperanto, oni povas anstat
 
 ## Afiksoj
 
+Fakte estas malmultaj afiksoj ĉar ili estas facile anstataŭigeblaj per kunmetado de normalaj radikoj. (-ul- -> -person-, -ej- -uj- -ing- -> -plas-, -estr- ĉef- -> -bos-, -il- -> -tol-, -ind- -> -wort-, -obl- -> -fold-, -op- -ar- -> -grop-, -on- -er- -> -part-, ...). En kelkaj okazoj, oni povas krei novajn radikojn: (-ec- -> -nes-, -ad- -> -ing-, -plena- -> -ful-).
+
+Por aliaj, oni povas facile uzi adjektivojn/adverbojn kaj verbojn: remanĝi -> eta agani, grandega -> mani bigi, grandigi -> maka bigi, grandiĝi -> geta bigi.
+
 ### na- (mal-)
 
 Ĝi funkcias kiel mal- en Esperanto. Ĝi estas uzata pli ofte ol en Esperanto. Ĝi helpas eviti vortajn koliziojn (kiam du vortoj rezultiĝas samsone.)
 
 * **na**fasti: **mal**rapida  
 
-### -er- kaj -ed- (-(i/a)nt- kaj -(i/a)t-)
+### -au kaj -eu (-(i/a)nto, -isto, -ulo kaj -(i/a)to)
 
-> onu ki kila ba kileru : iu kiu mortigas estas mortiganto  
-> onu ki kile ba kiledu : iu kiu estas mortigata estas mortigato/viktimo  
-
-### -ing- (-ad-)
-
-### -nes- (-ec-)
-
-### -ful- (-plena-)
-
-### WIP
+> onu ki kila ba kilau : iu kiu mortigas estas mortiganto  
+> onu ki kile ba kileu : iu kiu estas mortigata estas mortigato/viktimo  
 
 
 ## Importi vorton el la Angla
