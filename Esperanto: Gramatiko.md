@@ -235,7 +235,7 @@ Por aliaj, oni povas facile uzi adjektivojn/adverbojn kaj verbojn: remanĝi -> e
 
 ## Importi vorton el la Angla
 
-Se okazas, ke vi ne trovas vorton por diri ion. Unue petu al aliaj uzantoj de la lingvo kiel ili dirus tion. Se ili ne scias, kaj ke ne eblas uzi sinonimon aŭ konstrui la vorton kiun vi bezonas el elementoj jam en la lingvo, vi povas lastrimede importi vorton el la Angla. Estu certa antaŭ ol fari tion, ĉar estas multe pli facile memori kaj kompreni la vortojn "mani preti" ol "betifuli" por iu kiu ne parolas la Anglan altnivele. Aliaj ekzemploj estas "mori lika" kontraŭ "preferi", kaj "kiledu" kontraŭ "viktimu".
+Se okazas, ke vi ne trovas vorton por diri ion. Sekvu ĉi tiujn etapojn: Unue petu al aliaj uzantoj de la lingvo kiel ili dirus tion. Se ili ne scias, kaj ke ne eblas uzi sinonimon aŭ konstrui la vorton kiun vi bezonas el elementoj jam en la lingvo, vi povas lastrimede importi vorton el la Angla. Estu certa antaŭ ol fari tion, ĉar estas multe pli facile memori kaj kompreni la vortojn "mani preti" ol "betifuli" por iu kiu ne parolas la Anglan altnivele. Aliaj ekzemploj estas "mori lika" kontraŭ "preferi", kaj "kiledu" kontraŭ "viktimu".
 
 1) Elektu la plej oftan vorton por tiu koncepto, kiu ne ŝajnas konfuzebla kun jamaj radikoj  
   Vi povas trovi la konatecon de Angla vorto per Cambridge Dictionary: https://dictionary.cambridge.org/dictionary/english/  
@@ -243,7 +243,7 @@ Se okazas, ke vi ne trovas vorton por diri ion. Unue petu al aliaj uzantoj de la
   
 2) Kiam pluraj vokaloj (aeoiu) aperas apude, konservu nur la unuan.
 
-3) Forigu la vokalojn kiuj troviĝas je la fino de vorto. (potato -> potat) (pretty -> plet). Faru ankaŭ tion por la litero y, sed ne se vokalo troviĝas tuj antaŭ ĝi. (body -> bod) (boy -> boy)
+3) Forigu la vokalojn kiuj troviĝas je la fino de vorto. (potato -> potat) (pretty -> pret). Faru ankaŭ tion por la litero y, sed ne se vokalo troviĝas tuj antaŭ ĝi. (body -> bod) (boy -> boy)
 
 4) Forigu duoblajn konsonantojn. (battle -> batl)
 
