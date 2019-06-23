@@ -68,8 +68,8 @@ La formo de verbo ne indikas tempon, aspekton aŭ modon. Oni precezigi ilin, oni
 
 ## Pronomoj
 
-**mu**, **yu**, **hu**, **itu** : mi, vi, ri/ĝi (persono), ĝi (konkreta aĵo)     
-**mumu**, **yuyu**, **huhu**/**ituitu** : ni, vi, ili  
+**mu**, **yu**, **hu** : mi, vi, li/ŝi/ri/ĝi    
+**mumu**, **yuyu**, **huhu** : ni, vi, ili  
 
 **mi**: mia/miaj/mian/miajn  
 **mumi**: nia/niaj/nian/niajn  
