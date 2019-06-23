@@ -13,13 +13,14 @@ Ili estas elparolitaj kiel en la IFA, sed:
 
 ## Vortaj finaĵoj
 
-* -a: verbo aktiva  
+* -a: verbo aktiva: la ricevanto de la ago troviĝas post la aganto  
 
 > katu **eta** fisu: kato **manĝas** fiŝon  
 
-* -e: verbo pasiva  
+* -e: verbo pasiva: la ricevanto de la ago troviĝas antaŭ la aganto  
 
 > katu **ete** fisu: kato **estas manĝata de** fiŝo  
+> katu **eta** fisu === fisu **ete** katu  
 
 * -u: substantivoj  
 
@@ -36,12 +37,12 @@ Ili estas elparolitaj kiel en la IFA, sed:
 
 * -o: prepozicioj, kaj aliaj  
 
-> fisu **folo** katu: fiŝo **por** kato  
+> fisu **foro** katu: fiŝo **por** kato  
 
 
 ## Tempo, aspekto, modo...
 
-Verbo povas esti en ajna. Oni precizigas per adverbo:  
+La formo de verbo ne indikas tempon, aspekton aŭ modon. Oni precezigi ilin, oni uzas adverbon aŭ verbon.  
 
 * Precizigi tempon
 
@@ -80,7 +81,7 @@ hu lika naselfi hu: ri ŝatas rin (alian personon/aferon)
 
 ## Prepozicioj kaj aliaj: o-vortoj
 
-La listo ne estas ferimta. Ili povas ŝanigi laŭ la preferoj de la komunumo.
+La listo de prepozicioj ne estas fermita. Ili povas ŝanĝiĝi laŭ la preferoj de la komunumo.  
 
 bo: en, ĉe, je, kun, per  
 nabo: ekster, sen  
