@@ -97,7 +97,7 @@ wito: kun, per
 nawito / nabo: sen  
 bekaso: pro, ĉar  
 foro: por  
-naforo / agansto: kontraŭ  
+naforo / agansto: kontraŭ  
 untilo: ĝis  
 beforo: antaŭ (tempe)  
 aftero: post (tempe)  
