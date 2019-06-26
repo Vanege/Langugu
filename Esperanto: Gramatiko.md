@@ -83,8 +83,8 @@ hu lika naselfi hu: ri ŝatas rin (alian personon/aferon)
 
 La listo de prepozicioj ne estas fermita. Ili povas ŝanĝiĝi laŭ la preferoj de la komunumo.  
 
-bo: en, ĉe, je, kun, per  
-nabo: ekster, sen  
+bo: en, ĉe, je  
+nabo: ekster  
 
 to: al  
 fromo: el  
