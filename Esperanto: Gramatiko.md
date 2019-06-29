@@ -48,16 +48,16 @@ La formo de verbo ne indikas tempon, aspekton aŭ modon. Oni precezigi ilin, oni
 
 >  katu eta: kato manĝas / kato manĝis / kato manĝos  
 >  katu **nowi** eta: kato (nun) manĝ**as**  
->  katu **di** eta / katu eta**a**: kato (antaŭe) manĝ**is**  
+>  katu **pi** eta / katu eta**a**: kato (antaŭe) manĝ**is**  
 >  katu **wili** eta: kato (poste) manĝ**os**  
 >  katu **yusti** eta: kato **ĵus** manĝis  
 >  katu **soni** eta: kato **baldaŭ** manĝos  
 
 * Precizigi aspekton
 
->  katu di eta: kato estis manĝinta / kato estis manĝanta  
->  katu di **ba** eta: kato estis manĝ**a**nta  
->  katu di **hava** eta: kato estis manĝ**i**nta  
+>  katu pi eta: kato estis manĝinta / kato estis manĝanta  
+>  katu pi **ba** eta: kato estis manĝ**a**nta  
+>  katu pi **hava** eta: kato estis manĝ**i**nta  
 
 * Precizigi modon
 
