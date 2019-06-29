@@ -22,6 +22,11 @@ Ili estas elparolitaj kiel en la IFA, sed:
 > katu **ete** fisu: kato **estas manĝata de** fiŝo  
 > katu **eta** fisu === fisu **ete** katu  
 
+La subjekto de verbo ĉiam estas la u-vorto, kiu plej proksimas maldekstre al verbo (nur SVO kaj OSV eblas)  
+
+> katu eta fisu === fisu katu eta  
+> katu ete fisu === fisu katu ete  
+
 * -u: substantivoj  
 
 > **katu**: **kato / katoj**  
@@ -116,11 +121,13 @@ than: tano
 
 ### Demandoj
 
-Por ĉu-demandoj, oni uzas **do** en la komenco de frazo, kaj la signon "?":  
+Ĝenerale, oni nur bezonas aldoni je la frazfino "?" por krei demandon.  
+
+Por ĉu-demandoj, oni povas uzi **do** en la komenco de frazo:  
 
 * **do** yu lika slepa?: **Ĉu** vi ŝatas dormi?  
 
-Por ki-demandoj, oni uzas **ki** (kio/kiu what/which) antaŭ la koncernita afero, kaj la signon "?":  
+Por ki-demandoj, oni uzas **ki** (kio/kiu what/which) antaŭ la koncernita afero:  
 
 * yu wanta **ki** animalu?: **Kiun** beston vi volas?  
 * mumu maka **ki** (tingu)?: **Kiun** (aferon) ni faras?  
