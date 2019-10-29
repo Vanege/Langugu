@@ -138,7 +138,7 @@ Por ki-demandoj, oni uzas **ki** (kio/kiu what/which) antaŭ la koncernita afero
 **no** staras antaŭ la elemento neita:
 >  mu **no** wanta slepa: mi ne volas dormi  
 >  **no** mu wanta slepa buto hu: ne mi volas dormi sed ri  
->  mu wanta **no** slepa buto talka: mi volas ne dormi sed paroli/diri  
+>  mu wanta **no** slepa buto speka: mi volas ne dormi sed paroli  
 
 (Kial ne "ni"? Ĉar estas tro da risko ke ĝi estas konfuzata kun finaĵo de adjektivo kiel "mani")  
 
@@ -271,7 +271,7 @@ Se okazas, ke vi ne trovas vorton por diri ion, sekvu ĉi tiujn etapojn: Unue pe
 ## Faciliga ə
 
 Inter du konsonantoj, oni rajtas elparoli ə se tio helpas:
-* talka: /talka/ aŭ /taləka/
+* speka: /speka/ aŭ /səpeka/
 * twu: /twu/ aŭ /təwu/
 
 
