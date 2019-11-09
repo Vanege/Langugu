@@ -41,7 +41,7 @@ Ili ĉiam estas antaŭ la priskribita vorto.
 
 La mala direkto (ricevanto iĝas la aganto kaj reciproke) estas esprimebla per -eda:
 
-> katu **eteda**: kato **estas manĝata** / kato **manĝiĝas**  
+> katu **eteda**: kato **estas manĝata**  
 > katu **eteda** fisu: kato **estas manĝata de** fiŝo  
 
 La vortordoj estas SVO kaj OSV, tio signifas ke la aganto de la verbo ĉiam estas la substantivo (u-vorto) kiu plej proksimas al la verbo (a-vorto) maldekstre.  
