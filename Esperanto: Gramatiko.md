@@ -17,20 +17,6 @@ Vorto en Langugu konsistas el unu aŭ pluraj kunmetitaj *radikoj*, eventualaj *a
 
 ## Finaĵo
 
-* -a: verbo aktiva: la ricevanto de la ago troviĝas post la aganto  
-
-> katu **eta** fisu: kato **manĝas** fiŝon  
-
-* -e: verbo pasiva: la ricevanto de la ago troviĝas antaŭ la aganto  
-
-> katu **ete** fisu: kato **estas manĝata de** fiŝo  
-> katu **eta** fisu === fisu **ete** katu  
-
-La subjekto de verbo ĉiam estas la u-vorto, kiu plej proksimas maldekstre al verbo (nur SVO kaj OSV eblas)  
-
-> katu eta fisu === fisu katu eta  
-> katu ete fisu === fisu katu ete  
-
 * -u: substantivoj  
 
 > **katu**: **kato / katoj**  
@@ -46,6 +32,26 @@ Eblas rapide indiki pluralon per la nedeviga sufikso -usu:
 > **fasti** katu eta: **rapida** kato manĝas  
 > katu **fasti** eta: kato **rapide** manĝas  
 > katu eta **fasti**: kato manĝas **rapide**  
+
+Ili ĉiam estas antaŭ la priskribita vorto.
+
+* -a: verboj 
+
+> katu **eta** fisu: kato **manĝas** fiŝon  
+
+La mala direkto (ricevanto iĝas la aganto kaj reciproke) estas esprimebla per -eda:
+
+> katu **eteda**: kato **estas manĝata** / kato **manĝiĝas**  
+> katu **eteda** fisu: kato **estas manĝata de** fiŝo  
+
+La vortordoj estas SVO kaj OSV, tio signifas ke la aganto de la verbo ĉiam estas la substantivo (u-vorto) kiu plej proksimas al la verbo (a-vorto) maldekstre.  
+
+> katu eta fisu (SVO) === fisu katu eta (OSV) 
+
+La vortordo OSV estas ĉefe uzata en subfrazoj:
+
+> mu ba ti, ki yu lova (OSV) : mi estas tiu, kiun vi amas  
+> mu ba ti, ki lova yu (SVO) : mi estas tiu, kiu amas vin  
 
 * -o: prepozicioj, kaj aliaj  
 
@@ -91,7 +97,7 @@ hu lika **selfi** hu: ri ŝatas sin
 hu lika naselfi hu: ri ŝatas rin (alian personon/aferon)  
 
 
-## Prepozicioj kaj aliaj: o-vortoj
+## Prepozicioj kaj aliaj specialaj vortoj: o-vortoj
 
 La listo de prepozicioj ne estas fermita. Ili povas ŝanĝiĝi laŭ la preferoj de la komunumo.  
 
