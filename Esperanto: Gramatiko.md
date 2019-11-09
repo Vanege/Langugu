@@ -30,9 +30,12 @@ La subjekto de verbo ĉiam estas la u-vorto, kiu plej proksimas maldekstre al ve
 * -u: substantivoj  
 
 > **katu**: **kato / katoj**  
-> oni katu: (unu) kato  
-> si katu / katuu: pluraj katoj  
+> oni katu: (unu) kato   
 > mani katu: multaj katoj  
+
+Eblas rapide indiki pluralon per la nedeviga sufikso -usu:
+
+> katusu: katoj
 
 * -i: adjektivo aŭ adverbo
 
@@ -225,22 +228,28 @@ Ili ne ekzistas ĉar ili ne estas bezonataj. Kiel en Esperanto, oni povas anstat
 
 ## Afiksoj
 
-Fakte estas malmultaj afiksoj ĉar ili estas facile anstataŭigeblaj per kunmetado de normalaj radikoj. (-ul- -> -person-, -ej- -uj- -ing- -> -plas-, -estr- ĉef- -> -bos-, -il- -> -tol-, -ind- -> -wort-, -obl- -> -fold-, -op- -ar- -> -grop-, -on- -er- -> -part-, ...). En kelkaj okazoj, oni povas krei novajn radikojn: (-ec- -> -nes-, -ad- -> -ing-, -plena- -> -ful-).
+Ekzistas malmultaj afiksoj ĉar ili estas facile anstataŭigeblaj per kunmetado de normalaj radikoj. (-ul- -> -person-, -ej- -uj- -ing- -> -plas-, -estr- ĉef- -> -bos-, -il- -> -tol-, -ind- -> -wort-, -obl- -> -fold-, -on- -er- -> -part-, ...). En kelkaj okazoj, oni povas krei novajn radikojn: (-ec- -> -nes-, -plena- -> -ful-).
 
 Por aliaj, oni povas facile uzi adjektivojn/adverbojn kaj verbojn: remanĝi -> eta agani, grandega -> mani bigi, grandigi -> maka bigi, grandiĝi -> geta bigi.
 
 ### na- (mal-)
 
-Ĝi funkcias kiel mal- en Esperanto. Ĝi estas uzata pli ofte ol en Esperanto. Ĝi helpas eviti vortajn koliziojn (kiam du vortoj rezultiĝas samsone.)
+Ĝi funkcias kiel mal- en Esperanto. Ĝi estas uzata pli ofte ol en Esperanto. Ĝi helpas eviti vortajn koliziojn (kiam du vortoj rezultiĝas samsone).
 
-* **na**fasti: **mal**rapida  
+> **na**fasti: **mal**rapida  
 
 ### -eru (-(i/a)[n]to, -isto, -ulo, -ilo)
 
-> onu ki kila ba kileru : iu kiu mortigas estas mortiganto   
-> fiseru : fiŝisto  
-> bigeru : grandulo  
+> kil**eru** : mortig**anto**  
+> fis**eru** : fiŝ**isto**  
+> big**eru** : grand**ulo**  
 
+### -usu (-oj, -aro)  
+
+> kat**usu** : kat**oj** / kataro   
+> kustin**usu** : demandoj / demand**aro**  
+
+Se la distingo inter "demandoj" kaj "demandaro" estas grava, eblas krei "kustingropu" por ĉi tiu lasta.
 
 ## Importi vorton el la Angla
 

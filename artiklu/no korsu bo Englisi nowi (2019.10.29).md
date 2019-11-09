@@ -4,7 +4,7 @@ Nowi, Langugu hava korsu bo Esperantu (Esperanto: Gramatiko.md), buto hu stili n
 
 Personu ki kana speka Esperantu mani ofteni kana speka poli langugu, ando ti mani helpa foro maka namori eroru bo studa langugu. Personu ki kana speka Englisi timi kana speka onli Englisi, so ti personu maka mori eroru. 
 
-Nowi, Langugu no hava mani spekeru. Ti onei spekeruu maka bigi efektu to ti futuru ofo Langugu. So mu wanta ti onei spekeru godi usa ti langugu, ti maneri Langugu make stabli bo godi formu.
+Nowi, Langugu no hava mani spekeru. Ti onei spekerusu maka bigi efektu to ti futuru ofo Langugu. So mu wanta ti onei spekeru godi usa ti langugu, ti maneri Langugu make stabli bo godi formu.
 
 Korsu bo Englisi alsi kana maka personu eksesi tinka wito Englisi. Englisi hava mani nalogiki tingu ki Langugu no hava. Esperantu ba mori logiki langugu, so Esperantu hava mori godi eksamplu foro studa Langugu.
 
