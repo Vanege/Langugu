@@ -1,6 +1,6 @@
 ## Langugu ba ki tingu?
 
-:sunny: Langugu ba langugu wito simpli gramatiku, ki usa wordu fromo Englisi langugu. Wordu pi sangeda wito regulari algoritmu foro maka lerningu ando spekingu mori esi.  
+:sunny: Langugu ba langugu wito simpli gramatiku, ki usa wordu fromo ti Englisi langugu. Wordu pi sangeda wito regulari algoritmu foro maka lerna ando speka mori esi.  
 :gb: Langugu is a language with a simple grammar, that uses words from the English language. The words are changed with a regular algorithm to make learning and speaking easier.  
 :green_heart: Langugu estas lingvo kun simpla gramatiko, kiu uzas vortojn el la Angla lingvo. La vortoj estas ŝanĝataj per regula algoritmo por plifaciligi lernadon kaj paroladon.  
 :fr: Langugu est une langue avec une grammaire simple, qui utilise des mots venant de l'anglais. Les mots sont modifiés par un algorithme régulier pour faciliter l'apprentissage et la prononciation.
