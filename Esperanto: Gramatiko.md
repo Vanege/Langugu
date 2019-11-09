@@ -336,3 +336,8 @@ Se okazas, ke vi ne trovas vorton por diri ion, provu tion:
 
 Telegram: grupo en Langugu, Esperanto, la Angla: 
 https://langugu.telegramo.org
+
+
+## Vortlisto
+
+Por trovi vorton, ĉiam estas pli bone paroli kun la komunumo kaj uzi la gramatikon. Tamen, jen eta listo, kiun mi konstruas samtempe kiam mi uzas la lingvon. Ĝi enhavas tradukojn de Esperantaj kaj Anglaj vortoj al mia propra maniero uzi Langugu. Ĝi ne estas oficiala, sed ĝi povas esti oportuna. https://docs.google.com/spreadsheets/d/1guKRbFVMjat0CFsaqEdqzTiLMMgT4dIfyAlbmf2J7wI
