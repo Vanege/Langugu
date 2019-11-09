@@ -11,7 +11,11 @@ Ili estas elparolitaj kiel en la IFA, sed:
 * **v** povas esti elparolita kiel **b**  
 * **z** povas esti elparolita kiel **s**  
 
-## Vortaj finaĵoj
+## Vorto
+
+Vorto en Langugu konsistas el unu aŭ pluraj kunmetitaj *radikoj*, eventualaj *afiksoj*, kaj unu *finaĵo*. Ĉiu vorto konstruita tiel estas valida.
+
+## Finaĵo
 
 * -a: verbo aktiva: la ricevanto de la ago troviĝas post la aganto  
 
@@ -220,40 +224,84 @@ La lingvo ĉiam estas en la vortordo SVO, krom foje en tiuj rilataj subfrazoj, �
 ## "Participoj"
 
 Ili ne ekzistas ĉar ili ne estas bezonataj. Kiel en Esperanto, oni povas anstataŭigi ilin per rilata subfrazo:  
-
 > katu, ki eta, : kato kiu manĝas = kato manĝanta / kato manĝinta  
 > katu, ki ete, : kato kiu estas manĝata = kato manĝata / kato manĝita  
 > katu, ki hava ete, : kato kiu estas manĝita = kato manĝita  
 
 
+## Kunmetado
+
+Kompare al Esperanto, Langugu ne havas multajn afiksojn. Tio okazas ĉar oni jam povas libere kunmeti normalajn radikojn, kiel en Esperanto.
+
+Ekzemple, anstataŭ la afiksoj "ĉef-" kaj "-estr-" de Esperanto, oni povas uzi la radikon "bos/" el la Angla vorto "boss".
+
+> lernejestro : lernplasbosu
+
+Multaj afiksoj de Esperanto estas tiel neripetataj.
+(-ul- -> person/, -ej- -uj- -ing- -> plas/, -estr- ĉef- -> bos/, -il- -> tol/, -ind- -> wort/, -obl- -> fold/, -on- -er- -> part/, ...).
+
+
+## Faciliga ə
+
+Inter du konsonantoj, oni rajtas elparoli ə se tio helpas:
+* speka: /speka/ aŭ /səpeka/
+* twu: /twu/ aŭ /təwu/
+* lernplasbosu: /lernəplasəbosu/  
+
+Se oni ne povas elparoli ə, oni povas elparoli u.
+
+
 ## Afiksoj
 
-Ekzistas malmultaj afiksoj ĉar ili estas facile anstataŭigeblaj per kunmetado de normalaj radikoj. (-ul- -> -person-, -ej- -uj- -ing- -> -plas-, -estr- ĉef- -> -bos-, -il- -> -tol-, -ind- -> -wort-, -obl- -> -fold-, -on- -er- -> -part-, ...). En kelkaj okazoj, oni povas krei novajn radikojn: (-ec- -> -nes-, -plena- -> -ful-).
+En kelkaj okazoj, kiam por Esperanta afikso ne vere ekzistas taŭga radiko, aŭ kiam ĝi estas ĝene tro longa, ekzistas kelkaj afiksoj.
 
 Por aliaj, oni povas facile uzi adjektivojn/adverbojn kaj verbojn: remanĝi -> eta agani, grandega -> mani bigi, grandigi -> maka bigi, grandiĝi -> geta bigi.
 
 ### na- (mal-)
 
-Ĝi funkcias kiel mal- en Esperanto. Ĝi estas uzata pli ofte ol en Esperanto. Ĝi helpas eviti vortajn koliziojn (kiam du vortoj rezultiĝas samsone).
-
 > **na**fasti: **mal**rapida  
 
-### -eru (-(i/a)[n]to, -isto, -ulo, -ilo)
+Ĝi estas pli ofte uzata ol en Esperanto.
 
-> kil**eru** : mortig**anto**  
-> fis**eru** : fiŝ**isto**  
-> big**eru** : grand**ulo**  
+### -er- (-(i/a)[n]t-, -ist-, -ul-, -il-)
 
-### -usu (-oj, -aro)  
+> kil**er**u : mortig**ant**o  
+> fis**er**u : fiŝ**ist**o  
+> big**er**u : grand**ul**o  
 
-> kat**usu** : kat**oj** / kataro   
-> kustin**usu** : demandoj / demand**aro**  
+### -us- (-j, -ar-)  
+
+> kat**us**u : kato**j** / kataro   
+> kustin**us**u : demandoj / demand**ar**o  
 
 Se la distingo inter "demandoj" kaj "demandaro" estas grava, eblas krei "kustingropu" por ĉi tiu lasta.
 
-## Importi vorton el la Angla
+### -ines- (-ec-)
 
-Se okazas, ke vi ne trovas vorton por diri ion, sekvu ĉi tiujn etapojn: Unue petu al aliaj uzantoj de la lingvo kiel ili dirus tion. Se ili ne scias, kaj ke ne eblas uzi sinonimon aŭ konstrui la vorton kiun vi bezonas el elementoj jam en la lingvo, vi povas lastrimede importi vorton el la Angla. Estu certa antaŭ ol fari tion, ĉar estas multe pli facile memori kaj kompreni la vortojn "mani preti" ol "betifuli" por iu kiu ne parolas la Anglan altnivele. Aliaj ekzemploj estas "mori lika" kontraŭ "preferi", kaj "kiledu" kontraŭ "viktimu".
+> pret**ines**u : bel**ec**o  
+> hapinesu : feliĉeco  
+
+### Vortoj anstataŭ afiksoj
+
+Kelkaj afiksoj de Esperanto ankaŭ ne ekzistas ĉar ili estas facile anstataŭigeblaj per facilaj vortoj:
+
+> slepa **agani** : **re**dormi  
+> **mani** preti : bel**ega**  
+> **maka** x bigi : grand**igi** x  
+> **bekoma** bigi / bigeda : grand**iĝi**
+
+
+## Kion fari se vorto mankas?
+
+Se okazas, ke vi ne trovas vorton por diri ion, provu tion:
+1) Demandu al aliaj uzantoj de la lingvo kiel ili dirus.
+2) Provu uzi plurajn vortojn. ("to prefer" -> "mori lika")
+3) Provu kunmeti radikojn. ("school" -> "lernplasu")
+4) Provu afiksojn. ("lean" (opposite of "fat") -> "nafata")
+5) Provu finaĵojn. ("water" -> "wateru" => "to water" -> "watera")
+6) Importi el la Angla lingvo uzante la Algoritmon.
+
+## La Algoritmo
 
 1) Elektu la plej oftan vorton por tiu koncepto, kiu ne ŝajnas konfuzebla kun jamaj radikoj  
   Vi povas trovi la konatecon de Angla vorto per Cambridge Dictionary: https://dictionary.cambridge.org/dictionary/english/  
@@ -276,13 +324,6 @@ Se okazas, ke vi ne trovas vorton por diri ion, sekvu ĉi tiujn etapojn: Unue pe
 9) Forigu h kiam ĝi estas post konsonanto. (ghost -> gost)
 
 10) Forigu w kiam ĝi estas antaŭ r. (write -> rit)
-
-
-## Faciliga ə
-
-Inter du konsonantoj, oni rajtas elparoli ə se tio helpas:
-* speka: /speka/ aŭ /səpeka/
-* twu: /twu/ aŭ /təwu/
 
 
 ## Komunumo
