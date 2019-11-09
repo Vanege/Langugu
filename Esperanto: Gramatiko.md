@@ -235,10 +235,11 @@ Por aliaj, oni povas facile uzi adjektivojn/adverbojn kaj verbojn: remanĝi -> e
 
 * **na**fasti: **mal**rapida  
 
-### -au kaj -eu (-(i/a)nto, -isto, -ulo kaj -(i/a)to)
+### -eru (-(i/a)[n]to, -isto, -ulo, -ilo)
 
-> onu ki kila ba kilau : iu kiu mortigas estas mortiganto  
-> onu ki kile ba kileu : iu kiu estas mortigata estas mortigato/viktimo  
+> onu ki kila ba kileru : iu kiu mortigas estas mortiganto   
+> fiseru : fiŝisto  
+> bigeru : grandulo  
 
 
 ## Importi vorton el la Angla
