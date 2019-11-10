@@ -200,13 +200,15 @@ La listo ne estas fermita, oni povas krei tiom da "tabelvortoj" kiom oni volas.
 
 ## "Ke"
 
-Kiel en la Angla, oni povas ne uzi "that" tiuloke se ĝi ne nepras por kompreno.
+"ke" en Esperanto tradukiĝas per "ti:", per "ti tingu:" aŭ per ":".
+Jen la tri eblaj tradukoj de "Mi ŝatas ke vi manĝas":
+> mu lika ti: yu eta  
+> mu lika ti tingu: yu eta  
+> mu lika: yu eta
 
-> mu lika (ti) yu eta: mi ŝatas ke vi manĝas
+Oni elektu la eblon kiu sentiĝas plej komforta, natura kaj komprenebla, depende de kunteksto.
 
-Se oni volas klarigi, oni povas uzi "ti (tingu):". Tiam vi povas konsideri la dekstran subfrazon kiel identigan priskribon de "tingu".
-
-> mu liki ti: yu eta
+La dupunkto ":" mem ne estas deviga, sed skribe, ĝi montriĝis tre utila por ĝuste analizi frazon. Per ĝi, oni ne povas konfuzi "ti" kun traduko de "la" aŭ de "tiu".
 
 
 ## Rilataj subfrazoj
