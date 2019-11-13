@@ -200,15 +200,8 @@ La listo ne estas fermita, oni povas krei tiom da "tabelvortoj" kiom oni volas.
 
 ## "Ke"
 
-"ke" en Esperanto tradukiĝas per "ti:", per "ti tingu:" aŭ per ":".
-Jen la tri eblaj tradukoj de "Mi ŝatas ke vi manĝas":
-> mu lika ti: yu eta  
-> mu lika ti tingu: yu eta  
-> mu lika: yu eta
-
-Oni elektu la eblon kiu sentiĝas plej komforta, natura kaj komprenebla, depende de kunteksto.
-
-La dupunkto ":" mem ne estas deviga, sed skribe, ĝi montriĝis tre utila por ĝuste analizi frazon. Per ĝi, oni ne povas konfuzi "ti" kun traduko de "la" aŭ de "tiu".
+"ke" en Esperanto tradukiĝas per "ko", sed ĝi ne estas deviga kiam la frazo sufiĉe simplas.
+> mu lika **ko** yu eta === mu lika yu eta : mi ŝatas, ke vi manĝas
 
 
 ## Rilataj subfrazoj
@@ -233,8 +226,7 @@ La lingvo ĉiam estas en la vortordo SVO, krom foje en tiuj rilataj subfrazoj, �
 
 Ili ne ekzistas ĉar ili ne estas bezonataj. Kiel en Esperanto, oni povas anstataŭigi ilin per rilata subfrazo:  
 > katu, ki eta, : kato kiu manĝas = kato manĝanta / kato manĝinta  
-> katu, ki ete, : kato kiu estas manĝata = kato manĝata / kato manĝita  
-> katu, ki hava ete, : kato kiu estas manĝita = kato manĝita  
+> katu, ki eteda, : kato kiu estas manĝata = kato manĝata / kato manĝinta
 
 
 ## Kunmetado
@@ -243,7 +235,7 @@ Kompare al Esperanto, Langugu ne havas multajn afiksojn. Tio okazas ĉar oni jam
 
 Ekzemple, anstataŭ la afiksoj "ĉef-" kaj "-estr-" de Esperanto, oni povas uzi la radikon "bos/" el la Angla vorto "boss".
 
-> lernejestro : lernplasbosu
+> lernplasbosu : lernejestro
 
 Multaj afiksoj de Esperanto estas tiel neripetataj.
 (-ul- -> person/, -ej- -uj- -ing- -> plas/, -estr- ĉef- -> bos/, -il- -> tol/, -ind- -> wort/, -obl- -> fold/, -on- -er- -> part/, ...).
