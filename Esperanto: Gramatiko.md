@@ -27,7 +27,7 @@ Eblas rapide indiki pluralon per la nedeviga sufikso -usu:
 
 > katusu: katoj
 
-* -i: adjektivo aŭ adverbo
+* -i: adjektivoj kaj adverboj
 
 > **fasti** katu eta: **rapida** kato manĝas  
 > katu **fasti** eta: kato **rapide** manĝas  
@@ -247,8 +247,6 @@ Inter du konsonantoj, oni rajtas elparoli ə se tio helpas:
 * speka: /speka/ aŭ /səpeka/
 * twu: /twu/ aŭ /təwu/
 * lernplasbosu: /lernəplasəbosu/  
-
-Se oni ne povas elparoli ə, oni povas elparoli u.
 
 
 ## Afiksoj
