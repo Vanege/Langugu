@@ -279,6 +279,12 @@ Se la distingo inter "demandoj" kaj "demandaro" estas grava, eblas krei "kusting
 > pret**ines**u : bel**ec**o  
 > hapinesu : feliĉeco  
 
+### -abl- (-ebl-)
+
+> et**abl**i : manĝ**ebl**a  
+> havablu : haveblo
+
+
 ### Vortoj anstataŭ afiksoj
 
 Kelkaj afiksoj de Esperanto ankaŭ ne ekzistas ĉar ili estas facile anstataŭigeblaj per facilaj vortoj:
