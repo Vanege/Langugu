@@ -53,7 +53,7 @@ La vortordo OSV estas ĉefe uzata en subfrazoj:
 > mu ba ti, ki yu lova (OSV) : mi estas tiu, kiun vi amas  
 > mu ba ti, ki lova yu (SVO) : mi estas tiu, kiu amas vin  
 
-* -o: prepozicioj, kaj aliaj  
+* -o: rolvortetoj, kaj aliaj  
 
 > fisu **foro** katu: fiŝo **por** kato  
 
@@ -97,37 +97,62 @@ hu lika **selfi** hu: ri ŝatas sin
 hu lika naselfi hu: ri ŝatas rin (alian personon/aferon)  
 
 
-## Prepozicioj kaj aliaj specialaj vortoj: o-vortoj
+## Rolvortetoj kaj aliaj specialaj vortoj: o-vortoj
 
-La listo de prepozicioj ne estas fermita. Ili povas ŝanĝiĝi laŭ la preferoj de la komunumo.  
+Rolvortetoj enkondukas komplementon aŭ subfrazon. La listo de rolvortetoj ne estas fermita. Ili povas ŝanĝiĝi laŭ la preferoj de la komunumo.  
 
-bo: en, ĉe, je  
-nabo: ekster  
+### bo : ĝenerala proksimeco kaj rilato
 
-to: al  
+"bo" indikas ĝeneralan proksimecon kaj rilaton. En Esperanto, ĝi havas la signifon de "en" "ĉe" "je" kaj foje "sur". En la Angla, ĝi havas la signifon de "in" "at", kaj foje "on" "by".
+
+
+> Hundo ludas **en** parko -> Dogu playa **bo** parku  
+> Ri loĝas **ĉe** mia domo -> Hu liva **bo** mi hosu  
+> Ili kredas **je** merito -> Huhu beliva **bo** meritu  
+> Vi iros **je** la dua horo -> Yu wili ga **bo** ti twifi horu  
+> Vi ĉiuj aperas **en**/**sur** retejo -> Yuyu apera **bo** webplasu   
+> Mi sidas **sur** seĝo -> Mu nastanda **bo** setu  
+> Ni sidas **ĉe** table -> Mumu nastanda **bo** tablu  
+
+"bo" estis kreita pro pluraj kialoj:
+- Oni ne povas rekte preni kelkajn vortojn de la Angla: "ino" kaj "ono" sonas tro simile al "no", kaj "ato" sonas tro simile al "to".
+- Tiuj vortoj estas uzataj en maniero tre neantaŭvidebla por lernantoj de la Angla (on the train, at eleven, by the beach...), do uzi novan vorton permesas eviti importi tiujn malfacilaĵojn.
+- Havi ĝeneralan multuzan rolvorteton kiel "je" en Esperanto permesas profiti de la kunteksto por paroli pli flue.
+
+Ekzistas aliaj rolvortetoj por paroli pli precize, sed plej ofte, oni ne bezonas paroli tre precize. Tiam "bo" estas tute oportuna.
+
+### Poziciaj rolvortetoj
+
+insido: en (inside EN)    
+otsido: ekster  
+neksto: apud (next of EN)  
+fronto: antaŭ (in front of EN)  
+bako: malantaŭ (behind, in the back of EN)  
+overo: sur, super (on, over EN)  
+undero: sub (under EN)  
+
+### Tempaj rolvortetoj
+
+beforo: antaŭ  
+aftero: post  
+duringo: dum  
+
+### Aliaj
+
 fromo: el  
+untilo: ĝis  
+to: al  
 ofo: de, da  
-insido: en  
-neksto: apud  
-undero: sub  
-overo: sur, super  
 wito: kun, per  
-nawito / nabo: sen  
+nawito: sen  
 bekaso: pro, ĉar  
 foro: por  
-naforo / agansto: kontraŭ  
-untilo: ĝis  
-beforo: antaŭ (tempe)  
-aftero: post (tempe)  
+agansto: kontraŭ  
 instedo: anstataŭ  
-duringo: dum  
 eksepto: krom  
 alongo / tinko: laŭ  
 aboto: pri  
-bako: malantaŭ (behind / in the back of)  
-fronto: antaŭ (in front of)  
 trogo: tra  
-
 so: do (kiel en la Angla "so")  
 than: tano  
 
