@@ -152,10 +152,14 @@ instedo: anstataŭ
 eksepto: krom  
 alongo / tinko: laŭ  
 aboto: pri  
-trogo: tra  
-so: do (kiel en la Angla "so")  
-than: tano  
+trogo: tra 
 
+so: do (so EN)  
+tano: ol (than EN)  
+ando: kaj (and EN)  
+oro: aŭ (or EN)  
+yeso: jes  
+no: ne  
 
 ### Demandoj
 
