@@ -67,7 +67,9 @@ La verbo por "esti" (EO) estas "ba". Ĝi estas speciala, ĉar ĝi neniam estas d
 
 > yu ba preti === yu preti : vi estas bela  
 > yu ba steleru! === yu steleru! : vi estas ŝtelisto!  
-> mu ba undero tablu === mu undero tablu : mi estas sub tablo  
+> mu ba undero tablu === mu undero tablu : mi estas sub tablo 
+
+Tamen notu, ke kiam "ba" estas uzata antaŭ alia verbo, tiu "ba" precizigas ke la verbo estas uzata en la progresiva aspekto (vidu sube). Vi do povas anstataŭigi "mu ba eta" (mi estas manĝanta) per "mu eta" (mi manĝas), sed depende de la kunteksto, vi povas esti komprenata kiel "mu hava eta" (mi estas manĝinta).
 
 ### Verboj el adjektivoj/adverboj
 
