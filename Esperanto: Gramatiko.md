@@ -14,7 +14,19 @@ Ili estas elparolitaj kiel en la IFA, sed:
 
 ## Vorto
 
-Vorto en Langugu konsistas el unu aŭ pluraj kunmetitaj *radikoj*, eventualaj *afiksoj*, kaj unu *finaĵo*. Ĉiu vorto konstruita tiel estas valida.
+En Langugu, ĉiu vorto havas **unu aŭ plurajn kunmetitajn radikojn**, plus **eventualajn afiksojn**, plus **unu finaĵon**.
+
+> godi (god/i) : bona  
+> nabigi (na-big/i) : malgranda  
+> personusu (person-us/i) : personoj  
+
+Do tio tre similas al la plimulto de vortoj en Esperanto. Tamen, en Esperanto, ekzistas multaj vortoj, kiuj ne sekvas tiun modelon:
+
+* Multaj "aŭ"-vortoj (preskaŭ, adiaŭ, kvazaŭ...). Vidu "ambaŭ", kiu estas uzebla substantive kaj adverbe sen aldonan finaĵon: "Mi volas ambaŭ" "Ili ambaŭ dormas"
+* Multaj adverboj (jam, tuj, nun...), kiuj arbitre ne ricevas la finaĵon -e, kvankam ili estas tute normalaj radikoj alimaniere (oni povas krei utilajn vortojn kiel "jama" kaj "tuja")
+* Korelativoj (io, tie, kiam...), kiuj havas malsamajn regulojn pri kunmetado. Ekzemple "aliam" estas erara ĉar ĝi estas kunmetado de tradicia radiko "ali/" kun nekompleta korelativo "am"...
+
+Oni ne bezonos parkeri tian liston de vortoj kun arbitraj reguloj en Langugu. Langugu sekvas nur la supran vortan modelon. (Krom evidente por personaj nomoj, ĉar personoj mem rajtas decidi kiel oni nomu ilin.)
 
 
 ## Substantivoj: -u
@@ -23,7 +35,7 @@ Vorto en Langugu konsistas el unu aŭ pluraj kunmetitaj *radikoj*, eventualaj *a
 > oni katu: (unu) kato   
 > mani katu: multaj katoj  
 
-Eblas rapide indiki pluralon per la nedeviga sufikso -usu:
+Eblas rapide indiki pluralon per la nedeviga sufikso -us-:
 
 > katusu: katoj
 
