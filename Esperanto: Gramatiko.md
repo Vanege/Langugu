@@ -16,31 +16,56 @@ Ili estas elparolitaj kiel en la IFA, sed:
 
 En Langugu, ĉiu vorto havas **unu aŭ plurajn kunmetitajn radikojn**, plus **eventualajn afiksojn**, plus **unu finaĵon**.
 
-> godi (god/i) : bona  
-> nabigi (na-big/i) : malgranda  
-> personusu (person-us/i) : personoj  
+> godi (god-i) : bona  
+> nabigi (na-big-i) : malgranda  
+> personusu (person-us-i) : personoj  
 
 Do tio tre similas al la plimulto de vortoj en Esperanto. Tamen, en Esperanto, ekzistas multaj vortoj, kiuj ne sekvas tiun modelon:
 
-* Multaj "aŭ"-vortoj (preskaŭ, adiaŭ, kvazaŭ...). Vidu "ambaŭ", kiu estas uzebla substantive kaj adverbe sen aldonan finaĵon: "Mi volas ambaŭ" "Ili ambaŭ dormas"
+* Multaj "aŭ"-vortoj (preskaŭ, adiaŭ, kvazaŭ...). Vidu "ambaŭ", kiu estas uzebla adverbe sen aldonan finaĵon: "Mi volas ambaŭ" "Ili ambaŭ dormas"
 * Multaj adverboj (jam, tuj, nun...), kiuj arbitre ne ricevas la finaĵon -e, kvankam ili estas tute normalaj radikoj alimaniere (oni povas krei utilajn vortojn kiel "jama" kaj "tuja")
 * Korelativoj (io, tie, kiam...), kiuj havas malsamajn regulojn pri kunmetado. Ekzemple "aliam" estas erara ĉar ĝi estas kunmetado de tradicia radiko "ali/" kun nekompleta korelativo "am"...
 
 Oni ne bezonos parkeri tian liston de vortoj kun arbitraj reguloj en Langugu. Langugu sekvas nur la supran vortan modelon. (Krom evidente por personaj nomoj, ĉar personoj mem rajtas decidi kiel oni nomu ilin.)
 
+## Finaĵoj
+
+**La rilato inter finaĵo kaj vortotipo estas kompleta kaj ambaŭdirekta, kaj tio veras por substantivoj, adjektivoj/adverboj kaj verboj**.
+
+En Esperanto, tio ne veras:
+* Kelkaj vortoj kiuj finiĝas per -e ne estas adverboj: ĉe, je...
+* Kelkaj adverboj ne finiĝas per -e: preskaŭ, tuj...
+
+Finaĵo en Langugu ĉiam estas vokalo. Rezulte, **ĉiuj vortoj finiĝas per vokalo**. Tio havas multajn avantaĝojn, inter ili:
+* La plimulto de vortoj ekhavas pli ol unu silabon, do oni povas emfazi la komencon aŭ finon de vorto per malsama akcentado.
+* Parolantoj de lingvoj kiuj senvoĉigas finajn konsonantojn ne havos tiun problemon.
+* Parolantoj de lingvoj kiuj preskaŭ ĉiam finas silabon per vokalo ne havos problemon de aldonan vokalon.
+
+Plej grave, oni havas la utilegan econ de tipomarkado (kiun ni tre ŝatas en Esperanto). La regulaj finaĵoj helpegas analizi frazstrukturon, kaj permesas memkrei proprajn vortojn per ŝanĝo de finaĵo por diri precizi kion oni volas, kiel oni volas.
 
 ## Substantivoj: -u
 
-> **katu**: **kato / katoj**  
-> oni katu: (unu) kato   
+**Substantivo ĉiam finiĝas per la finaĵo -u. Vorto kiu finiĝas per -u ĉiam estas substantivo.**
+
+> katu: kato / katoj  
+
+Kiel en la supra ekzemplo, **la finaĵo -u ne indikas pluralecon**. Vorto kiu finiĝas per -u povas esti aŭ singulara aŭ plurala. Foje, tia informo ne estas grava, foje, ĝi estas facile deduktebla de la kunteksto, kaj se ne, oni povas facile precizigi per adjektivo.
+
+> oni katu: unu kato   
+> plurali katu : pluraj katoj  
 > mani katu: multaj katoj  
 
-Eblas rapide indiki pluralon per la nedeviga sufikso -us-:
+Tamen, se oni ne volas skribi la longan "plurali" kaj volas rapide indiki pluralon, oni povas uzi la sufikson -us-.
 
 > katusu: katoj
 
+Notu ke -us- ankaŭ funkcias kiel la sufikson -ar- de Esperanto. (Klarigo troviĝas pli poste).
 
-## Adjektivoj kaj adverboj: -i 
+-us- ne estas deviga por indiki pluralecon, do frazo kiel "mani katu" ne povas esti konsiderata erara, kiam "multaj kato" estas erara en Esperanto.
+
+Kial la finaĵo -u kaj ne alia litero? Ĉar ĝi estas la malplej ofta vokala litero en la Angla lingvo. Uzi tion por substantivoj (la plej ofta tipo de vorto) helpas multe aŭdi kie finiĝas vorto. Oni tiel povas analizi frazojn multe pli facile.
+
+## Adjektivoj kaj adverboj (modifiloj): -i 
 
 > **fasti** katu eta: **rapida** kato manĝas  
 > katu **fasti** eta: kato **rapide** manĝas  
