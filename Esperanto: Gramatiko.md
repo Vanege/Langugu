@@ -11,13 +11,13 @@ Ili estas elparolitaj kiel en la IFA, sed:
 * **v** povas esti elparolita kiel **b**  
 * **z** povas esti elparolita kiel **s**  
 
+
 ## Vorto
 
 Vorto en Langugu konsistas el unu aŭ pluraj kunmetitaj *radikoj*, eventualaj *afiksoj*, kaj unu *finaĵo*. Ĉiu vorto konstruita tiel estas valida.
 
-## Finaĵo
 
-* -u: substantivoj  
+## Substantivoj: -u
 
 > **katu**: **kato / katoj**  
 > oni katu: (unu) kato   
@@ -27,7 +27,8 @@ Eblas rapide indiki pluralon per la nedeviga sufikso -usu:
 
 > katusu: katoj
 
-* -i: adjektivoj kaj adverboj
+
+## Adjektivoj kaj adverboj: -i 
 
 > **fasti** katu eta: **rapida** kato manĝas  
 > katu **fasti** eta: kato **rapide** manĝas  
@@ -35,16 +36,23 @@ Eblas rapide indiki pluralon per la nedeviga sufikso -usu:
 
 Ili ĉiam estas antaŭ la priskribita vorto.
 
-* -a: verboj 
+
+## Verboj: -a
 
 > katu **eta** fisu: kato **manĝas** fiŝon  
 
-La mala direkto (ricevanto iĝas la aganto kaj reciproke) estas esprimebla per -eda:
+### Mala direkto: -eda
+
+La mala direkto (ricevanto iĝas la aganto kaj reciproke) estas esprimebla per -eda.  
 
 > katu **eteda**: kato **estas manĝata**  
 > katu **eteda** fisu: kato **estas manĝata de** fiŝo  
 
-La vortordoj estas SVO kaj OSV, tio signifas ke la aganto de la verbo ĉiam estas la substantivo (u-vorto) kiu plej proksimas al la verbo (a-vorto) maldekstre.  
+Tio similas al la pasiva voĉo, sed "de" (EO) ne estas uzata post la participo.
+
+### Vortordo: SVO aŭ OSV
+
+La eblaj vortordoj estas SVO kaj OSV, tio signifas ke la aganto de la verbo ĉiam estas la substantivo (u-vorto) kiu plej proksimas al la verbo (a-vorto) maldekstre.  
 
 > katu eta fisu (SVO) === fisu katu eta (OSV) 
 
@@ -53,7 +61,32 @@ La vortordo OSV estas ĉefe uzata en subfrazoj:
 > mu ba ti, ki yu lova (OSV) : mi estas tiu, kiun vi amas  
 > mu ba ti, ki lova yu (SVO) : mi estas tiu, kiu amas vin  
 
-* -o: rolvortetoj, kaj aliaj  
+### La nedeviga verbo "ba"
+
+La verbo por "esti" (EO) estas "ba". Ĝi estas speciala, ĉar ĝi neniam estas deviga.
+
+> yu ba preti === yu preti : vi estas bela  
+> yu ba steleru! === yu steleru! : vi estas ŝtelisto!  
+> mu ba undero tablu === mu undero tablu : mi estas sub tablo  
+
+### Verboj el adjektivoj/adverboj
+
+En Esperanto "vi estas bela" kaj "vi belas" signifas la saman aferon. La vorto "estas" estas ĝene longa, do kiam la vorto X estas *adjektive baza radiko* (bel/a, fort/a, ktp.), Esperantistoj emas uzi "Xi" anstataŭ "esti Xa".
+
+En Langugu, tio ne utilas, ĉar oni simple povas forigi la verbon "ba". (Yu ba preti === Yu preti). Do la funkcio estas alia: verbo el adjektivo kreas la staton de la adjektivo ĉe la ricevanto.
+
+> warmi : varma  
+> warma : igi varma / varmigi  
+> mu warma romu : mi varmigas ĉambron  
+
+### Ĉiuj verboj povas ricevi objekton 
+
+En Esperanto, homoj arbitre diros ke iuj verboj ne rajtas havi rektan objekton. En Langugu, tiuj homoj devos esti pli toleremaj aŭ pli imagemaj. Se tio estas sufiĉe komprenebla, prepozicio de Esperanto povas esti forigita kaj la komplemento iĝas rekta objekto.
+
+> mu worka : mi laboras    
+> mu worka Langugu : mi laboras pri Langugu   
+
+## Rolvortetoj kaj aliaj vortoj: -o
 
 > fisu **foro** katu: fiŝo **por** kato  
 
