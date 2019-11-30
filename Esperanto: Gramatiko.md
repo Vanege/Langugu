@@ -1,10 +1,21 @@
 Tiu paĝo ĉiam estas la plej ĝisdata rilate al la gramatiko de la lingvo. Se vi vidas ke io ne kongruas kun alia instrumetodo, fidu tiun paĝon unue.
 
+## Enkonduko
+
+Langugu estas **la plej facila lingvo por la averaĝa homarano**, kiu ne neglektas esprimpovon. Ĝi donas aliron al internacia malfermita komunumo, kie oni havas la sekurecon de povi esprimi sin kaj de esti komprenata.
+
+* **Vortoj venas de la Angla**. La Angla estas la unua lingvo de internacia komunikado. Homoj lernas ĝin por pliboni sian vivon. Ĝi estas la plej studata lingvo. Vortoj de la Angla nun troviĝas iom ĉie en preskaŭ ĉiuj kulturoj. La kresko de la Angla helpas la kreskon de Langugu. Homoj kiuj povas legi la Anglan povas legi Langugu sufiĉe bone. Finfine facila planlingvo uzebla kun oniaj amikoj!
+
+* **Algoritmo permesas eviti memori vortojn**. Memori arbitrajn vortojn de planlingvo prenas tro da tempo, sed ne en Langugu. La Algoritmo alprenas la bazajn vortojn de la Angla, kaj eltiras antaŭvideblajn radikojn, kiuj estas facile elparoleblaj, sed daŭre rekoneblaj. La Algoritmo tiom simplas, ke ĝi estas uzebla dum parolado por trovi la vortojn, kiujn oni bezonas.  
+
+* **Facilega gramatiko**. Pli ol cent jaroj de uzado de Esperanto montris tion kio funkcias bone kaj tion kio ne. Multege da eraroj, kion faradas lernantoj de Esperanto ne eblas per la gramatiko de Langugu, ĉar la nombro de internaj gramatikaj sistemoj kiuj konkuras estas limigita. La lingvo sukcesas havi malpli da memorendaj reguloj kaj reuzas ilin pli bone.
+
+
 ## Literoj kaj sonoj
 
 a e i o u  
-b d f g h k l m n p s t w y  
-r v z  
+b d f g h k l m n p s t w y r v z  
+
 Ili estas elparolitaj kiel en la IFA, sed:  
 * **y** estas **[j]** (kiel en Esperanto)  
 * **r** povas esti elparolita kiel **l**, kaj ĉiuj naciaj variaĵoj de **r**  
