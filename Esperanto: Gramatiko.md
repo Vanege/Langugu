@@ -336,9 +336,15 @@ La lingvo ĉiam estas en la vortordo SVO, krom foje en tiuj rilataj subfrazoj, �
 
 ## "Participoj"
 
-Ili ne ekzistas ĉar ili ne estas bezonataj. Kiel en Esperanto, oni povas anstataŭigi ilin per rilata subfrazo:  
-> katu, ki eta, : kato kiu manĝas = kato manĝanta / kato manĝinta  
-> katu, ki eteda, : kato kiu estas manĝata = kato manĝata / kato manĝinta
+> Mu prepara : Mi preparas/preparis  
+> Mu prepareru : Mi estas preparanto/preparinto  
+> Mu preparera : Mi preparantas/preparintas  
+> Mu prepareri : Mi estas preparanta/preparinta  
+> Mu preparedu : Mi estas preparato/preparito  
+> Mu prepareda : Mi preparatas/preparitas  
+> Mu preparedi : Mi estas preparata/preparita   
+
+Estu atenta ke en Esperanto, kadre de pli longa frazo, oni foje uzas participon post substantivo en tiu maniero: "La kato manĝanta pomon" En Langugu, oni devas krei subfrazon: "Ti katu ki eta/eteda aplu." "Manĝanta" ne estas verbo, sed adjektivo, do strangas en Esperanto ke ĝi povas ricevi rektan objekton.
 
 
 ## Kunmetado
