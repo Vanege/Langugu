@@ -117,8 +117,6 @@ La verbo por "esti" (EO) estas "ba". Ĝi estas speciala, ĉar ĝi neniam estas d
 > yu ba steleru! === yu steleru! : vi estas ŝtelisto!  
 > mu ba undero tablu === mu undero tablu : mi estas sub tablo 
 
-Tamen notu, ke kiam "ba" estas uzata antaŭ alia verbo, tiu "ba" precizigas ke la verbo estas uzata en la progresiva aspekto (vidu sube). Vi do povas anstataŭigi "mu ba eta" (mi estas manĝanta) per "mu eta" (mi manĝas), sed depende de la kunteksto, vi povas esti komprenata kiel "mu hava eta" (mi estas manĝinta).
-
 ### Verboj el adjektivoj/adverboj
 
 En Esperanto "vi estas bela" kaj "vi belas" signifas la saman aferon. La vorto "estas" estas ĝene longa, do kiam la vorto X estas *adjektive baza radiko* (bel/a, fort/a, ktp.), Esperantistoj emas uzi "Xi" anstataŭ "esti Xa".
@@ -143,9 +141,22 @@ En Esperanto, homoj arbitre diros ke iuj verboj ne rajtas havi rektan objekton. 
 
 ## Tempo, aspekto, modo...
 
-La formo de verbo ne indikas tempon, aspekton aŭ modon. Oni precezigi ilin, oni uzas adverbon aŭ verbon.  
+La formo de verbo ne indikas tempon, aspekton aŭ modon. Oni precezigi ilin, oni uzas adverbon aŭ verbon. Oni simple aldonas la informon kiam oni aldonas ĝin. Tio tute ne estas kiel Esperanto, kie:
+- verbo devige havas tempan aŭ modan informon (la finaĵo)  
+- tempo kaj modo devas batali kontraŭ la alia por esti tiu finaĵo, kvankam ili estas malsamaj tipoj de informo, kiuj povas ekzisti samtempe
+  
 
-* Precizigi tempon
+Ili donas problemegojn en Esperanto:
+
+Se oni volas esprimi -os (posta tempo) kaj -u (deva modo) samtempe, oni ne povas per finaĵo. (""Vi manĝosu"") Oni devas adverbigi unu el la du: "Vi deve manĝos" aŭ "Vi manĝu poste".
+
+Foje la informo pri tempo estas pli grava do oni diras "Mi volas, ke vi manĝos" (emfazo pri la estonteco), sed kelkaj diros ke oni diru "Mi volas, ke vi manĝu" (kvankam -u tie nur estas informa redundeco kun la verbo "volas").
+
+La plej granda teruraĵo okazas kiam oni volas uzi tempon kaj aspekton samtempe. Tiam la verbo "esti" mistere aperas por esti gasto de la tempa informo: "En posta situacio, mi jam manĝis" = "Mi estos manĝinta". Kiel bonuso, vi nun ekhavas voĉan informon (-n de manĝinta).
+
+En Langugu, la aferoj multege pli simplas. Oni ne ŝanĝas la verbon. Oni antaŭmetas la informojn, kiujn oni volas:
+
+### Precizigi tempon
 
 >  katu eta: kato manĝas / kato manĝis / kato manĝos  
 >  katu **nowi** eta: kato (nun) manĝ**as**  
@@ -154,18 +165,19 @@ La formo de verbo ne indikas tempon, aspekton aŭ modon. Oni precezigi ilin, oni
 >  katu **yusti** eta: kato **ĵus** manĝis  
 >  katu **soni** eta: kato **baldaŭ** manĝos  
 
-* Precizigi aspekton
+### Precizigi aspekton
+
+Ekzemploj kadre de la antaŭa tempo:
 
 >  katu pi eta: kato estis manĝinta / kato estis manĝanta  
->  katu pi **ba** eta: kato estis manĝ**a**nta  
->  katu pi **hava** eta: kato estis manĝ**i**nta  
+>  katu pi **stili** eta: kato estis manĝ**a**nta  
+>  katu pi **alredi** eta: kato estis manĝ**i**nta  
 
-* Precizigi modon
+### Precizigi modon
 
 >  katu **musta** eta: kato manĝ**u**  
 >  katu **wolda** eta: kato manĝ**us**  
 >  eta!: manĝu!  
-
 
 ## Pronomoj
 
@@ -336,6 +348,19 @@ La lingvo ĉiam estas en la vortordo SVO, krom foje en tiuj rilataj subfrazoj, �
 
 ## "Participoj"
 
+Per "participo", la gramatiko parolas pri ĉiu vorto en Esperanto kiu posedas la formojn "int", "ant", "ont", "it", "at" kaj "ot", kio estas la difino de PMEG: https://bertilow.com/pmeg/gramatiko/participoj/index.html
+
+En Esperanto participoj devige miksas du informojn: 
+* parol**a**nto: -a- indikas progresivan aspekton  
+* parola**n**ta: -n- indikas aktivan voĉon 
+
+Denove, tio estas deviga precizeco, kaj arbitra mikso de informoj. En la reala mondo, oni povas voli indiki voĉon sen indiki aspekton. Kiom ofte oni hezitis inter "ata" kaj "ita" kiam oni volis diri "-ed" en la Angla? En Langugu, kiam io ne estas grava, oni ne mencias ĝin. Tio ŝparas tempon por cerbumado, kaj samtempe permesas havi malpli da ebloj erari.
+
+En Langugu, la informo pri voĉo estas donata per sufikso:
+
+* -er- : sufikso, kiu indas aktivan voĉon  
+* -ed- : sufikso, kiu indikas pasivan voĉon (la malan direkton)  
+
 > Mu prepara : Mi preparas/preparis  
 > Mu prepareru : Mi estas preparanto/preparinto  
 > Mu preparera : Mi preparantas/preparintas  
@@ -344,7 +369,13 @@ La lingvo ĉiam estas en la vortordo SVO, krom foje en tiuj rilataj subfrazoj, �
 > Mu prepareda : Mi preparatas/preparitas  
 > Mu preparedi : Mi estas preparata/preparita   
 
-Estu atenta ke en Esperanto, kadre de pli longa frazo, oni foje uzas participon post substantivo en tiu maniero: "La kato manĝanta pomon" En Langugu, oni devas krei subfrazon: "Ti katu ki eta/eteda aplu." "Manĝanta" ne estas verbo, sed adjektivo, do strangas en Esperanto ke ĝi povas ricevi rektan objekton.
+Kaj kio se oni volas vere diri "preparita" kaj ne "preparata", por mencii ke la preparado estas tute finita? Se oni volas aldoni aspektan dinstingon, tiam oni aldonas modifilon, kiu indikas tiun informon.
+
+> Mu preparedi : Mi estas preparata/preparita  
+> Mu **alredi** preparedi : Mi estas prepar**i**ta   
+> Mu **stili** preparedi : Mi estas prepar**a**ta  
+
+Estu atenta ke en Esperanto, kadre de pli longa frazo, oni foje uzas participon post substantivo en tiu maniero: "La kato manĝanta fiŝon" En Langugu, oni devas krei subfrazon: "Ti katu ki eta/eteda fisu." "Manĝanta" ne estas verbo, sed adjektivo, do strangas en Esperanto ke ĝi povas ricevi rektan objekton.
 
 
 ## Kunmetado
