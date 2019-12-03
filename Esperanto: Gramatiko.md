@@ -4,11 +4,13 @@ Tiu paĝo ĉiam estas la plej ĝisdata rilate al la gramatiko de la lingvo. Se v
 
 Langugu estas **la plej facila lingvo por la averaĝa homarano**, kiu ne neglektas esprimpovon. Ĝi donas aliron al internacia malfermita komunumo, kie oni havas la sekurecon de povi esprimi sin kaj de esti komprenata.
 
-* **Vortoj venas de la Angla**. La Angla estas la unua lingvo de internacia komunikado. Homoj lernas ĝin por pliboni sian vivon. Ĝi estas la plej studata lingvo. Vortoj de la Angla nun troviĝas iom ĉie en preskaŭ ĉiuj kulturoj. La kresko de la Angla helpas la kreskon de Langugu. Homoj kiuj povas legi la Anglan povas legi Langugu sufiĉe bone. Finfine facila planlingvo uzebla kun oniaj amikoj!
+* **Vortoj venas de la Angla**. La Angla estas la unua lingvo de internacia komunikado. Homoj lernas ĝin por pliboni sian vivon. Ĝi estas la plej studata lingvo. Vortoj de la Angla nun troviĝas iom ĉie en preskaŭ ĉiuj kulturoj. La kresko de la Angla helpas la kreskon de Langugu. Homoj kiuj povas legi la Anglan povas legi Langugu sufiĉe bone. Finfine facila planlingvo uzebla kun oniaj amikoj! Langugu baziĝas sur la skriba formo, ĉar ĝi estas la plej internacia, la plej konata, kaj la plej konsentebla.
 
-* **Algoritmo permesas eviti memori vortojn**. Memori arbitrajn vortojn de planlingvo prenas tro da tempo, sed ne en Langugu. La Algoritmo alprenas la bazajn vortojn de la Angla, kaj eltiras antaŭvideblajn radikojn, kiuj estas facile elparoleblaj, sed daŭre rekoneblaj. La Algoritmo tiom simplas, ke ĝi estas uzebla dum parolado por trovi la vortojn, kiujn oni bezonas.  
+* **Algoritmo permesas eviti memori vortojn**. Memori arbitrajn vortojn de planlingvo prenas tro da tempo, sed ne en Langugu. La Algoritmo alprenas la bazajn vortojn de la Angla, kaj eltiras antaŭvideblajn radikojn, kiuj estas facile elparoleblaj, sed daŭre rekoneblaj. La Algoritmo tiom simplas, ke ĝi estas uzebla dum parolado por trovi la vortojn, kiujn oni bezonas. La Algoritmo ankaŭ estas fonto de konsento inter parolantoj, kaj permesas al ili posedi la lingvon. Ili ne bezonas atendi vorton de ia lingva dio kiam nova vorto por koncepto jamekzistanta en la Angla estas bezonata.
 
-* **Facilega gramatiko**. Pli ol cent jaroj de uzado de Esperanto montris tion kio funkcias bone kaj tion kio ne. Multege da eraroj, kion faradas lernantoj de Esperanto ne eblas per la gramatiko de Langugu, ĉar la nombro de internaj gramatikaj sistemoj kiuj konkuras estas limigita. La lingvo sukcesas havi malpli da memorendaj reguloj kaj reuzas ilin pli bone.
+* **Facilega gramatiko**. Pli ol cent jaroj de uzado de Esperanto montris tion kio funkcias bone kaj tion kio ne. Multege da eraroj, kion faradas lernantoj de Esperanto ne eblas per la gramatiko de Langugu, ĉar la nombro de internaj gramatikaj sistemoj kiuj konkuras estas limigita. La lingvo sukcesas havi malpli da memorendaj reguloj kaj reuzas ilin pli bone.  
+
+* **Minimuma arbitreco**. Ju pli lingvokreanto faras arbitran decidojn (tio povas esti pri nombro de tabelvortoj, prepozicioj, genraj sufiksoj...), des pli ri riskas fuŝi kaj fari ion, kio estas malfacila aŭ malagrabla, aŭ kio ne povos bone evolui kun la komunumo. Minimuma arbitreco ankaŭ faciligas la lingvon, ĉar ĝi iĝas pli antaŭvidebla: oni nur bezonas ĉiam reuzi la samajn simplajn regulojn, kiujn oni povas eltiri de tio, kion oni jam konas.
 
 
 ## Literoj kaj sonoj
@@ -76,6 +78,20 @@ Notu ke -us- ankaŭ funkcias kiel la sufikson -ar- de Esperanto. (Klarigo trovi�
 
 Kial la finaĵo -u kaj ne alia litero? Ĉar ĝi estas la malplej ofta vokala litero en la Angla lingvo. Uzi tion por substantivoj (la plej ofta tipo de vorto) helpas multe aŭdi kie finiĝas vorto. Oni tiel povas analizi frazojn multe pli facile.
 
+
+## Pronomoj
+
+**mu**, **yu**, **hu** : mi, vi, li/ŝi/ri/ĝi    
+**mumu**, **yuyu**, **huhu** : ni, vi, ili  
+
+**mi**: mia/miaj/mian/miajn  
+**mumi**: nia/niaj/nian/niajn  
+
+hu lika hu: ri ŝatas rin / ri ŝatas sin  
+hu lika **selfi** hu: ri ŝatas sin  
+hu lika naselfi hu: ri ŝatas rin (alian personon/aferon)  
+
+
 ## Adjektivoj kaj adverboj (modifiloj): -i 
 
 > **fasti** katu eta: **rapida** kato manĝas  
@@ -83,6 +99,24 @@ Kial la finaĵo -u kaj ne alia litero? Ĉar ĝi estas la malplej ofta vokala lit
 > katu eta **fasti**: kato manĝas **rapide**  
 
 Ili ĉiam estas antaŭ la priskribita vorto.
+
+
+## Nombroj
+
+Por ciferoj, la vortoj de la Angla estas rekte uzataj.
+
+* zeri, oni, twi, t**i**ri, fori, fivi, siksi, seveni, egti, nini, teni, hundredi, tosandi ...
+
+Notu "tiri" kaj ne "tri". Tiu bedaŭrinda arbitraĵo venas de tio ke "tri" tro similas al "twi". (Same kiel en Esperanto "ses" tro similas al "sep").
+
+Por krei grandan nombron, oni metas ilin apud la aliajn.
+
+* twi teni: dudek
+* teni twi: dek du
+
+Por ordaj nombroj, oni uzas la sufikson finaĵon -if-.
+
+* on**ifi**: unua ; tw**ifi**: dua ...
 
 
 ## Verboj: -a
@@ -134,6 +168,7 @@ En Esperanto, homoj arbitre diros ke iuj verboj ne rajtas havi rektan objekton. 
 > mu worka : mi laboras    
 > mu worka Langugu : mi laboras pri Langugu   
 
+
 ## Rolvortetoj kaj aliaj vortoj: -o
 
 > fisu **foro** katu: fiŝo **por** kato  
@@ -179,17 +214,7 @@ Ekzemploj kadre de la antaŭa tempo:
 >  katu **wolda** eta: kato manĝ**us**  
 >  eta!: manĝu!  
 
-## Pronomoj
-
-**mu**, **yu**, **hu** : mi, vi, li/ŝi/ri/ĝi    
-**mumu**, **yuyu**, **huhu** : ni, vi, ili  
-
-**mi**: mia/miaj/mian/miajn  
-**mumi**: nia/niaj/nian/niajn  
-
-hu lika hu: ri ŝatas rin / ri ŝatas sin  
-hu lika **selfi** hu: ri ŝatas sin  
-hu lika naselfi hu: ri ŝatas rin (alian personon/aferon)  
+Notu, ke ĉar ili estas normalaj adjektivoj kaj verboj, la listo de tempoj, aspektoj kaj modoj ne estas arbitre fiksita, kiel povus esti la verbaj finaĵoj de Esperanto. Oni simple uzu la adjektivon (aŭ verbon), kiu havas la signifon de tio, kion oni volas, sed povi esti ĝenita de morfologiaj limigoj.
 
 
 ## Rolvortetoj kaj aliaj specialaj vortoj: o-vortoj
@@ -280,52 +305,75 @@ Por ki-demandoj, oni uzas **ki** (kio/kiu what/which) antaŭ la koncernita afero
 (Kial ne "ni"? Ĉar estas tro da risko ke ĝi estas konfuzata kun finaĵo de adjektivo kiel "mani")  
 
 
-## Nombroj
-
-Por ciferoj, la vortoj de la Angla estas rekte uzataj.
-
-* zeri, oni, twi, t**i**ri, fori, fivi, siksi, seveni, egti, nini, teni, hundredi, tosandi ...
-
-Por krei grandan nombron, oni metas ilin apud la aliajn.
-
-* twi teni: dudek
-* teni twi: dek du
-
-Por ordaj nombroj, oni uzas la sufikson finaĵon -if-.
-
-* on**ifi**: unua ; tw**ifi**: dua ...
-
-
-## "Tabelvortoj"
-
-La unua elemento estas adjektivo, la dua elemento estas normala vorto, do oni devas atenti pri la finaĵo. 
-
-* **ti** = tiu / la  
-* **ki** = kiu (demanda kaj rilata)  
-* **zeri** = neniu   
-* **oni** = iu  
-* **ali** = ĉiu  
-* **oteri** = alia    
-* **ani** = ajna  
-
-tio = ti tingu / ti ("tingu" estas subkomprenita se neniu u-vorto troviĝas dekstre)  
-kio = ki tingu / ki    
-tia = ti tipi  
-kia = ki tipi  
-kial = ki resoni  
-kiel = ki maneri  
-kiam = ki timi  
-kie = ki plasu  
-kiu = ki personu  
-kiom = ki musu / ki amontu  
-
-La listo ne estas fermita, oni povas krei tiom da "tabelvortoj" kiom oni volas.
-
-
 ## "Ke"
 
 "ke" en Esperanto tradukiĝas per "ko", sed ĝi ne estas deviga kiam la frazo sufiĉe simplas.
 > mu lika **ko** yu eta === mu lika yu eta : mi ŝatas, ke vi manĝas
+
+### TODO Prepozicioj kiel konjukcioj
+
+
+## "Tabelvortoj"
+
+En Esperanta "Tabelvorto" (aŭ "Korelativo"), oni devas ligi antaŭparton kun postparto por krei validan vorton.
+
+**La listo de antaŭpartoj kaj postpartoj estas arbitre fiksita**. Se oni ne memoras la liston, oni riskas fari eraron. Ekzemple, oni ne rajtas skribi "alie" (en alia loko) ĉar "ali/" estas normala radiko kaj "am" estas tabelvorta postparto. La solvo por diri "en alia loko" estas uzi la normalan radikon "lok/", do "aliloke".
+
+**Tabelvortoj havas internan vortotipon**. Ekzemple "tia" funkcias kiel adjektivo, "tio" funkcias kiel substantivo, "tiel" funkcias kiel adverbo. Bedaŭrinde, oni ne uzas la devigan finaĵon kiun oni normale uzas por normalaj radikoj
+
+Tabelvortoj vere povas aspekti kiel makulo sur Esperanto. La lingvo jam havas tutan sistemon de vortformado, sed ili esence agas kiel esceptoj kun **apartaj memorendaj gramatikaj reguloj, kaj semantikaj duoblaĵoj**. Efektive, ĉiuj postpartoj kaj kelkaj antaŭpartoj havas normalan radikon kiel alternativon:
+
+* -o : afero
+* -u : persono / x
+* -a : tipa
+* -al : rezone
+* -am : momente
+* -e : loke
+* -el : maniere
+* -es : de -iu  
+* -om : kvanto  
+
+* ĉi- : tut/
+* i- : unu
+* neni- : nul
+
+Kial oni ne dirus "Per nul maniero" aŭ "Nulmaniere" anstataŭ "Neniel"? Oni tiel bezonus lerni malpli da vortoj, kaj la rezulto estus pli rekonebla. Eble ĉar "Nulmaniere" estas tro longa, kaj tablevortoj kutime estas oftaj vortoj, do estas maloportune uzi longan vorton por ili. Sed tiu problemo de longeco estas solvebla per elekto de pli mallongaj radikoj.
+
+**Langugu solvas ĉiujn problemojn de tabelvortoj per ne havi ilin**. Oni simple uzas normalajn adjektivojn kun normala vorto, kun la taŭga finaĵo. Rezulte:
+* Homoj povas libere aldoni novan "tabelvorton", tio simple estas uzi alian adjektivon aŭ radikon. Oni dirus ke tabelvortoj estas "malfermita klaso". Se la listo de tabelvortoj estus komplete arbitra, povus esti risko ke iu, kiun mi elektis estus malbona.
+* La finaĵo ĉiam indikas la gramatikan funkcion.
+* Langugu plene reuzas la vortojn, kiuj jam ekzistas, do ne kreas duoblaĵon.
+
+Notu du gravajn adjektivojn:
+* ti : la montra adjektivo
+* ki : la demanda aŭ rilata adjektivo
+
+### Listo de Esperantaj tabelvortoj tradukitaj
+
+La unua elemento estas adjektivo, la dua elemento estas normala vorto, do oni devas atenti pri la finaĵo. 
+
+> ti : tiu / la  
+> ki : kiu (demanda kaj rilata)  
+> zeri : neniu   
+> oni : iu  
+> ali : ĉiu  
+> oteri : alia    
+> ani : ajna  
+
+> tio -> ti tingu / ti ("tingu" estas subkomprenita se neniu u-vorto troviĝas dekstre)  
+> kio -> ki tingu / ki    
+> tia -> ti tipi  
+> kia -> ki tipi  
+> kial -> ki resoni  
+> kiel -> ki maneri  
+> kiam -> ki timi  
+> kie -> ki plasi  
+> kiu -> ki personu  
+> kiom -> ki musu / ki amontu  
+
+### TODO: Tabelo
+
+Tiu tabelo nur celas doni rapidan tradukon el Esperanto. Ne ekzistas fiksita nombro de linioj kaj kolumnoj.
 
 
 ## Rilataj subfrazoj
