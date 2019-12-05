@@ -4,13 +4,13 @@ Tiu paĝo ĉiam estas la plej ĝisdata rilate al la gramatiko de la lingvo. Se v
 
 Langugu estas **la plej facila lingvo por la averaĝa homarano**, kiu ne neglektas esprimpovon. Ĝi donas aliron al internacia malfermita komunumo, kie oni havas la sekurecon de povi esprimi sin kaj de esti komprenata.
 
-* **Vortoj venas de la Angla**. La Angla estas la unua lingvo de internacia komunikado. Homoj lernas ĝin por pliboni sian vivon. Ĝi estas la plej studata lingvo. Vortoj de la Angla nun troviĝas iom ĉie en preskaŭ ĉiuj kulturoj. La kresko de la Angla helpas la kreskon de Langugu. Homoj kiuj povas legi la Anglan povas legi Langugu sufiĉe bone. Finfine facila planlingvo uzebla kun oniaj amikoj! Langugu baziĝas sur la skriba formo, ĉar ĝi estas la plej internacia, la plej konata, kaj la plej konsentebla.
+* **Vortoj venas de la Angla**. La Angla estas la unua lingvo de internacia komunikado. Homoj lernas ĝin por plibonigi sian vivon. Ĝi estas la plej studata lingvo. Vortoj de la Angla nun troviĝas iom ĉie en preskaŭ ĉiuj kulturoj. La kresko de la Angla helpas la kreskon de Langugu. Homoj kiuj povas legi la Anglan povas legi Langugu sufiĉe bone. Finfine facila planlingvo uzebla kun oniaj amikoj! Langugu baziĝas sur la skriba formo, ĉar ĝi estas la plej internacia, la plej konata, kaj la plej konsentebla.
 
 * **Algoritmo permesas eviti memori vortojn**. Memori arbitrajn vortojn de planlingvo prenas tro da tempo, sed ne en Langugu. La Algoritmo alprenas la bazajn vortojn de la Angla, kaj eltiras antaŭvideblajn radikojn, kiuj estas facile elparoleblaj, sed daŭre rekoneblaj. La Algoritmo tiom simplas, ke ĝi estas uzebla dum parolado por trovi la vortojn, kiujn oni bezonas. La Algoritmo ankaŭ estas fonto de konsento inter parolantoj, kaj permesas al ili posedi la lingvon. Ili ne bezonas atendi vorton de ia lingva dio kiam nova vorto por koncepto jamekzistanta en la Angla estas bezonata.
 
 * **Facilega gramatiko**. Pli ol cent jaroj de uzado de Esperanto montris tion kio funkcias bone kaj tion kio ne. Multege da eraroj, kion faradas lernantoj de Esperanto ne eblas per la gramatiko de Langugu, ĉar la nombro de internaj gramatikaj sistemoj kiuj konkuras estas limigita. La lingvo sukcesas havi malpli da memorendaj reguloj kaj reuzas ilin pli bone.  
 
-* **Minimuma arbitreco**. Ju pli lingvokreanto faras arbitran decidojn (tio povas esti pri nombro de tabelvortoj, prepozicioj, genraj sufiksoj...), des pli ri riskas fuŝi kaj fari ion, kio estas malfacila aŭ malagrabla, aŭ kio ne povos bone evolui kun la komunumo. Minimuma arbitreco ankaŭ faciligas la lingvon, ĉar ĝi iĝas pli antaŭvidebla: oni nur bezonas ĉiam reuzi la samajn simplajn regulojn, kiujn oni povas eltiri de tio, kion oni jam konas.
+* **Minimuma arbitreco**. Ju pli lingvokreanto faras arbitrajn decidojn (tio povas esti pri elekto de vorto, limigita nombro de tabelvortoj, prepozicioj, genraj sufiksoj...), des pli ri riskas fuŝi kaj fari ion, kio estas malfacila aŭ malagrabla, aŭ kio ne povos bone evolui kun la komunumo. Minimuma arbitreco ankaŭ faciligas la lingvon, ĉar ĝi iĝas pli antaŭvidebla: oni nur bezonas ĉiam reuzi la samajn simplajn regulojn, kiujn oni povas eltiri de tio, kion oni jam konas.
 
 
 ## Literoj kaj sonoj
@@ -35,7 +35,7 @@ En Langugu, ĉiu vorto havas **unu aŭ plurajn kunmetitajn radikojn**, plus **ev
 
 Do tio tre similas al la plimulto de vortoj en Esperanto. Tamen, en Esperanto, ekzistas multaj vortoj, kiuj ne sekvas tiun modelon:
 
-* Multaj "aŭ"-vortoj (preskaŭ, adiaŭ, kvazaŭ...). Vidu "ambaŭ", kiu estas uzebla adverbe sen aldonan finaĵon: "Mi volas ambaŭ" "Ili ambaŭ dormas"
+* Multaj "aŭ"-vortoj (preskaŭ, adiaŭ, kvazaŭ...). Vidu "ambaŭ", kiu estas uzebla adverbe sen aldona finaĵo: "Mi volas ambaŭ" "Ili ambaŭ dormas"
 * Multaj adverboj (jam, tuj, nun...), kiuj arbitre ne ricevas la finaĵon -e, kvankam ili estas tute normalaj radikoj alimaniere (oni povas krei utilajn vortojn kiel "jama" kaj "tuja")
 * Korelativoj (io, tie, kiam...), kiuj havas malsamajn regulojn pri kunmetado. Ekzemple "aliam" estas erara ĉar ĝi estas kunmetado de tradicia radiko "ali/" kun nekompleta korelativo "am"...
 
@@ -52,7 +52,7 @@ En Esperanto, tio ne veras:
 Finaĵo en Langugu ĉiam estas vokalo. Rezulte, **ĉiuj vortoj finiĝas per vokalo**. Tio havas multajn avantaĝojn, inter ili:
 * La plimulto de vortoj ekhavas pli ol unu silabon, do oni povas emfazi la komencon aŭ finon de vorto per malsama akcentado.
 * Parolantoj de lingvoj kiuj senvoĉigas finajn konsonantojn ne havos tiun problemon.
-* Parolantoj de lingvoj kiuj preskaŭ ĉiam finas silabon per vokalo ne havos problemon de aldonan vokalon.
+* Parolantoj de lingvoj kiuj preskaŭ ĉiam finas silabon per vokalo ne havos problemon de aldona vokalo.
 
 Plej grave, oni havas la utilegan econ de tipomarkado (kiun ni tre ŝatas en Esperanto). La regulaj finaĵoj helpegas analizi frazstrukturon, kaj permesas memkrei proprajn vortojn per ŝanĝo de finaĵo por diri precizi kion oni volas, kiel oni volas.
 
@@ -72,7 +72,7 @@ Tamen, se oni ne volas skribi la longan "plurali" kaj volas rapide indiki plural
 
 > katusu: katoj
 
-Notu ke -us- ankaŭ funkcias kiel la sufikson -ar- de Esperanto. (Klarigo troviĝas pli poste).
+Notu ke -us- ankaŭ funkcias kiel la sufikso -ar- de Esperanto. (Klarigo troviĝas pli poste).
 
 -us- ne estas deviga por indiki pluralecon, do frazo kiel "mani katu" ne povas esti konsiderata erara, kiam "multaj kato" estas erara en Esperanto.
 
