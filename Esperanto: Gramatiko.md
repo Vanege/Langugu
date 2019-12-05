@@ -302,7 +302,7 @@ Por ki-demandoj, oni uzas **ki** (kio/kiu what/which) antaŭ la koncernita afero
 >  **no** mu wanta slepa buto hu: ne mi volas dormi sed ri  
 >  mu wanta **no** slepa buto speka: mi volas ne dormi sed paroli  
 
-(Kial ne "ni"? Ĉar estas tro da risko ke ĝi estas konfuzata kun finaĵo de adjektivo kiel "mani")  
+Kial ne uzi la vorton "ni"? Neado forte ŝanĝas la signifon de frazo, do estas grave ke la vorto por neado estu bone komprenata. "ni" estas konfuzebla kun ĉiu vorto, kiu finiĝas per "-ni", kaj tio ofte okazas ĉar "-i" estas la finaĵo por adjektivoj/adverboj. La plej ofta tia vorto estas "mani".
 
 
 ## "Ke"
