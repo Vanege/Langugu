@@ -322,8 +322,7 @@ En Esperanta "Tabelvorto" (aŭ "Korelativo"), oni devas ligi antaŭparton kun po
 **Tabelvortoj havas internan vortotipon**. Ekzemple "tia" funkcias kiel adjektivo, "tio" funkcias kiel substantivo, "tiel" funkcias kiel adverbo. Bedaŭrinde, oni ne uzas la devigan finaĵon kiun oni normale uzas por normalaj radikoj
 
 Tabelvortoj vere povas aspekti kiel makulo sur Esperanto. La lingvo jam havas tutan sistemon de vortformado, sed ili esence agas kiel esceptoj kun **apartaj memorendaj gramatikaj reguloj, kaj semantikaj duoblaĵoj**. Efektive, ĉiuj postpartoj kaj kelkaj antaŭpartoj havas normalan radikon kiel alternativon:
-
-* -o : afero
+* -o : afero  
 * -u : persono / x
 * -a : tipa
 * -al : rezone
@@ -332,7 +331,6 @@ Tabelvortoj vere povas aspekti kiel makulo sur Esperanto. La lingvo jam havas tu
 * -el : maniere
 * -es : de -iu  
 * -om : kvanto  
-
 * ĉi- : tut/
 * i- : unu
 * neni- : nul
@@ -371,10 +369,23 @@ La unua elemento estas adjektivo, la dua elemento estas normala vorto, do oni de
 > kiu -> ki personu  
 > kiom -> ki musu / ki amontu  
 
-### TODO: Tabelo
+### Kompara tabelo al Esperanto
 
 Tiu tabelo nur celas doni rapidan tradukon el Esperanto. Ne ekzistas fiksita nombro de linioj kaj kolumnoj.
 
+|                     | ti- : ti        | ki- : ki      | i- : oni        | ĉi- : ali       | neni- : zeri      | ali/ : oteri        | ajna | ani      | ... |
+|---------------------|-----------------|---------------|-----------------|-----------------|-------------------|---------------------|-----------------|-----|
+| -o : () / tingu     | ti / ti tingu   | ki / ki tingu | oni / oni tingu | ali / ali tingu | zeri / zeri tingu | oteri / oteri tingu | ani / ani tingu | ... |
+| -u : () / personu   | ti / ti personu | ...           | ...             | ...             | ...               | ...                 | ...             | ... |
+| -a : tipi           | ti tipi         | ki tipi       | oni tipi        | ali tipi        | zeri tipi         | otiri tipi          | ani tipi        | ... |
+| -al : resoni        | ti resoni       | ...           | ...             | ...             | ...               | ...                 | ...             | ... |
+| -am : timi          | ti timi         | ...           | ...             | ...             | ...               | ...                 | ...             | ... |
+| -e : plasi          | ti plasi        | ...           | ...             | ...             | ...               | ...                 | ...             | ... |
+| -el : maneri        | ti maneri       | ...           | ...             | ...             | ...               | ...                 | ...             | ... |
+| -es : ofo x personu | ofo ti personu  | ...           | ...             | ...             | ...               | ...                 | ...             | ... |
+| -om : musi          | ti musi         | ...           | ...             | ...             | ...               | ...                 | ...             | ... |
+| ...                 | ...             | ...           | ...             | ...             | ...               | ...                 | ...             | ... |
+    
 
 ## Rilataj subfrazoj
 
