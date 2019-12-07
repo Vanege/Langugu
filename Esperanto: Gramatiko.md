@@ -176,7 +176,7 @@ En Esperanto, homoj arbitre diros ke iuj verboj ne rajtas havi rektan objekton. 
 
 ## Tempo, aspekto, modo...
 
-La formo de verbo ne indikas tempon, aspekton aŭ modon. Oni precezigi ilin, oni uzas adverbon aŭ verbon. Oni simple aldonas la informon kiam oni aldonas ĝin. Tio tute ne estas kiel Esperanto, kie:
+La formo de verbo ne indikas tempon, aspekton aŭ modon. Oni precizigu ilin laŭbezone per adverbo aŭ verbo. Tio tute ne estas kiel Esperanto, kie:
 - verbo devige havas tempan aŭ modan informon (la finaĵo)  
 - tempo kaj modo devas batali kontraŭ la alia por esti tiu finaĵo, kvankam ili estas malsamaj tipoj de informo, kiuj povas ekzisti samtempe
   
@@ -189,7 +189,7 @@ Foje la informo pri tempo estas pli grava do oni diras "Mi volas, ke vi manĝos"
 
 La plej granda teruraĵo okazas kiam oni volas uzi tempon kaj aspekton samtempe. Tiam la verbo "esti" mistere aperas por esti gasto de la tempa informo: "En posta situacio, mi jam manĝis" = "Mi estos manĝinta". Kiel bonuso, vi nun ekhavas voĉan informon (-n de manĝinta).
 
-En Langugu, la aferoj multege pli simplas. Oni ne ŝanĝas la verbon. Oni antaŭmetas la informojn, kiujn oni volas:
+En Langugu, la aferoj multege pli simplas: oni ne ŝanĝas la verbon. Oni antaŭmetas la informojn, kiujn oni volas:
 
 ### Precizigi tempon
 
@@ -335,7 +335,7 @@ Tabelvortoj vere povas aspekti kiel makulo sur Esperanto. La lingvo jam havas tu
 * i- : unu
 * neni- : nul
 
-Kial oni ne dirus "Per nul maniero" aŭ "Nulmaniere" anstataŭ "Neniel"? Oni tiel bezonus lerni malpli da vortoj, kaj la rezulto estus pli rekonebla. Eble ĉar "Nulmaniere" estas tro longa, kaj tablevortoj kutime estas oftaj vortoj, do estas maloportune uzi longan vorton por ili. Sed tiu problemo de longeco estas solvebla per elekto de pli mallongaj radikoj.
+Kial oni ne dirus "Per nul maniero" aŭ "Nulmaniere" anstataŭ "Neniel"? Oni tiel bezonus lerni malpli da vortoj, kaj la rezulto estus pli rekonebla. Eble ĉar "Nulmaniere" estas tro longa, kaj tabelvortoj kutime estas oftaj vortoj, do estas maloportune uzi longan vorton por ili. Sed tiu problemo de longeco estas solvebla per elekto de pli mallongaj radikoj.
 
 **Langugu solvas ĉiujn problemojn de tabelvortoj per ne havi ilin**. Oni simple uzas normalajn adjektivojn kun normala vorto, kun la taŭga finaĵo. Rezulte:
 * Homoj povas libere aldoni novan "tabelvorton", tio simple estas uzi alian adjektivon aŭ radikon. Oni dirus ke tabelvortoj estas "malfermita klaso". Se la listo de tabelvortoj estus komplete arbitra, povus esti risko ke iu, kiun mi elektis estus malbona.
@@ -369,7 +369,7 @@ La unua elemento estas adjektivo, la dua elemento estas normala vorto, do oni de
 > kiu -> ki personu  
 > kiom -> ki musu / ki amontu  
 
-### Kompara tabelo al Esperanto
+### Kompara tabelo kun Esperanto
 
 Tiu tabelo nur celas doni rapidan tradukon el Esperanto. Ne ekzistas fiksita nombro de linioj kaj kolumnoj.
 
@@ -428,7 +428,7 @@ En Langugu, la informo pri voĉo estas donata per sufikso:
 > Mu prepareda : Mi preparatas/preparitas  
 > Mu preparedi : Mi estas preparata/preparita   
 
-Kaj kio se oni volas vere diri "preparita" kaj ne "preparata", por mencii ke la preparado estas tute finita? Se oni volas aldoni aspektan dinstingon, tiam oni aldonas modifilon, kiu indikas tiun informon.
+Kaj kio se oni volas vere diri "preparita" kaj ne "preparata", por mencii ke la preparado estas tute finita? Se oni volas aldoni aspektan distingon, tiam oni aldonas modifilon, kiu indikas tiun informon.
 
 > Mu preparedi : Mi estas preparata/preparita  
 > Mu **alredi** preparedi : Mi estas prepar**i**ta   
