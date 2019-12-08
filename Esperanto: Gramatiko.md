@@ -15,15 +15,20 @@ Langugu estas **la plej facila lingvo por la averaĝa homarano**, kiu ne neglekt
 
 ## Literoj kaj sonoj
 
-a e i o u  
-b d f g h k l m n p s t w y r v z  
+Vokaloj: **a e i o u**   
+Konsonantoj: **b d f g h k l m n p s t w y r v z**  
 
-Ili estas elparolitaj kiel en la IFA, sed:  
-* **y** estas **[j]** (kiel en Esperanto)  
+Ĉiu litero elparoliĝas kiel en la Internacia Fonetika Alfabeto, do kiel en Esperanto, kun tiu escepto:
+
+* **y** elparoliĝas kiel en la Angla, do kiel  **j** en Esperanto
+
+Por malfacile lernebla sonoj, multaj variaĵoj estas akceptataj:
+
 * **r** povas esti elparolita kiel **l**, kaj ĉiuj naciaj variaĵoj de **r**  
 * **v** povas esti elparolita kiel **b**  
 * **z** povas esti elparolita kiel **s**  
 
+Langugu do ne havas ĉapelajn literojn (kiuj ne ĉiam estas disponeblaj), nek [maloftan sonon](https://phoible.org/parameters) kiel ĥ de Esperanto. Originale, Langugu ne havis "v" kaj "z", sed ili montriĝis gravegaj por la rekonebleco de kelkaj vortoj, kaj por eviti tro da kolizioj por la uzo de la Algoritmo.
 
 ## Vorto
 
@@ -81,18 +86,31 @@ Kial la finaĵo -u kaj ne alia litero? Ĉar ĝi estas la malplej ofta vokala lit
 
 ## Pronomoj
 
-**mu**, **yu**, **hu** : mi, vi, li/ŝi/ri/ĝi    
-**mumu**, **yuyu**, **huhu** : ni, vi, ili  
+Ili estas normalaj substantivoj, do ili finiĝas per -u.
 
-**mi**: mia/miaj/mian/miajn  
-**mumi**: nia/niaj/nian/niajn  
+* **mu**: mi
+* **yu**: vi
+* **hu**: li/ŝi/ri/ĝi
+* **mumu**: ni
+* **yuyu**: vi
+* **huhu**: ili  
 
-hu lika hu: ri ŝatas rin / ri ŝatas sin  
-hu lika **selfi** hu: ri ŝatas sin  
-hu lika naselfi hu: ri ŝatas rin (alian personon/aferon)  
+Por posedo rilate al pronomo, oni ŝanĝas la finan literon al -i, la finaĵo de modifiloj.
+
+* **mi**: mia/miaj/mian/miajn  
+* **mumi**: nia/niaj/nian/niajn  
+* ...
+
+Por esprimi ke la persono montrata per pronomo estas la sama kiel la subjekto de frazo ("si" en Esperanto), oni povas aldoni la vorton **selfi**.
+
+> hu lika hu: ri ŝatas rin / ri ŝatas sin  
+> hu lika **selfi** hu: ri ŝatas **sin**  
+> hu lika **naselfi** hu: ri ŝatas rin (**alian personon**/aferon)  
 
 
-## Adjektivoj kaj adverboj (modifiloj): -i 
+## Modifiloj: -i 
+
+Modifiloj = adjektivoj + adverboj. Modifilo priskribas la staton aŭ la manieron de vorto, kiu troviĝas dekstre de ĝi. Se neniu vorto troviĝas dekstre, ĝi rilatas al verbo de la frazo.
 
 > **fasti** katu eta: **rapida** kato manĝas  
 > katu **fasti** eta: kato **rapide** manĝas  
@@ -103,20 +121,36 @@ Ili ĉiam estas antaŭ la priskribita vorto.
 
 ## Nombroj
 
-Por ciferoj, la vortoj de la Angla estas rekte uzataj.
+Ili estas normalaj modifiloj, do finiĝas per -i.
 
-* zeri, oni, twi, t**i**ri, fori, fivi, siksi, seveni, egti, nini, teni, hundredi, tosandi ...
+* **zeri**: nul
+* **oni**: unu
+* **twi**: du
+* **t*i*ri**: tri
+* **fori**: kvar
+* **fivi**: kvin
+* **siksi**: ses
+* **seveni**: sep
+* **egti**: ok
+* **nini**: naŭ
+* **teni**: dek
+* **hundredi**: cent
+* **tosandi**: mil
+* ...
 
 Notu "tiri" kaj ne "tri". Tiu bedaŭrinda arbitraĵo venas de tio ke "tri" tro similas al "twi". (Same kiel en Esperanto "ses" tro similas al "sep").
 
-Por krei grandan nombron, oni metas ilin apud la aliajn.
+Por paroli pri preciza nombro, oni faras tiel:
 
-* twi teni: dudek
-* teni twi: dek du
+* 2429 = 2 x 1000 + 1 x 100 + 2 x 10 + 9
+* twi tosandi fori hundredi twi teni nini 
+
 
 Por ordaj nombroj, oni uzas la sufikson finaĵon -if-.
 
-* on**ifi**: unua ; tw**ifi**: dua ...
+* on**ifi**: unua
+* tw**ifi**: dua
+* ...
 
 
 ## Verboj: -a
@@ -167,11 +201,6 @@ En Esperanto, homoj arbitre diros ke iuj verboj ne rajtas havi rektan objekton. 
 
 > mu worka : mi laboras    
 > mu worka Langugu : mi laboras pri Langugu   
-
-
-## Rolvortetoj kaj aliaj vortoj: -o
-
-> fisu **foro** katu: fiŝo **por** kato  
 
 
 ## Tempo, aspekto, modo...
