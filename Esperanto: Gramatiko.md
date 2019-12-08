@@ -1,10 +1,10 @@
-Tiu paĝo ĉiam estas la plej ĝisdata rilate al la gramatiko de la lingvo. Se vi vidas ke io ne kongruas kun alia instrumetodo, fidu tiun paĝon unue.
+Tiu paĝo ĉiam estas la plej ĝisdata rilate al la gramatiko de la lingvo. Se vi vidas ke io ne kongruas kun alia instrumetodo, fidu ĉi tiun paĝon unue.
 
 ## Enkonduko
 
 Langugu estas **la plej facila lingvo por la averaĝa homarano**, kiu ne neglektas esprimpovon. Ĝi donas aliron al internacia malfermita komunumo, kie oni havas la sekurecon de povi esprimi sin kaj de esti komprenata.
 
-* **Vortoj venas de skribita Angla**. La Angla estas la unua lingvo de internacia komunikado. Homoj lernas ĝin por plibonigi sian vivon. Ĝi estas la plej studata lingvo. Vortoj de la Angla nun troviĝas iom ĉie en preskaŭ ĉiuj kulturoj. La kresko de la Angla helpas la kreskon de Langugu. Langugu baziĝas sur la skriba formo, ĉar ĝi estas la plej internacia, la plej konata, kaj la plej konsentebla. Homoj kiuj povas legi la Anglan bazninvele povas legi Langugu sufiĉe bone. Do esence, Langugu estas la sola planlingvo, kiun oni povas uzi kun internacia amikaro, kiu ankoraŭ ne studis ĝin.  
+* **Vortoj venas de skribita Angla**. La Angla estas la unua lingvo de internacia komunikado. Homoj lernas ĝin por plibonigi sian vivon. Ĝi estas la plej studata lingvo. Vortoj de la Angla nun troviĝas iom ĉie en preskaŭ ĉiuj kulturoj. La kresko de la Angla helpas la kreskon de Langugu. Langugu baziĝas sur la skriba formo, ĉar ĝi estas la plej internacia, la plej konata, kaj la plej konsentebla. Homoj kiuj povas legi la Anglan baznivele povas legi Langugu sufiĉe bone. Do esence, Langugu estas la sola planlingvo, kiun oni povas uzi kun internacia amikaro, kiu ankoraŭ ne studis ĝin.  
 
 * **Algoritmo permesas eviti memori vortojn**. Memori arbitrajn vortojn de planlingvo prenas tro da tempo, sed ne en Langugu. La Algoritmo alprenas la bazajn vortojn de la Angla, kaj eltiras antaŭvideblajn radikojn, kiuj estas facile elparoleblaj, sed daŭre rekoneblaj. La Algoritmo tiom simplas, ke ĝi estas uzebla dum parolado por trovi la vortojn, kiujn oni bezonas. La Algoritmo ankaŭ estas fonto de konsento inter parolantoj, kaj permesas al ili posedi la lingvon. Ili ne bezonas atendi vorton de ia lingva dio kiam nova vorto por koncepto jamekzistanta en la Angla estas bezonata.
 
