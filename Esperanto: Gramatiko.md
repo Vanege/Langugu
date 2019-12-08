@@ -8,9 +8,11 @@ Langugu estas **la plej facila lingvo por la averaĝa homarano**, kiu ne neglekt
 
 * **Algoritmo permesas eviti memori vortojn**. Memori arbitrajn vortojn de planlingvo prenas tro da tempo, sed ne en Langugu. La Algoritmo alprenas la bazajn vortojn de la Angla, kaj eltiras antaŭvideblajn radikojn, kiuj estas facile elparoleblaj, sed daŭre rekoneblaj. La Algoritmo tiom simplas, ke ĝi estas uzebla dum parolado por trovi la vortojn, kiujn oni bezonas. La Algoritmo ankaŭ estas fonto de konsento inter parolantoj, kaj permesas al ili posedi la lingvon. Ili ne bezonas atendi vorton de ia lingva dio kiam nova vorto por koncepto jamekzistanta en la Angla estas bezonata.
 
-* **Facilega gramatiko**. Pli ol cent jaroj de uzado de Esperanto montris tion kio funkcias bone kaj tion kio ne. Multege da eraroj, kion faradas lernantoj de Esperanto ne eblas per la gramatiko de Langugu, ĉar la nombro de internaj gramatikaj sistemoj kiuj konkuras estas limigita. La lingvo sukcesas havi malpli da memorendaj reguloj kaj reuzas ilin pli bone.  
+* **Simpligita gramatiko**. Pli ol cent jaroj de uzado de Esperanto montris tion kio funkcias bone kaj tion kio ne. Multege da eraroj, kion faradas lernantoj de Esperanto ne eblas per la gramatiko de Langugu, ĉar la nombro de internaj gramatikaj sistemoj kiuj konkuras estas limigita. La lingvo sukcesas havi malpli da memorendaj reguloj kaj reuzas ilin pli bone.  
 
-* **Minimuma arbitreco**. Ju pli lingvokreanto faras arbitrajn decidojn (tio povas esti pri elekto de vorto, limigita nombro de tabelvortoj, prepozicioj, genraj sufiksoj...), des pli ri riskas fuŝi kaj fari ion, kio estas malfacila aŭ malagrabla, aŭ kio ne povos bone evolui kun la komunumo. Minimuma arbitreco ankaŭ faciligas la lingvon, ĉar ĝi iĝas pli antaŭvidebla: oni nur bezonas ĉiam reuzi la samajn simplajn regulojn, kiujn oni povas eltiri de tio, kion oni jam konas.
+* **Laŭbezona precizeco**. La ĉefa fonto de eraroj en Esperanto estas tio: deviga precizeco. La lingvo forte miksas en samajn vortojn malsamajn informojn (ekzemple pluralo kun adjektivo, aŭ pronomo kun genro). Sed tiuj informoj ne ĉiam estas utilaj, ne ĉiam estas menciindaj, aŭ jam estas esprimataj per aliaj antaŭaj vortoj, vortordo aŭ per kunteksto. Tiu deviga precizeco malfluidigas paroladon, ĉar ĝi devigas ĉiam pensi pri pli da aferoj, ol oni vere bezonas. La solvo estas igi ĉiujn aferojn, kiujn ne ĉiam gravas modifiloj (ekzemple, tempo esprimiĝas per adverbo, kaj genro per adjektivo).
+
+* **Minimuma arbitreco**. Ju pli lingvokreanto faras arbitrajn decidojn (tio povas esti pri elekto de vorto, limigita nombro de tabelvortoj, prepozicioj, genraj sufiksoj...), des pli ri riskas fuŝi kaj fari ion, kio estas malfacila aŭ malagrabla, aŭ kio ne povos bone evolui kun la komunumo. Esence, Langugu ne havas fermitajn klasojn. Ekzemple, tempo estas esprimata per adverboj, kaj ajna nova adverbo uzeblas kiel tempo (ne ekzistas finita nombro de verbaj finaĵoj "-as -is -os"). Minimuma arbitreco ankaŭ faciligas la lingvon, ĉar ĝi iĝas pli antaŭvidebla: oni nur bezonas ĉiam reuzi la samajn simplajn regulojn, kiujn oni povas eltiri de tio, kion oni jam konas.
 
 
 ## Literoj kaj sonoj
@@ -88,17 +90,17 @@ Kial la finaĵo -u kaj ne alia litero? Ĉar ĝi estas la malplej ofta vokala lit
 
 Ili estas normalaj substantivoj, do ili finiĝas per -u.
 
-* **mu**: mi
-* **yu**: vi
-* **hu**: li/ŝi/ri/ĝi
-* **mumu**: ni
-* **yuyu**: vi
-* **huhu**: ili  
+* **mu**: mi/min
+* **yu**: vi/vin
+* **hu**: li/ŝi/ri/ĝi/lin/ŝin/rin/ĝin
+* **mumu**: ni/nin
+* **yuyu**: vi/vin
+* **huhu**: ili/ilin  
 
 Por posedo rilate al pronomo, oni ŝanĝas la finan literon al -i, la finaĵo de modifiloj.
 
-* **mi**: mia/miaj/mian/miajn  
-* **mumi**: nia/niaj/nian/niajn  
+* m**i**: mia/miaj/mian/miajn  
+* mum**i**: nia/niaj/nian/niajn  
 * ...
 
 Por esprimi ke la persono montrata per pronomo estas la sama kiel la subjekto de frazo ("si" en Esperanto), oni povas aldoni la vorton **selfi**.
@@ -107,16 +109,17 @@ Por esprimi ke la persono montrata per pronomo estas la sama kiel la subjekto de
 > hu lika **selfi** hu: ri ŝatas **sin**  
 > hu lika **naselfi** hu: ri ŝatas rin (**alian personon**/aferon)  
 
+Oni do povas skribi la duan pronomon sen devi mense pensi pri la subjekto de la frazo (ĉu estas la sama persono, aŭ ne). Oni mencias la "self"-econ nur laŭbezone kiam kunteksto aŭ evidenteco ne sufiĉas. Tio forigas multajn problemojn kiujn Esperantistoj havas kun "si".
 
 ## Modifiloj: -i 
 
-Modifiloj = adjektivoj + adverboj. Modifilo priskribas la staton aŭ la manieron de vorto, kiu troviĝas dekstre de ĝi. Se neniu vorto troviĝas dekstre, ĝi rilatas al verbo de la frazo.
+Modifilo = adjektivo aŭ adverbo. Modifilo priskribas la staton aŭ la manieron de vorto, kiu troviĝas dekstre de ĝi. Se neniu vorto troviĝas dekstre, ĝi rilatas al verbo de la frazo.
 
 > **fasti** katu eta: **rapida** kato manĝas  
 > katu **fasti** eta: kato **rapide** manĝas  
 > katu eta **fasti**: kato manĝas **rapide**  
 
-Ili ĉiam estas antaŭ la priskribita vorto.
+Do ne plu eblas erari per diri "Bona!" aŭ "Manĝi terpomon estas bona". Same kiel Langugu ne markas akuzativon, Langugu plene profitas de poziciaj informoj, por ne lasi eblojn sintakste erari kiam homoj ĉiuokaze komprenus.
 
 
 ## Nombroj
@@ -154,6 +157,8 @@ Por ordaj nombroj, oni uzas la sufikson finaĵon -if-.
 
 
 ## Verboj: -a
+
+Ĉiuj verboj en Langugu finiĝas per -a. Verboj estas uzeblaj sen porti informon pri tempo kaj modo.
 
 > katu **eta** fisu: kato **manĝas** fiŝon  
 
