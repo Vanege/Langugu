@@ -344,7 +344,34 @@ Kial ne uzi la vorton "ni"? Neado forte ŝanĝas la signifon de frazo, do estas 
 "ke" en Esperanto tradukiĝas per "ko", sed ĝi ne estas deviga kiam la frazo sufiĉe simplas.
 > mu lika **ko** yu eta === mu lika yu eta : mi ŝatas, ke vi manĝas
 
-### TODO Prepozicioj kiel konjukcioj
+### Prepozicioj kiel konjukcioj
+
+En Esperanto, rolvorteto povas foje esti uzata kiel prepozicio kaj konjukcio. Vidu la ekzemplon de "dum":
+
+* Mi manĝas dum spektado (prepozicio, kiu enkondukas substantivon)  
+* Mi manĝas dum mi spektas (kunjunkcio, kiu enkondukas frazon)  
+
+Sed tio ne eblas por ĉiu prepozicia rolvorteto, ekzemple "pro":
+
+* Mi dormas pro laceco
+* ~~Mi dormas pro mi estas laca~~ -> Mi dormas ĉar mi estas laca   
+* Mi dormas por ripozo  
+* ~~Mi dormas por mi ripozas~~ -> Mi dormas por (tio) ke mi ripozu
+
+En Langugu, o-vorto uzata prepozicie rajtas esti uzata konjunkcie, kaj male.
+
+* Mu slepa bekaso tiredinesu  
+* Mu slepa bekaso mu ba tiredi  
+* Mu slepa foro restu  
+* Mu slepa foro mi resta
+
+La ĉeesto de verbo sufiĉe klarigas ke la vorto estas uzata kunjunkcie, sed eblas ankaŭ frue montri ke oni komencas frazon per la nedeviga "ko".
+
+* Mu slepa foro mi resta === Mu slepa foro ko mi resta
+
+En Esperanto, oni arbitre diras ke nur kelkaj prepozicioj rajtas havi verbon (oni rajtus diri "por manĝi" sed ne "per manĝi"). En Langugu, oni rajtas meti ĉion, kion oni volas, post prepozicio. Se tio igas ĝin teknike konjunkcio, tio ne vere gravas, ĉar malkiel "pro" kaj "ĉar" en Esperanto, Langugu ĉiam uzas la saman formon.
+
+Ekzistas multege da neutilaj malkonsentoj en Esperanto rilate al la ĝusteco de frazoj kiel "Post manĝi" "Post kiam manĝi" "Post mi manĝas" "Post ol mi manĝas". Langugu ne povas havi tiujn problemojn, kaj komprenebleco estas sufiĉa indiko de ĝusteco.
 
 
 ## "Tabelvortoj"
@@ -604,7 +631,7 @@ Ekestis tro da problemoj pro nekonscio aŭ forgeso de Angla vorto sen tia finaĵ
 
 ## Komunumo
 
-Telegram: grupo en Langugu, Esperanto, la Angla: 
+Telegram: grupo en Langugu kaj Esperanto: 
 https://langugu.telegramo.org
 
 
