@@ -250,8 +250,9 @@ Ekzemploj kadre de la antaŭa tempo:
 
 Notu, ke ĉar ili estas normalaj adjektivoj kaj verboj, la listo de tempoj, aspektoj kaj modoj ne estas arbitre fiksita, kiel povus esti la verbaj finaĵoj de Esperanto. Oni simple uzu la adjektivon (aŭ verbon), kiu havas la signifon de tio, kion oni volas, sed povi esti ĝenita de morfologiaj limigoj.
 
-
 ## Rolvortetoj kaj aliaj specialaj vortoj: o-vortoj
+
+## Rolvortetoj
 
 Rolvortetoj enkondukas komplementon aŭ subfrazon. La listo de rolvortetoj ne estas fermita. Ili povas ŝanĝiĝi laŭ la preferoj de la komunumo.  
 
@@ -275,27 +276,30 @@ Rolvortetoj enkondukas komplementon aŭ subfrazon. La listo de rolvortetoj ne es
 
 Ekzistas aliaj rolvortetoj por paroli pli precize, sed plej ofte, oni ne bezonas paroli tre precize. Tiam "bo" estas tute oportuna.
 
-### Poziciaj rolvortetoj
+### Lokaj rolvortetoj
 
-insido: en (inside EN)    
-otsido: ekster  
-neksto: apud (next of EN)  
-fronto: antaŭ (in front of EN)  
-bako: malantaŭ (behind, in the back of EN)  
-overo: sur, super (on, over EN)  
-undero: sub (under EN)  
+* insido: en (inside)    
+* otsido: ekster  
+* neksto: apud (next of EN)  
+* fronto: antaŭ (in front of EN)  
+* bako: malantaŭ (behind, in the back of EN)  
+* overo: sur, super (on, over EN)  
+* undero: sub (under EN)  
 
 ### Tempaj rolvortetoj
 
-beforo: antaŭ  
-aftero: post  
-duringo: dum  
+* beforo: antaŭ  
+* aftero: post  
+* duringo: dum  
+
+### Movaj rolvortetoj (tempaj kaj lokaj)
+
+* fromo: el  
+* untilo: ĝis  
+* to: al  
 
 ### Aliaj
 
-fromo: el  
-untilo: ĝis  
-to: al  
 ofo: de, da  
 wito: kun, per  
 nawito: sen  
@@ -306,16 +310,36 @@ instedo: anstataŭ
 eksepto: krom  
 alongo / tinko: laŭ  
 aboto: pri  
-trogo: tra 
+trogo: tra  
 
-so: do (so EN)  
-tano: ol (than EN)  
-ando: kaj (and EN)  
-oro: aŭ (or EN)  
-yeso: jes  
-no: ne  
+## Kunligaj vortetoj
 
-### Demandoj
+* ando: kaj (and EN)  
+* oro: aŭ (or EN)  
+* buto: sed (but EN) 
+
+
+## Plenigaj vortoj
+
+**oko** (okej) **so** (do) estas la ĉefaj plenigaj vorto de Langugu. Ili similas al "nu" kaj "do" en Esperanto kiam ili estas uzataj por... plenigi frazon. Ili utilas ekzemple por ekhavi atenton de aŭskultantoj, aŭ por doni al si tempon por pensi pri la resto de la frazo.
+
+> oko... mu preti foro ga: okej... mi pretas por iri  
+> so... ki hapena yesterdayi?: do... kio okazis hieraŭ?  
+
+
+## Komparoj
+
+Por simileco de maniero:
+
+> Hu speka **ki maneri** mi: Ri parolas **kiel** mi
+
+Por komparo de eco de iu afero al alia afero:
+
+> Katu **mori** bigi **tano** mosu: Kato estas **pli** granda **ol** muso  
+> Katu **namori** bigi **tano** mosu: Kato estas **malpli** granda **ol** muso  
+> Katu **mosti** bigi: Kato estas **plej** granda
+
+## Demandoj
 
 Ĝenerale, oni nur bezonas aldoni je la frazfino "?" por krei demandon.  
 
@@ -329,14 +353,19 @@ Por ki-demandoj, oni uzas **ki** (kio/kiu what/which) antaŭ la koncernita afero
 * mumu maka **ki** (tingu)?: **Kiun** (aferon) ni faras?  
 
 
-### Neado
+## Neado
 
-**no** staras antaŭ la elemento neita:
+Kiel la vorto "ne", **no** staras antaŭ la elemento neita.
 >  mu **no** wanta slepa: mi ne volas dormi  
 >  **no** mu wanta slepa buto hu: ne mi volas dormi sed ri  
 >  mu wanta **no** slepa buto speka: mi volas ne dormi sed paroli  
 
-Kial ne uzi la vorton "ni"? Neado forte ŝanĝas la signifon de frazo, do estas grave ke la vorto por neado estu bone komprenata. "ni" estas konfuzebla kun ĉiu vorto, kiu finiĝas per "-ni", kaj tio ofte okazas ĉar "-i" estas la finaĵo por adjektivoj/adverboj. La plej ofta tia vorto estas "mani".
+Kial ne uzi la "ni" (kun la modifila finaĵo)? Neado forte ŝanĝas la signifon de frazo, do estas grave ke la vorto por neado estu bone komprenata. "ni" estas konfuzebla kun ĉiu vorto, kiu finiĝas per "-ni", kaj tio ofte okazas ĉar "-i" estas la finaĵo por adjektivoj/adverboj. La plej ofta tia vorto estas "mani".
+
+Simile al neado, eblas fari jesadon per **yeso**, simile al kiel oni uzas "ja" en Esperanto. Oni povas fari tion por emfazi la verecon de aserto, sed bone tio, la modifilo "reli" estas pli ofta.
+
+> mu yeso lika snaku: mi ja ŝatas serpentojn  
+> mu reli lika snaku: mi vere ŝatas serpentojn  
 
 
 ## "Ke"
