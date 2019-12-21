@@ -32,13 +32,21 @@ Por malfacile lernebla sonoj, multaj variaĵoj estas akceptataj:
 
 Langugu do ne havas ĉapelajn literojn (kiuj ne ĉiam estas disponeblaj), nek [maloftan sonon](https://phoible.org/parameters) kiel ĥ de Esperanto. Originale, Langugu ne havis "v" kaj "z", sed ili montriĝis gravegaj por la rekonebleco de kelkaj vortoj, kaj por eviti tro da kolizioj por la uzo de la Algoritmo.
 
+
+## Faciliga ə
+
+Inter du konsonantoj, oni rajtas elparoli ə se tio helpas:
+* speka: /speka/ aŭ /səpeka/
+* twu: /twu/ aŭ /təwu/
+* lernplasbosu: /lernəplasəbosu/  
+
+
 ## Vorto
 
 En Langugu, ĉiu vorto havas **unu aŭ plurajn kunmetitajn radikojn**, plus **eventualajn afiksojn**, plus **unu finaĵon**.
 
 > godi (god-i) : bona  
 > nabigi (na-big-i) : malgranda  
-> personusu (person-us-i) : personoj  
 
 Do tio tre similas al la plimulto de vortoj en Esperanto. Tamen, en Esperanto, ekzistas multaj vortoj, kiuj ne sekvas tiun modelon:
 
@@ -72,18 +80,14 @@ Plej grave, oni havas la utilegan econ de tipomarkado (kiun ni tre ŝatas en Esp
 Kiel en la supra ekzemplo, **la finaĵo -u ne indikas pluralecon**. Vorto kiu finiĝas per -u povas esti aŭ singulara aŭ plurala. Foje, tia informo ne estas grava, foje, ĝi estas facile deduktebla de la kunteksto, kaj se ne, oni povas facile precizigi per adjektivo.
 
 > oni katu: unu kato   
-> plurali katu : pluraj katoj  
-> mani katu: multaj katoj  
+> severali katu : pluraj katoj  
 
-Tamen, se oni ne volas skribi la longan "plurali" kaj volas rapide indiki pluralon, oni povas uzi la sufikson -us-.
+Tiel, oni ne povas fari eraron kiel diri "multaj kato", ĉar "katu" aŭtomate signifas "katoj" se ĝi troviĝas post la adjektivo "mani". Tamen, oni ofte ne havas adjektivon aŭ kuntekston, kiu indikas (ne)plurecon, por tio, se oni ne volas skribi la longan "severali", oni povas uzi "si".
 
-> katusu: katoj
+> severali katu : pluraj katoj  
+> si katu : pluraj katoj  
 
-Notu ke -us- ankaŭ funkcias kiel la sufikso -ar- de Esperanto. (Klarigo troviĝas pli poste).
-
--us- ne estas deviga por indiki pluralecon, do frazo kiel "mani katu" ne povas esti konsiderata erara, kiam "multaj kato" estas erara en Esperanto.
-
-Kial la finaĵo -u kaj ne alia litero? Ĉar ĝi estas la malplej ofta vokala litero en la Angla lingvo. Uzi tion por substantivoj (la plej ofta tipo de vorto) helpas multe aŭdi kie finiĝas vorto. Oni tiel povas analizi frazojn multe pli facile.
+Kial la finaĵo -u por substantivoj, kaj ne alia litero? Ĉar ĝi estas la malplej ofta vokala litero en la Angla lingvo. Uzi tion por substantivoj (la plej ofta tipo de vorto) helpas multe aŭdi kie finiĝas vorto. Oni tiel povas analizi frazojn multe pli facile.
 
 
 ## Pronomoj
@@ -389,7 +393,7 @@ Sed tio ne eblas por ĉiu prepozicia rolvorteto, ekzemple "pro":
 
 En Langugu, o-vorto uzata prepozicie rajtas esti uzata konjunkcie, kaj male.
 
-* Mu slepa bekaso tiredinesu  
+* Mu slepa bekaso tirednesu  
 * Mu slepa bekaso mu ba tiredi  
 * Mu slepa foro restu  
 * Mu slepa foro mi resta
@@ -529,7 +533,7 @@ Estu atenta ke en Esperanto, kadre de pli longa frazo, oni foje uzas participon 
 
 ## Kunmetado
 
-Kompare al Esperanto, Langugu ne havas multajn afiksojn. Tio okazas ĉar oni jam povas libere kunmeti normalajn radikojn, kiel en Esperanto.
+Kompare al Esperanto, Langugu preskaŭ ne havas afiksojn ekster finaĵoj (ekzistas nur na-, -er- kaj -ed-). Tio okazas ĉar oni jam povas libere kunmeti normalajn radikojn por paroli pri novaj konceptoj, kiel en Esperanto. Do tiu eblo estas reuzata, anstataŭ aldoni memorendajn radikojn.
 
 Ekzemple, anstataŭ la afiksoj "ĉef-" kaj "-estr-" de Esperanto, oni povas uzi la radikon "bos/" el la Angla vorto "boss".
 
@@ -538,59 +542,26 @@ Ekzemple, anstataŭ la afiksoj "ĉef-" kaj "-estr-" de Esperanto, oni povas uzi 
 Multaj afiksoj de Esperanto estas tiel neripetataj.
 (-ul- -> person/, -ej- -uj- -ing- -> plas/, -estr- ĉef- -> bos/, -il- -> tol/, -ind- -> wort/, -obl- -> fold/, -on- -er- -> part/, ...).
 
+Por ecoj, la nova radiko "nesu" ekzistas ĉar "kvalitu" estas tro longa.
 
-## Faciliga ə
+> warm**nes**u : varm**ec**o    
+> stupid**nes**u : stult**ec**o  
 
-Inter du konsonantoj, oni rajtas elparoli ə se tio helpas:
-* speka: /speka/ aŭ /səpeka/
-* twu: /twu/ aŭ /təwu/
-* lernplasbosu: /lernəplasəbosu/  
+Sed tre ofte, sufiĉas apudmeti normalan vorton.
+
+> slepa **agani** : **re**dormi  
+> **bigi** boku : libr**eg**o  
+> **mani** preti : bel**ega**  
+> **maka** x bigi : grand**igi** x  
+> **bekoma** bigi / bigeda : grand**iĝi**  
+> **kana** hav**ed**i : manĝ**ebl**a === povas esti manĝata  
 
 
-## Afiksoj
-
-En kelkaj okazoj, kiam por Esperanta afikso ne vere ekzistas taŭga radiko, aŭ kiam ĝi estas ĝene tro longa, ekzistas kelkaj afiksoj.
-
-Por aliaj, oni povas facile uzi adjektivojn/adverbojn kaj verbojn: remanĝi -> eta agani, grandega -> mani bigi, grandigi -> maka bigi, grandiĝi -> geta bigi.
-
-### na- (mal-)
+## Mala koncepto: na- (mal-)
 
 > **na**fasti: **mal**rapida  
 
-Ĝi estas pli ofte uzata ol en Esperanto.
-
-### -er- (-(i/a)[n]t-, -ist-, -ul-, -il-)
-
-> kil**er**u : mortig**ant**o  
-> fis**er**u : fiŝ**ist**o  
-> big**er**u : grand**ul**o  
-
-### -us- (-j, -ar-)  
-
-> kat**us**u : kato**j** / kataro   
-> kustin**us**u : demandoj / demand**ar**o  
-
-Se la distingo inter "demandoj" kaj "demandaro" estas grava, eblas krei "kustingropu" por ĉi tiu lasta.
-
-### -ines- (-ec-)
-
-> pret**ines**u : bel**ec**o  
-> hapinesu : feliĉeco  
-
-### -abl- (-ebl-)
-
-> et**abl**i : manĝ**ebl**a  
-> havablu : haveblo
-
-
-### Vortoj anstataŭ afiksoj
-
-Kelkaj afiksoj de Esperanto ankaŭ ne ekzistas ĉar ili estas facile anstataŭigeblaj per facilaj vortoj:
-
-> slepa **agani** : **re**dormi  
-> **mani** preti : bel**ega**  
-> **maka** x bigi : grand**igi** x  
-> **bekoma** bigi / bigeda : grand**iĝi**
+Ĝi tute funkcias kiel "mal-" en Esperanto, sed estas uzata eĉ pli ofte. Ĝi permesas eviti memori multege da vortoj, kaj ĝi ankaŭ helpas eviti koliziojn, kiuj povas aperi pro la Algoritmo. 
 
 
 ## Kion fari se vorto mankas?
@@ -602,6 +573,7 @@ Se okazas, ke vi ne trovas vorton por diri ion, provu tion:
 4) Provu afiksojn. ("lean" (opposite of "fat") -> "nafata")
 5) Provu finaĵojn. ("water" -> "wateru" => "to water" -> "watera")
 6) Importi el la Angla lingvo uzante la Algoritmon.
+
 
 ## La Algoritmo
 
