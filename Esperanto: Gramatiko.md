@@ -37,7 +37,7 @@ Langugu do ne havas ĉapelajn literojn (kiuj ne ĉiam estas disponeblaj), nek [m
 
 Inter du konsonantoj, oni rajtas elparoli ə se tio helpas:
 * speka: /speka/ aŭ /səpeka/
-* twu: /twu/ aŭ /təwu/
+* twi: /twi/ aŭ /təwi/
 * lernplasbosu: /lernəplasəbosu/  
 
 
@@ -117,7 +117,7 @@ Oni do povas skribi la duan pronomon sen devi mense pensi pri la subjekto de la 
 
 ## Modifiloj: -i 
 
-Modifilo = adjektivo aŭ adverbo. Modifilo priskribas la staton aŭ la manieron de vorto, kiu troviĝas dekstre de ĝi. Se neniu vorto troviĝas dekstre, ĝi rilatas al verbo de la frazo.
+Modifilo = adjektivo aŭ adverbo. Plejofte, modifilo priskribas la staton aŭ la manieron de la vorto, kiu troviĝas dekstre, sed ne ĉiam.
 
 > **fasti** katu eta: **rapida** kato manĝas  
 > katu **fasti** eta: kato **rapide** manĝas  
@@ -153,7 +153,7 @@ Por paroli pri preciza nombro, oni faras tiel:
 * twi tosandi fori hundredi twi teni nini 
 
 
-Por ordaj nombroj, oni uzas la sufikson finaĵon -if-.
+Por ordaj nombroj, oni uzas la sufiksan finaĵon -if-.
 
 * on**ifi**: unua
 * tw**ifi**: dua
@@ -393,7 +393,7 @@ Sed tio ne eblas por ĉiu prepozicia rolvorteto, ekzemple "pro":
 
 En Langugu, o-vorto uzata prepozicie rajtas esti uzata konjunkcie, kaj male.
 
-* Mu slepa bekaso tirednesu  
+* Mu slepa bekaso tirnesu  
 * Mu slepa bekaso mu ba tiredi  
 * Mu slepa foro restu  
 * Mu slepa foro mi resta
@@ -533,7 +533,7 @@ Estu atenta ke en Esperanto, kadre de pli longa frazo, oni foje uzas participon 
 
 ## Kunmetado
 
-Kompare al Esperanto, Langugu preskaŭ ne havas afiksojn ekster finaĵoj (ekzistas nur na-, -er- kaj -ed-). Tio okazas ĉar oni jam povas libere kunmeti normalajn radikojn por paroli pri novaj konceptoj, kiel en Esperanto. Do tiu eblo estas reuzata, anstataŭ aldoni memorendajn radikojn.
+Kompare al Esperanto, Langugu preskaŭ ne havas afiksojn ekster finaĵoj (ekzistas nur na-, -er-, -ed- kaj -ifi). Tio okazas ĉar oni jam povas libere kunmeti normalajn radikojn por paroli pri novaj konceptoj, kiel en Esperanto. Do tiu eblo estas reuzata, anstataŭ aldoni memorendajn radikojn.
 
 Ekzemple, anstataŭ la afiksoj "ĉef-" kaj "-estr-" de Esperanto, oni povas uzi la radikon "bos/" el la Angla vorto "boss".
 
@@ -583,7 +583,7 @@ Se okazas, ke vi ne trovas vorton por diri ion, provu tion:
   
 2) Kiam pluraj vokaloj (aeoiu) aperas apude, konservu nur la unuan.
 
-3) Forigu la vokalojn kiuj troviĝas je la fino de vorto. (potato -> potat) (pretty -> pret). Faru ankaŭ tion por la litero y, sed ne se vokalo troviĝas tuj antaŭ ĝi. (body -> bod) (boy -> boy)
+3) Forigu la vokalojn kiuj troviĝas je la fino de vorto. (potato -> potat) (pretty -> pret). Faru ankaŭ tion por la litero y, sed ne se vokalo troviĝas tuj antaŭ ĝi. (body -> bod) (allow -> allow)
 
 4) Forigu duoblajn konsonantojn. (battle -> batl)
 
@@ -638,4 +638,8 @@ https://langugu.telegramo.org
 
 ## Vortlisto
 
-Por trovi vorton, ĉiam estas pli bone paroli kun la komunumo kaj uzi la gramatikon. Tamen, jen eta listo, kiun mi konstruas samtempe kiam mi uzas la lingvon. Ĝi enhavas tradukojn de Esperantaj kaj Anglaj vortoj al mia propra maniero uzi Langugu. Ĝi ne estas oficiala, sed ĝi povas esti oportuna. https://docs.google.com/spreadsheets/d/1guKRbFVMjat0CFsaqEdqzTiLMMgT4dIfyAlbmf2J7wI
+Por trovi vorton, ĉiam estas pli bone paroli kun la komunumo kaj uzi la gramatikon. 
+
+Tamen, jen vortlisto, kiun mi konstruas samtempe kiam mi uzas la lingvon: https://docs.google.com/spreadsheets/d/1sA7RsI5FinqWQ3WMyhP4gVVyq_zEyp77QUMbWdRWM7M
+
+Ekzistas korektilo, kiun oni povas uzi por kontroli ĉu ĉiu vorto de teksto estas en la listo. Ĝi ankaŭ informas kiam vorto estas ofte erare uzata: https://langugi-korekteru.herokuapp.com/
