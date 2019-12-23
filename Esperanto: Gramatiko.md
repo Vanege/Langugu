@@ -153,7 +153,7 @@ Por paroli pri preciza nombro, oni faras tiel:
 * twi tosandi fori hundredi twi teni nini 
 
 
-Por ordaj nombroj, oni uzas la sufiksan finaĵon -if-.
+Por ordaj nombroj, oni aldonas la ŝajnsufikson -if-
 
 * on**ifi**: unua
 * tw**ifi**: dua
@@ -533,7 +533,7 @@ Estu atenta ke en Esperanto, kadre de pli longa frazo, oni foje uzas participon 
 
 ## Kunmetado
 
-Kompare al Esperanto, Langugu preskaŭ ne havas afiksojn ekster finaĵoj (ekzistas nur na-, -er-, -ed- kaj -ifi). Tio okazas ĉar oni jam povas libere kunmeti normalajn radikojn por paroli pri novaj konceptoj, kiel en Esperanto. Do tiu eblo estas reuzata, anstataŭ aldoni memorendajn radikojn.
+Kompare al Esperanto, Langugu preskaŭ ne havas afiksojn ekster finaĵoj (nur na-, -er- kaj -ed- estas krepovaj). Tio okazas ĉar oni jam povas libere kunmeti normalajn radikojn por paroli pri novaj konceptoj, kiel en Esperanto. Do tiu eblo estas reuzata, anstataŭ aldoni memorendajn radikojn.
 
 Ekzemple, anstataŭ la afiksoj "ĉef-" kaj "-estr-" de Esperanto, oni povas uzi la radikon "bos/" el la Angla vorto "boss".
 
