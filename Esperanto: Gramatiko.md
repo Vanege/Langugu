@@ -545,7 +545,7 @@ Multaj afiksoj de Esperanto estas tiel neripetataj.
 Por ecoj, la nova radiko "nesu" ekzistas ĉar "kvalitu" estas tro longa.
 
 > warm**nes**u : varm**ec**o    
-> stupid**nes**u : stult**ec**o  
+> nasmart**nes**u : stult**ec**o  
 
 Sed tre ofte, sufiĉas apudmeti normalan vorton.
 
