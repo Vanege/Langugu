@@ -117,18 +117,20 @@ Oni do povas skribi la duan pronomon sen devi mense pensi pri la subjekto de la 
 
 ## Modifiloj: -i 
 
-Modifilo = adjektivo aŭ adverbo. Plejofte, modifilo priskribas la staton aŭ la manieron de la vorto, kiu troviĝas dekstre, sed ne ĉiam.
+**Modifilo ĉiam finiĝas per la finaĵo -i. Vorto kiu finiĝas per -i ĉiam estas modifilo.**
+
+Modifilo = adjektivo aŭ adverbo. Plejofte, modifilo priskribas la staton aŭ la manieron de alia vorto. Plej ofte, la modifilo troviĝas maldekstre de tiu, kiu estas modifata.
 
 > **fasti** katu eta: **rapida** kato manĝas  
 > katu **fasti** eta: kato **rapide** manĝas  
 > katu eta **fasti**: kato manĝas **rapide**  
 
-Do ne plu eblas erari per diri "Bona!" aŭ "Manĝi terpomon estas bona". Same kiel Langugu ne markas akuzativon, Langugu plene profitas de poziciaj informoj, por ne lasi eblojn sintakste erari kiam homoj ĉiuokaze komprenus.
+Do ne plu eblas erari per diri "Bona!" aŭ "Manĝi terpomon estas bona". Same kiel Langugu ne markas akuzativon, Langugu plene profitas de poziciaj informoj. Tiel, oni ne lasas eblojn sintakste erari kiam homoj ĉiuokaze komprenus.
 
 
 ## Nombroj
 
-Ili estas normalaj modifiloj, do finiĝas per -i.
+Ili estas normalaj modifiloj, do ili finiĝas per -i.
 
 * **zeri**: nul
 * **oni**: unu
@@ -258,9 +260,9 @@ Notu, ke ĉar ili estas normalaj adjektivoj kaj verboj, la listo de tempoj, aspe
 
 ## Rolvortetoj
 
-Rolvortetoj enkondukas komplementon aŭ subfrazon. La listo de rolvortetoj ne estas fermita. Ili povas ŝanĝiĝi laŭ la preferoj de la komunumo.  
+Rolvortetoj enkondukas komplementon (prepozicio) aŭ subfrazon (konjukcio), aŭ faras ion specialan. La listo de rolvortetoj ne estas fermita. Ili povas ŝanĝiĝi laŭ la preferoj de la komunumo.  
 
-### bo : ĝenerala proksimeco kaj rilato
+## Ĝenerala proksimeco kaj rilato (bo)
 
 "bo" indikas ĝeneralan proksimecon kaj rilaton. En Esperanto, ĝi havas la signifon de "en" "ĉe" "je" kaj foje "sur". En la Angla, ĝi havas la signifon de "in" "at", kaj foje "on" "by".
 
@@ -279,6 +281,8 @@ Rolvortetoj enkondukas komplementon aŭ subfrazon. La listo de rolvortetoj ne es
 - Havi ĝeneralan multuzan rolvorteton kiel "je" en Esperanto permesas profiti de la kunteksto por paroli pli flue.
 
 Ekzistas aliaj rolvortetoj por paroli pli precize, sed plej ofte, oni ne bezonas paroli tre precize. Tiam "bo" estas tute oportuna.
+
+## Aliaj rolvortetoj
 
 ### Lokaj rolvortetoj
 
@@ -302,7 +306,7 @@ Ekzistas aliaj rolvortetoj por paroli pli precize, sed plej ofte, oni ne bezonas
 * untilo: ĝis  
 * to: al  
 
-### Aliaj
+### Aliaj...
 
 ofo: de, da  
 wito: kun, per  
@@ -316,26 +320,25 @@ alongo / tinko: laŭ
 aboto: pri  
 trogo: tra  
 
-## Kunligaj vortetoj
+### Kunligaj rolvortetoj
 
 * ando: kaj (and EN)  
 * oro: aŭ (or EN)  
 * buto: sed (but EN) 
 
-
-## Plenigaj vortoj
+## Plenigaj vortoj (so, oko)
 
 **oko** (okej) **so** (do) estas la ĉefaj plenigaj vorto de Langugu. Ili similas al "nu" kaj "do" en Esperanto kiam ili estas uzataj por... plenigi frazon. Ili utilas ekzemple por ekhavi atenton de aŭskultantoj, aŭ por doni al si tempon por pensi pri la resto de la frazo.
 
 > oko... mu preti foro ga: okej... mi pretas por iri  
 > so... ki hapena yesterdayi?: do... kio okazis hieraŭ?  
 
-
-## Komparoj
+## Komparoj (tano)
 
 Por simileco de maniero:
 
-> Hu speka **ki maneri** mi: Ri parolas **kiel** mi
+> Hu speka **sami tano** mi: Ri parolas **same kiel** mi === Ri parolas **kiel** mi  
+> Hu speka **nasami tano** mi: Ri parolas **malsame ol** mi  
 
 Por komparo de eco de iu afero al alia afero:
 
@@ -343,7 +346,7 @@ Por komparo de eco de iu afero al alia afero:
 > Katu **namori** bigi **tano** mosu: Kato estas **malpli** granda **ol** muso  
 > Katu **mosti** bigi: Kato estas **plej** granda
 
-## Demandoj
+## Demandoj (do)
 
 Ĝenerale, oni nur bezonas aldoni je la frazfino "?" por krei demandon.  
 
@@ -356,8 +359,7 @@ Por ki-demandoj, oni uzas **ki** (kio/kiu what/which) antaŭ la koncernita afero
 * yu wanta **ki** animalu?: **Kiun** beston vi volas?  
 * mumu maka **ki** (tingu)?: **Kiun** (aferon) ni faras?  
 
-
-## Neado
+## Neado (no)
 
 Kiel la vorto "ne", **no** staras antaŭ la elemento neita.
 >  mu **no** wanta slepa: mi ne volas dormi  
@@ -371,13 +373,12 @@ Simile al neado, eblas fari jesadon per **yeso**, simile al kiel oni uzas "ja" e
 > mu yeso lika snaku: mi ja ŝatas serpentojn  
 > mu reli lika snaku: mi vere ŝatas serpentojn  
 
-
-## "Ke"
+## "Ke" (ko)
 
 "ke" en Esperanto tradukiĝas per "ko", sed ĝi ne estas deviga kiam la frazo sufiĉe simplas.
 > mu lika **ko** yu eta === mu lika yu eta : mi ŝatas, ke vi manĝas
 
-### Prepozicioj kiel konjukcioj
+## Prepozicioj kiel konjukcioj
 
 En Esperanto, rolvorteto povas foje esti uzata kiel prepozicio kaj konjukcio. Vidu la ekzemplon de "dum":
 
@@ -572,7 +573,7 @@ Se okazas, ke vi ne trovas vorton por diri ion, provu tion:
 3) Provu kunmeti radikojn. ("school" -> "lernplasu")
 4) Provu afiksojn. ("lean" (opposite of "fat") -> "nafata")
 5) Provu finaĵojn. ("water" -> "wateru" => "to water" -> "watera")
-6) Importi el la Angla lingvo uzante la Algoritmon.
+6) Importu el la Angla lingvo uzante la Algoritmon.
 
 
 ## La Algoritmo
