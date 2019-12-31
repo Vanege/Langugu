@@ -1,8 +1,9 @@
 module.exports = {
   title: 'Langugu',
-  description: 'Ti mosti esi langugu foro ti averagi humanu',
+  description: 'Ti mosti simpli langugu foro ti averagi humanu',
   base: '/Langugu/',
   themeConfig: {
+    logo: '/img/logo.png',
     nav: [
       { text: 'Gramatiko', link: '/' },
       { text: 'Korektilo', link: 'https://langugi-korekteru.herokuapp.com' },
