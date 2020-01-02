@@ -330,7 +330,7 @@ trogo: tra
 
 **oko** (okej) **so** (do) estas la ĉefaj plenigaj vorto de Langugu. Ili similas al "nu" kaj "do" en Esperanto kiam ili estas uzataj por... plenigi frazon. Ili utilas ekzemple por ekhavi atenton de aŭskultantoj, aŭ por doni al si tempon por pensi pri la resto de la frazo.
 
-> oko... mu preti foro ga: okej... mi pretas por iri  
+> oko... mu preparedi foro ga: okej... mi pretas por iri  
 > so... ki hapena yesterdayi?: do... kio okazis hieraŭ?  
 
 ## Komparoj (tano)
