@@ -30,7 +30,7 @@ Ekzistas aliaj rolvortetoj por paroli pli precize, sed plej ofte, oni ne bezonas
 * neksto: apud (next of EN)  
 * fronto: antaŭ (in front of EN)  
 * bako: malantaŭ (behind, in the back of EN)  
-* overo: sur, super (on, over EN)  
+* abovo: sur, super (on, over, above EN)  
 * undero: sub (under EN)  
 
 ### Tempaj rolvortetoj
