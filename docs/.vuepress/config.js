@@ -6,7 +6,7 @@ module.exports = {
     logo: '/img/logo.png',
     nav: [
       { text: 'Gramatiko', link: '/' },
-      { text: 'Korektilo', link: 'https://langugi-korekteru.herokuapp.com' },
+      { text: 'Korektilo', link: 'https://vanege.github.io/langugi-korekteru/' },
       { text: 'Korpuso', link: 'https://github.com/Vanege/Langugu' },
       { text: 'Komunumo', link: 'https://langugu.telegramo.org' },
     ],

@@ -643,4 +643,4 @@ Por trovi vorton, ĉiam estas pli bone paroli kun la komunumo kaj uzi la gramati
 
 Tamen, jen vortlisto, kiun mi konstruas samtempe kiam mi uzas la lingvon: https://docs.google.com/spreadsheets/d/1sA7RsI5FinqWQ3WMyhP4gVVyq_zEyp77QUMbWdRWM7M
 
-Ekzistas korektilo, kiun oni povas uzi por kontroli ĉu ĉiu vorto de teksto estas en la listo. Ĝi ankaŭ informas kiam vorto estas ofte erare uzata: https://langugi-korekteru.herokuapp.com/
+Ekzistas korektilo, kiun oni povas uzi por kontroli ĉu ĉiu vorto de teksto estas en la listo. Ĝi ankaŭ informas kiam vorto estas ofte erare uzata: https://vanege.github.io/langugi-korekteru/
