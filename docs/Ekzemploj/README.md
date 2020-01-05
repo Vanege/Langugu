@@ -1,1 +1,1 @@
-Ĉi tiu paĝo enhavos grandan liston de kreaĵoj per Langugu
+Ti plasi, yu kana finda somi tingu makedi wito Langugu.

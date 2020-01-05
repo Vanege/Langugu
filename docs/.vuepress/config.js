@@ -6,7 +6,7 @@ module.exports = {
     logo: '/img/logo.png',
     nav: [
       { text: 'Gramatiko', link: '/Gramatiko/Prezento/' },
-      { text: 'Ekzemploj', link: '/Ekzemploj/Vanege' },
+      { text: 'Ekzemploj', link: '/Ekzemploj/katu' },
       { text: 'Korektilo', link: 'https://vanege.github.io/langugi-korekteru/' },
       { text: 'Komunumo', link: 'https://langugu.telegramo.org' },
     ],
@@ -27,6 +27,7 @@ module.exports = {
       ],
       '/Ekzemploj/': [
         ['Vanege', 'Vanege'],
+        ['katu', 'katu'],
         ['Citaĵoj', 'Citaĵoj']
       ]
     }

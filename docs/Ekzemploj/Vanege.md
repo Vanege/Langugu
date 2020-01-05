@@ -2,7 +2,7 @@
 
 ## Frutu: godi tastu ando godi foro heltu
 
-![frutu](https://images.unsplash.com/photo-1466065478348-0b967011f8e0?w=800)
+![frutu](https://images.unsplash.com/photo-1466065478348-0b967011f8e0?w=600)
 
 **Bo ti si tingu, ki mu mosti lika eta, ba mani frutu.** Mangu.. grapu wito sedu.. plumu... mu reli lika mani tipu. Ando eta huhu mani esi: mu onli neda buya huhu, wasa huhu, ando eta huhu. Ti onli nagodi tingu ba, ko ofteni huhu kosta mani moneyu. Somi timi frutu no kosta mani, bekaso ba ti gateri timu. Ti timi mu eksesi buya ando eta.
 
