@@ -1,3 +1,4 @@
+# Substantivo (-u)
 ## Substantivo
 
 **Substantivo ĉiam finiĝas per la finaĵo -u. Vorto kiu finiĝas per -u ĉiam estas substantivo.**

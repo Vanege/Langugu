@@ -1,3 +1,4 @@
+# Verbo (-a)
 ## Verbo
 
 **Verbo ĉiam finiĝas per la finaĵo -a. Vorto kiu finiĝas per -a ĉiam estas verbo.**

@@ -1,3 +1,4 @@
+# Kunmetado
 ## Kunmetado
 
 Kompare al Esperanto, Langugu preskaŭ ne havas afiksojn ekster finaĵoj (nur na-, -er- kaj -ed- estas krepovaj). Tio okazas ĉar oni jam povas libere kunmeti normalajn radikojn por paroli pri novaj konceptoj, kiel en Esperanto. Do tiu eblo estas reuzata, anstataŭ aldoni memorendajn radikojn.

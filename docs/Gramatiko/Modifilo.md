@@ -1,3 +1,4 @@
+# Modifilo (-i)
 ## Modifilo
 
 **Modifilo ĉiam finiĝas per la finaĵo -i. Vorto kiu finiĝas per -i ĉiam estas modifilo.**

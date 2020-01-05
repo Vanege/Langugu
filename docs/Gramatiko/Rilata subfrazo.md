@@ -1,3 +1,4 @@
+# Rilata subfrazo
 ## Rilataj subfrazoj
 
 Ili tute funkcias kiel la ti-ki-pontoj en Esperanto. Por evidentigi komencon de subfrazo, oni povas uzi ", " antaŭ "ki".

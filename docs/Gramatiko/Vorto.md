@@ -1,3 +1,4 @@
+# Vorto
 ## Vorto
 
 En Langugu, ĉiu vorto havas **unu aŭ plurajn kunmetitajn radikojn**, plus **eventualajn afiksojn**, plus **unu finaĵon**.

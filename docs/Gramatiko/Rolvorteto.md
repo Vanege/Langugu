@@ -1,3 +1,4 @@
+# Rolvorteto (-o)
 ## Rolvorteto
 
 Rolvortetoj enkondukas komplementon (prepozicio) aŭ subfrazon (konjukcio), aŭ faras ion specialan. La listo de rolvortetoj ne estas fermita. Ili povas ŝanĝiĝi laŭ la preferoj de la komunumo.  

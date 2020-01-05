@@ -1,3 +1,4 @@
+# Algoritmo
 ## Kion fari se vorto mankas?
 
 Se okazas, ke vi ne trovas vorton por diri ion, provu tion:

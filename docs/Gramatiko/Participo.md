@@ -1,3 +1,4 @@
+# "Participo"
 ## "Participoj"
 
 Per "participo", la gramatiko parolas pri [ĉiu vorto en Esperanto kiu posedas la radikojn "int", "ant", "ont", "it", "at" kaj "ot"](https://bertilow.com/pmeg/gramatiko/participoj/index.html).
