@@ -20,7 +20,7 @@ Sed tre ofte, sufiĉas apudmeti normalan vorton.
 > slepa **agani** : **re**dormi  
 > **bigi** boku : libr**eg**o  
 > **mani** preti : bel**ega**  
-> **maka** x bigi : grand**igi** x  
+> **maka** x bigi / biga : grand**igi** x  
 > **bekoma** bigi / bigeda : grand**iĝi**  
 > **kana** hav**ed**i : manĝ**ebl**a === povas esti manĝata  
 
