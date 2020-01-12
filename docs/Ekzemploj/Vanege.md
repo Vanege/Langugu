@@ -1,5 +1,57 @@
 # Artiklu ofo Vanege
 
+## Anki, ti programu foro godi memora langugu, ando no namemora hu
+*Godi foro lerna Langugu, buto hu fakti alsi kana useda foro ani informu ki yu musta memora.*
+
+Mu nowi lerna Dutsu. Fromo mori tano 1 yeru, mu ali dayi usa Anki foro memora wordu ofo ti langugu. Usa Anki mani godi worka, ando aftero 4 montu ofo studu, mu alredi kana understanda mani ofo artiklu. Mu understanda enogi foro kana profita huhu nawito diktinaru.
+
+![namemori kurvu](https://miro.medium.com/max/1200/0*em0Clz3gjMk8ALOY.png)
+*ti namemori kurvu alongo timu | 80000hours.org*
+
+### Ki ba Anki?
+
+Anki ba programu ofo spasedi repetu wito flaskardu. Esensi, ti tipu ofo programu kombina "flaskardu", ki ba kardu (oro ani tingu) ki plasi bo oni sidu ba asku, ando bo ti oteri ba naasku, ki yu musta gusa, ando "spasedi repetu", ki ba ko ifo yu korekti gusa naasku, ti asku wili apera aftero mori longi timu tano ifo yu nakorekti gusa.
+
+Mani mani programu foro lerna usa ti sistemu. Websiti apu eksampli Duolingo, Tinycards ando Memrise usa ti sistemu, buto Anki ba spesili fami bekaso hu ba esi foro useda, kana worka nawito internetu, kana haveda bo mani platformu, giva mani informu aboto progresu, ando kana esi sangeda. Yu kana eksampli bo Anki desida ki fasti yu wili studa oni kardu agani. Yu alsi kana no rita ti fuli answeru ifo yu alredi knowa ko yu memora hu (ti spara mani mani timu).
+
+Notu: Anki ba tolu foro memora, ki reli kana usedi foro ali tingu (so no onli foro si langugu). Mu pi usa hu ki timi mu pi bo universitu aboto livsinsu. Maka kardu bo Anki ando afteri lerna huhu ba mani godi tolu foro staya motivedi.
+
+![ti komunitu ofo Anki publiki giva mani kardgropu](https://miro.medium.com/max/2751/1*ro8_1DUanpyVmfib4C81pQ.png)
+*ti komunitu ofo Anki publiki giva mani kardgropu, ki yu kana downloda bo https://ankiweb.net/shared/decks/esperanto*
+
+### Ki maneri mu habiti usa Anki
+
+Mu ali dayi ada ando lerna 10 wordu fromo Dutsu, ki wordu mu pi no kana understanda befori. Foro suksesa ti golu, mu reda mani artiklu, ando ki timi ba wordu ki mu no understanda, mu seka hi menu wito DeepL, Wiktionary oro Woorden (dutsi diktinaru).
+
+DeepL ba mani godi atomati translati tolu, ki mani helpa understanda mesagu bo oteri langugu. (Nahapi, hu no kana usedi foro Langugu nowi). DeepL alsi giva eksampli sentensu foro ali wordu, ando mu ofteni usa huhu.
+
+Bo ti fronti sidu ofo kardu, ada no onli wordu ba importanti. Foro understanda ki maneri wordu worka (hi genderu, transitivu, prepositinu ki hu lika...), wordu ali timi musta ba lernedi bo sentensu. So mu ada sentensu to ti fronti sidu, ando mu tika ti wordu ki musta memoreda.
+
+Bo ti baki sidu ofo ti kardu, mu puta ti mosti presisi translatu bo oni ofo ali langugu, ki mu knowa. Ofteni ti ba translatu bo Englisu, bekaso Englisi menu ofteni simila Dutsi menu. Somi timi, mu alsi ada mori informu, eksampli ti infiniti formu ofo ti verbu, oro eksplanu aboto ki maneri ti wordu makedi.
+
+Ti fronti sidu ofo ti kardu ba bo Dutsu, bekaso mi golu bo ti kardgropu ba kana redi ti langugu. Ifo yi golu ba kana rita bo Langugu, ti timi sentensu bo Langugu musta ba foro ti baki sidu (ti sidu ki musta guseda). Atentu aboto ti orderu ba importanti, bekaso kana understanda wordu no mena ko yu kana tinka aboto ti wordu ki timi yu wanta ekspresa ti menu ofo ti wordu.
+
+![fronti sidu wito baki sidu ofo kardu, ki mu lerna](https://miro.medium.com/max/1488/1*iK7RmRV9j5JfMQrOBbbWiw.png)
+*fronti sidu wito baki sidu ofo kardu, ki mu lerna*
+
+![diversi kardgropu bo mi Anki (mu no aktivi usa ali)](https://miro.medium.com/max/2586/1*FYrOFDA0taLMc2DtJ0wmXw.png)
+*diversi kardgropu bo mi Anki (mu no aktivi usa ali)*
+
+### Duolingo? Drops? Memrise?
+
+Ki timi yu usa korsu oro Anki kardgropu, ki yu no pi maka, yu ofteni musta lerna wordu, ki yu no neda. Buto, ifo yu personi maka ti kardu, aboto wordu oro ekspresu ki yu selfi notisa, ti timi ti wordu hava mani mori luku ba helpi aboto yi personi maneru usa ti langugu.
+
+Ti idu "lerna langugu" ba mani bigi, so mani humanu hava severali nasami understandu aboto ti, ki hu mena. So humanu maka korsu ando kardgropu mani nasami. Foro godi lerna, yu musta hava kleri golu, eksampli "kana understanda filmu ofo XXX", ando yu musta akta to ti golu, eksampli wito redu ofo subtitlu, wito sersu ofo ti wordu ki yu no understanda bo diktinaru, wito adu ofo ti wordu to yi personi Anki kardgropu.
+
+Evidenti, yu ali timi kana usa oteri programu, eksampli Duolingo. Huhu godi worka foro averagi humanu. Huhu godi foro begina, buto aftero somi timu, huhu ali timi wili namori efekta tano aktivi maneru bo ki yu selekta ti ki yu musta lerna, dependo ti ki yu alredi knowa, ando ti ki yu wanta maka wito ti langugu.
+
+Ti ba spesili importanti ki timi yu worka ti "givi" partu ofo langugu. Bo ti "nagivi" partu (redu ando listenu), yu kana wanta kana understanda somi ofo ali tingu. Buto, bo ti "givi" partu (ritu ando speku), yu musta lerna (ki mena "fasti memora ti korekti wordu") onli ti, ki yu reli wanta saya. Ti timi, lerna kardu, ki yu pi maka, ba mani mori godi tano lerna kardu makeda oteri personu, ki speka ando tinka wito oteri maneru.
+
+--- 
+
+Ali personu usa onli nabigi partu ofo oni langugu, ando ki timi personu wanta ekspresa selfi, hu onli neda lerna presisi ti nabigi partu. Personu kana finda ki partu hu ba wito atemptu ando usu. Ki plasi personu maka eroru (oro no finda korekti wordu) ba ki plasi hu musta fokusa hi timu ofo lernu.
+
+
 ## Frutu: godi tastu ando godi foro heltu
 
 ![frutu](https://images.unsplash.com/photo-1466065478348-0b967011f8e0?w=600)
