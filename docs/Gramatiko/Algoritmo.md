@@ -22,7 +22,7 @@ Se okazas, ke vi ne trovas vorton por diri ion, provu tion:
 
 4) Forigu duoblajn konsonantojn. (battle -> batl)
 
-5) Ŝanĝu c al k aŭ s depende de ĝia sono. (coat -> kot) (process -> proses)
+5) Ŝanĝu c al k se ĝi sonas kiel /k/ en la Angla, se ne, ŝangu ĝin al s. (coat -> kot) (process -> proses)
 
 6) Ŝanĝu j al y. (joke -> yok)
 
