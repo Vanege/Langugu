@@ -24,7 +24,7 @@ eksesi boku, laki timu
   
 Vi devas danci kvazaŭ neniu spektas  
 You've gotta dance like there's nobody watching  
-yu musta dansa ki maneri ifo zeri personu watsa  
+yu musta dansa ti maneri ki ifo zeri personu watsa  
   
 Vi scias ke vi amas, kiam vi ne povas ekdormi ĉar realeco estas finfine pli bona ol viaj revoj  
 You know you're in love when you can't fall asleep because reality is finally better than your dreams  
