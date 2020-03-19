@@ -28,6 +28,7 @@ module.exports = {
       '/Ekzemploj/': [
         ['Vanege', 'Vanege'],
         ['katu', 'katu'],
+        ['Human', 'Human'],
         ['Citaĵoj', 'Citaĵoj']
       ]
     }
