@@ -108,7 +108,7 @@ Kiel la vorto "ne", **no** staras antaŭ la elemento neita.
 
 Kial ne uzi la "ni" (kun la modifila finaĵo)? Neado forte ŝanĝas la signifon de frazo, do estas grave ke la vorto por neado estu bone komprenata. "ni" estas konfuzebla kun ĉiu vorto, kiu finiĝas per "-ni", kaj tio ofte okazas ĉar "-i" estas la finaĵo por adjektivoj/adverboj. La plej ofta tia vorto estas "mani".
 
-Simile al neado, eblas fari jesadon per **yeso**, simile al kiel oni uzas "ja" en Esperanto. Oni povas fari tion por emfazi la verecon de aserto, sed bone tio, la modifilo "reli" estas pli ofta.
+Simile al neado, eblas fari jesadon per **yeso**, simile al kiel oni uzas "ja" en Esperanto. Oni povas fari tion por emfazi la verecon de aserto, sed por tio, la modifilo "reli" estas pli ofta.
 
 > mu yeso lika snaku: mi ja ŝatas serpentojn  
 > mu reli lika snaku: mi vere ŝatas serpentojn  
