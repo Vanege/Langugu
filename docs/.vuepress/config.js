@@ -6,7 +6,7 @@ module.exports = {
     logo: '/img/logo.png',
     nav: [
       { text: 'Gramatiko', link: '/Gramatiko/Prezento/' },
-      { text: 'Ekzemploj', link: '/Ekzemploj/katu' },
+      { text: 'Vikio', link: 'https://langugu.fandom.com/wiki/Langugu' },
       { text: 'Korektilo', link: 'https://vanege.github.io/langugi-korekteru/' },
       { text: 'Komunumo', link: 'https://langugu.telegramo.org' },
     ],
@@ -24,12 +24,6 @@ module.exports = {
         ['Participo', '"Participo"'],
         ['Kunmetado', 'Kunmetado'],
         ['Algoritmo', 'Algoritmo']
-      ],
-      '/Ekzemploj/': [
-        ['Vanege', 'Vanege'],
-        ['katu', 'katu'],
-        ['Human', 'Human'],
-        ['Citaĵoj', 'Citaĵoj']
       ]
     }
   }
