@@ -28,6 +28,8 @@ Ili estas normalaj substantivoj, do ili finiĝas per -u.
 * **yuyu**: vi/vin
 * **huhu**: ili/ilin  
 
+La tri unuaj parolas pri nur unu persono, kaj la tri lastaj parolas pri pluraj personoj. Tamen, notu escepton: **yu** povas esti uzata singulare kaj plurale (dum **yuyu** estas eksplicite plurala).
+
 ## Posedaj pronomoj
 
 Oni ŝanĝas la finan literon al -i, la finaĵo de modifiloj.
