@@ -37,7 +37,7 @@ Se okazas, ke vi ne trovas vorton por diri ion, provu tion:
 
 9)  Ŝanĝu x al ks.
 
-10)  Forigu h kiam ĝi estas post konsonanto. (khorus -> korus) (mith -> mit) (shang -> sang) (ghost -> gost)
+10)  Forigu h kiam ĝi estas post konsonanto. (khorus -> korus) (mith -> mit) (shang -> sang) (ghost -> gost) (telephon -> telepon)  
 
 11)  Forigu w kiam ĝi estas antaŭ r. (write -> rit)
 
