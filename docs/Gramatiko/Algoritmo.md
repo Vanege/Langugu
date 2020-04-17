@@ -16,23 +16,30 @@ Se okazas, ke vi ne trovas vorton por diri ion, provu tion:
   Vi povas trovi la konatecon de Angla vorto per Cambridge Dictionary: https://dictionary.cambridge.org/dictionary/english/  
   Vi povas trovi sinonimojn per Thesaurus: http://www.thesaurus.com/  
   
-2) Kiam pluraj vokaloj (aeoiu) aperas apude, konservu nur la unuan.
+2) Kiam pluraj vokaloj (aeoiu) aperas apude, konservu nur la unuan. (speak -> spek)
 
-3) Forigu la vokalojn kiuj troviĝas je la fino de vorto. (potato -> potat) (pretty -> pret). Faru ankaŭ tion por la litero y, sed ne se vokalo troviĝas tuj antaŭ ĝi. (body -> bod) (allow -> allow)
+3) Forigu la vokalojn (aoeiu) kiuj troviĝas je la fino de vorto. (potato -> potat). Faru ankaŭ tion por la litero y, sed ne se vokalo troviĝas tuj antaŭ ĝi. (body -> bod) (money -> money)
 
-4) Forigu duoblajn konsonantojn. (battle -> batl)
+4) Ŝanĝu y al i se ĝi troviĝas tuj post konsonanto. (myth -> mith)  
 
-5) Ŝanĝu c al k se ĝi sonas kiel /k/ en la Angla, se ne, ŝangu ĝin al s. (coat -> kot) (process -> proses)
+5) Forigu duoblajn konsonantojn. (battle -> batl)
 
-6) Ŝanĝu j al y. (joke -> yok)
+6) Ŝanĝu c al k, se en la Angla vorto, c (aŭ la grupo de literoj en kiu ĝi estas) faras la sonon de k, se ne, ŝanĝu al s.  
+> **c**at /**k**æt/ => **k**at  
+> pro**c**ess /ˈprɑses/ => proses  
+> a**c***c*ess /ˈæ**k**ˌses/ => a**k**ses  
+> **ch**orus /ˈ**k**ɔrəs/ => **k**horus  
+> **ch**ange /tʃeɪndʒ/ => shang  
+   
+7)  Ŝanĝu j al y. (joke -> yok)
 
-7) Ŝanĝu q al k.
+8)  Ŝanĝu q al k.
 
-8) Ŝanĝu x al ks.
+9)  Ŝanĝu x al ks.
 
-9) Forigu h kiam ĝi estas post konsonanto. (ghost -> gost)
+10)  Forigu h kiam ĝi estas post konsonanto. (khorus -> korus) (mith -> mit) (shang -> sang) (ghost -> gost)
 
-10) Forigu w kiam ĝi estas antaŭ r. (write -> rit)
+11)  Forigu w kiam ĝi estas antaŭ r. (write -> rit)
 
 
 ## Kolizioj
