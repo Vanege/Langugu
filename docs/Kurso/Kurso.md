@@ -188,7 +188,7 @@ Mencii refleksivecon estas nedevige. Do **hu lika hu** povas signifi *ri ŝatas 
 * hu lika selfi hu : ri ŝatas sin (sama afero)
 * hu lika oteri hu : ri ŝatas rin (alia afero)
 
-En la sekva leciono, la celo **yu** **maka** **reli** frazojn!
+En la sekva leciono, **yu** **maka** **reli** frazojn!
 
 ## 6: Frazo
 
