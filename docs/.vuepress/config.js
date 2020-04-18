@@ -5,6 +5,7 @@ module.exports = {
   themeConfig: {
     logo: '/img/logo.png',
     nav: [
+      { text: 'Kurso', link: '/Kurso/Kurso/'},
       { text: 'Gramatiko', link: '/Gramatiko/Prezento/' },
       { text: 'Vikio', link: 'https://langugu.fandom.com/wiki/Langugu' },
       { text: 'Korektilo', link: 'https://vanege.github.io/langugi-korekteru/' },
@@ -24,6 +25,9 @@ module.exports = {
         ['Participo', '"Participo"'],
         ['Kunmetado', 'Kunmetado'],
         ['Algoritmo', 'Algoritmo']
+      ],
+      '/Kurso/': [
+        ['Kurso', 'Kurso']
       ]
     }
   }
