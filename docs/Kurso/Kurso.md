@@ -446,7 +446,7 @@ Notu ke la pasiva voĉo de Esperanto (*esti + participo*) devigas mencii tempon 
 
 Por precizigi tempon:
 
-* Wordu sayeda : Vorto est(i/a/o) dirata  
+* Wordu sayeda : Vorto est(i/a/o)s dirata  
 * Wordu pi sayeda : Vorto estis dirata  
 * Wordu nowi sayeda : Vorto estas dirata
 * Wordu wili sayeda : Vorto estos dirata
