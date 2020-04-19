@@ -218,7 +218,8 @@ Eblas meti plurajn verbojn unu post la aliajn:
 * yu musta speka : vi devas paroli  
 * hu lika maka tingu : ri ŝatas fari aferojn  
 
-Jen kelkaj utilaj vortoj, kiuj servos al la resto de la kurso:
+Jen kelkaj utilaj vortoj:
+
 * mena : signifi
 * menu : signifo
 * giva : doni
@@ -266,7 +267,7 @@ Fakte, **oni** simple estas la nombro por *unu*.
 
 Resume: anstataŭ uzi *iu* kaj *unu*, oni uzas **oni**.
 
-Jen kelkaj novaj vortoj, kiuj estas tre utilaj ĉi tie:
+Jen kelkaj utilaj vortoj:
 
 * lesonu : leciono
 * korsu : kurso
@@ -297,9 +298,10 @@ Sed ĝi ankaŭ povas troviĝi en aliaj lokoj:
 
 Notu ke la frazo *Kato ŝatas dormi multe* havas du signifojn en Esperanto (multe *ŝati* aŭ multe *dormi*). Tio ankaŭ okazas en Langugu. Plejofte, kunteksto helpas scii tion, kio estas intencita. Sed se oni volas plian klarecon, oni povas meti adverbon tuj antaŭ sia verbo.
 
-Adverbo ankaŭ povas esti post la verbo **ba** kiam ĝi estas uzata por priskribi verbon/agon:
+Adverbo ankaŭ povas priskribi agon post verboj kiel **ba** (*be*) kaj **sema** (*ŝajni*):
 
 * Aha ba **importanti** : Kompreni estas *grave*
+* Dansa sema **godi** : Danci ŝajnas *bone*
 
 (La verbo **ba** neniam estas nedeviga, do la frazo **Aha ba importanti** estas sama al **Aha importanti**)
 
@@ -412,9 +414,70 @@ Kiel en Esperanto, oni evitas mencii aspekton se tio ne vere gravas. Do plej oft
 
 **Yu alredi lerna mani!**
 
+Kiel bonuso (kiu ne rilatas al aspektoj), jen tre oportuna verbo:
+* eya : vidi / spekti / rigardi : ("to see" / "to look" / "to watch")
+
+
+## 12: Verboj kun eda
+
+Konsideru ĉi tiun frazon:
+
+* Personu saya sentensu : Persono diras frazon  
+
+En frazo kun la formo S Va O (aŭ O S Va), la subjekto S (**personu**) estas la aganto, kaj la objekto O (**sentensu**) estas la ricevanto de la ago.
+
+Nun konsideru ĉi tiun frazon:
+
+* Sentensu **sayeda** personu : Frazo *estas dir(i/a/o)ta de* persono  
+
+En frazo kun la formo S Veda O (aŭ O S Veda), la subjekto S (**sentensu**) estas la ricevanto, kaj la objekto O (**personu**) estas la objekto de la ago. Danke al verboj kun eda, oni ne plu bezonas la pasivan voĉon de Esperanto (*esti + participo*). 
+
+Verboj kun eda estu konsiderataj kiel tute normalaj novaj verboj. Ili respektas la samajn regulojn de verboj. Ekzemple, ili rajtas ne havi objekton:
+
+* Wordu **sayeda** : Vorto estas dir(i/a/o)ta
+
+Foje en Esperanto, oni uzas *-iĝ-* en verbo kiam la subjekto estas ricevanto de ago (farita de la subjekto mem, aŭ de nemenciita aganto). Ankaŭ tiam tute eblas uzi verbon kun eda:
+
+* Wordu **sayeda** : Vorto *diriĝas*  
+* Doru **openeda** : Pordo *malfermiĝas*  
+* Ti yeru **nabegineda** : La jaro *finiĝas*  
+
+Notu ke la pasiva voĉo de Esperanto (*esti + participo*) devigas mencii tempon aŭ modon (pro la verba finaĵo de *esti*) kaj aspekton (en la participo). Tio ne okazas en Langugu, kie mencii tempon, modon aŭ aspekton ĉiam estas nedevige:
+
+Por precizigi tempon:
+
+* Wordu sayeda : Vorto est(i/a/o) dirata  
+* Wordu pi sayeda : Vorto estis dirata  
+* Wordu nowi sayeda : Vorto estas dirata
+* Wordu wili sayeda : Vorto estos dirata
+
+Por precizigi modon:
+
+* Wordu sayeda : Vorto est(us/u) dirata
+* Wordu wolda sayeda : Vorto estus dirata
+* Wordu musta sayeda : Vorto estu dirata
+
+Por precizigi aspekton:
+
+* Wordu sayeda : Vorto estas dir(i/a/o)ta
+* Wordu alredi sayeda : Vorto estas dirita
+* Wordu stili sayeda : Vorto estas dirata
+* (Anstataŭ la aspekton de -ont- -ot-, oni normale uzas la postan tempon (wili))
+
+Vortoj kun eda permesas multe malgrandigi la nombron de lernendaj verboj kompare al la Angla kaj Esperanto:
+
+* skara : timigi ("to scare")
+* skareda : esti timigata (de) ("to fear") 
+* neda : bezoni / postuli ("to need")
+* nededa : necesi / esti bezonata (de)
+* lika : ŝati ("to like")
+* likeda : plaĉi (al) ("to please")
+
+**Yu yusti nabegina importanti tingu. Ti neksti lesonu wili ba esi.**
+
 ---
 
-**La kurso ne estas finita: ankoraŭ ĉirkaŭ 19 lecionoj devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
+**La kurso ne estas finita: ankoraŭ ĉirkaŭ 18 lecionoj devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
 
-**Ti korsu no ba nabeginedi: stili arondi 19 lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**
+**Ti korsu no ba nabeginedi: stili arondi 18 lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**
 
