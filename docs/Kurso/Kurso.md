@@ -45,7 +45,7 @@ Vortoj de Langugu venas de la Angla, sed ili estas iom ŝanĝitaj per simpla alg
 
 Finaj vokaloj de la Angla vorto malaperas antaŭ aldoni la finaĵon **-u**:
 
-* **tablu** : tablo ("table") (la fina "-e" malaperis)
+* **timu** : tempo/fojo ("time") (la fina "-e" malaperis)
 
 La litero "y" de la Angla iĝas **i** kiam ĝi estas uzata kiel vokalo:
 
@@ -70,7 +70,7 @@ Se la litero h troviĝas tuj post konsonanto, ĝi malaperas.
 * **tingu** : afero ("thing") ("h" estas post la konsonanto "t")
 * **hosu** : domo ("house") (tie "h" ne malaperis)
 
-Vi ne bezonas parkeri la regulojn de la algoritmo. Ĝi ĉefe estas utila kiam oni volas krei vorton, kiu ne jam troviĝas en la vortlisto. LIGILO
+Vi ne bezonas parkeri la regulojn de la algoritmo. Ĝi ĉefe estas utila kiam oni volas krei vorton, kiu ne jam troviĝas en la vortlisto de la [korektilo](https://vanege.github.io/langugi-korekteru/).
 
 Vi finis la duan lecionon! Jen **godi tingu** farita!
 
@@ -87,6 +87,10 @@ Vi finis la duan lecionon! Jen **godi tingu** farita!
 * **napreti** : malbela / malbele / malĉarma / malĉarme
 * **bigi** : granda / grande / ega
 * **nabigi** : malgranda / malgrande / eta
+* **esi** : facila / facile
+* **naesi** : malfacila / malfacile
+* **korekti** : ĝusta / ĝuste
+* **nakorekti** : malĝusta / malĝuste
 
 Modifilo plejofte priskribas la vorton, kiu troviĝas post ĝi. Se ĝi estas substantivo, tiam la modifilo plejverŝajne estas adjektivo, se ne, adverbo. Ĉi tiu leciono donos nur adjektivajn ekzemplojn.
 
@@ -139,7 +143,7 @@ La tradukoj donas la infinitivajn formojn en Esperanto kaj en la Angla, sed fakt
 
 * **speka** : paroli (to speak / to talk)
 * **saya** : diri (to say)
-* **lerna** : lerni (to learn)
+* **lerna** : lerni / studi (to learn)
 
 Anstataŭ devi lerni "to speak" kaj "to talk" en la Angla, oni devas lerni nur unu verbon en Langugu, kiel en Esperanto. La nombro de lernendaj verboj estas multege malgrandigita.
 
@@ -153,21 +157,22 @@ Se oni **wanta**, oni **kana**!
 
 ## 5: Pronomo
 
-En ĉi tiu leciono "afero" povas esti persono, aĵo aŭ koncepto. La pronomo ne ŝanĝiĝas depende de la naturo de la afero, pri kiu oni parolas. Oni tiel povas paroli pri personoj mencii genron aŭ socian statuson.
+En ĉi tiu leciono "afero" povas esti persono, aĵo aŭ koncepto. La pronomo ne ŝanĝiĝas depende de la naturo de la afero, pri kiu oni parolas. Oni tiel povas paroli pri personoj sen mencii genron aŭ socian statuson.
 
 Pronomoj finiĝas per **-u**, ĉar ili estas normalaj substantivoj:
 
 * **mu** : mi (la parolanto)
-* **mumu** : ni (la parolanto kaj alia(j) aferoj)
+* **mumu** : ni (la parolanto kaj alia(j) afero(j))
 * **yu** : vi
-* **yuyu** : vi (la alparolato kaj alia(j) aferoj)
+* **yuyu** : vi (la alparolato kaj alia(j) afero(j))
 * **hu** : ĝi / ri / li / ŝi / ktp : afero
 * **huhu** : ili : afero kaj alia(j) afero(j)
 
 > mu ba personu : mi estas persono  
-> mumu ba personu : ni estas personoj  
+> mumu hava namu : ni havas nomo(j)n  
+> yu alsi lika hu : vi ankaŭ ŝatas ĝin  
 
-Notu escepton: kiel en Esperanto, kaj en la Angla **yu** povas havi ne nur singularan signifon, sed ankaŭ pluralan. (Dum **yuyu** estas eksplicite nur plurala.)  
+Notu escepton: kiel en Esperanto (kaj en la Angla) **yu** povas kiam estas nur unu persono, sed ankaŭ kiam estas pluraj. (Tamen **yuyu** estas uzebla nur por paroli al/pri pluraj personoj.)  
 
 Por esprimi la posedajn pronomojn, oni povas ŝanĝi la lastan literon per **-i** por krei modifilon:
 
@@ -179,7 +184,7 @@ Por esprimi la posedajn pronomojn, oni povas ŝanĝi la lastan literon per **-i*
 * **huhi** : ilia
 
 > yi hosu ba bigi : via domo estas granda  
-> hi langugu ba newi : ria lingvo estas nova
+> hi langugu ba newi : ria lingvo estas nova  
 
 Mencii refleksivecon estas nedevige. Do **hu lika hu** povas signifi *ri ŝatas rin* kaj *ri ŝatas sin*. La kunteksto ofte sufiĉas por kompreni. Se oni vere bezonas precizigi, oni povas fari tiel:
 
@@ -219,7 +224,6 @@ Eblas meti plurajn verbojn unu post la aliajn:
 * hu lika maka tingu : ri ŝatas fari aferojn  
 
 Jen kelkaj utilaj vortoj:
-
 * mena : signifi
 * menu : signifo
 * giva : doni
@@ -267,7 +271,7 @@ Fakte, **oni** simple estas la nombro por *unu*.
 
 Resume: anstataŭ uzi *iu* kaj *unu*, oni uzas **oni**.
 
-Jen kelkaj utilaj vortoj:
+Jen kelkaj novaj vortoj:
 
 * lesonu : leciono
 * korsu : kurso
@@ -294,9 +298,7 @@ Plejofte, adverbo troviĝas antaŭ sia verbo:
 Sed ĝi ankaŭ povas troviĝi en aliaj lokoj:
 
 * Yu lerna Langugu **fasti** : Vi lernas Langugu *rapide*  
-* Katu lika slepa **mani** : Kato ŝatas dormi *multe*  
-
-Notu ke la frazo *Kato ŝatas dormi multe* havas du signifojn en Esperanto (multe *ŝati* aŭ multe *dormi*). Tio ankaŭ okazas en Langugu. Plejofte, kunteksto helpas scii tion, kio estas intencita. Sed se oni volas plian klarecon, oni povas meti adverbon tuj antaŭ sia verbo.
+* Katu slepa **agani** : Kato dormas *denove*  
 
 Adverbo ankaŭ povas priskribi agon post verboj kiel **ba** (*be*) kaj **sema** (*ŝajni*):
 
@@ -312,7 +314,7 @@ Ankaŭ estas kutime meti adverbon sole:
 Tre ofte, oni metas adverbon en komenco de frazo por enkonduki aserton:
 
 * **Fakti**, humanu ba animalu : *Fakte*, homo estas besto  
-* **Ofteni**, katu lika fisu : *Ofte*, katoj ŝatas fiŝojn  
+* **Ofteni**, katu nalika dogu : *Ofte*, katoj malŝatas hundojn  
 * **Normali**, yu kana rekogna mani wordu : *Normale*, vi povas rekoni multajn vortojn  
 
 Jen kelkaj utilaj adverboj por esprimi nivelojn de certeco:
@@ -342,7 +344,7 @@ Sed oni povas esti pli klara uzante tempajn modifilojn:
 
 Ekzistas du tre utilaj mallongaj tempaj modifiloj, kiuj esprimas ĝeneralan is-tempon kaj os-tempon de Esperanto: 
 
-* Mu [pi](https://langugu.fandom.com/wiki/%22pi%22_instedo_%22wasi%22_foro_ti_beforu) resta : Mi ripoz*is*  
+* Mu [pi](https://langugu.fandom.com/wiki/%22pi%22_instedo_%22wasi%22_foro_ti_beforu) staya : Mi rest*is*  
 * Mu **wili** walka : Mi piedir*os*  
 
 Kompreneble, oni ne ĉiam bezonas ilin. Ekzemple, se oni jam scias ke la ago okazas antaŭe aŭ poste:  
@@ -392,8 +394,6 @@ Oni povas facile uzi modon kaj tempon (aŭ plurajn modojn) samtempe. En Langugu,
 
 * Yu **wili musta** nabuya : Vi 'vend**osu**' / Vi devos vendi  
 * Yu **wolda musta** usa Anki : Vi 'uz**usu**' Anki / Vi devus uzi Anki  
-
-**Maybi yu neda resta nowi. Lerna neda resta.**
 
 
 ## 11: Aspekto
@@ -446,7 +446,7 @@ Notu ke la pasiva voĉo de Esperanto (*esti + participo*) devigas mencii tempon 
 
 Por precizigi tempon:
 
-* Wordu sayeda : Vorto est(i/a/o)s dirata  
+* Wordu sayeda : Vorto est(i/a/o) dirata  
 * Wordu pi sayeda : Vorto estis dirata  
 * Wordu nowi sayeda : Vorto estas dirata
 * Wordu wili sayeda : Vorto estos dirata
@@ -469,15 +469,77 @@ Vortoj kun eda permesas multe malgrandigi la nombron de lernendaj verboj kompare
 * skara : timigi ("to scare")
 * skareda : esti timigata (de) ("to fear") 
 * neda : bezoni / postuli ("to need")
-* nededa : necesi / esti bezonata (de)
+* nededa : necesi / manki / esti bezonata (de)
 * lika : ŝati ("to like")
 * likeda : plaĉi (al) ("to please")
 
 **Yu yusti nabegina importanti tingu. Ti neksti lesonu wili ba esi.**
 
+
+## 13 Nombro
+
+Substantivoj ne ŝanĝiĝas depende de ĉu oni parolas pri pluraj aŭ nur unu afero:
+
+* sildu : infano / infanoj
+
+Oni scias kiam substantivo estas plurala per kunteksto, aŭ per aliaj elementoj, kiuj jam indikas pluralecon:
+
+* mani sildu : multaj infanoj
+* namami adultu : malmultaj adoltoj
+* **somi** kompanu : *kelkaj* firmaoj
+* **eksesi** problemu : *tro da* problemoj / *troaj* problemoj
+* **enogi** provu : *sufiĉe da* pruvoj / *sufiĉaj* pruvoj
+
+Oni povas tamen rapide indiki pluralecon per la modifilo **si**:
+
+* **si** worku : *(pluraj)* laboro*j*
+
+Tiuj modifiloj anstataŭas tabelvortojn en Esperanto:
+
+* **zeri** nigtu : *nul* nokto(j) / *neniu* nokto
+* **oni** morningu : *unu* matenu
+* **ali** landu : *ĉiuj* landoj
+* **everi** situ : *ĉiu* urbo
+
+Jen la **numberu** (*nombroj*), ili estas normalaj modifiloj, do ili finiĝas per **-i**:
+
+* zeri : nul
+* oni : unu
+* **twi** : *du*
+* **tiri** : *tri* (ne "tri" ĉar tro similus al **twi**)
+* **fori** : *kvar*
+* **fivi** : *kvin*
+* **siksi** : *ses*
+* **seveni** : *sep*
+* **egti** : *ok*
+* **nini** : *naŭ*
+* **teni** : *dek*
+* **hundredi** : *cent*
+* **tosandi** : *mil*
+* ...
+
+Por paroli pri preciza nombro, oni faras tiel:
+
+* 9 : nini
+* 20 = 2 x 10 : twi teni
+* 29 = 2 x 10 + 9 : twi teni nini
+* 129 = 1 x 100 + 2 x 10 + 9 : oni hundredi twi teni nini
+* 2429 = 2 x 1000 + 1 x 100 + 2 x 10 + 9 : twi tosandi oni hundredi twi teni nini
+
+> Yu kana finda arondi fivi teni (50) gropu : Vi povas trovi ĉirkaŭ 50 grupojn
+ 
+Nombro povas iĝi orda vorto per aldono de **-ifi** al la radiko:
+
+* on**ifi** : unu*a*
+* tw**ifi** : du*a*
+* ...
+
+> Ti boku ba mi onifi boku : Tiu libro estas mia unua libro
+
+**lasti** (*lasta*) povas esti uzata por paroli pri la nuna lasta elemento de listo. (Por paroli pri la lasta elemento "por ĉiam", oni ankaŭ povas uzi **nabegini** (*fina*)).
+
 ---
 
-**La kurso ne estas finita: ankoraŭ ĉirkaŭ 18 lecionoj devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
+**La kurso ne estas finita: ankoraŭ ĉirkaŭ 17 lecionoj devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
 
-**Ti korsu no ba nabeginedi: stili arondi 18 lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**
-
+**Ti korsu no ba nabeginedi: stili arondi 17 lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**

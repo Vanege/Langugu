@@ -35,12 +35,15 @@ Notu "tiri" kaj ne "tri". Tiu bedaŭrinda arbitraĵo venas de tio ke "tri" tro s
 
 Por paroli pri preciza nombro, oni faras tiel:
 
-* 2429 = 2 x 1000 + 1 x 100 + 2 x 10 + 9
-* twi tosandi fori hundredi twi teni nini 
+* 9 : nini
+* 20 = 2 x 10 : twi teni
+* 29 = 2 x 10 + 9 : twi teni nini
+* 129 = 1 x 100 + 2 x 10 + 9 : oni hundredi twi teni nini
+* 2429 = 2 x 1000 + 1 x 100 + 2 x 10 + 9 : twi tosandi oni hundredi twi teni nini
 
-## Ordaj nombroj (-if-)
+## Ordaj nombroj (-ifi)
 
-Oni aldonas la ŝajnsufikson -if-. Tiu ŝajnsufikso havas sencon nur kiam ligita al nombro.
+Nombro povas iĝi orda vorto per aldono de **-ifi** al la radiko:
 
 * on**ifi**: unua
 * tw**ifi**: dua
