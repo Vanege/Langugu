@@ -73,18 +73,33 @@ trogo: tra
 > oko... mu preparedi foro ga: okej... mi pretas por iri  
 > so... ki hapena yesterdayi?: do... kio okazis hieraŭ?  
 
-## Komparoj (tano)
+## Komparoj (tano, manero, ...)
 
-Por simileco de maniero:
+Oni povas uzi komparajn modifilojn:
+* Ti mesagu ba **mori** simpli : Tiu mesaĝo estas *pli* simpla
+* Ti eksamplu ba **namori** kleri : Tiu ekzemplo estas *malpli* klara
+* Ti partu ba **mosti** strangi : Tiu parto estas *plej* stranga
+* Mu **mori lika** pikturu : Mi *preferas* bildon
 
-> Hu speka **sami tano** mi: Ri parolas **same kiel** mi === Ri parolas **kiel** mi  
-> Hu speka **nasami tano** mi: Ri parolas **malsame ol** mi  
+Por kompari al alia afero, oni povas uzi la prepozicion **tano** (*ol*) antaŭ tiu afero:
+* Montu hava mori timu **tano** weku : Monato havas pli da tempo *ol* semajno
+* Ofteni, singu ba namori longi **tano** filmu : Ofte, kanto estas malpli longa *ol* filmo
 
-Por komparo de eco de iu afero al alia afero:
+Oni povas uzi modifilojn de sameco aŭ simileco:
+* Mumu reda ti **sami** wordboku : Ni legas la *saman* vortaron  
+* Mumu beliva **nasami** idu : Ni kredas *malsamajn* ideojn
+* Esperantu worka **similari** : Esperanto funkcias/laboras *simile*
 
-> Katu **mori** bigi **tano** mosu: Kato estas **pli** granda **ol** muso  
-> Katu **namori** bigi **tano** mosu: Kato estas **malpli** granda **ol** muso  
-> Katu **mosti** bigi: Kato estas **plej** granda
+Oportune, oni ankaŭ povas uzi la verbojn **sama**, **similara** kaj **sema** por rekte kompari subjekton al objekto:
+* "katido" **sama** "juna kato" : "katido" *estas same al* "juna kato"
+* Femi katu **similara** mali katu : Ina kato *similaras al* iĉa kato
+* Ti stikeru **sema** dogu : Tiu glumarko *"ŝajnas" kiel* hundo / Tiu glumarko *aspektas kiel* hundo
+
+Por esprimi samecon al alia afero, oni povas uzi la prepozicion **manero** (*kiel*), aŭ **ki maneri** (*kiel*) (kio kreas rilatan subfrazon) (legu pri ili pli poste):
+* Yu tinka **manero** hu (tinka)! : Vi pensas *kiel* ri (pensas)!
+* Ti robotu speka **manero** reli landi bosu : Tiu roboto parolas *kiel* vera landestro
+* Ti weteru ba nagodi **ki maneri** naneksti dayu : La vetero estas malbona *kiel* hieraŭ
+
 
 ## Demandoj (do)
 

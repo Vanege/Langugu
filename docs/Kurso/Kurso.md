@@ -45,7 +45,7 @@ Vortoj de Langugu venas de la Angla, sed ili estas iom ŝanĝitaj per simpla alg
 
 Finaj vokaloj de la Angla vorto malaperas antaŭ aldoni la finaĵon **-u**:
 
-* **timu** : tempo/fojo ("time") (la fina "-e" malaperis)
+* **timu** : tempo ("time") (la fina "-e" malaperis)
 
 La litero "y" de la Angla iĝas **i** kiam ĝi estas uzata kiel vokalo:
 
@@ -476,7 +476,7 @@ Vortoj kun eda permesas multe malgrandigi la nombron de lernendaj verboj kompare
 **Yu yusti nabegina importanti tingu. Ti neksti lesonu wili ba esi.**
 
 
-## 13 Nombro
+## 13: Nombro
 
 Substantivoj ne ŝanĝiĝas depende de ĉu oni parolas pri pluraj aŭ nur unu afero:
 
@@ -492,7 +492,8 @@ Oni scias kiam substantivo estas plurala per kunteksto, aŭ per aliaj elementoj,
 
 Oni povas tamen rapide indiki pluralecon per la modifilo **si**:
 
-* **si** worku : *(pluraj)* laboro*j*
+* **si** personu : *(pluraj)* persono*j*
+* **si** worku : *(pluraj)* laboro*j* / ofico*j* / funkcio*j*
 
 Tiuj modifiloj anstataŭas tabelvortojn en Esperanto:
 
@@ -538,8 +539,36 @@ Nombro povas iĝi orda vorto per aldono de **-ifi** al la radiko:
 
 **lasti** (*lasta*) povas esti uzata por paroli pri la nuna lasta elemento de listo. (Por paroli pri la lasta elemento "por ĉiam", oni ankaŭ povas uzi **nabegini** (*fina*)).
 
+
+## 14: Komparoj
+
+Oni povas uzi komparajn modifilojn:
+* Ti mesagu ba **mori** simpli : Tiu mesaĝo estas *pli* simpla
+* Ti eksamplu ba **namori** kleri : Tiu ekzemplo estas *malpli* klara
+* Ti partu ba **mosti** strangi : Tiu parto estas *plej* stranga
+* Mu **mori lika** pikturu : Mi *preferas* bildon
+
+Por kompari al alia afero, oni povas uzi la prepozicion **tano** (*ol*) antaŭ tiu afero:
+* Montu hava mori timu **tano** weku : Monato havas pli da tempo *ol* semajno
+* Ofteni, singu ba namori longi **tano** filmu : Ofte, kanto estas malpli longa *ol* filmo
+
+Oni povas uzi modifilojn de sameco aŭ simileco:
+* Mumu reda ti **sami** wordboku : Ni legas la *saman* vortaron  
+* Mumu beliva **nasami** idu : Ni kredas *malsamajn* ideojn
+* Esperantu worka **similari** : Esperanto funkcias/laboras *simile*
+
+Oportune, oni ankaŭ povas uzi la verbojn **sama**, **similara** kaj **sema** por rekte kompari subjekton al objekto:
+* "katido" **sama** "juna kato" : "katido" *estas same al* "juna kato"
+* Femi katu **similara** mali katu : Ina kato *similaras al* iĉa kato
+* Ti stikeru **sema** dogu : Tiu glumarko *"ŝajnas" kiel* hundo / Tiu glumarko *aspektas kiel* hundo
+
+Por esprimi samecon al alia afero, oni povas uzi la prepozicion **manero** (*kiel*), aŭ **ki maneri** (*kiel*) (kio kreas rilatan subfrazon) (legu pri ili pli poste):
+* Yu tinka **manero** hu (tinka)! : Vi pensas *kiel* ri (pensas)!
+* Ti robotu speka **manero** reli landi bosu : Tiu roboto parolas *kiel* vera landestro
+* Ti weteru ba nagodi **ki maneri** naneksti dayu : La vetero estas malbona *kiel* hieraŭ
+
 ---
 
-**La kurso ne estas finita: ankoraŭ ĉirkaŭ 17 lecionoj devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
+**La kurso ne estas finita: ankoraŭ ĉirkaŭ 16 lecionoj devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
 
-**Ti korsu no ba nabeginedi: stili arondi 17 lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**
+**Ti korsu no ba nabeginedi: stili arondi 16 lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**
