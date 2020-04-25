@@ -201,7 +201,7 @@ La normala vortordo estas Subjekto Verbo Objekto:
 
 * yu lerna langugu : vi lernas lingvon
 
-La vortordo ankaŭ povas esti Objekto Subjekto Verbo, sed ĝi estas kutima nur en subfrazoj (vidu pli poste):
+La vortordo ankaŭ povas esti Objekto Subjekto Verbo, sed ĝi estas kutima nur en rilataj subfrazoj (vidu pli poste):
 
 * langugu yu lerna : lingvon vi lernas
 
@@ -418,7 +418,7 @@ Kiel bonuso (kiu ne rilatas al aspektoj), jen tre oportuna verbo:
 * eya : vidi / spekti / rigardi : ("to see" / "to look" / "to watch")
 
 
-## 12: Verboj kun eda
+## 12: Verbo kun -eda
 
 Konsideru ĉi tiun frazon:
 
@@ -540,7 +540,7 @@ Nombro povas iĝi orda vorto per aldono de **-ifi** al la radiko:
 **lasti** (*lasta*) povas esti uzata por paroli pri la nuna lasta elemento de listo. (Por paroli pri la lasta elemento "por ĉiam", oni ankaŭ povas uzi **nabegini** (*fina*)).
 
 
-## 14: Komparoj
+## 14: Komparo
 
 Oni povas uzi komparajn modifilojn:
 * Ti mesagu ba **mori** simpli : Tiu mesaĝo estas *pli* simpla
@@ -567,8 +567,54 @@ Por esprimi samecon al alia afero, oni povas uzi la prepozicion **manero** (*kie
 * Ti robotu speka **manero** reli landi bosu : Tiu roboto parolas *kiel* vera landestro
 * Ti weteru ba nagodi **ki maneri** naneksti dayu : La vetero estas malbona *kiel* hieraŭ
 
+
+## 15: "Tabelvorto"
+
+Langugu ne havas la koncepton de "tabelvorto". Anstataŭ antaŭparton, oni uzas normalan modifilon, kaj anstataŭ postparton, oni uzas normalan vorton. Tio havas plurajn avantaĝojn:
+* La gramatika funkcio ne estas kaŝita (oni vidas la finaĵon).
+* Oni reuzas elementojn, do oni ne havas duoblaĵojn kiel *ie*, *iuloke*, *unuloke*... Oni bezonas malpli memori.
+* Oni ne arbitre kreas fermitan grupon de vortoj, kiun la komunumo povus ne ŝati kaj ne povus ŝanĝi.
+
+Jen tradukoj por Esperantaj tabelvortoj (kaj eĉ pli):
+
+| |ti- : **ti**|ki- : **ki**|i- : **oni**|ĉi- : **ali**|neni- : **zeri**|ali/ : **oteri**|ajna : **ani**|**...**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+-o : () / tingu|ti / ti tingu|ki / ki tingu|oni / oni tingu|ali / ali tingu|zeri / zeri tingu|oteri / oteri tingu|ani / ani tingu|...
+-u : () / personu|ti / ti personu|ki / ki personu|oni / oni personu|ali / ali personu|zeri / zeri personu|oteri / oteri personu|ani / ani personu|...
+-a : tipi|ti tipi|ki tipi|oni tipi|ali tipi|zeri tipi|oteri tipi|ani tipi|...
+-al : resoni|ti resoni|ki resoni|oni resoni|ali resoni|zeri resoni|oteri resoni|ani resoni|...
+-am : timi|ti timi|ki timi|oni timi|ali timi|zeri timi|oteri timi|ani timi|...
+-e : plasi|ti plasi|ki plasi|oni plasi|ali plasi|zeri plasi|oteri plasi|ani plasi|...
+-el : maneri|ti maneri|ki maneri|oni maneri|ali maneri|zeri maneri|oteri maneri|ani maneri|...
+-om : musi|ti musi|ki musi|oni musi|ali musi|zeri musi|oteri musi|ani musi|...
+...|...|...|...|...|...|...|...|...
+    
+La tabelo ne estas fermita, oni povus ekzemple havi plian kolumnon por **everi** (*ĉiu*), aŭ plian linion por **temi** (*teme*). (La tabelvorto por **tiuteme**/**tiurilate** estus *ti temi*)
+
+Kiel en Esperanto, **ki** estas uzebla kaj por fari demandojn, kaj por komenci rilatajn subfrazojn (legu pli poste).
+
+* **Ti tingu** hava preti koloru : *Tio* (Tiu afero) havas belan koloron 
+* **Ti plasi** eroru ba : *Tie* eraro estas
+* Horu hava **ki musi** minutu? : *Kiom* da minutoj havas horo?
+* Yu liva ali plasi **ki resoni**? : *Kial* vi vivas/loĝas aliloke?
+* **Oni timi**, fami personu pi visita mi situ : *Iam*, fama persono vizitis mian urbon
+* Mu **zeri maneri** kana finda solvu : Mi *neniel* povas trovi solvon
+* Katu **ali timi** giva lovu : Katoj *ĉiam* donas amon
+
+La tabelo enhavas nur normalajn vortojn, do la listo neniam estas limigita:
+* Mu no knowa mani tingu **ti temi** : Mi ne konas multajn aferojn *tiuteme/tiurilate*
+
+Notu ke oni ne ĉiam bezonas meti ion post **ti**, **ki**, **oni**, ktp. Oni povas diveni tion, kion modifilo prias per kunteksto:
+* Mu lika katu. Mu hava **oni** = Mu lika katu. Mu hava **oni katu** : Mi ŝatas katon. Mi havas *unu / iun (katon)*.
+  
+Se kunteksto ne sufiĉas, oni povas imagi la vorton **tingu** (*afero*) post modifilo:
+* Mu lika **ti** = Mu lika **ti tingu** : Mi ŝatas *tion*
+* Mu lika **mani** = Mu lika **mani tingu** : Mi ŝatas *multajn aferojn*
+
+
+
 ---
 
-**La kurso ne estas finita: ankoraŭ ĉirkaŭ 16 lecionoj devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
+**La kurso ne estas finita: ankoraŭ ĉirkaŭ 15 lecionoj devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
 
-**Ti korsu no ba nabeginedi: stili arondi 16 lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**
+**Ti korsu no ba nabeginedi: stili arondi 15 lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**
