@@ -571,9 +571,9 @@ Por esprimi samecon al alia afero, oni povas uzi la prepozicion **manero** (*kie
 ## 15: "Tabelvorto"
 
 Langugu ne havas la koncepton de "tabelvorto". Anstataŭ antaŭparton, oni uzas normalan modifilon, kaj anstataŭ postparton, oni uzas normalan vorton. Tio havas plurajn avantaĝojn:
-* La gramatika funkcio ne estas kaŝita (oni vidas la finaĵon).
-* Oni reuzas elementojn, do oni ne havas duoblaĵojn kiel *ie*, *iuloke*, *unuloke*... Oni bezonas malpli memori.
-* Oni ne arbitre kreas fermitan grupon de vortoj, kiun la komunumo povus ne ŝati kaj ne povus ŝanĝi.
+- La gramatika funkcio ne estas kaŝita (oni vidas la finaĵon).
+- Oni reuzas elementojn, do oni ne havas duoblaĵojn kiel *ie*, *iuloke*, *unuloke*... Oni bezonas malpli memori.
+- Oni ne arbitre kreas fermitan grupon de vortoj, kiun la komunumo povus ne ŝati kaj ne povus ŝanĝi.
 
 Jen tradukoj por Esperantaj tabelvortoj (kaj eĉ pli):
 
@@ -642,8 +642,28 @@ Kiel *ja* en Esperanto, oni povas emfazi verecon de aserto per **yeso**, sed por
 * mu **yeso** lika wina: mi *ja* ŝatas gajni/venki
 * mu **reli** nalika nawina: mi *vere* malŝatas perdi/malvenki
 
+
+## 17: Ĝenerala prepozicio
+
+La prepozicio **bo** indikas ĝeneralan proksimecon kaj rilaton. En Esperanto, ĝi havas la signifon de *en*, *ĉe*, *je* kaj foje *sur*. En la Angla, ĝi havas la signifon de "in", "at", kaj foje "on", "by".
+
+* Dogu playa **bo** parku : Hundo ludas *en* parko
+* Hu liva **bo** mi hosu : Ri loĝas *ĉe* mia domo
+* Huhu beliva **bo** meritu : Ili kredas *je* merito
+* Yu wili ga **bo** ti twifi horu : Vi iros *je* la dua horo
+* Yuyu apera **bo** webplasu : Vi ĉiuj aperas *en*/*sur* retejo
+* Mumu sita **bo** tablu : Ni sidas *ĉe* tablo
+* Mu nastanda **bo** bedu : Mi kuŝas *sur* lito
+
+**bo** estis kreita pro pluraj kialoj:
+- Kelkaj prepozicioj, kiun ĝi anstataŭas, sonas tro simile: "ino" kaj "ono" sonas tro simile al **no**, kaj "ato" sonas tro simile al **to** (alia prepozicio).
+- Tiuj prepozicioj estas uzataj en manieroj tre neantaŭvideblaj por lernantoj de la Angla ("on the train", "at eleven", "by the beach..."), do uzi novan vorton permesas eviti alporti tiujn malfacilaĵojn.
+- Havi ĝeneralan multuzan rolvorteton kiel *je* en Esperanto permesas profiti de la kunteksto por paroli pli flue.
+
+Ekzistas aliaj prepozicioj por paroli pli precize, sed plej ofte, oni ne bezonas paroli precize, kaj uzi **bo** sufiĉas.
+
 ---
 
-**La kurso ne estas finita: ankoraŭ ĉirkaŭ 15 lecionoj devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
+**La kurso ne estas finita: ankoraŭ ĉirkaŭ 13 lecionoj devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
 
-**Ti korsu no ba nabeginedi: stili arondi 15 lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**
+**Ti korsu no ba nabeginedi: stili arondi 13 lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**

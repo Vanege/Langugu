@@ -5,22 +5,22 @@ Rolvortetoj enkondukas komplementon (prepozicio) aŭ subfrazon (konjukcio), aŭ 
 
 ## Ĝenerala proksimeco kaj rilato (bo)
 
-"bo" indikas ĝeneralan proksimecon kaj rilaton. En Esperanto, ĝi havas la signifon de "en" "ĉe" "je" kaj foje "sur". En la Angla, ĝi havas la signifon de "in" "at", kaj foje "on" "by".
+La prepozicio **bo** indikas ĝeneralan proksimecon kaj rilaton. En Esperanto, ĝi havas la signifon de *en*, *ĉe*, *je* kaj foje *sur*. En la Angla, ĝi havas la signifon de "in", "at", kaj foje "on", "by".
 
-> Hundo ludas **en** parko -> Dogu playa **bo** parku  
-> Ri loĝas **ĉe** mia domo -> Hu liva **bo** mi hosu  
-> Ili kredas **je** merito -> Huhu beliva **bo** meritu  
-> Vi iros **je** la dua horo -> Yu wili ga **bo** ti twifi horu  
-> Vi ĉiuj aperas **en**/**sur** retejo -> Yuyu apera **bo** webplasu   
-> Mi sidas **sur** seĝo -> Mu nastanda **bo** setu  
-> Ni sidas **ĉe** table -> Mumu nastanda **bo** tablu  
+* Dogu playa **bo** parku : Hundo ludas *en* parko
+* Hu liva **bo** mi hosu : Ri loĝas *ĉe* mia domo
+* Huhu beliva **bo** meritu : Ili kredas *je* merito
+* Yu wili ga **bo** ti twifi horu : Vi iros *je* la dua horo
+* Yuyu apera **bo** webplasu : Vi ĉiuj aperas *en*/*sur* retejo
+* Mumu sita **bo** tablu : Ni sidas *ĉe* tablo
+* Mu nastanda **bo** bedu : Mi kuŝas *sur* lito
 
-"bo" estis kreita pro pluraj kialoj:
-- Oni ne povas rekte preni kelkajn vortojn de la Angla: "ino" kaj "ono" sonas tro simile al "no", kaj "ato" sonas tro simile al "to".
-- Tiuj vortoj estas uzataj en maniero tre neantaŭvidebla por lernantoj de la Angla (on the train, at eleven, by the beach...), do uzi novan vorton permesas eviti importi tiujn malfacilaĵojn.
-- Havi ĝeneralan multuzan rolvorteton kiel "je" en Esperanto permesas profiti de la kunteksto por paroli pli flue.
+**bo** estis kreita pro pluraj kialoj:
+- Kelkaj prepozicioj, kiun ĝi anstataŭas, sonas tro simile: "ino" kaj "ono" sonas tro simile al **no**, kaj "ato" sonas tro simile al **to** (alia prepozicio).
+- Tiuj prepozicioj estas uzataj en manieroj tre neantaŭvideblaj por lernantoj de la Angla ("on the train", "at eleven", "by the beach..."), do uzi novan vorton permesas eviti alporti tiujn malfacilaĵojn.
+- Havi ĝeneralan multuzan rolvorteton kiel *je* en Esperanto permesas profiti de la kunteksto por paroli pli flue.
 
-Ekzistas aliaj rolvortetoj por paroli pli precize, sed plej ofte, oni ne bezonas paroli tre precize. Tiam "bo" estas tute oportuna.
+Ekzistas aliaj prepozicioj por paroli pli precize, sed plej ofte, oni ne bezonas paroli precize, kaj uzi **bo** sufiĉas.
 
 ## Aliaj rolvortetoj
 
