@@ -116,17 +116,23 @@ Por ki-demandoj, oni uzas **ki** (kio/kiu what/which) antaŭ la koncernita afero
 
 ## Neado (no)
 
-Kiel la vorto "ne", **no** staras antaŭ la elemento neita.
->  mu **no** wanta slepa: mi ne volas dormi  
->  **no** mu wanta slepa buto hu: ne mi volas dormi sed ri  
->  mu wanta **no** slepa buto speka: mi volas ne dormi sed paroli  
+Kiam **no** (aŭ **yeso**) estas uzata sole, ĝi estas respondo al demando:
 
-Kial ne uzi la "ni" (kun la modifila finaĵo)? Neado forte ŝanĝas la signifon de frazo, do estas grave ke la vorto por neado estu bone komprenata. "ni" estas konfuzebla kun ĉiu vorto, kiu finiĝas per "-ni", kaj tio ofte okazas ĉar "-i" estas la finaĵo por adjektivoj/adverboj. La plej ofta tia vorto estas "mani".
+* no! : ne!
+* yeso! : jes!
 
-Simile al neado, eblas fari jesadon per **yeso**, simile al kiel oni uzas "ja" en Esperanto. Oni povas fari tion por emfazi la verecon de aserto, sed por tio, la modifilo "reli" estas pli ofta.
+Kiel en Esperanto, oni metas **no** (*ne*) antaŭ la afero, kiun oni neas:
 
-> mu yeso lika snaku: mi ja ŝatas serpentojn  
-> mu reli lika snaku: mi vere ŝatas serpentojn  
+* mu **no** wanta slepa : mi *ne* volas dormi
+* **no** mu wanta slepa buto hu : *ne* mi volas dormi sed ri
+* mu wanta **no** slepa buto speka : mi volas *ne* dormi sed paroli
+
+**No** teknike funkcias kiel modifilo, sed ĝi havas la finaĵon -o, ĉar kun -i, ĝi sonus tro simile al **mani**, **oni**, **ani**, ktp.
+
+Kiel *ja* en Esperanto, oni povas emfazi verecon de aserto per **yeso**, sed por tio, oni pli ofte uzas **reli** (*vere*):
+
+* mu **yeso** lika wina: mi *ja* ŝatas gajni/venki
+* mu **reli** nalika nawina: mi *vere* malŝatas perdi/malvenki
 
 ## "Ke" (ko)
 

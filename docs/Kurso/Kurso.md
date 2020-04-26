@@ -612,6 +612,35 @@ Se kunteksto ne sufiĉas, oni povas imagi la vorton **tingu** (*afero*) post mod
 * Mu lika **mani** = Mu lika **mani tingu** : Mi ŝatas *multajn aferojn*
 
 
+## 16: Demando
+
+Se la respondo de la demando devas esti **yeso** (*jes*) aŭ **no** (*ne*), oni metas **do** (*ĉu*) en la komenco de la frazo, kaj ? en la fino: 
+* **Do** yu fela godi? : *Ĉu* vi fartas bone?
+* **Do** yu kana korekta? : *Ĉu* vi povas korekti?
+* **Do** yu kana saya agani? : *Ĉu* vi povas ripeti?
+* **Do** ani personu hava asku? : *Ĉu* iu ajn havas demandon?
+
+Se la respondo de la demando devas esti afero, oni metas **ki** (*ki-*) antaŭ la informo, kiun oni volas, kaj ? en la fino:
+* **Ki** hapena? : *Kio* okazas?
+* Yu pi saya **ki**? : *Kion* vi diris?
+* Ti kosta **ki musi**? : *Kiom multe* tio kostas?
+* **Ki answeru** ba korekti? : *Kiu respondo* estas ĝusta?
+
+Kiam **no** (aŭ **yeso**) estas uzata sole, ĝi estas respondo al demando:
+
+* no! : ne!
+* yeso! : jes!
+
+Kiel en Esperanto, oni metas **no** (*ne*) antaŭ la afero, kiun oni neas:
+
+* mu **no** wanta slepa : mi *ne* volas dormi
+* **no** mu wanta slepa buto hu : *ne* mi volas dormi sed ri
+* mu wanta **no** slepa buto speka : mi volas *ne* dormi sed paroli
+
+Kiel *ja* en Esperanto, oni povas emfazi verecon de aserto per **yeso**, sed por tio, oni pli ofte uzas **reli** (*vere*):
+
+* mu **yeso** lika wina: mi *ja* ŝatas gajni/venki
+* mu **reli** nalika nawina: mi *vere* malŝatas perdi/malvenki
 
 ---
 
