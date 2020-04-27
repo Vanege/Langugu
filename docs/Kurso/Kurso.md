@@ -104,7 +104,7 @@ Jen kiel oni povas uzi modifilojn por priskribi sep nivelojn de boneco:
 * mani godi : tre bona / bonega
 * godi : bona
 * namani godi : iomete bona / boneta
-* midli godi : mezbona
+* midi godi : mezbona
 * namani nagodi : iomete malbona / malboneta
 * nagodi : malbona
 * mani nagodi : tre malbona / malbonega
@@ -562,9 +562,9 @@ Oportune, oni ankaŭ povas uzi la verbojn **sama**, **similara** kaj **sema** po
 * Femi katu **similara** mali katu : Ina kato *similaras al* iĉa kato
 * Ti stikeru **sema** dogu : Tiu glumarko *"ŝajnas" kiel* hundo / Tiu glumarko *aspektas kiel* hundo
 
-Por esprimi samecon al alia afero, oni povas uzi la prepozicion **manero** (*kiel*), aŭ **ki maneri** (*kiel*) (kio kreas rilatan subfrazon) (legu pri ili pli poste):
+Por esprimi samecon al alia afero, oni povas uzi la prepozicion **manero** (*kiel*), aŭ **ki maneri** (*kiel*) (kio kreas rilatan subfrazon) (legu pli poste):
 * Yu tinka **manero** hu (tinka)! : Vi pensas *kiel* ri (pensas)!
-* Ti robotu speka **manero** reli landi bosu : Tiu roboto parolas *kiel* vera landestro
+* Ti robotu translata **manero** reli translateru : Tiu roboto tradukas *kiel* vera tradukisto
 * Ti weteru ba nagodi **ki maneri** naneksti dayu : La vetero estas malbona *kiel* hieraŭ
 
 
@@ -591,7 +591,7 @@ Jen tradukoj por Esperantaj tabelvortoj (kaj eĉ pli):
     
 La tabelo ne estas fermita, oni povus ekzemple havi plian kolumnon por **everi** (*ĉiu*), aŭ plian linion por **temi** (*teme*). (La tabelvorto por **tiuteme**/**tiurilate** estus *ti temi*)
 
-Kiel en Esperanto, **ki** estas uzebla kaj por fari demandojn, kaj por komenci rilatajn subfrazojn (legu pli poste).
+Kiel en Esperanto, **ki** estas uzebla kaj por fari demandojn, kaj por komenci rilatajn subfrazojn (legu pli poste):
 
 * **Ti tingu** hava preti koloru : *Tio* (Tiu afero) havas belan koloron 
 * **Ti plasi** eroru ba : *Tie* eraro estas
@@ -654,6 +654,7 @@ La prepozicio **bo** indikas ĝeneralan proksimecon kaj rilaton. En Esperanto, �
 * Yuyu apera **bo** webplasu : Vi ĉiuj aperas *en*/*sur* retejo
 * Mumu sita **bo** tablu : Ni sidas *ĉe* tablo
 * Mu nastanda **bo** bedu : Mi kuŝas *sur* lito
+* No sosa ti onifi **bo** ti listu : Ne elektu la unuan *sur* la listo
 
 **bo** estis kreita pro pluraj kialoj:
 - Kelkaj prepozicioj, kiun ĝi anstataŭas, sonas tro simile: "ino" kaj "ono" sonas tro simile al **no**, kaj "ato" sonas tro simile al **to** (alia prepozicio).
@@ -662,8 +663,59 @@ La prepozicio **bo** indikas ĝeneralan proksimecon kaj rilaton. En Esperanto, �
 
 Ekzistas aliaj prepozicioj por paroli pli precize, sed plej ofte, oni ne bezonas paroli precize, kaj uzi **bo** sufiĉas.
 
+
+## 18: Prepozicio (1)
+
+Prepozicioj (sed ne nur prepozicioj) uzas la finaĵon **-o**. Jen listo de tre utilaj prepozicioj:
+
+Lokaj prepozicioj:
+
+* **insido** : *en* ("inside")    
+* **otsido** : *ekster* ("outside")
+* **nero** : *apud* ("near")  
+* **fronto** : *antaŭ* ("in front of")  
+* **bako** : *malantaŭ* ("in the back of", "behind")  
+* **abovo** : *sur*, *super* ("above","on", "over")  
+* **undero** : *sub* ("under")
+* **beforo** : *antaŭ* (en listo) ("before")
+* **aftero** : *post* (en listo) ("aftero")
+  
+> Zeri tingu **ba** insido ti kontaneru : Nenio estas *en* tiu ujo  
+> Mu ba mori hapi **otsido**/**nabo** bigi gropu : Mi estas pli feliĉa *ekster* grandaj grupoj  
+> Livu **nero** frindu ba mori godi : Vivo *apud* amikoj estas pli bona  
+> Mi kana eya yu **fronto** ti buyplasu : Mi povas vidi vin *antaŭ* la vendejo    
+> Katu hideda **bako** furnituru : Kato estas kaŝata malantaŭ meblo  
+> Ti dormplasu ba **abovo** ti kokplasu : La dormĉambro estas *super* la kuirejo  
+> Pusa hu **undero** ti doru : Puŝu ĝin *sub* la pordo  
+> Ti leteru A ba ofteni listeda **beforo** Z : La litero A estas ofte listigita *antaŭ* Z  
+> Puta ti wordu **aftero** ti oteri : Metu tiun vorton *antaŭ* la alia  
+
+Tempaj prepozicioj:
+
+* **beforo** : *antaŭ* ("before")  
+* **aftero** : *post* ("after")  
+* **duringo** : *dum* ("during")  
+
+> Tra **beforo** desida : Provu *antaŭ* decidi  
+> **Aftero** mani eta, mu no kana mori moveda : *Post* multe manĝi, mi ne plu povas moviĝi  
+> Yu no rigta ga otsidi **duringo** krisisu : Vi ne rajtas iri ekstere *dum* krizo  
+  
+Movaj prepozicioj (tempaj kaj lokaj):
+
+* **fromo** : *el*, *de* ("from")  
+* **untilo** : *ĝis* ("until")  
+* **to** : *al* ("to")  
+
+> Mu amuseda **fromo** morningu **to** eveningu : Mi amuziĝas *de* mateno *al* vespero  
+> Mu pi travela **fromo** Fransu **to** Germanu : Mi vojaĝis *el* Francujo *al* Germanujo  
+> Naputa paperu **fromo** ti bagu : Prenu paperon *de* la sako  
+> Hopi ti wili kontina **untilo** ti nabeginu : Espereble tio daŭros *ĝis* la fino  
+> Senda **to** mu linku **to** ti diskusplasu : Sendu *al* mi ligilon *al* la diskutejo/babilejo  
+
+Prepozicio ne estas fermita klaso en Langugu. Vi lernos pli poste en la kurso kiel krei novajn laŭbezone.
+
 ---
 
-**La kurso ne estas finita: ankoraŭ ĉirkaŭ 13 lecionoj devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
+**La kurso ne estas finita: ankoraŭ ĉirkaŭ 12 lecionoj devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
 
-**Ti korsu no ba nabeginedi: stili arondi 13 lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**
+**Ti korsu no ba nabeginedi: stili arondi 12 lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**

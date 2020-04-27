@@ -26,25 +26,47 @@ Ekzistas aliaj prepozicioj por paroli pli precize, sed plej ofte, oni ne bezonas
 
 ### Lokaj rolvortetoj
 
-* insido: en (inside)    
-* otsido: ekster  
-* neksto: apud (next of EN)  
-* fronto: antaŭ (in front of EN)  
-* bako: malantaŭ (behind, in the back of EN)  
-* abovo: sur, super (on, over, above EN)  
-* undero: sub (under EN)  
+* **insido** : *en* ("inside")    
+* **otsido** : *ekster* ("outside")
+* **nero** : *apud* ("near")  
+* **fronto** : *antaŭ* ("in front of")  
+* **bako** : *malantaŭ* ("in the back of", "behind")  
+* **abovo** : *sur*, *super* ("above","on", "over")  
+* **undero** : *sub* ("under")
+* **beforo** : *antaŭ* (en listo) ("before")
+* **aftero** : *post* (en listo) ("aftero")
+
+> Zeri tingu **ba** insido ti kontaneru : Nenio estas *en* tiu ujo  
+> Mu ba mori hapi **otsido**/**nabo** bigi gropu : Mi estas pli feliĉa *ekster* grandaj grupoj  
+> Livu **nero** frindu ba mori godi : Vivo *apud* amikoj estas pli bone  
+> Mi kana eya yu **fronto** ti buyplasu : Mi povas vidi vin *antaŭ* la vendejo    
+> Katu hideda **bako** furnituru : Kato estas kaŝata malantaŭ meblo  
+> Ti dormplasu ba **abovo** ti kokplasu : La dormĉambro estas *super* la kuirejo  
+> Pusa hu **undero** ti doru : Puŝu ĝin *sub* la pordo  
+> Ti leteru A ba ofteni listeda **beforo** Z : La litero A estas ofte listigita *antaŭ* Z  
+> Puta ti wordu **aftero** ti oteri : Metu tiun vorton *antaŭ* la alia  
 
 ### Tempaj rolvortetoj
 
-* beforo: antaŭ  
-* aftero: post  
-* duringo: dum  
+* **beforo** : *antaŭ* ("before")  
+* **aftero** : *post* ("after")  
+* **duringo** : *dum* ("during")  
+
+> Tra **beforo** desida : Provu *antaŭ* decidi  
+> **Aftero** mani eta, mu no kana mori moveda : *Post* multe manĝi, mi ne plu povas moviĝi  
+> Yu no rigta ga otsidi **duringo** krisisu : Vi ne rajtas iri ekstere *dum* krizo  
 
 ### Movaj rolvortetoj (tempaj kaj lokaj)
 
-* fromo: el  
-* untilo: ĝis  
-* to: al  
+* **fromo** : *el*, *de* ("from")  
+* **untilo** : *ĝis* ("until")  
+* **to** : *al* ("to")  
+
+> Mu amuseda **fromo** morningu **to** eveningu : Mi amuziĝas *de* mateno *al* vespero  
+> Mu pi travela **fromo** Fransu **to** Germanu : Mi vojaĝis *el* Francujo *al* Germanujo  
+> Naputa paperu **fromo** ti bagu : Prenu paperon *de* la sako  
+> Hopi ti wili kontina **untilo** ti nabeginu : Espereble tio daŭros *ĝis* la fino  
+> Senda **to** mu linku **to** ti diskusplasu : Sendu *al* mi ligilon *al* la diskutejo/babilejo 
 
 ### Aliaj...
 
@@ -97,7 +119,7 @@ Oportune, oni ankaŭ povas uzi la verbojn **sama**, **similara** kaj **sema** po
 
 Por esprimi samecon al alia afero, oni povas uzi la prepozicion **manero** (*kiel*), aŭ **ki maneri** (*kiel*) (kio kreas rilatan subfrazon) (legu pri ili pli poste):
 * Yu tinka **manero** hu (tinka)! : Vi pensas *kiel* ri (pensas)!
-* Ti robotu speka **manero** reli landi bosu : Tiu roboto parolas *kiel* vera landestro
+* Ti robotu translata **manero** reli translateru : Tiu roboto tradukas *kiel* vera tradukisto
 * Ti weteru ba nagodi **ki maneri** naneksti dayu : La vetero estas malbona *kiel* hieraŭ
 
 
