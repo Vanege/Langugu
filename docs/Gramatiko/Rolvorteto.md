@@ -263,12 +263,15 @@ Oni ankaŭ povas meti verbon rekte post prepozicio, kaj ĉi tiu verbo povas nede
 * Mumu liki pi diskusa **duringo walka** trogo arportu : Ni ĝoje diskutis *dum piediri/promeni* tra flughaveno 
 
 
-## Plenigaj vortoj (so, oko)
+## Plenigaj vortoj
 
-**oko** (okej) **so** (do) estas la ĉefaj plenigaj vorto de Langugu. Ili similas al "nu" kaj "do" en Esperanto kiam ili estas uzataj por... plenigi frazon. Ili utilas ekzemple por ekhavi atenton de aŭskultantoj, aŭ por doni al si tempon por pensi pri la resto de la frazo.
+**oko** (*okej*), **so** (*nu*, *do*) kaj **ando** (*kaj*) estas la ĉefaj plenigaj vortoj de Langugu, tio signifas ke ili estas uzataj por... plenigi konversacion. Ili utilas ekzemple por peti atenton de aŭskultantoj, aŭ por doni al si tempon por pensi pri resto de frazo.
 
-> oko... mu preparedi foro ga: okej... mi pretas por iri  
-> so... ki hapena naneksti dayi?: do... kio okazis hieraŭ?  
+* **Oko**... mu preparedi foro ga : *Okej*... mi pretas por iri  
+* **So**... ki hapena naneksti dayi? : *Nu*/*Do*... kio okazis hieraŭ?  
+* **Ando**... mu pi skareda ando no answera : *Kaj*... mi timis kaj ne respondis  
+
+Kiel en Esperanto, **oko** ankaŭ estas uzebla por rapide indiki komprenon aŭ konsenton. **So** estas uzebla ĉie kie *do* estas uzebla en Esperanto.
 
 
 ## "Ke" (ko)
