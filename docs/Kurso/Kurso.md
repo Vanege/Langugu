@@ -789,12 +789,12 @@ Notu ke prepozicioj en Langugu ne estas fermita klaso: eblas krei novajn:
 En Esperanto, kiam oni uzas la strukturon "*en/je substantivo al/de* substantivo", eblas anstataŭigi ĝin per nova prepozicio en Langugu, kiu finiĝas per **-o**:
 
 * *spite de* = *en spito de* -> **spito**
-* *danke al* = *en danko al* -> **danko**
+* *danke al* = *en danko al* -> **tanko**
 * *en maniero de* -> **manero**
 * *en diro de* -> **sayo**
 
 > Yu hunta **spito** ti napermitu : Vi ĉasas *spite de* / *malgraŭ* la malpermeso  
-> **Danko** yu mu pi finda : *Danke al* vi mi trovis  
+> **Tanko** yu mu pi finda : *Danke al* vi mi trovis  
 
 Tio kompreneble ankaŭ funkcias rilate al la Angla "in substantivo to/of":
 * "in front of" -> **fronto**
