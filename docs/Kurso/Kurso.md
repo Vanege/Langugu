@@ -70,7 +70,7 @@ Se la litero h troviĝas tuj post konsonanto, ĝi malaperas.
 * **tingu** : afero ("thing") ("h" estas post la konsonanto "t")
 * **hosu** : domo ("house") (tie "h" ne malaperis)
 
-Vi ne bezonas parkeri la regulojn de la algoritmo. Ĝi ĉefe estas utila kiam oni volas krei vorton, kiu ne jam troviĝas en la vortlisto de la [korektilo](https://vanege.github.io/langugi-korekteru/).
+Vi ne bezonas parkeri la regulojn de la [Algoritmo](/Gramatiko/Algoritmu). Oni uzas ĝin nur kiam io ne estas esprimebla per vortoj de la [korektilo](https://vanege.github.io/langugi-korekteru/) aŭ kunuzado de ili.
 
 Vi finis la duan lecionon! Jen **godi tingu** farita!
 
@@ -389,6 +389,7 @@ Por la us-modo (ebla, teoria aŭ kondiĉa ago), oni povas aldoni la verbon **wol
 Sed por multaj okazoj kie oni uzas *-us* en Esperanto, aldoni **maybi** (*eble*) sufiĉas:
 
 * **Maybi** yu wanta trinka: *Eble* vi vol*us* trinki  
+* **Maybi** yu musta hava yi owni romu: *Eble* vi dev*us* havi vian propran ĉambron   
 
 Oni povas facile uzi modon kaj tempon (aŭ plurajn modojn) samtempe. En Langugu, ili ne batalas por esti finaĵo de la sama verbo:
 
@@ -614,7 +615,7 @@ Se kunteksto ne sufiĉas, oni povas imagi la vorton **tingu** (*afero*) post mod
 
 ## 16: Demando
 
-Se la respondo de la demando devas esti **yeso** (*jes*) aŭ **no** (*ne*), oni metas **do** (*ĉu*) en la komenco de la frazo, kaj ? en la fino: 
+Se la respondo de la demando devas esti **yeso** (*jes*) aŭ **no** (*ne*), oni (nedevige) metas **do** (*ĉu*) en la komenco de la frazo, kaj ? en la fino: 
 * **Do** yu fela godi? : *Ĉu* vi fartas bone?
 * **Do** yu kana korekta? : *Ĉu* vi povas korekti?
 * **Do** yu kana saya agani? : *Ĉu* vi povas ripeti?
@@ -666,7 +667,7 @@ Ekzistas aliaj prepozicioj por paroli pli precize, sed plej ofte, oni ne bezonas
 
 ## 18: Prepozicio (1)
 
-Prepozicioj (sed ne nur prepozicioj) uzas la finaĵon **-o**. Jen listo de tre utilaj prepozicioj:
+Prepozicioj (sed ne nur prepozicioj) uzas la finaĵon **-o**. Jen listo de tre utilaj prepozicioj :
 
 Lokaj prepozicioj:
 
@@ -687,14 +688,14 @@ Lokaj prepozicioj:
 > Katu hideda **bako** furnituru : Kato estas kaŝata malantaŭ meblo  
 > Ti dormplasu ba **abovo** ti kokplasu : La dormĉambro estas *super* la kuirejo  
 > Pusa hu **undero** ti doru : Puŝu ĝin *sub* la pordo  
-> Ti leteru A ba ofteni listeda **beforo** Z : La litero A estas ofte listigita *antaŭ* Z  
-> Puta ti wordu **aftero** ti oteri : Metu tiun vorton *antaŭ* la alia  
+> Ti leteru A ba ofteni listeda **beforo** Z : La litero A estas ofte listigata *antaŭ* Z  
+> Puta ti wordu **aftero** ti oteri : Metu tiun vorton *post* la alia  
 
 Tempaj prepozicioj:
 
-* **beforo** : *antaŭ* ("before")  
-* **aftero** : *post* ("after")  
-* **duringo** : *dum* ("during")  
+* **beforo** : *antaŭ*  
+* **aftero** : *post*  
+* **duringo** : *dum* 
 
 > Tra **beforo** desida : Provu *antaŭ* decidi  
 > **Aftero** mani eta, mu no kana mori moveda : *Post* multe manĝi, mi ne plu povas moviĝi  
@@ -702,9 +703,9 @@ Tempaj prepozicioj:
   
 Movaj prepozicioj (tempaj kaj lokaj):
 
-* **fromo** : *el*, *de* ("from")  
-* **untilo** : *ĝis* ("until")  
-* **to** : *al* ("to")  
+* **fromo** : *el*, *de*  
+* **untilo** : *ĝis*  
+* **to** : *al*  
 
 > Mu amuseda **fromo** morningu **to** eveningu : Mi amuziĝas *de* mateno *al* vespero  
 > Mu pi travela **fromo** Fransu **to** Germanu : Mi vojaĝis *el* Francujo *al* Germanujo  
@@ -712,10 +713,143 @@ Movaj prepozicioj (tempaj kaj lokaj):
 > Hopi ti wili kontina **untilo** ti nabeginu : Espereble tio daŭros *ĝis* la fino  
 > Senda **to** mu linku **to** ti diskusplasu : Sendu *al* mi ligilon *al* la diskutejo/babilejo  
 
-Prepozicio ne estas fermita klaso en Langugu. Vi lernos pli poste en la kurso kiel krei novajn laŭbezone.
+**To** ankaŭ uzeblas por montri nerektan objekton de verbo:
+
+* Stopa ti waru **to** drugu! : Ĉesu/Haltigu la militon *al* drogoj!
+
+
+## 19: Prepozicio (2)
+
+Jen aliaj tre utilaj prepozicioj:
+* **ofo** : *de*, *da*
+
+> Ti flagu **ofo** mi landu : La flago *de* mia lando  
+> Kilogramu **ofo** kofu : Kilogramo *da* kafo  
+
+* **wito** : *kun*, *per*
+* **nawito** : *sen*
+
+> Amuseda **wito** frindu : Amuziĝi *kun* amiko  
+> Koma **wito** busu : Veni *per* buso  
+> Planetu **nawito** divinitu : Planedo/Mondo *sen* dio  
+
+* **bekaso** : *pro*, *ĉar*
+
+> Nahapi **bekaso** moneyu : Malfeliĉa *pro* mono  
+> Hu no staya **bekaso** mu no pi ba enogi nisi : Ri ne restis *ĉar* mi ne estis sufiĉe afabla  
+
+* **foro** : *por*
+
+> Invitu **foro** drinka : Invito *por* trinki/drinki  
+> Toletu **foro** ali bodu : Necesejo *por* ĉiuj korpoj   
+> Vota **foro** ti mosti godi kandidatu! : Voĉdonu *por* la plej bona kandidato!  
+
+* **agansto** : *kontraŭ*
+
+> Playa **agansto** godi playeru no ba esi : Ludi *kontraŭ* bona ludanto ne estas facile  
+
+* **stedo** : *anstataŭ*
+
+> Helpa **stedo** onli hopa : Helpu *anstataŭ* nur esperi  
+
+* **eksepto** : *krom*
+
+> Ti lawu respekteda ali plasi **eksepto** bo ti landpartu : Tiu leĝo estas respektata ĉie *krom* en tiu landparto/regiono  
+
+* **alongo** : *laŭ* (ĉiuj uzoj de laŭ)
+* **tinko** : *laŭ* (nur por penso/opinio)
+* **sayo** : *laŭ* (nur por diro)
+
+> Personu bika **alongo** ti wayu : Persono biciklas *laŭ* la vojo  
+> **Tinko** mu, yu saya korekti : *Laŭ* mi, vi diras ĝuste  
+> **Sayo** hu, ti kana : *Laŭ* ri, tio eblas  
+
+* **temo** / **aboto** : *pri*
+
+> Mu no interesteda (**temo**) politiku : Mi ne interesiĝas *pri* politiko  
+
+Oni povas indiki kondiĉan aŭ teorian subfrazon per **ifo** (*se*, *ĉu*) :
+
+> Upa handu **ifo** yu agra : Levu/Altigu manon *se* vi konsentas  
+> Mu no knowa **ifo** hu eksista : Mi ne scias *ĉu* ĝi ekzistas  
+
+"Konjukcioj" estas traktataj kiel prepozicioj:
+
+* **ando** : *kaj*
+* **oro** : *aŭ*
+* **buto** : *sed*, *tamen*
+
+> Yu eta **ando** afteri yu wasa : Vi manĝas *kaj* poste vi purigos  
+> Tolu foro eta ba forku **ando** knifu : Iloj por manĝi estas forko *kaj* tranĉilo  
+> Mali parentu, femi parentu **oro** oteri, ti no ba importanti : Iĉa parento (/ patro), ina parento (/ patrino) *aŭ* alia, tio ne gravas  
+> Do yu yoka **oro** do yu saya ti nayoki? : Ĉu vi ŝercas *aŭ* ĉu vi diras tion serioze?  
+
+Notu ke prepozicioj en Langugu ne estas fermita klaso: eblas krei novajn:
+
+En Esperanto, kiam oni uzas la strukturon "*en/je substantivo al/de* substantivo", eblas anstataŭigi ĝin per nova prepozicio en Langugu, kiu finiĝas per **-o**:
+
+* *spite de* = *en spito de* -> **spito**
+* *danke al* = *en danko al* -> **danko**
+* *en maniero de* -> **manero**
+* *en diro de* -> **sayo**
+
+> Yu hunta **spito** ti napermitu : Vi ĉasas *spite de* / *malgraŭ* la malpermeso  
+> **Danko** yu mu pi finda : *Danke al* vi mi trovis  
+
+Tio kompreneble ankaŭ funkcias rilate al la Angla "in substantivo to/of":
+* "in front of" -> **fronto**
+* "instead of" -> **stedo**  
+
+Oni ne trouzu la eblon krei prepoziciojn. Ili ne ĉiam estas facile kompreneblaj, kaj ĉiam pli bonas esprimi sin per vortoj, kiuj jam konatas en la lingvo.
+
+
+## 20: Prepozicio (3)
+
+En Esperanto, prepozicio povas foje akcepti substantivon, kaj foje ĝi povas akcepti subfrazon (kie troviĝas verbo):
+
+Ekzemple, *dum* akceptas ambaŭ:
+
+* Mi manĝas dum spektado (dum akceptas substantivon)   
+* Mi manĝas dum mi spektas (dum akceptas subfrazon)   
+
+Sed, *pro* akceptas nur substantivon:
+
+* Mi manĝas pro volo
+* Mi manĝas pro ~~mi volas~~
+
+Se oni volas meti subfrazon, oni devas uzi *ĉar* anstataŭe:
+
+* Mi manĝas ĉar ~~volo~~
+* Mi manĝas ĉar mi volas
+
+Se la prepozicio akceptas nur substantivon, oni devas aldoni *tio ke* por povi uzi subfrazon:
+
+* Mi manĝas por mia vivo
+* Mi manĝas por ~~mi vivu~~
+* Mi manĝas por *tio ke* mi vivu
+
+Tamen se la prepozicio estas *antaŭ*, oni aldonu *ol*, kaj kiam ĝi estas *post*, oni aldonu *kiam*.
+
+Langugu estas pli simpla: ĉiuj prepozicioj estas uzeblaj kun substantivoj kaj subfrazoj, sen aldono de arbitraĵoj:
+
+* Mu eta **bekaso** wantu : Mi manĝas *pro* volo
+* Mu eta **bekaso** mu wanta : Mi manĝas *ĉar* mi volas
+* Mu eta **foro** livu : Mi manĝas *por* vivi
+* Mu eta **foro** mu liva : Mi manĝas *por tio ke* mi vivu  
+  
+Oni ankaŭ povas meti verbon rekte post prepozicio, kaj ĉi tiu verbo povas nedevige havi objekton. Tio ne ŝanĝas la formon de la prepozicio:
+
+* Mu eta **beforo** studa : Mi manĝas *antaŭ* studi
+* Mu eta **beforo** studa lesonu : Mi manĝas *antaŭ ol* studi lecionon
+
+[Malkiel Esperanto](https://bertilow.com/pmeg/gramatiko/i-verboj/kun_rolvortetoj.html#j-bb7), Langugu ne havas arbitran liston de prepozicioj kiuj rajtas aŭ ne havi verbon post si. Ili ĉiuj rajtas.
+
+* Hu pi ekspresa interestu **aboto lerna** ti langugu : Ri esprimis intereson *pri lerni* la lingvon
+* Hu pi fameda **bekaso wina** ti primari prisu : Ri famiĝis *pro gajni* la ĉefan premion
+* Mumu liki pi diskusa **duringo walka** trogo arportu : Ni ĝoje diskutis/babilis *dum piediri/promeni* tra flughaveno 
 
 ---
 
-**La kurso ne estas finita: ankoraŭ ĉirkaŭ 12 lecionoj devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
+**La kurso ne estas finita: ankoraŭ ĉirkaŭ 10 lecionoj devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
 
-**Ti korsu no ba nabeginedi: stili arondi 12 lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**
+**Ti korsu no ba nabeginedi: stili arondi 10 lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**
