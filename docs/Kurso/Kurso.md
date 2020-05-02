@@ -328,7 +328,7 @@ Adverbo ankaŭ povas priskribi agon post verboj kiel **ba** (*be*) kaj **sema** 
 * Aha ba **importanti** : Kompreni estas *grave*
 * Dansa sema **godi** : Danci ŝajnas *bone*
 
-(La verbo **ba** neniam estas nedeviga, do la frazo **Aha ba importanti** estas sama al **Aha importanti**)
+(La verbo **ba** neniam estas deviga, do la frazo **Aha ba importanti** estas sama al **Aha importanti**)
 
 Ankaŭ estas kutime meti adverbon sole:
 
@@ -638,7 +638,7 @@ Se kunteksto ne sufiĉas, oni povas imagi la vorton **tingu** (*afero*) post mod
 
 ## 16: Demando
 
-Se la respondo de la demando devas esti **yeso** (*jes*) aŭ **no** (*ne*), oni (nedevige) metas **do** (*ĉu*) en la komenco de la frazo, kaj ? en la fino: 
+Se la respondo de la demando devas esti **yeso** (*jes*) aŭ **no** (*ne*), oni nedevige metas **do** (*ĉu*) en la komenco de la frazo, kaj ? en la fino: 
 * **Do** yu fela godi? : *Ĉu* vi fartas bone?
 * **Do** yu kana korekta? : *Ĉu* vi povas korekti?
 * **Do** yu kana saya agani? : *Ĉu* vi povas ripeti?
