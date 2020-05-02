@@ -3,6 +3,32 @@ Se vi povas paroli Esperanton kaj iom la Anglan, vi povas lerni Langugu tre tre 
 Se vi havas demandon, vi vidu la [Gramatikon](/Gramatiko/Gramatiko) aŭ demandu al parolantoj de Langugu per [Telegram](https://langugu.telegramo.org). Se vi volas legi tekston en Langugu, vidu la [Vikion](https://langugu.fandom.com/wiki/Langugu). Se vi volas skribi aŭ kompreni tekston en Langugu, provu la [Korektilon](https://vanege.github.io/langugi-korekteru/).
 
 
+## 0: Elparolo
+
+Jen la literoj de Langugu:
+
+Vokaloj: **a e i o u**   
+Konsonantoj: **b d f g h k l m n p s t w y r v z**  
+
+Ĉiu litero elparoliĝas kiel en la [Internacia Fonetika Alfabeto](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), do kiel en Esperanto, kun tiu escepto:
+
+* **y** elparoliĝas kiel en la Angla, do kiel *j* en Esperanto
+* **w** elparoliĝas kiel *ŭ* en Esperanto, sed ĝi ankaŭ povas komenci silabon
+
+Por malofte konataj sonoj, multaj variaĵoj estas akceptataj kaj bone funkcias, ekzemple:
+
+* **r** povas esti elparolita kiel *l*, kaj ĉiuj naciaj variaĵoj de "r"  
+* **v** povas esti elparolita kiel *b*  
+* **z** povas esti elparolita kiel *s*  
+
+Kompare al Esperanto, Langugu havas malmulte da vortoj, kie konsonantoj troviĝas apude. Tamen, laŭ bezono aŭ stilo, inter du konsonantoj, oni rajtas elparoli [ə](https://en.wikipedia.org/wiki/Schwa):
+* wanta: /wanta/ aŭ /wanəta/
+* knowa: /knowa/ aŭ /kənowa/
+* speka: /speka/ aŭ /səpeka/
+
+Ne ekzistas deviga regulo pri envorta aŭ enfraza akcento, ĉar uzado ne montris tion sufiĉe utila (nun).
+
+
 ## 1: Afabla vorto
 
 * **Helu** : Saluton
@@ -22,13 +48,10 @@ La prefikso **na-** funkcias kiel *mal-*. Ĝi estas uzata pli ofte ol en Esperan
 
 **-i** estas la finaĵo de adjektivoj kaj adverboj, oni nomas ilin "modifiloj".
 
-La litero **y** estas elparolata kiel *j*.
-
 * **Godi luku** : Bonŝancon
-* **Kongratulu** : Gratulon
+* **Godi worku** : Bonan laboron / Gratulon
 
-**Godi**, vi finis la unuan lecionon. **Kongratulu!**
-
+**Godi worku**, vi finis la unuan lecionon!
 
 
 ## 2: Substantivo (-u)
@@ -37,11 +60,11 @@ La litero **y** estas elparolata kiel *j*.
 
 * **wordu** : vorto ("word" angle)
 
-La litero **w** estas elparolata kiel *ŭ*. Por **r**, ĉiuj naciaj elparoloj estas permesataj.
+Memoru, la litero **w** estas elparolata kiel *ŭ*. Por **r**, ĉiuj naciaj elparoloj estas permesataj. Ĝi devas ne esti silenta.
 
 * **personu** : persono ("person")
 
-Vortoj de Langugu venas de la Angla, sed ili estas iom ŝanĝitaj per simpla algoritmo LIGILO. Jen kelkaj reguloj de tiu algortimo:
+Vortoj de Langugu venas de la Angla, sed ili estas iom ŝanĝitaj per simpla algoritmo. Jen kelkaj reguloj de tiu algortimo:
 
 Finaj vokaloj de la Angla vorto malaperas antaŭ aldoni la finaĵon **-u**:
 
