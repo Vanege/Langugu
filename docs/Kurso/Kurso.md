@@ -621,7 +621,7 @@ Kiel en Esperanto, **ki** estas uzebla kaj por fari demandojn, kaj por komenci r
 * **Ti plasi** eroru ba : *Tie* eraro estas
 * Horu hava **ki musi** minutu? : *Kiom* da minutoj havas horo?
 * Yu liva ali plasi **ki resoni**? : *Kial* vi vivas/loĝas aliloke?
-* **Oni timi**, fami personu pi visita mi situ : *Iam*, fama persono vizitis mian urbon
+* **Oni timi**, fami personu pi visita mi situ : *Iam* (*Unufoje*), fama persono vizitis mian urbon
 * Mu **zeri maneri** kana finda solvu : Mi *neniel* povas trovi solvon
 * Katu **ali timi** giva lovu : Katoj *ĉiam* donas amon
 
@@ -919,8 +919,33 @@ Kiel en Esperanto, **oko** ankaŭ estas uzebla por rapide indiki komprenon aŭ k
 
 Se oni volas diri al iu, ke oni ne ŝatas tiun, oni povas diri **krapu to yu** (*fek al vi)*. Male, por diri ke oni ŝatas iun, oni povas diri **hugu to yu** (*brakumo al vi*).
 
+
+## 22: ko-subfrazo
+
+La vorto **ko** funkcias kiel *ke* en Esperanto. Ĝi estas prepozicio, kiu kompletigas parton de la ĉeffrazo:
+
+Post verbo sen objekto, ĝi komencas komplementon, kiu kvazaŭ estas la objekto de la verbo:
+
+> Personi, mu tinka **ko** yu saya godi : Persone, mi pensas *ke* vi diras bone = Persone, mi pensas: "Vi diras bone"  
+> Mu suposa **ko** yu lika ti musiku : Mi supozas *ke* vi ŝatas tiun muzikon = Mi supozas: "Vi ŝatas tiun muzikon"  
+
+Ĝi ankaŭ povas klarigi substantivon de la ĉeffrazo:
+
+> Mu no lika ti opinu **ko** waru nededa : Mi ne ŝatas tiun opinion *ke* milito estas bezonata ("milito estas bezonata" klarigas "opinu")  
+> Ti ba godi **ko** yu wanta partisipa : Estas bone *ke* vi volas partopreni ("yu wanta partisipa" klarigas "Ti").  
+
+Ĝi ankaŭ povas klarigi aserton de la ĉeffrazo:
+
+> Mu ba nahapi **ko** ti metu no wili hapena : Mi estas malfeliĉa *ke*/*ĉar* la renkontiĝo ne okazos  
+
+**ko** estas speciala prepozicio, ĉar ĝi neniam estas deviga:
+
+> Mu tinka **ko** yu preti = Mu tinka yu preti : Mi pensas ke vi estas bela
+
+Tamen, estas utile lasi ĝin en kompleksaj frazoj, ĉar ĝi helpas analizi ilin.
+
 ---
 
-**La kurso ne estas finita: ankoraŭ kelkaj lecionoj devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
+**La kurso ne estas finita: ankoraŭ 8 devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
 
-**Ti korsu no ba nabeginedi: stili somi lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**
+**Ti korsu no ba nabeginedi: stili 8 lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**
