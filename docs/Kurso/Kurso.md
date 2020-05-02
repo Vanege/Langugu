@@ -367,7 +367,7 @@ Sed oni povas esti pli klara uzante tempajn modifilojn:
 
 Ekzistas du tre utilaj mallongaj tempaj modifiloj, kiuj esprimas ĝeneralan is-tempon kaj os-tempon de Esperanto: 
 
-* Mu [pi](https://langugu.fandom.com/wiki/%22pi%22_instedo_%22wasi%22_foro_ti_beforu) staya : Mi rest*is*  
+* Mu [pi](https://langugu.fandom.com/wiki/%22pi%22_stedo_%22wasi%22_foro_ti_beforu) staya : Mi rest*is*  
 * Mu **wili** walka : Mi piedir*os*  
 
 Kompreneble, oni ne ĉiam bezonas ilin. Ekzemple, se oni jam scias ke la ago okazas antaŭe aŭ poste:  
