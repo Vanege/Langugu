@@ -432,7 +432,7 @@ Oni povas facile uzi samtempe modifilon de tempo kaj de aspekto:
 
 * katu *pi* slepa: kato dorm*is*  
 * katu *pi* **stili** slepa: kato est*is* dorm**a**n**t**a  
-* katu *pi* **alredi** eta: kato est*is* dorm**i**n**t**a  
+* katu *pi* **alredi** slepa: kato est*is* dorm**i**n**t**a  
 
 Kiel en Esperanto, oni evitas mencii aspekton se tio ne vere gravas. Do plej ofte oni dirus nur **katu slepa** aŭ **katu pi slepa**.
 
