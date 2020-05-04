@@ -549,7 +549,7 @@ Por paroli pri preciza nombro, oni faras tiel:
 * 20 = 2 x 10 : twi teni
 * 29 = 2 x 10 + 9 : twi teni nini
 * 129 = 1 x 100 + 2 x 10 + 9 : oni hundredi twi teni nini
-* 2429 = 2 x 1000 + 1 x 100 + 2 x 10 + 9 : twi tosandi oni hundredi twi teni nini
+* 2129 = 2 x 1000 + 1 x 100 + 2 x 10 + 9 : twi tosandi oni hundredi twi teni nini
 
 > Yu kana finda arondi fivi teni (50) gropu : Vi povas trovi ĉirkaŭ 50 grupojn
  

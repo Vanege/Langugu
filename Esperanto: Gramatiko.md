@@ -151,8 +151,8 @@ Notu "tiri" kaj ne "tri". Tiu bedaŭrinda arbitraĵo venas de tio ke "tri" tro s
 
 Por paroli pri preciza nombro, oni faras tiel:
 
-* 2429 = 2 x 1000 + 1 x 100 + 2 x 10 + 9
-* twi tosandi fori hundredi twi teni nini 
+* 2129 = 2 x 1000 + 1 x 100 + 2 x 10 + 9
+* twi tosandi oni hundredi twi teni nini 
 
 
 Por ordaj nombroj, oni aldonas la ŝajnsufikson -if-

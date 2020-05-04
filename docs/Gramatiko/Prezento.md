@@ -4,7 +4,7 @@
 
 ### Vortoj venas de la Angla
 * La Angla estas la lingvo [la plej internacie uzata](https://en.wikipedia.org/wiki/List_of_territorial_entities_where_English_is_an_official_language) kaj [la plej internacie studata](https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers).
-* Bazaj vortoj de la Angla jam estas konataj ĉie: "happy birthay", "hotel", "game over", ...
+* Bazaj vortoj de la Angla jam estas konataj ĉie: "happy birthday", "hotel", "game over", ...
 * La influo de la Angla nur kreskas pro ĝia monopolo en tekniko kaj scienco.
 * Homoj jam elspezas milojn da horoj por lerni la Anglan pro vivaj bezonoj.
 * Vortoj de Langugu venas de la Angla, do lerni la Anglan plirapidigas la lernadon de Langugu.
