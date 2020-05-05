@@ -46,7 +46,7 @@ La prefikso **na-** funkcias kiel *mal-*. Ĝi estas uzata pli ofte ol en Esperan
 * **Godi dayu** : Bonan tagon (24h)
 * **Godi slepu** : Bonan dormon ("Bonan nokton")
 
-**-i** estas la finaĵo de adjektivoj kaj adverboj, oni nomas ilin "modifiloj".
+**-i** estas la finaĵo de adjektivoj kaj adverboj. Kiam oni aldonas ĝin al vorta radiko, oni kreas vorton, kiun oni nomas "modifilo".
 
 * **Godi luku** : Bonŝancon
 * **Godi worku** : Bonan laboron / Gratulon
@@ -1120,8 +1120,71 @@ Esperanto foje havas verbajn adjektivojn aŭ adverbojn, kiuj povas ricevi objekt
 * serv**eru** : serv*ilo*
 * korekt**eru** : korekt*ilo*
 
+
+## 26: Ŝanĝo de finaĵo
+
+Ĉiu vorta radiko havas internan tipon, ekzemple:
+* Estas interne substantivaj: **person**, **grup**, **artikl**...
+* Estas interne modifilaj: **god**, **long**, **fast**...
+* Estas interne verbaj: **lik**, **spek**, **slep**... 
+
+Ofte eblas diveni la internan tipon de radiko per la ofteco de vortoj: ekzemple, la vorto **godi** estas multe pli uzata ol **godu** aŭ **goda**, oni tiel divenas ke **god** estas interne modifila.
+
+En Langugu, oni povas krei novajn vortojn ŝanĝante la finaĵon, kiun oni aldonas al radiko. Oni bezonas koni la internan tipon, ĉar la signifo de la rezulta vorto dependas de ĝi:
+
+Se la radiko estas interne modifila (ekz: **god**):
+* **godi** estas la modifilo mem
+* **goda** estas verbo kiu igas la objekton al la stato de la modifilo (malkiel Esperanto, kie krei verbon per adjektiva radiko kreas stativan verbon, anstataŭ igan verbon kiel en la Angla)
+* **godu** estas eco kiu mezuras la modifilon, aŭ la ago de la iga verbo
+
+godi : bona
+* god**a** : bon*igi* 
+* god**u** : bon*eco* / bon*igo*
+
+korekti : ĝusta
+* korekt**a** : ĝust*igi* / korekti
+* korekt**u** : ĝust*eco* / ĝust*igo*
+
+warmi : varma
+* warm**a** : varm*igi*
+* warm**u** : varm*eco* / varm*igo*
+
+Se la radiko estas interne verba (ekz **say**):
+* **saya** estas la verbo mem
+* **sayu** estas ago de la verbo, aŭ aĵo kiu kutime estas subjekto aŭ objekto de la verbo
+* **sayi** estas stato, kiun kutime havas subjekto aŭ objekto de la verbo (sed kiam temas pri stato de la objekto, oni tre ofte aldonas -ed-)
+
+saya : diri
+* say**u** : dir*o* (dir*aĵo*/dir"*ago*")
+* say**i** : dir*a* (diranta)
+
+skara : timigi
+* skar**u** : timig*o*
+* skar**i** : timig*a* (timiganta)
+
+Se la radiko estas interne substantiva (ekz: **person**):
+* **personu** estas la substantivo mem
+* **personi** priskribas ion, kio rilatas al la substantivo
+* **persona** estas verbo, kiu rilate al substantivo (oni bezonas pensi kreeme)
+
+personu : persono
+* person**i** : person*a*
+* person**a** : person*umi*
+
+wateru : akvo
+* water**i** : akv*a* / malsek*a*
+* water**a** : akv*umi*
+
+En la supraj ekzemploj, oni povas vidi ke foje, la rezulta vorto havas plurajn eblajn signifojn. Se oni bezonas esti pli preciza, oni povas uzi plurajn vortojn:
+
+sayu : diro (diraĵo/dirago)
+* sayi **tingu** : di*raĵo*
+* sayi **aktu** : dir*ago*
+
+Eĉ eblas kunmeti **sayi tingu** kiel **saytingu**, kaj **sayi aktu** kiel **sayaktu** (vidu pli poste), sed oni evitas fari nebezonatajn kunmetaĵojn (krom se oni celas specifan koncepton), ĉar analizi tiujn vortojn lege kaj aŭde estas malpli facile por tiuj, kiuj ne konas la radikojn, kaj estas malpli facile elparoli ilin pro konsonantoj pli proksimaj.
+
 ---
 
-**La kurso ne estas finita: ankoraŭ 5 lecionoj devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
+**La kurso ne estas finita: ankoraŭ 4 lecionoj devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
 
-**Ti korsu no ba nabeginedi: stili 5 lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**
+**Ti korsu no ba nabeginedi: stili 4 lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**
