@@ -186,6 +186,10 @@ Oni povas indiki kondiĉan aŭ teorian subfrazon per **ifo** (*se*, *ĉu*) :
 > Upa handu **ifo** yu agra : Levu/Altigu manon *se* vi konsentas  
 > Mu no knowa **ifo** hu eksista : Mi ne scias *ĉu* ĝi ekzistas  
 
+Oni povas indiki tion, kio okazas se kondiĉo estas plenumita, per nedeviga **teno**:
+
+> Ifo ti boku ba interesti, **teno** mu wili sosa hu : Se tiu libro estas interesa, *tiam* mi elektos ĝin
+
 ### "Konjukcioj"
 
 * **ando** : *kaj*
