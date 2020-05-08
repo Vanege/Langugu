@@ -1210,7 +1210,7 @@ Kiel en Esperanto, eblas krei novajn vortojn kunmetante radikojn. Tio permesas e
 La dekstra radiko estas la esenco, kaj la maldekstra radiko precizigas ĝin. Tio signifas ke se oni kunmetas ion maldekstre de la radiko **sipu** (*ŝipo*), la rezulto ĉiam estos tipo de *ŝipo*:
 * vapor**sip**u : vapor*ŝip*o (tipo de ŝipo)
 
-Kio estas la diferenco inter kunmeti kaj simple meti adjektivon antaŭ subsantivon? Kiam oni kunmetas, oni kreas novan vorton do novan precizan koncepton. Se oni uzas adjektivon, oni donas liberecon pri la intepretado de la adjektivo:
+Kio estas la diferenco inter kunmeti kaj simple meti adjektivon antaŭ substantivon? Kiam oni kunmetas, oni kreas novan vorton do novan precizan koncepton. Se oni uzas adjektivon, oni donas liberecon pri la interpretado de la adjektivo:
 * **vapori sipu** : *vapora ŝipo* (ŝipo kiu iel rilatas al vaporo, do ĝi povas esti ŝipo kiu funkcias per vaporo, sed ankaŭ ŝipo el vaporo!)
 * **vaporsipu** : *vaporŝipo* (specifa tipo de ŝipo, kun specifa funkcimaniero, pri kiu oni povas legi pli detale en vortaro aŭ encikopedio)
 * **webi plasu** : *reta ejo* (ajna loko en la interreto)
@@ -1227,10 +1227,8 @@ Jen kelkaj frazoj por lerni kelkajn oftajn vortojn:
 > Ti universiti bosu nalova ti representeru ofo studeru : La universitatestro malamas la reprezentanton de la studantoj.  
 > Langugeru zeri timi forgeta akusativi markeru : Parolantoj de Langugu neniam forgesas akuzativmarkilon.  
 
-
-
 ---
 
-**La kurso ne estas finita: ankoraŭ 4 lecionoj devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
+**La kurso ne estas finita: ankoraŭ 3 lecionoj devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
 
-**Ti korsu no ba nabeginedi: stili 4 lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**
+**Ti korsu no ba nabeginedi: stili 3 lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**
