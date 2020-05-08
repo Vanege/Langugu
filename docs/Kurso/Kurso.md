@@ -248,7 +248,7 @@ Eblas meti plurajn verbojn unu post la aliajn:
 
 Jen kelkaj utilaj vortoj:
 * mena : signifi
-* menu : signifo
+* menu : signifo / senco
 * giva : doni
 * givu : dono / donaĵo
 * nagiva : ricevi 
@@ -579,11 +579,11 @@ Por kompari al alia afero, oni povas uzi la prepozicion **tano** (*ol*) antaŭ t
 Oni povas uzi modifilojn de sameco aŭ simileco:
 * Mumu reda ti **sami** wordboku : Ni legas la *saman* vortaron  
 * Mumu beliva **nasami** idu : Ni kredas *malsamajn* ideojn
-* Esperantu worka **similari** : Esperanto funkcias/laboras *simile*
+* Esperantu worka **simili** : Esperanto funkcias/laboras *simile*
 
 Oportune, oni ankaŭ povas uzi la verbojn **sama**, **similara** kaj **sema** por rekte kompari subjekton al objekto:
 * "katido" **sama** "juna kato" : "katido" *estas same al* "juna kato"
-* Femi katu **similara** mali katu : Ina kato *similaras al* iĉa kato
+* Femi katu **simila** mali katu : Ina kato *similas al* iĉa kato
 * Ti stikeru **sema** dogu : Tiu glumarko *"ŝajnas" kiel* hundo / Tiu glumarko *aspektas kiel* hundo
 
 Por esprimi samecon al alia afero, oni povas uzi la prepozicion **manero** (*kiel*), aŭ **ki maneri** (*kiel*) (kio kreas rilatan subfrazon) (legu pli poste):
@@ -702,6 +702,7 @@ Lokaj prepozicioj:
 * **nero** : *apud* ("near")  
 * **fronto** : *antaŭ* ("in front of")  
 * **bako** : *malantaŭ* ("in the back of", "behind")  
+* **betweno** : *inter* ("between")
 * **abovo** : *sur*, *super* ("above","on", "over")  
 * **undero** : *sub* ("under")
 * **beforo** : *antaŭ* (en listo) ("before")
@@ -713,6 +714,7 @@ Lokaj prepozicioj:
 > Mi kana eya yu **fronto** ti buyplasu : Mi povas vidi vin *antaŭ* la vendejo    
 > Katu hideda **bako** furnituru : Kato estas kaŝata malantaŭ meblo  
 > Ti dormplasu ba **abovo** ti kokplasu : La dormĉambro estas *super* la kuirejo  
+> Mi keybordu ba **betweno** mi skrenu ando mi mosu : Mia klavaro estas *inter* mia ekrano kaj mia muso  
 > Pusa hu **undero** ti doru : Puŝu ĝin *sub* la pordo  
 > Ti leteru A ba ofteni listeda **beforo** Z : La litero A estas ofte listigata *antaŭ* Z  
 > Puta ti wordu **aftero** ti oteri : Metu tiun vorton *post* la alia  
@@ -729,7 +731,7 @@ Tempaj prepozicioj:
   
 Movaj prepozicioj (tempaj kaj lokaj):
 
-* **fromo** : *el*, *de*  
+* **fromo** : *el*, *de*, *ekde*  
 * **untilo** : *ĝis*  
 * **to** : *al*  
 
@@ -866,6 +868,8 @@ Langugu estas pli simpla: ĉiuj prepozicioj estas uzeblaj kun substantivoj kaj s
 * Mu eta **bekaso** mu wanta : Mi manĝas *ĉar* mi volas
 * Mu eta **foro** livu : Mi manĝas *por* vivi
 * Mu eta **foro** mu liva : Mi manĝas *por tio ke* mi vivu  
+* Mu ba hapi **spito** nawinu : Mi feliĉas *malgraŭ* malvenko  
+* Mu ba hapi **spito** mu nawina : Mi feliĉas *kvankam* mi malvenkis  
   
 Oni ankaŭ povas meti verbon rekte post prepozicio, kaj ĉi tiu verbo povas nedevige havi objekton. Tio ne ŝanĝas la formon de la prepozicio:
 
@@ -1066,6 +1070,12 @@ Je individua nivelo, ĉiu persono estas miksaĵo de pluraj kulturoj kaj homgrupa
 
 Vi eble rimarkis ke la algoritmo foje donas vortojn, kiujn jam ekzistas. Ekzemple **germanu** povas kaj esti *Germanujo*, kaj *la germana lingvo*. En praktiko, kunteksto faras ke konfuzo tre malofte okazas. Sed se tio estas ĝena, homoj povas libere uzi alternativojn, kaj se ili estas pli kompreneblaj kaj oportunaj, ili nature populariĝos.
 
+Jen kelkaj frazoj por lerni kelkajn oftajn vortojn:
+> Boti englisu and frensu spekeda bo kanadu. : Ambaŭ la angla kaj la franca estas parolataj en Kanado.  
+> Mu eya astralu bo filmu fromo ti sanelu ofo Evildea. : Mi rigardas Aŭstralion en filmo el la kanalo de Evildea.  
+> Almosti ali nativi langugu ofo astralu soni naapera. : Preskaŭ ĉiuj indiĝenaj lingvoj de Aŭstralio baldaŭ malaperos.  
+> Finisu ba interesti, buto nahapi mu no suksesa lerna hu. : La finna estas interesa, sed bedaŭrinde/malfeliĉe mi ne sukcesas lerni ĝin.  
+
 
 ## 25: -ed-, -er-
 
@@ -1120,6 +1130,12 @@ Esperanto foje havas verbajn adjektivojn aŭ adverbojn, kiuj povas ricevi objekt
 * serv**eru** : serv*ilo*
 * korekt**eru** : korekt*ilo*
 
+Jen kelkaj frazoj por lerni kelkajn oftajn vortojn:
+> Sositu, ki fuli worka, neda farmeru, makeru, informeru, ando mori. : Socio, kiu plene funkcias, bezonas farmistojn, kreantojn, informantojn, ktp.  
+> Somi timi, ti komplaneru pi maka mori nagodi tingu tano ti komplanedu. : Kelkfoje, la plendanto faris pli da malbonaj aferoj ol la plendato.  
+> Atlesti 80% ofo ali burneri aktu no hava humani originu. : Almenaŭ 80% de ĉiuj bruligaj agoj ne havas homan originon.   
+> Ti plasi ti planu. Ifo hu ba likedi, tano hu wili ba makedi. : Jen la plano. Se ĝi estas ŝatata, tiam ĝi estos farata.  
+
 
 ## 26: Ŝanĝo de finaĵo
 
@@ -1142,7 +1158,7 @@ godi : bona
 * god**u** : bon*eco* / bon*igo*
 
 korekti : ĝusta
-* korekt**a** : ĝust*igi* / korekti
+* korekt**a** : ĝust*igi* (korekti)
 * korekt**u** : ĝust*eco* / ĝust*igo*
 
 warmi : varma
@@ -1181,7 +1197,37 @@ sayu : diro (diraĵo/dirago)
 * sayi **tingu** : di*raĵo*
 * sayi **aktu** : dir*ago*
 
-Eĉ eblas kunmeti **sayi tingu** kiel **saytingu**, kaj **sayi aktu** kiel **sayaktu** (vidu pli poste), sed oni evitas fari nebezonatajn kunmetaĵojn (krom se oni celas specifan koncepton), ĉar analizi tiujn vortojn lege kaj aŭde estas malpli facile por tiuj, kiuj ne konas la radikojn, kaj estas malpli facile elparoli ilin pro konsonantoj pli proksimaj.
+Ankaŭ eblas kunmeti **sayi tingu** kiel **saytingu**, kaj **sayi aktu** kiel **sayaktu**, sed oni evitas fari tian nebezonatan kunmetaĵon.
+
+
+## 27: Kunmetado
+
+Kiel en Esperanto, eblas krei novajn vortojn kunmetante radikojn. Tio permesas eviti lerni multajn afiksojn. Efektive, kial diri *lernejo* kiam oni povas diri *lernloko*?:
+* web**plas**u : ret*ej*o
+* busines**bos**u : entrepren*estr*o
+* sand**part**u : sabl*er*o
+
+La dekstra radiko estas la esenco, kaj la maldekstra radiko precizigas ĝin. Tio signifas ke se oni kunmetas ion maldekstre de la radiko **sipu** (*ŝipo*), la rezulto ĉiam estos tipo de *ŝipo*:
+* vapor**sip**u : vapor*ŝip*o (tipo de ŝipo)
+
+Kio estas la diferenco inter kunmeti kaj simple meti adjektivon antaŭ subsantivon? Kiam oni kunmetas, oni kreas novan vorton do novan precizan koncepton. Se oni uzas adjektivon, oni donas liberecon pri la intepretado de la adjektivo:
+* **vapori sipu** : *vapora ŝipo* (ŝipo kiu iel rilatas al vaporo, do ĝi povas esti ŝipo kiu funkcias per vaporo, sed ankaŭ ŝipo el vaporo!)
+* **vaporsipu** : *vaporŝipo* (specifa tipo de ŝipo, kun specifa funkcimaniero, pri kiu oni povas legi pli detale en vortaro aŭ encikopedio)
+* **webi plasu** : *reta ejo* (ajna loko en la interreto)
+* **webplasu** : *retejo* (specifa tipo de loko en la interreto kiu havas retadreson)
+
+Tie troviĝas diferenco inter Esperanto kaj Langugu: en Esperanto oni abunde kunmetas eĉ kiam oni ne bezonas krei novan koncepton, sed en Langugu, oni kunmetas nur kiam nova koncepto aŭ precizeco estas bezonata. Oni pli ofte parolas pri **oseni animalu** ol **osenanimalu**, **primari ministeru** ol **primarministeru**, **workplasi bosu** ol **workplasbosu** ktp.
+
+Ekzistas bonaj kialoj por preferi adjektivojn al kunmetado, interalie:
+- Estas pli facile diveni la partojn de vorto, por tiuj, kiuj ne bone konas la radikojn
+- Estas pli facile elparoli tiujn vortojn, ĉar ili havas malpli da konsonantoj apude
+
+Jen kelkaj frazoj por lerni kelkajn oftajn vortojn:
+> Onli twi politikpartu ba nawisi politiki sistemu : Nur du politikaj partioj estas stulta politika sistemo.  
+> Ti universiti bosu nalova ti representeru ofo studeru : La universitatestro malamas la reprezentanton de la studantoj.  
+> Langugeru zeri timi forgeta akusativi markeru : Parolantoj de Langugu neniam forgesas akuzativmarkilon.  
+
+
 
 ---
 

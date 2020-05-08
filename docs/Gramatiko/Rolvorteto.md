@@ -15,14 +15,14 @@ Por kompari al alia afero, oni povas uzi la prepozicion **tano** (*ol*) antaŭ t
 Oni povas uzi modifilojn de sameco aŭ simileco:
 * Mumu reda ti **sami** wordboku : Ni legas la *saman* vortaron  
 * Mumu beliva **nasami** idu : Ni kredas *malsamajn* ideojn
-* Esperantu worka **similari** : Esperanto funkcias/laboras *simile*
+* Esperantu worka **simili** : Esperanto funkcias/laboras *simile*
 
 Oportune, oni ankaŭ povas uzi la verbojn **sama**, **similara** kaj **sema** por rekte kompari subjekton al objekto:
 * "katido" **sama** "juna kato" : "katido" *estas same al* "juna kato"
-* Femi katu **similara** mali katu : Ina kato *similaras al* iĉa kato
+* Femi katu **simila** mali katu : Ina kato *similas al* iĉa kato
 * Ti stikeru **sema** dogu : Tiu glumarko *"ŝajnas" kiel* hundo / Tiu glumarko *aspektas kiel* hundo
 
-Por esprimi samecon al alia afero, oni povas uzi la prepozicion **manero** (*kiel*), aŭ **ki maneri** (*kiel*) (kio kreas rilatan subfrazon) (legu pri ili pli poste):
+Por esprimi samecon al alia afero, oni povas uzi la prepozicion **manero** (*kiel*), aŭ **ki maneri** (*kiel*) (kio kreas rilatan subfrazon) (legu pli poste):
 * Yu tinka **manero** hu (tinka)! : Vi pensas *kiel* ri (pensas)!
 * Ti robotu translata **manero** reli translateru : Tiu roboto tradukas *kiel* vera tradukisto
 * Ti weteru ba nagodi **ki maneri** naneksti dayu : La vetero estas malbona *kiel* hieraŭ
@@ -91,17 +91,19 @@ Ekzistas aliaj prepozicioj por paroli pli precize, sed plej ofte, oni ne bezonas
 * **nero** : *apud* ("near")  
 * **fronto** : *antaŭ* ("in front of")  
 * **bako** : *malantaŭ* ("in the back of", "behind")  
+* **betweno** : *inter* ("between")
 * **abovo** : *sur*, *super* ("above","on", "over")  
 * **undero** : *sub* ("under")
 * **beforo** : *antaŭ* (en listo) ("before")
 * **aftero** : *post* (en listo) ("aftero")
-
+  
 > Zeri tingu **ba** insido ti kontaneru : Nenio estas *en* tiu ujo  
 > Mu ba mori hapi **otsido**/**nabo** bigi gropu : Mi estas pli feliĉa *ekster* grandaj grupoj  
-> Livu **nero** frindu ba mori godi : Vivo *apud* amikoj estas pli bone  
+> Livu **nero** frindu ba mori godi : Vivo *apud* amikoj estas pli bona  
 > Mi kana eya yu **fronto** ti buyplasu : Mi povas vidi vin *antaŭ* la vendejo    
 > Katu hideda **bako** furnituru : Kato estas kaŝata malantaŭ meblo  
 > Ti dormplasu ba **abovo** ti kokplasu : La dormĉambro estas *super* la kuirejo  
+> Mi keybordu ba **betweno** mi skrenu ando mi mosu : Mia klavaro estas *inter* mia ekrano kaj mia muso  
 > Pusa hu **undero** ti doru : Puŝu ĝin *sub* la pordo  
 > Ti leteru A ba ofteni listeda **beforo** Z : La litero A estas ofte listigata *antaŭ* Z  
 > Puta ti wordu **aftero** ti oteri : Metu tiun vorton *post* la alia  
@@ -118,7 +120,7 @@ Ekzistas aliaj prepozicioj por paroli pli precize, sed plej ofte, oni ne bezonas
 
 ### Movaj prepozicioj (tempaj kaj lokaj)
 
-* **fromo** : *el*, *de* ("from")  
+* **fromo** : *el*, *de*, *ekde* ("from")  
 * **untilo** : *ĝis* ("until")  
 * **to** : *al* ("to")  
 
@@ -254,6 +256,8 @@ Langugu estas pli simpla: ĉiuj prepozicioj estas uzeblaj kun substantivoj kaj s
 * Mu eta **bekaso** mu wanta : Mi manĝas *ĉar* mi volas
 * Mu eta **foro** livu : Mi manĝas *por* vivi
 * Mu eta **foro** mu liva : Mi manĝas *por tio ke* mi vivu  
+* Mu ba hapi **spito** nawinu : Mi feliĉas *malgraŭ* malvenko  
+* Mu ba hapi **spito** mu nawina : Mi feliĉas *kvankam* mi malvenkis  
   
 Oni ankaŭ povas meti verbon rekte post prepozicio, kaj ĉi tiu verbo povas nedevige havi objekton. Tio ne ŝanĝas la formon de la prepozicio:
 
