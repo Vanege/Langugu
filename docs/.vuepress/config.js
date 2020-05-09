@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Langugu',
-  description: 'Ti mosti simpli langugu foro ti averagi humanu',
+  description: 'Ti openi langugu ki yu alredi knowa',
   base: '/Langugu/',
   themeConfig: {
     logo: '/img/logo.png',
