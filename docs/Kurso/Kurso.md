@@ -64,7 +64,7 @@ Memoru, la litero **w** estas elparolata kiel *ŭ*. Por **r**, ĉiuj naciaj elpa
 
 * **personu** : persono ("person")
 
-Vortoj de Langugu venas de la Angla, sed ili estas iom ŝanĝitaj per simpla algoritmo. Jen kelkaj reguloj de tiu algortimo:
+Vortoj de Langugu venas de la Angla, sed ili estas iom ŝanĝitaj per simpla algoritmo. Jen kelkaj reguloj de tiu Algoritmo:
 
 Finaj vokaloj de la Angla vorto malaperas antaŭ aldoni la finaĵon **-u**:
 
@@ -156,7 +156,7 @@ Hodiaŭ ni vidis **mani newi wordu**, ĉu ne?
 * **maka** : fari / krei (to do / to make)
 * **namaka** : malfari / detrui (to undo / to destroy)
 
-Vidu per **nalika**, ke oni ĉiam preferas reuzi radikojn en Langugu anstataŭ importi novajn el la Angla per la algoritmo.
+Vidu per **nalika**, ke oni ĉiam preferas reuzi radikojn en Langugu anstataŭ importi novajn el la Angla per la Algoritmo.
 
 * **kana** : povi / kapabli (to can / to be able to)
 * **wanta** : voli / deziri (to want / to desire)
@@ -1014,7 +1014,7 @@ Sed **Mu koma ki yu wanta** ne estas sence ĝusta, ĉar oni ne scias pri kio oni
 
 Lando estas difinita geografia spaco kie povas troviĝi multaj homgrupoj (kaj multaj lingvoj). Do ne estas precize nek dezirinde konstrui nomon de lando el nomo de homgrupo, ĉar tio havas ĉe kelkaj homoj preskriban efikon pri kiuj homoj loĝu tie.
 
-Nomoj de landoj en Langugu simple estas la nomoj de la landoj en la Angla, post uzo de la algoritmo, kun nedeviga majusklo. Oni konsideru tiujn vortojn kiel tute novajn, ne konstruitajn el partoj, krom unusola radiko kaj la finaĵo -u:
+Nomoj de landoj en Langugu simple estas la nomoj de la landoj en la Angla, post uzo de la Algoritmo, kun nedeviga majusklo. Oni konsideru tiujn vortojn kiel tute novajn, ne konstruitajn el partoj, krom unusola radiko kaj la finaĵo -u:
 
 * **indonesu** : *Indonezio* ("Indonesia")
 * **rusu** : *Ruslando* ("Russia")
@@ -1047,7 +1047,7 @@ Por paroli pri io, kio rilatas al la lando, oni povas ŝanĝi ĝin al modifilo:
 * astrali governeru : registo/registaro de Aŭstralio
 * sotafriki presideru : prezidanto/prezidento de Sudafriko 
 
-Por lingvoj, oni same uzas la algoritmon el la nomoj en la Angla. Oni ne kreas kunmetaĵon rilate al vorto de lando aŭ homgrupo, ĉar lingvo povas esti parolata en pluraj landoj, kaj de malsamaj homgrupoj:
+Por lingvoj, oni same uzas la Algoritmon el la nomoj en la Angla. Oni ne kreas kunmetaĵon rilate al vorto de lando aŭ homgrupo, ĉar lingvo povas esti parolata en pluraj landoj, kaj de malsamaj homgrupoj:
 
 * **mandarinu** : *la mandarena* ("Mandarin")
 * **englisu** : *la angla* ("English")
@@ -1068,7 +1068,7 @@ Kio pri vortoj homgrupaj vortoj kiel *franco*? Nu, se oni volas paroli pri iu, k
 
 Je individua nivelo, ĉiu persono estas miksaĵo de pluraj kulturoj kaj homgrupaj influoj (aldone al sia propra individueco). Plie, ĉiu persono libere identiĝas (aŭ ne) al "gento", "etno", "popolo", "tribo" aŭ al aliforma homgrupo kies aparteco ne ĉie estas konsentata. Do prezenti homon per homgrupa vorto estas misreprezente, kaj donas fokuson pri io, kio ne gravas, ĉar esence ni ĉiuj unue estas personoj de la homaro.
 
-Vi eble rimarkis ke la algoritmo foje donas vortojn, kiujn jam ekzistas. Ekzemple **germanu** povas kaj esti *Germanujo*, kaj *la germana lingvo*. En praktiko, kunteksto faras ke konfuzo tre malofte okazas. Sed se tio estas ĝena, homoj povas libere uzi alternativojn, kaj se ili estas pli kompreneblaj kaj oportunaj, ili nature populariĝos.
+Vi eble rimarkis ke la Algoritmo foje donas vortojn, kiujn jam ekzistas. Ekzemple **germanu** povas kaj esti *Germanujo*, kaj *la germana lingvo*. En praktiko, kunteksto faras ke konfuzo tre malofte okazas. Sed se tio estas ĝena, homoj povas libere uzi alternativojn, kaj se ili estas pli kompreneblaj kaj oportunaj, ili nature populariĝos.
 
 Jen kelkaj frazoj por lerni kelkajn oftajn vortojn:
 > Boti englisu and frensu spekeda bo kanadu. : Ambaŭ la angla kaj la franca estas parolataj en Kanado.  
@@ -1428,7 +1428,7 @@ Sed por esti pli preciza, oni povas kunmeti kun la radiko **tol/u** (*il/o*)
 
 ### -ism-, -ist-
 
-Tiuj afiksoj estas tre multsignifaj, kaj la rezultaj vortoj estas precizaj konceptoj, kiuj ne estas antaŭvideblaj kaj ne estas facile disigeblaj en nur kelkaj vortoj. Por la *-ism-* kaj *-ist-* vortoj de Esperanto, oni preferas rekte importi de la angla per la algoritmo (vidu pli poste).
+Tiuj afiksoj estas tre multsignifaj, kaj la rezultaj vortoj estas precizaj konceptoj, kiuj ne estas antaŭvideblaj kaj ne estas facile disigeblaj en nur kelkaj vortoj. Por la *-ism-* kaj *-ist-* vortoj de Esperanto, oni preferas rekte importi de la angla per la Algoritmo (vidu pli poste).
 
 ### -obl-
 
@@ -1446,7 +1446,7 @@ Tiuj afiksoj estas tre multsignifaj, kaj la rezultaj vortoj estas precizaj konce
 
 Oni ne vere bezonas specifajn vortojn por tio:
 * twi personu : du personoj
-* twi personi : twi personi
+* twi personi : dupersone
 * bo gropu ofo teni : en grupo de dek (aferoj/personoj)
 
 ### -ul-
@@ -1487,8 +1487,89 @@ La aliaj eblaj signifoj de -um- estas tro neantaŭvideblaj, do ne eblas instrui 
 
 Por ĉiuj neoficialaj afiksoj, tio funkcias simile. Oni preferas reuzi gramatikajn ecojn kaj vortojn, kiuj jam ekzistas. Estu atenta ne tro rekte traduki de Esperanto, ĉar foje kunmetaĵoj estas rektaj prenoj de naciaj lingvoj, kiuj estas nelogikaj aŭ malklaraj.
 
+
+## 29: Algoritmo
+
+### Kion fari se vorto mankas?
+
+Se okazas, ke vi ne trovas en la vortlisto de la [Korektilo](https://vanege.github.io/langugi-korekteru/) vorton, kiu havas la signifon de tio, kion vi volas diri, provu tion, en ordo de prioritato:
+1) Demandu al aliaj uzantoj de la lingvo kiel ili dirus.
+2) Provu uzi plurajn vortojn. ("to prefer" -> **mori lika**)
+3) Provu kunmeti radikojn. ("school" -> **lernplasu**)
+4) Provu afiksojn. ("lean" (opposite of "fat") -> **nafata**)
+5) Provu finaĵojn. ("water" -> **wateru** => "to water" -> **watera**)
+6) Importu el la Angla lingvo uzante la Algoritmon.
+
+### La Algoritmo
+
+1) Elektu la plej oftan kaj klaran vorton por tiu koncepto, kiu ne ŝajnas konfuzebla kun jamaj radikoj  
+  Vi povas trovi la konatecon de Angla vorto per Cambridge Dictionary: https://dictionary.cambridge.org/dictionary/english/  
+  Vi povas trovi sinonimojn per Thesaurus: http://www.thesaurus.com/  
+  
+2) Kiam pluraj vokaloj (aeoiu) aperas apude, konservu nur la unuan. (speak -> spek)
+
+3) Forigu la vokalojn (aoeiu) kiuj troviĝas je la fino de vorto. (potato -> potat). Faru ankaŭ tion por la litero y, sed ne se vokalo troviĝas tuj antaŭ ĝi. (body -> bod) (money -> money)
+
+4) Ŝanĝu y al i se ĝi troviĝas tuj post konsonanto. (myth -> mith)  
+
+5) Forigu duoblajn konsonantojn. (battle -> batl)
+
+6) Ŝanĝu c al k, se en la Angla vorto, c (aŭ la grupo de literoj en kiu ĝi estas) faras la sonon de k, se ne, ŝanĝu al s.  
+> **c**at /**k**æt/ => **k**at  
+> pro**c**ess /ˈprɑses/ => proses  
+> a**c***c*ess /ˈæ**k**ˌses/ => a**k**ses  
+> **ch**orus /ˈ**k**ɔrəs/ => **k**horus  
+> **ch**ange /tʃeɪndʒ/ => shang  
+   
+7)  Ŝanĝu j al y. (joke -> yok)
+
+8)  Ŝanĝu q al k.
+
+9)  Ŝanĝu x al ks.
+
+10)  Forigu h kiam ĝi estas post konsonanto. (khorus -> korus) (mith -> mit) (shang -> sang) (ghost -> gost) (telephon -> telepon)  
+
+11)  Forigu w kiam ĝi estas antaŭ r. (write -> rit)
+
+### Ĉu uzi la Algoritmon sur verbo, adjektivo aŭ substantivo?
+
+Plejofte, oni prenas el la verba formo, aŭ de la plej ofta formo. Sed plej grava afero estas la **facileco de elparolo** de la rezulta radiko. Oni tiel preferas la radikon **anger/** el "(to) anger" ol angr/ el "angry" ĉar **angeri** estas pli facile elparola ol angri, kiu havas la konsonantaron ngr.
+
+Kvankam la nivelo de arbitreco estas tre eta kompare al aliaj planlingvoj, la elekto de radiko restas iom arta, kaj oni ankaŭ devas konsideri aliajn faktorojn: ĉu la rezulta radiko estas **oportuna** (ne tro longa), ĉu ĝi estas **facile rekonebla** por angleparolantoj (do ne tro mallonga kaj ne tro malofta), kaj ĉu la rezulta radiko **ne kolizias kun radiko kiu jam ekzistas** por pli ofta koncepto.
+
+### Kolizio
+
+Foje, pluraj Anglaj vortoj iĝas la sama vorto post uzo de la Algoritmo:
+> red (ruĝa) -> redi ???  
+> ready (preta) -> redi ???
+
+Kion fari en ĉi tiu okazo?
+
+Kiel en ĉiuj lingvoj, oni ĉiam legu kaj aŭskultu la aliajn antaŭ ol paroli. Oni unue fidu la lingvouzadon, ĉar tio, kio jam estas uzata jam pruvis funkcii kun multaj homoj. (Tio ankaŭ permesas eviti uzi vortojn, kiuj ne estos komprenataj ĉar ili ne estas sufiĉe uzataj, kvankam ili eblas per la Algoritmo.)
+
+Pri "ready", oni uzas **preparedi**. Per reuzo de la radiko **prepar/**, kolizio ne okazas. Eviti koliziojn estas fakte bona motoro por reuzi radikojn kaj gramatikajn eblojn, kaj tiel eviti neutilajn sinonimojn. La lingvo iĝas tiel objektive pli facila.
+
+Ĝenerale, por oftaj vortoj en la Angla, la Angla lingvo havas multege da sinonimoj, do facile eblas trovi alternativon, kiu post la Algoritmo ne donas vorton kiu malklaras aŭ kolizias kun ofta vorto.
+
+Por maloftaj vortoj en la Angla, ne vere estas problemo se estas kolizio. Tio okazadas en naturaj lingvoj, kaj eblas konscie aldoni pli da kunteksto por komprenigi en kiu senco la vorto estas uzata.
+> winu : vino / venko  
+> redi winu : ruĝa vino (verŝajne)  
+> bigi winu : granda venko (verŝajne)  
+
+Se vorta kolizio iĝas tro ĝena kompare al la antaŭvidebleco de radiko, la komunumo tute rajtas enkonduki novan vorton, eĉ se ĝi ne estas ligita al la Angla per la Algoritmo. La lingvo apartenas al la komunumo.
+
+### Forigo de latinecaj finaĵoj
+
+Kiel oni diras "exploration"? Eksploratinu? Ne, oni fakte uzas la radikon produktitan per uzo de la Algoritmo sur "to explore", kio donas **eksplor/**. De tio, oni konstruas **eksploru**.
+
+La franca kaj la latina aldonis multajn sufiksojn en la Angla, kiujn la Angla rekte uzas, sed ne ĉiam, kaj ne por ĉiuj radikoj. Antaŭe, en la Angla lingvo, oni povus diri "to explorate", sed nun oni nur diras "to explore". Oni tamen ankoraŭ diras "exploration".
+
+**Latinecaj finaĵoj -ate -ize -ation -tion -ion -al ĉiam estas forigataj.**
+
+Ekestis tro da problemoj pro nekonscio aŭ forgeso de Angla vorto sen tia finaĵo. Iu diris "naturali", sed ĝi devus esti "naturi" pro la ekzisto de "nature", kiu donas "natur/u"... Do estis pli simple aldoni novan regulon: ĉiam forigi ilin.
+
 ---
 
-**La kurso ne estas finita: ankoraŭ 2 lecionoj devas esti skribitaj. Bonvolu reveni post kelkaj semajnoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
+**La kurso ne estas finita: ankoraŭ 1 leciono devas esti skribita. Bonvolu reveni post kelkaj tagoj. Por resti ĝisdatigata, aliĝu al la [Telegrama grupo](https://langugu.telegramo.org)!**
 
-**Ti korsu no ba nabeginedi: stili 2 lesonu musta ba ritedi. Plesi koma agani aftero somi weku. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**
+**Ti korsu no ba nabeginedi: stili 1 lesonu musta ba ritedi. Plesi koma agani aftero somi dayu. Foro staya updateda, yona ti [Telegrami gropu](https://langugu.telegramo.org)!**
