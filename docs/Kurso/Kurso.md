@@ -1573,7 +1573,7 @@ Ekestis tro da problemoj pro nekonscio aŭ forgeso de Angla vorto sen tia finaĵ
 
 Godi komu to ti lasti lesonu ofo ti korsu. Ti lesonu ba fuli ritedi wito Langugu. Ali wordpartu bo ti lesonu ba alredi usedi befori. Ifo yu no aha oni wordu, yu kana finda translatu foro ti wordu (bo englisu oro esperantu) wito ti [korekteru](https://vanege.github.io/langugi-korekteru/).
 
-Onifi, mu (Vanege) wanta tanka yu foro yi worku. Ifo yu reda ti tekstu, ti probabli mena ko yu alredi studa Langugu duringo mori tano teni horu. Ti mena ko yu finda ti langugu somi interesti (bekaso gramaru oro oteri resonu). Ti alsi mena ko mu pi suksesa maka ti korsu enogi amusedi oro helpi.
+Onifi, mu (Vanege) wanta tanka yu foro yi worku. Ifo yu reda ti tekstu, ti probabli mena ko yu alredi studa Langugu duringo mori tano teni horu. Ti mena ko yu finda ti langugu somi interesti (bekaso gramaru oro oteri resonu). Ti alsi mena ko mu pi suksesa maka ti korsu enogi amusi oro helpi.
 
 Oni langugu, ki no hava komunita, ba oni bodu, ki no hava livu. So, mu wanta aska tingu to yu: do yu wanta helpa maka Langugu mori useda? Mu tinka ko mori makedi langugu manero Esperantu neda liva. Mu ando somi oteri personu mani lika usa Langugu. Ti ba mani godi tingu, ifo mumu kana usa Langugu mori! Ifo yu helpa, ti fuli komunitu wili tanka yu.
 
