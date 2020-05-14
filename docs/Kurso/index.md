@@ -569,7 +569,7 @@ Nombro povas iĝi orda vorto per aldono de **-ifi** al la radiko:
 Oni povas uzi komparajn modifilojn:
 * Ti mesagu ba **mori** simpli : Tiu mesaĝo estas *pli* simpla
 * Ti eksamplu ba **namori** kleri : Tiu ekzemplo estas *malpli* klara
-* Ti partu ba **mosti** strangi : Tiu parto estas *plej* stranga
+* Ti partu ba **mosti** nahabiti : Tiu parto estas *plej* stranga
 * Mu **mori lika** pikturu : Mi *preferas* bildon
 
 Por kompari al alia afero, oni povas uzi la prepozicion **tano** (*ol*) antaŭ tiu afero:
