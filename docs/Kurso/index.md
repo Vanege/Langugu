@@ -579,11 +579,11 @@ Por kompari al alia afero, oni povas uzi la prepozicion **tano** (*ol*) antaŭ t
 Oni povas uzi modifilojn de sameco aŭ simileco:
 * Mumu reda ti **sami** wordboku : Ni legas la *saman* vortaron  
 * Mumu beliva **nasami** idu : Ni kredas *malsamajn* ideojn
-* Esperantu worka **simili** : Esperanto funkcias/laboras *simile*
+* Esperantu worka **similari** : Esperanto funkcias/laboras *simile*
 
 Oportune, oni ankaŭ povas uzi la verbojn **sama**, **similara** kaj **sema** por rekte kompari subjekton al objekto:
 * "katido" **sama** "juna kato" : "katido" *estas same al* "juna kato"
-* Femi katu **simila** mali katu : Ina kato *similas al* iĉa kato
+* Femi katu **similara** mali katu : Ina kato *similas al* iĉa kato
 * Ti stikeru **sema** dogu : Tiu glumarko *"ŝajnas" kiel* hundo / Tiu glumarko *aspektas kiel* hundo
 
 Por esprimi samecon al alia afero, oni povas uzi la prepozicion **manero** (*kiel*), aŭ **ki maneri** (*kiel*) (kio kreas rilatan subfrazon) (legu pli poste):
