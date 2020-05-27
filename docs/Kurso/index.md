@@ -524,7 +524,7 @@ Tiuj modifiloj anstataŭas tabelvortojn en Esperanto:
 * **zeri** nigtu : *nul* nokto(j) / *neniu* nokto
 * **oni** morningu : *unu* matenu
 * **ali** landu : *ĉiuj* landoj
-* **everi** situ : *ĉiu* urbo
+* **everi** urbanu : *ĉiu* urbo
 
 Jen la **numberu** (*nombroj*), ili estas normalaj modifiloj, do ili finiĝas per **-i**:
 
@@ -621,7 +621,7 @@ Kiel en Esperanto, **ki** estas uzebla kaj por fari demandojn, kaj por komenci r
 * **Ti plasi** eroru ba : *Tie* eraro estas
 * Horu hava **ki musi** minutu? : *Kiom* da minutoj havas horo?
 * Yu wanta oteri plasu **ki resoni**? : *Kial* vi volas alian lokon?
-* **Oni timi**, fami personu pi visita mi situ : *Iam* (*Unufoje*), fama persono vizitis mian urbon
+* **Oni timi**, fami personu pi visita mi urbanu : *Iam* (*Unufoje*), fama persono vizitis mian urbon
 * Mu **zeri maneri** kana finda solvu : Mi *neniel* povas trovi solvon
 * Katu **ali timi** giva lovu : Katoj *ĉiam* donas amon 
 
@@ -1469,7 +1469,7 @@ La aliaj eblaj signifoj de -um- estas tro neantaŭvideblaj, do ne eblas instrui 
 
 * **inlawi** siblingu : *bo*sibo / *bo*frajto (*bo*frato)
 * **primari** partu : *ĉef*parto
-* primari situ : ĉefurbo
+* primari urbanu : ĉefurbo
 * **ali plasi** trowa : *dis*ĵeti
 * ali plasi senda : dissendi
 * **begina** slepa : *ek*dormi
