@@ -1,33 +1,25 @@
 ## Kio estas Langugu?
-**Langugu estas la plej facila lingvo por la averaĝa homarano**
 
-### Vortoj venas de la Angla
-* La Angla estas la lingvo [la plej internacie uzata](https://en.wikipedia.org/wiki/List_of_territorial_entities_where_English_is_an_official_language) kaj [la plej internacie studata](https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers).
-* Bazaj vortoj de la Angla jam estas konataj ĉie: "happy birthday", "hotel", "game over"...
-* La influo de la Angla nur kreskas pro ĝia monopolo en tekniko kaj scienco.
-* Homoj jam elspezas milojn da horoj por lerni la Anglan pro vivaj bezonoj.
-* Vortoj de Langugu venas de la Angla, do lerni la Anglan plirapidigas la lernadon de Langugu.
-* Kaj lerni Langugu helpas plirapidigi la lernadon de la Angla... kaj de ĉiuj lingvoj ĝenerale.
-* Langugu moviĝas do kun la nuna kaj posta evoluo de la mondo, kaj ne kontraŭ ĝi.
+Langugu estas provo krei pozitivan, diversan kaj tolereman komunumon, kies membroj estas ligataj per inkluziva kaj malferma lingvo.
 
-### Algoritmo permesas eviti memori vortojn
-* Memori vortojn de lingvo postulas multe tro da tempo.
-* Homoj jam devas fari tion pro la deviga instruado de la Angla.
-* Eblas eviti memoradon per regula importado de bazaj Anglaj vortoj per la Algoritmo.
-* La skriba formo estas uzata, ĉar ĝi estas la plej stabila formo, en kaj ekster la Angla lingvo.
-* Malsimplaj kaj ripetaj Anglaj vortoj ne estas importataj, ĉar rekonstrueblaj per kunmetado.
-* Tiel, lerni Langugu estas multe pli rapide ol la Anglan.
-* La Algoritmo igas la vortojn pli simplaj, kaj parolataj kiel ili estas skribataj.
-* La Algoritmo sufiĉe konservas la formon de vortoj, por esti kompreneblaj de Angleparolantoj.
-* La Algoritmo permesas al ĉiuj importi vortojn kiuj mankas al Langugu.
-* La Algoritmo estas sufiĉe simpla por esti uzata meze de konversacio sen haltigi paroladon.
+### Komunumo antaŭ ĉio
 
-### Pli simpla gramatiko
-* Langugu profitas de 130 jaroj de spertoj de Esperanto, pri tio kio funkcias bone, kaj pri tio kio ne.
-* Langugu reuzas internajn gramatikajn sistemojn pli bone por eviti duoblaĵojn kaj limigi memoradon.
+La kvalito de lingva komunumo pli gravas ol la grandeco de ĝi. Se vi subtenas rajtojn por minoritatoj kaj por bestoj, kaj se vi akceptas diversecon korpan, mensan, opinian, genran, sekseman, je socia kaj individua nivelo, ni bonvenigas vin.
+
+### Maksimume facila por averaĝa homarano
+
+La lingvo estas farita tiel, ke ĝi estas maksimume facila por averaĝa homarano de la 21-a jarcento. Realisme, por homo kiu aŭdas pri planlingvo, tio estas persono, kun aliro al la interreto, kiu konas almenaŭ bazajn vortojn en la angla lingvo.
+
+### Konservi tion kio funkcias, plibonigi la reston
+
+La gramatiko similas al tiu Esperanto, sed estas tre simpligita, lerninte de pli ol 130 jaroj de uzado. Kio estas malfacila al komencantoj de Esperanto estas forigita aŭ plibonigita per izola gramatiko simile al tiu de kreolaj lingvoj. (Ekzemple: akuzativo ne estas markita, multaj prepozicioj estas kunigitaj, kaj tabelvortoj ne ekzistas.)
 
 ### Laŭbezona precizeco
-La ĉefa fonto de eraroj en Esperanto estas tio estas deviga precizeco. La lingvo forte miksas en samajn vortojn malsamajn informojn (ekzemple, pluralo kun adjektivo, aŭ pronomo kun genro). Sed tiuj informoj ne ĉiam estas utilaj, ne ĉiam estas menciindaj, aŭ jam estas esprimataj per aliaj antaŭaj vortoj, vortordo aŭ per kunteksto. Tiu deviga precizeco malfluidigas paroladon, ĉar ĝi devigas ĉiam pensi pri pli da aferoj, ol oni vere bezonas. La solvo estas igi ĉiujn aferojn, kiuj ne ĉiam gravas, modifiloj (ekzemple, tempo de verbo esprimiĝas per apuda adverbo, kaj genro de pronomo per adjektivo).
+
+"Laŭbezona precizeco" estas kerna principo. Se oni ne bezonas mencii genron, pluralecon, tempon aŭ alian gramatikan koncepton por esti ĝuste komprenata, oni ne faru. Tio eblas ĉar tiuj konceptoj esprimiĝas per adjektivoj aŭ adverboj anstataŭ per devigaj vortaj fleksioj, kiuj malrapidigas la elpensadon de ĝustaj frazoj.
 
 ### Minimuma arbitreco
-Ju pli lingvokreanto faras arbitrajn decidojn (tio povas esti pri elekto de vorto, limigita nombro de tabelvortoj, prepozicioj, genraj sufiksoj...), des pli ri riskas fuŝi kaj fari ion, kio estas malfacila aŭ malagrabla, aŭ kio ne povos bone evolui kun la komunumo. Langugu ne havas fermitajn gramatikajn klasojn. Ekzemple, tempo estas esprimebla per adverboj, kaj ajna nova adverbo uzeblas kiel tempo (ne ekzistas finita nombro de verbaj finaĵoj "-as -is -os"). Minimuma arbitreco ankaŭ faciligas la lingvon, ĉar ĝi iĝas pli antaŭvidebla: oni nur bezonas ĉiam reuzi la samajn simplajn regulojn, kiujn oni povas eltiri de tio, kion oni jam konas.
+
+La granda plimulto de la vortoj venas rekte de la Angla, sed transformitaj per Algoritmo kiu simpligas la paroladon. Tio permesas al Langugu esti pli facila ol multaj konstruitaj lingvoj, ĉar memorendaj vortoj ne estas arbitre elektitaj, sed grandparte diveneblaj. La komunumo ankaŭ ne estas limigata per aŭtoritato, kaj povas mem importi novan vorton se efektiva bezono montriĝas.
+
+Oni kompreneble ĉiam preferas reuzi la aferojn, kiuj jam ekzistas en Langugu, antaŭ ol alporti novan vorton, ĉar tio igas la lingvon pli facila en absoluta vidpunkto, do pli inkluziva.
