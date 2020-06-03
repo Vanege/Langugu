@@ -737,7 +737,7 @@ Movaj prepozicioj (tempaj kaj lokaj):
 
 > Mu amuseda **fromo** morningu **to** eveningu : Mi amuziĝas *de* mateno *al* vespero  
 > Mu pi travela **fromo** Fransu **to** Germanu : Mi vojaĝis *el* Francujo *al* Germanujo  
-> Naputa paperu **fromo** ti bagu : Prenu paperon *de* la sako  
+> Taka paperu **fromo** ti bagu : Prenu paperon *de* la sako  
 > Hopi ti wili kontina **untilo** ti nabeginu : Espereble tio daŭros *ĝis* la fino  
 > Senda **to** mu linku **to** ti diskusplasu : Sendu *al* mi ligilon *al* la diskutejo/babilejo  
 
