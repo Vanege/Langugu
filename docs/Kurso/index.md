@@ -825,7 +825,7 @@ En Esperanto, kiam oni uzas la strukturon "*en/je substantivo al/de* substantivo
 * *en maniero de* -> **manero**
 * *en diro de* -> **sayo**
 
-> Yu hunta **spito** ti napermitu : Vi ĉasas *spite de* / *malgraŭ* la malpermeso  
+> Yu hunta **spito** ti naalowu : Vi ĉasas *spite de* / *malgraŭ* la malpermeso  
 > **Tanko** yu mu pi finda : *Danke al* vi mi trovis  
 
 Tio kompreneble ankaŭ funkcias rilate al la Angla "in substantivo to/of":
@@ -1569,7 +1569,7 @@ La franca kaj la latina aldonis multajn sufiksojn en la Angla, kiujn la Angla re
 Ekestis tro da problemoj pro nekonscio aŭ forgeso de Angla vorto sen tia finaĵo. Iu diris "naturali", sed ĝi devus esti "naturi" pro la ekzisto de "nature", kiu donas "natur/u"... Do estis pli simple aldoni novan regulon: ĉiam forigi ilin.
 
 
-## 30: Kontribuo
+## 30: Suporta
 
 Godi komu to ti lasti lesonu ofo ti korsu. Ti lesonu ba fuli ritedi wito Langugu. Ali wordpartu bo ti lesonu ba alredi usedi befori. Ifo yu no aha oni wordu, yu kana finda translatu foro ti wordu (bo englisu oro esperantu) wito ti [korekteru](https://vanege.github.io/langugi-korekteru/).
 
@@ -1584,3 +1584,33 @@ Mani maneru foro helpa eksista:
 * Speka aboto Langugu to oteri personu. Eksampli, yu kana senda linku ofo ti korsu to esperanti frindu.
   
 Usa langugu ba ti mosti godi maneru foro lerna, buto alsi foro helpa. So, mu hopa ko afteri ti korsu, yu wili usa ti langugu wito mumu!
+
+
+## #1: Ti verbu "ba"
+
+Yu pi lerna ko **ba** ba spesili wordu bekaso yu ali timi alowedi no usa hu:
+
+* yu ali timi **ba** alowedi = yu ali timi alowedi
+* ti katu **ba** bigi = ti katu bigi
+* yu **ba** steleru! = yu steleru!
+* mu **ba** bo hosu = mu bo hosu
+* problemu **ba** = problemu
+
+Yu alsi pi lerna ko **ba** kana sowa (maka eya) twi tingu:
+
+* Ko ti subyektu hava nesu ofo ti obyektu:
+
+> ti katu hava ti nesu of "bigi" | yu hava nesu ofo "steleru" | mu hava nesu ofo "bo hosu"
+
+* Ko ti subyektu ba reli tingu, ki **findeda**. Ti timi, mumu alsi kana usa ti verbu **eksista**:
+
+> problemu **ba** = problemu **findeda** = problemu **eksista**
+
+Nowi, yu lerna newi tingu: ifo ti wordu **ba** ba useda foro mena **findeda** oro **eksista**, tano ti wordu **ba** alsi kana putedi yusti beforo ti subyektu:
+
+* problemu **ba** = **ba** problemu = problemu
+* Mu lika ko zeri problemu **ba** = Mu lika ko **ba** zeri problemu = Mu lika ko zeri problemu
+
+Bo mani langugu, mumu puta tingu beforo ti substantivu foro ekspresa ti: "There is x" (EN), "Hay x" (ES), "Il y a x" (FR), "Estas x" (EO)...
+
+So almosti ali personu wito ki mu pi speka hava (bo beginu) problemu foro puta **ba** bo ti korekti plasu. Ofteni huhu puta hu beforo ti subyektu, buto ki timi ti hapena, mumu hava zeri problemu foro aha. So no *ba* godi resonu foro naalowa ti.
