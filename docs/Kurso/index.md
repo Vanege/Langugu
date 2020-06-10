@@ -1614,3 +1614,33 @@ Nowi, yu lerna newi tingu: ifo ti wordu **ba** ba useda foro mena **findeda** or
 Bo mani langugu, mumu puta tingu beforo ti substantivu foro ekspresa ti: "There is x" (EN), "Hay x" (ES), "Il y a x" (FR), "Estas x" (EO)...
 
 So almosti ali personu wito ki mu pi speka hava (bo beginu) problemu foro puta **ba** bo ti korekti plasu. Ofteni huhu puta hu beforo ti subyektu, buto ki timi ti hapena, mumu hava zeri problemu foro aha. So no *ba* godi resonu foro naalowa ti.
+
+
+## #2: Somi helpi rotu manero sufiksu
+
+Bo befori lesonu, yu pi lerna ko foro saya *-ebl-* ofo Esperantu, yu kana saya **maka -eda**.
+> **kana etedi** : *manĝebla*
+
+Buto somi timi, mumu wanta saya ti bo onli oni wordu. Ti timi, mumu kana usa ti newi rotu **abl/i**:
+* abli = ki kana makedi : ebla
+* do ti abli? = do ti kana makedi? : ĉu tio estas ebla?
+* etabli : manĝebla ("edible")
+* etablu : manĝebleco ("edibility")
+* etabla : manĝebligi ("to make edible")
+* hopabli : espereble
+
+Similari, foro ti englisi sufiksu "-less", mumu kana saya:
+> **nawito hopu** : *sen espero* ("hopeless")
+
+Ki maneri sama ti oni wordi? Wito ti newi rotu **les/i**:
+* lesi = ki no hava : senhava
+* hoplesi : senespera ("hopeless")
+* hoplesu : senespereco ("hopelessness")
+* hoplesa : senesperigi ("to make hopeless")
+
+Ti resultu similara rotu ki alredi eksista:
+* fuli : plena ("full")
+* hopfuli : esperplena ("hopeful")
+* hopfulu : esperpleneco ("hopefulness")
+* hopfula : esperplenigi ("to make hopeful")
+
