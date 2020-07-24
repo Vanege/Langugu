@@ -7,7 +7,7 @@
 
 ## Langugu useda bo ki plasu?
 
-:sunny: Mumu speka wito Langugu ando aboto Langugu bo Telegram: http://langugu.telegramo.org  
+:sunny: Si mu speka wito Langugu ando aboto Langugu bo Telegram: http://langugu.telegramo.org  
 :gb: We talk with Langugu and about Langugu in Telegram.  
 :green_heart: Ni parolas per Langugu kaj pri Langugu en Telegram. Ni ankaŭ povas uzi Esperanton!  
 :fr: Nous parlons en Langugu et à propos de Langugu sur Telegram. 

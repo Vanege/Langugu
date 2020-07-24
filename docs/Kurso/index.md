@@ -178,33 +178,41 @@ La nombro de lernendaj verboj estas ankaŭ malgrandigita kompare al Esperanto. E
 
 Se oni **wanta**, oni **kana**!
 
-## 5: Pronomo
 
-En ĉi tiu leciono "afero" povas esti persono, aĵo aŭ koncepto. La pronomo ne ŝanĝiĝas depende de la naturo de la afero, pri kiu oni parolas. Oni tiel povas paroli pri personoj sen mencii genron aŭ socian statuson.
+## 5: Pronomo
 
 Pronomoj finiĝas per **-u**, ĉar ili estas normalaj substantivoj:
 
-* **mu** : mi (la parolanto)
-* **mumu** : ni (la parolanto kaj alia(j) afero(j))
+* **mu** : mi / ni
 * **yu** : vi
-* **yuyu** : vi (la alparolato kaj alia(j) afero(j))
-* **hu** : ĝi / ri / li / ŝi / ktp : afero
-* **huhu** : ili : afero kaj alia(j) afero(j)
+* **hu** : ĝi / ri / ... / ili
+
+Jen ĉio. Oni ne bezonas indiki socian statuson aŭ genron. Tamen, povas esti oportune esti preciza pri nombro. Tiel oni povas fari:
+
+* **oni mu** : mi
+* **oni yu** : vi (unu persono/afero)
+* **oni hu** : ĝi / ri / ...
+* **si mu** : ni
+* **si yu** : vi
+* **si hu** : ili
+
+Plejofte, se oni ne uzas **si**, oni parolas pri unu persono/afero:
 
 > mu ba personu : mi estas persono  
-> mumu hava namu : ni havas nomo(j)n  
+> si mu hava namu : ni havas nomo(j)n  
 > yu alsi lika hu : vi ankaŭ ŝatas ĝin  
 
-Notu escepton: kiel en Esperanto (kaj en la Angla) **yu** povas kiam estas nur unu persono, sed ankaŭ kiam estas pluraj. (Tamen **yuyu** estas uzebla nur por paroli al/pri pluraj personoj.)  
+La ideon de posedo estas esprimebla per la modifila finaĵo **-i**:
 
-Por esprimi la posedajn pronomojn, oni povas ŝanĝi la lastan literon per **-i** por krei modifilon:
-
-* **mi** : mia
-* **mumi** : nia
+* **mi** : mia / nia
+* **oni mi** : mia
+* **si mi** : nia
 * **yi** : via
-* **yuyi** : via (de vi kaj de alia(j))
-* **hi** : ĝia / ria / lia / ŝia/ ktp : de afero
-* **huhi** : ilia
+* **oni yi** : via (de unu persono/afero)
+* **si yi** : via (de pluraj personoj/aferoj)
+* **hi** : ĝia / ria / ... / ilia
+* **oni hi** : ĝia / ria / ...
+* **si hi** : ilia
 
 > yi hosu ba bigi : via domo estas granda  
 > hi langugu ba newi : ria lingvo estas nova  
@@ -217,6 +225,7 @@ Mencii refleksivecon estas nedevige. Do **hu lika hu** povas signifi *ri ŝatas 
 * hu lika oteri hu : ri ŝatas rin (alia afero)
 
 En la sekva leciono, **yu** **maka** **reli** frazojn!
+
 
 ## 6: Frazo
 
@@ -235,7 +244,7 @@ Objekto ne estas deviga:
 * mu knowa wordu : mi konas vorton  
 * mu knowa : mi konas  
 
-Subjekto ĉiam estas deviga, krom en la imperativo por "yu" kaj "yuyu":
+Subjekto ĉiam estas deviga, krom en la imperativo (kiam oni uzus "yu"):
 
 * yu speka : vi parolas  
 * speka! : parolu!  
@@ -349,7 +358,7 @@ Jen kelkaj utilaj adverboj por esprimi nivelojn de certeco:
 Ofte, stranga Esperanta frazaĵo tradukiĝas per adverbo:
 
 * Yu **progresi** lerna : Vi *iom post iom* lernas  
-* Mumu neda helpa **resiproki** : Ni devas helpi *unu la alian*  
+* Si mu neda helpa **resiproki** : Ni devas helpi *unu la alian*  
 
 Memoru ke se vi bezonas helpon, vi povas peti en la [grupo en Telegram](https://langugu.telegramo.org)!
 
@@ -398,7 +407,7 @@ Se oni uzas la signon **!**, oni ofte ne bezonas **musta**:
 
 * Yu ga! : Vi iru!
 
-Memoru ke la subjekto ne estas deviga por la imperativo, kiam la subjekto estas **yu** aŭ **yuyu**:
+Memoru ke la subjekto ne estas deviga por la imperativo, kiam la subjekto estus **yu**:
 
 * ga! : iru!  
 * koma! : venu!  
@@ -577,8 +586,8 @@ Por kompari al alia afero, oni povas uzi la prepozicion **tano** (*ol*) antaŭ t
 * Ofteni, singu ba namori longi **tano** filmu : Ofte, kanto estas malpli longa *ol* filmo
 
 Oni povas uzi modifilojn de sameco aŭ simileco:
-* Mumu reda ti **sami** wordboku : Ni legas la *saman* vortaron  
-* Mumu beliva **nasami** idu : Ni kredas *malsamajn* ideojn
+* Si mu reda ti **sami** wordboku : Ni legas la *saman* vortaron  
+* Si mu beliva **nasami** idu : Ni kredas *malsamajn* ideojn
 * Esperantu worka **similari** : Esperanto funkcias/laboras *simile*
 
 Oportune, oni ankaŭ povas uzi la verbojn **sama**, **similara** kaj **sema** por rekte kompari subjekton al objekto:
@@ -676,10 +685,10 @@ La prepozicio **bo** indikas ĝeneralan proksimecon kaj rilaton. En Esperanto, �
 
 * Dogu playa **bo** parku : Hundo ludas *en* parko
 * Hu liva **bo** mi hosu : Ri vivas/loĝas *ĉe* mia domo
-* Huhu beliva **bo** meritu : Ili kredas *je* merito
+* Si hu beliva **bo** meritu : Ili kredas *je* merito
 * Yu wili ga **bo** ti twifi horu : Vi iros *je* la dua horo
-* Yuyu apera **bo** webplasu : Vi ĉiuj aperas *en*/*sur* retejo
-* Mumu sita **bo** tablu : Ni sidas *ĉe* tablo
+* Si yu apera **bo** webplasu : Vi ĉiuj aperas *en*/*sur* retejo
+* Si mu sita **bo** tablu : Ni sidas *ĉe* tablo
 * Mu nastanda **bo** bedu : Mi kuŝas *sur* lito
 * No sosa ti onifi **bo** ti listu : Ne elektu la unuan *sur* la listo
 
@@ -880,7 +889,7 @@ Oni ankaŭ povas meti verbon rekte post prepozicio, kaj ĉi tiu verbo povas nede
 
 * Hu pi ekspresa interestu **aboto lerna** ti langugu : Ri esprimis intereson *pri lerni* la lingvon
 * Hu pi fameda **bekaso wina** ti primari prisu : Ri famiĝis *pro gajni* la ĉefan premion
-* Mumu liki pi diskusa **duringo walka** trogo arportu : Ni ĝoje diskutis/babilis *dum piediri/promeni* tra flughaveno 
+* Si mu liki pi diskusa **duringo walka** trogo arportu : Ni ĝoje diskutis/babilis *dum piediri/promeni* tra flughaveno 
 
 
 ## 21: Ekkria vorteto
@@ -1575,7 +1584,7 @@ Godi komu to ti lasti lesonu ofo ti korsu. Ti lesonu ba fuli ritedi wito Langugu
 
 Onifi, mu (Vanege) wanta tanka yu foro yi worku. Ifo yu reda ti tekstu, ti probabli mena ko yu alredi studa Langugu duringo mori tano teni horu. Ti mena ko yu finda ti langugu somi interesti (bekaso gramaru oro oteri resonu). Ti alsi mena ko mu pi suksesa maka ti korsu enogi amusi oro helpi.
 
-Oni langugu, ki no hava komunita, ba oni bodu, ki no hava livu. So, mu wanta aska tingu to yu: do yu wanta helpa maka Langugu mori useda? Mu tinka ko mori makedi langugu manero Esperantu neda liva. Mu ando somi oteri personu mani lika usa Langugu. Ti ba mani godi tingu, ifo mumu kana usa Langugu mori! Ifo yu helpa, ti fuli komunitu wili tanka yu.
+Oni langugu, ki no hava komunita, ba oni bodu, ki no hava livu. So, mu wanta aska tingu to yu: do yu wanta helpa maka Langugu mori useda? Mu tinka ko mori makedi langugu manero Esperantu neda liva. Mu ando somi oteri personu mani lika usa Langugu. Ti ba mani godi tingu, ifo oni kana usa Langugu mori! Ifo yu helpa, ti fuli komunitu wili tanka yu.
 
 Mani maneru foro helpa eksista:
 * Yu kana ga to [ti telegrami gropu](https://langugu.telegramo.org/) ando rita (oro speka) wito oteri personu. Maybi yu wili finda newi frindu!
@@ -1583,7 +1592,7 @@ Mani maneru foro helpa eksista:
 * Maka ani tingu, ki yu habiti lika maka, buto ti timi wito Langugu! Afteri, promota ti tingu, ki yu pi maka!
 * Speka aboto Langugu to oteri personu. Eksampli, yu kana senda linku ofo ti korsu to esperanti frindu.
   
-Usa langugu ba ti mosti godi maneru foro lerna, buto alsi foro helpa. So, mu hopa ko afteri ti korsu, yu wili usa ti langugu wito mumu!
+Usa langugu ba ti mosti godi maneru foro lerna, buto alsi foro helpa. So, mu hopa ko afteri ti korsu, yu wili usa ti langugu wito si mu!
 
 
 ## #1: Ti verbu "ba"
@@ -1602,7 +1611,7 @@ Yu alsi pi lerna ko **ba** kana sowa (maka eya) twi tingu:
 
 > ti katu hava ti nesu of "bigi" | yu hava nesu ofo "steleru" | mu hava nesu ofo "bo hosu"
 
-* Ko ti subyektu ba reli tingu, ki **findeda**. Ti timi, mumu alsi kana usa ti verbu **eksista**:
+* Ko ti subyektu ba reli tingu, ki **findeda**. Ti timi, oni alsi kana usa ti verbu **eksista**:
 
 > problemu **ba** = problemu **findeda** = problemu **eksista**
 
@@ -1611,9 +1620,9 @@ Nowi, yu lerna newi tingu: ifo ti wordu **ba** ba useda foro mena **findeda** or
 * problemu **ba** = **ba** problemu = problemu
 * Mu lika ko zeri problemu **ba** = Mu lika ko **ba** zeri problemu = Mu lika ko zeri problemu
 
-Bo mani langugu, mumu puta tingu beforo ti substantivu foro ekspresa ti: "There is x" (EN), "Hay x" (ES), "Il y a x" (FR), "Estas x" (EO)...
+Bo mani langugu, oni puta tingu beforo ti substantivu foro ekspresa ti: "There is x" (EN), "Hay x" (ES), "Il y a x" (FR), "Estas x" (EO)...
 
-So almosti ali personu wito ki mu pi speka hava (bo beginu) problemu foro puta **ba** bo ti korekti plasu. Ofteni huhu puta hu beforo ti subyektu, buto ki timi ti hapena, mumu hava zeri problemu foro aha. So no *ba* godi resonu foro naalowa ti.
+So almosti ali personu wito ki mu pi speka hava (bo beginu) problemu foro puta **ba** bo ti korekti plasu. Ofteni si hu puta hu beforo ti subyektu, buto ki timi ti hapena, oni hava zeri problemu foro aha. So no *ba* godi resonu foro naalowa ti.
 
 
 ## #2: Somi helpi rotu manero sufiksu
@@ -1621,7 +1630,7 @@ So almosti ali personu wito ki mu pi speka hava (bo beginu) problemu foro puta *
 Bo befori lesonu, yu pi lerna ko foro saya *-ebl-* ofo Esperantu, yu kana saya **maka -eda**.
 > **kana etedi** : *manĝebla*
 
-Buto somi timi, mumu wanta saya ti bo onli oni wordu. Ti timi, mumu kana usa ti newi rotu **abl/i**:
+Buto somi timi, oni wanta saya ti bo onli oni wordu. Ti timi, oni kana usa ti newi rotu **abl/i**:
 * abli = ki kana makedi : ebla
 * do ti abli? = do ti kana makedi? : ĉu tio estas ebla?
 * etabli : manĝebla ("edible")
@@ -1629,7 +1638,7 @@ Buto somi timi, mumu wanta saya ti bo onli oni wordu. Ti timi, mumu kana usa ti 
 * etabla : manĝebligi ("to make edible")
 * hopabli : espereble
 
-Similari, foro ti englisi sufiksu "-less", mumu kana saya:
+Similari, foro ti englisi sufiksu "-less", oni kana saya:
 > **nawito hopu** : *sen espero* ("hopeless")
 
 Ki maneri sama ti oni wordi? Wito ti newi rotu **les/i**:
