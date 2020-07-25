@@ -84,37 +84,11 @@ Tiel lernantoj devas memori malpli da radikoj:
 Pli da ekzemploj troveblas en la kurso.
 
 
-## 8: Pronomoj funkcias kiel substantivoj
+## 8: Akuzativo ne estas markita
 
-En Langugu, ĉiuj substantivoj finiĝas per **-u**:
+La akuzativo kaj la neakuzativa uzo de la n-finaĵo estas konsiderataj kiel ĉefaj problemoj de Esperanta gramatiko ([fonto](https://eo.wikisource.org/w/index.php?title=Dosiero%3AUmujo_2a%2C_2016-08.pdf&page=12)).
 
-* katu : kato
-* tingu : afero
-
-Pronomoj ankaŭ estas substantivoj, ili do finiĝas per la sama finaĵo:
-
-* mu : mi
-* yu : vi
-
-Kial ili finiĝas per *-i* en Esperanto? Ĉar oni ofte konsideras pronomon kiel propran vortoklason, kiu sekvas regulojn iom malsamajn de normalaj substantivoj.
-
-Ĉu tiu distingo inter substantivoj kaj pronomoj vere estas utila? Substantivoj jam povas fari ĉion, kion pronomoj povas. La sola granda diferenco en Esperanto estas ke pronomo kun *-a* (do -ia) esprimas nur posedon, dum por normalaj substantivoj, tiu *-a* povas esprimi pli da aferoj (posedon interalie).
-
-Jen principo, kiun Langugu provas sekvi:
-
-***Reuzu gramatikajn regulojn anstataŭ krei novajn***
-
-Ĝenerale, **oni evitu krei novajn vortoklasojn** (kiuj arigas vortojn laŭ la gramatikaj reguloj, kiujn la vortoj devas sekvi):
-- Nova vortoklaso signifas novajn gramatikajn regulojn, kiuj devas esti memorataj.
-- Oni devas memori al kiu klaso apartenas vorto. Ju pli da klasoj, des pli da eblaj duboj. (Bonŝance en Esperanto, oni scias ke pronomo estas pronomo (kaj ne verbo) ĉar ĝi estas mallonga, sed tio ankaŭ limigas la nombron de eblaj pronomoj se oni konsideras tion kiel regulon).
-- Vortoklaso riskas esti perceptata kiel "fermita", tio estas ke parolantoj ne kuraĝas aldoni novan vorton al tiu vortoklaso, aŭ ne sentas tion *ĝusta*.
-
-En Esperanto, se "pronomoj" ne estus propra vortoklaso, kaj do ili estus normalaj "substantivoj", malpli da homoj kredus ke la vortoklaso estus fermita. Malpli da homoj plendus pri la pronomo "ri", kaj tio bonas ĉar tiu vorto estas bezonata, oportuna, kaj ĝi jam objektive apartenas al la lingvo. Esperantistoj estus pli agrablaj al Esperantistoj.
-
-Malpli da arbitraj fermitaj klasoj signifas ke membroj de la lingvokomunumo povas pli facile aldoni kaj forigi vortojn depende de bezono (per la natura lingvouzado). La lingvo do povas pli facile adaptiĝi al la evoluo kaj al la bezonoj de la parolantaro. La eraroj de lingvokreanto (kiu ekzemple forgesus meti gravan vorton en iu klaso) povas pli facile esti riparataj fare de la lingvokomunumo.
-
-
-## 9: Akuzativo ne estas markita
+En Langugu, akuzativo neniam estas markita:
 
 * mu lika katu : mi ŝatas katon
 
@@ -126,21 +100,23 @@ Kelkaj ŝatas diri ke la vortordo en Esperanto estas libera. Ke oni povus ekzemp
 
 ***Ne havu malsamajn metodojn por esprimi la saman aferon***:
 - Aperas hezitado inter la metodoj (ĉu mi uzu la metodon 1 aŭ la metodon 2?)
-- Kiam du esprimoj signifas la saman aferon, sed skribiĝas malsame, homoj emas imagi nuancojn inter ili. Tiu nuanco estos poste lernenda. (ekz: Zamenhof imagis ke "Pomon mi volas" kaj "Mi volas pomon" estus samsignifaj. Sed en praktiko oni uzas la unuan nur se oni volas esprimi ion, kion la dua ne faras.
+- Kiam du esprimoj signifas la saman aferon, sed skribiĝas malsame, homoj emas imagi nuancojn inter ili. Tiu nuanco estos poste lernenda. (ekz: Zamenhof imagis ke "*Pomon mi volas*" kaj "*Mi volas pomon*" estus samsignifaj. Sed en praktiko oni uzas la unuan nur se oni volas esprimi ion, kion la dua ne faras.
 - Se unu el tiuj metodoj estas deviga, oni kreas situaciojn kie la informo povas esti bone transdonita, sed la frazo estas gramatike malĝusta. Do situacioj kie iu, kiu nur volas esprimi sin, povas esti ĝenata de homoj, kiuj pensas ke gramatika ĝusteco pli gravas ol komunikado. 
 
-Tiu problemo okazas en Esperanto en frazo kia "Mi manĝis pomo". Absolute neniu bona parolanto de Esperanto povas miskompreni tiun frazon. Sed absolute iuj parolantoj korektos, ĉar ili kredas devi "savi" la lingvon, aŭ ili volas savi komencanton de aliaj pedantoj.
+Tiu problemo okazas en Esperanto en frazo kia "*Mi manĝis pomo*". Absolute neniu bona parolanto de Esperanto povas miskompreni tiun frazon. Sed absolute iuj parolantoj korektos, ĉar ili kredas devi "savi" la lingvon, aŭ ili volas savi komencanton de aliaj pedantoj.
 
 Kio fareblas por solvi tiun problemon?
-* Solvo 1 : forigi la markadon de akuzativo per -n.
+* Solvo 1 : forigi la markadon de akuzativo per *-n*.
 * Solvo 2 : forigi vortordojn.
  
 La solvo 2 ne fareblas. Kial? Ĉar en ĉiuj naturaj lingvoj prefera ordo aperas. La plej ofta vortordo de lingvo ne ĉiam estas deviga vortordo, sed ĝia ofteco faras ke homoj rimarkas kiam alia vortordo (kiu estas malpli ofta) estas uzata. Tio signifas ke ne eblas forigi pozician informon. Tiu informo, se ĝi ne estas uzata, estos uzata de la lingva komunumo iumaniere. Pro la influo de preskaŭ ĉiuj lingvoj de la mondo, tiu pozicia informo emos indiki kie troviĝas subjekto aŭ verbo aŭ similaj konceptoj.
 
 Do la rezulto estas, ke se oni volas fari helplingvon, kie komprenebleco kongruas kun gramatika ĝusteco, tiam akuzativa formo por vortoj estas malbona ideo.
 
+La *-n* de Esperanto estas eĉ pli malfacile lernebla pro tio ke ĝi ankaŭ estas uzata por aferoj, kiuj ne estas la rekta objekto de verbo (la vera akuzativo). Ekzemple, aldone al pozicia prepozicio ĝi povas indiki direkton (simile al *al*), kaj ĝi ankaŭ povas esprimi ion kion kelkaj prepozicioj kiel *je* kaj *dum* povas esprimi. En Langugu, anstataŭ uzi neklaran finaĵon, oni uzas la klaran ĝustan prepozicion.
 
-## 10: Pluraleco ne ŝanĝas substantivojn
+
+## 9: Pluraleco ne ŝanĝas substantivojn
 
 En Esperanto, kiam ekzistas pli ol unu afero, oni devas meti *-j* sur la substantivo de la koncernata afero (kaj ankaŭ sur la adjektivoj de ĉi tiu substantivo, sed mi parolos pri tio en alia parto):
 
@@ -180,7 +156,7 @@ Fakte, oni ankoraŭ povus erari se oni uzas du kontraŭdirajn adjektivojn:
 Sed estas malpli facile erari kiam oni devas konscie aldoni plian vorton.
 
 
-## 11: Pluraleco ne estas devigata informo
+## 10: Pluraleco ne estas devigata informo
 
 Jen alia helplingva principo:
 
@@ -200,7 +176,7 @@ Unue, ĉiu frazo troviĝas ene de specifa kunteksto. Kunteksto helpas kompreni, 
 Due, ĉiam eblas precizigi per adjektivo, do ne ekzistas perdo de libereco. (Fakte estas gajno de libereco per la eblo nemencii pluralecon). Se aŭskultanto konfuziĝis, ĉar la manko de pluraleca informo igis pensi pri aliaj nerilataj katoj, tiam la parolanto povas ripeti kun preciziga adjektivo. La parolanto iĝas responsa pri tio, kion ri diras. Imagante esti en la situacio de la aŭskultantoj, la parolanto scias ĉu ri bezonas aldoni plian informon (aŭ ne) por ke la aŭskultantoj havu sufiĉe (sed ne tro) por ĝuste kompreni.
 
 
-## 12: Pluraleco ne ŝanĝas ligitajn adjektivojn
+## 11: Pluraleco ne ŝanĝas ligitajn adjektivojn
 
 En Esperanto, kiam substantivo estas plurala, tiam siaj adjektivoj devas ankaŭ porti la finaĵon *-j*.
 
@@ -227,3 +203,127 @@ Pri Esperanto (kaj Langugu), mi ne povas facile imagi situacion kie tio helpas. 
 Al tiu argumento de "redundeco", mi respondas ke jam ekzistas solvo (kiu ekzistas en ĉiuj lingvoj) kontraŭ perdo de informo: peti ke oni ripetu (la frazon aŭ la vorton). Kiel rezulto de tiu fakto, jen plia helplingva principo:
 
 ***Ne devigu ripeti informon.***
+
+
+## 12: Pronomoj funkcias kiel substantivoj
+
+En Langugu, ĉiuj substantivoj finiĝas per **-u**:
+
+* katu : kato
+* tingu : afero
+
+Pronomoj ankaŭ estas substantivoj, ili do finiĝas per la sama finaĵo:
+
+* mu : mi
+* yu : vi
+
+Kial ili finiĝas per *-i* en Esperanto? Ĉar oni ofte konsideras pronomon kiel propran vortoklason, kiu sekvas regulojn iom malsamajn de normalaj substantivoj.
+
+Ĉu tiu distingo inter substantivoj kaj pronomoj vere estas utila? Substantivoj jam povas fari ĉion, kion pronomoj povas. La sola granda diferenco en Esperanto estas ke pronomo kun *-a* (do -ia) esprimas nur posedon, dum por normalaj substantivoj, tiu *-a* povas esprimi pli da aferoj (posedon interalie).
+
+Jen principo, kiun Langugu provas sekvi:
+
+***Reuzu gramatikajn regulojn anstataŭ krei novajn***
+
+Ĝenerale, **oni evitu krei novajn vortoklasojn** (kiuj arigas vortojn laŭ la gramatikaj reguloj, kiujn la vortoj devas sekvi):
+- Nova vortoklaso signifas novajn gramatikajn regulojn, kiuj devas esti memorataj.
+- Oni devas memori al kiu klaso apartenas vorto. Ju pli da klasoj, des pli da eblaj duboj. (Bonŝance en Esperanto, oni scias ke pronomo estas pronomo (kaj ne verbo) ĉar ĝi estas mallonga, sed tio ankaŭ limigas la nombron de eblaj pronomoj se oni konsideras tion kiel regulon).
+- Vortoklaso riskas esti perceptata kiel "fermita", tio estas ke parolantoj ne kuraĝas aldoni novan vorton al tiu vortoklaso, aŭ ne sentas tion *ĝusta*.
+
+En Esperanto, se "pronomoj" ne estus propra vortoklaso, kaj do ili estus normalaj "substantivoj", malpli da homoj kredus ke la vortoklaso estus fermita. Malpli da homoj plendus pri la pronomo "ri", kaj tio bonas ĉar tiu vorto estas bezonata, oportuna, kaj ĝi jam objektive apartenas al la lingvo. Esperantistoj estus pli agrablaj al Esperantistoj.
+
+Malpli da arbitraj fermitaj klasoj signifas ke membroj de la lingvokomunumo povas pli facile aldoni kaj forigi vortojn depende de bezono (per la natura lingvouzado). La lingvo do povas pli facile adaptiĝi al la evoluo kaj al la bezonoj de la parolantaro. La eraroj de lingvokreanto (kiu ekzemple forgesus meti gravan vorton en iu klaso) povas pli facile esti riparataj fare de la lingvokomunumo.
+
+
+## 13: Pronomoj estas malmultaj
+
+* **mu** : *mi* / *ni*
+* **yu** : *vi*
+* **hu** : *ĝi* / *ri* / *li* / *ŝi* / *ili*
+
+Tri pronomoj sufiĉas por paroli pri ĉio. ***Malaltigu la nombron de memorindaĵoj.*** Tiu planlingva principo estas la plej komprenebla: se oni devas memori pli da vortoj (aŭ esceptoj), oni devas studi pli longe, sed ne ĉiuj homoj pretas aŭ povas studi pli longe.
+
+Por multaj homoj kiuj ne bone konas lingvojn, malmultaj vortoj signifas malmultan esprimpovon. Tio ne veras se lingvo havas produktivan gramatikon, kiu permesas havi senlimajn esprimeblojn pro senfinaj ebloj de kunmetado (ene de frazo aŭ ene de vorto). Memori vorton aldonas nur unu esprimpovon, sed memori produktivan gramatikan regulon aldonas multe pli da povoj.
+
+Kiam Esperanto uzas pluralan pronomon, Langugu reuzas la fakton, ke oni povas esprimi pluralon (aŭ nepluralecon) per modifilo:
+
+* **oni** : iu / unu
+* **si** : plura
+* **oni mu** : mi
+* **oni yu** : vi (unu persono/afero)
+* **oni hu** : ĝi / ri / ...
+* **si mu** : ni
+* **si yu** : vi (pluraj personoj/aferoj)
+* **si hu** : ili
+
+
+## 14: Pronomoj ne devigas indiki genron (*li*, *ŝi*)
+
+Bona helplingvo bezonas genroneŭtralajn pronomojn, ĉar se oni devas serĉi la genron de la personoj, pri kiuj oni parolas, oni devas elspezi iom da cerbumado al tio. Tio malfaciligas la kreadon de ĝustaj frazoj, eĉ kiam genro tute ne gravas al tio, kio estas dirata. ***Ne devigu informon, kiu ne ĉiam estas utila***
+
+Ni vivas en socio kie homoj estas diskriminaciataj laŭ genroj. Lingvo kiu devigas mencii genron estas lingvo kiu devigas esti ebla viktimo de diskriminacio. Lingvo kiu helpas diskriminacion ne estas dezirinda.
+
+Genro en Langugu esprimeblas per modifilo, kiun oni povas libere meti apud substantivo kiel pronomo. 
+
+* **mali** : *iĉa*
+* **femi** : *ina*
+* **enbi** : *ipa*
+* **hu** : *ri*
+* **mali hu** : *li*
+* **femi hu** : *ŝi*
+* **enbi hu** : ???
+
+Modifiloj (kaj substantivoj) ne estas fermitaj klasoj. Homoj povas libere krei aŭ uzi tiom da malsamaj modifiloj, kiom estas genroj aŭ aliaj formoj de socia identiĝo. Do, je pronoma nivelo, parolantoj de Langugu vere povas esprimiĝi kiel ili mem volas, sen arbitra limo.
+
+
+## 15: Pronomoj ne devigas indiki refleksivecon (*si*)
+
+La pronomo *si* ofte estas konsiderata kiel unu el la plej malfacilaj aferoj en Esperanto. ["Si" alportas multajn arbitrajn regulojn](https://bertilow.com/pmeg/gramatiko/pronomoj/si/index.html) (ekzemple, ĝi ne povas esti subjekto, ĝi povas esti uzata nur por la tria persono, ...), kiuj povis esti facile evitata.
+
+La ĉefa problemo de *si* estas ke ĝi devigas atenti pri refleksiveco (aŭ nerefleksiveco) ĉiam, kiam oni uzas tripersonan pronomon (kiel ĝi, ri, ktp). Tio postulas memori ekzakte kiu estas la gramatika subjekto dum la tuta frazo. 
+
+En Esperanto:
+* Li lavas *lian* sakon : Li lavas *aliies* sakon
+* Li lavas *sian* sakon : Li lavas *propran* sakon
+
+(En Esperanto ne eblas koncize esprimi "li lavas aliies aŭ propran sakon".)
+
+Tiu devigo de refleksiveca informo postulas mensan gimnastikon, kiu ne ĉiam estas normala en la plimulto de lingvoj de la mondo. Anstataŭe, tiuj lingvoj ofte uzas kuntekston por scii ĉu temas pri ago al la subjekto mem aŭ al io alia.
+
+En la angla kaj la franca, por precizigi la refleksivecon de poseda pronomo, adjektivo povas esti aldonita:
+
+En la angla:
+* He washes his bag : Li lavas sian/lian sakon
+* He washes his *own* bag : Li lavas *sian* sakon
+
+En la franca:
+* Il lave son sac : Li lavas sian/lian sakon
+* Il lave son *propre* sac : Li lavas *sian* sakon
+
+Do en tiuj okazoj, parolantoj de la angla kaj la franca povas esprimi posedon sen zorgi pri refleksiveco. Tio funkcias bone, kaj tio estas pli simpla ol en Esperanto. ***Ne devigu informon, kiu ne ĉiam estas utila***.
+
+En Langugu, la informo de refleksiveco ne estas devigata. Oni povas indiki ĝin laŭbezone per adjektivo:
+* **selfi** : *propra*
+* **oteri** : *alia*
+* Hu wasa hi bagu : Li lavas sian/rian sakon
+* Hu wasa **selfi** (hi) bag : Li lavas *sian* sakon
+* Hu wasa **oteri** hi bagu : Li lavas *rian* sakon
+
+Tiu metodo ankaŭ funkcias por neposedaj pronomoj (kaj por ĉio alia):
+* Hu wasa hu : Li lavas sin/rin
+* Hu wasa **selfi** (hu) : Li lavas *sin*
+* Hu wasa **oteri** hu : Li lavas *lin*
+
+Principe, kial havi plian pronomon por refleksiveco (*si*) kiam oni jam havas adjektivon por refleksiveco (*propra*/**selfi**)? ***Ne havu malsamajn metodojn por esprimi la saman aferon***. 
+
+
+## 16: *oni*, *iu* kaj *unu* estas la sama vorto
+
+* **oni** : *oni* / *iu* / *unu*
+
+En Esperanto, ofte okazas ke iu uzas *unu* aŭ *iu* anstataŭ la ĝustan *oni*. Tio ne povas okazi en Langugu ĉar "tabelvortoj" kaj "nombroj" ne estas apartaj vortoklasoj. Ili ne bezonas propran vorton.
+
+**oni** estas modifilo. Kiam ĝi ne troviĝas antaŭ substantivo, oni povas imagi la vorton **personu** (persono) post ĝi.
+
+* **oni** (personu) musta wera masku : *oni* devas porti maskon / *iu* (persono) devas porti maskon / *unu* (persono) devas porti maskon
+
