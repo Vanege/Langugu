@@ -193,14 +193,18 @@ Jen ĉio. Oni ne bezonas indiki socian statuson aŭ genron. Tamen, povas esti op
 * **oni yu** : vi (unu persono/afero)
 * **oni hu** : ĝi / ri / ...
 * **si mu** : ni
-* **si yu** : vi
+* **si yu** : vi (pluraj personoj/aferoj)
 * **si hu** : ili
 
-Plejofte, se oni ne uzas **si**, oni parolas pri unu persono/afero:
+Indiki pluralecon ne estas devige en Langugu, do eblas uzi **yu** kiel "you" de la angla (singulare kaj plurale). Sed plejofte, se oni ne uzas **si**, oni parolas pri unu persono/afero:
 
 > mu ba personu : mi estas persono  
 > si mu hava namu : ni havas nomo(j)n  
 > yu alsi lika hu : vi ankaŭ ŝatas ĝin  
+
+**oni** kaj **si** estas normalaj modifiloj, kiuj signifas *unu* kaj *plura* respektive. Tute eblas uzi aliajn modifilojn por esprimi aliajn kvantojn (ekzemple **ali yu** por *vi ĉiuj*). Ankaŭ eblas aldoni modifilojn kiel **mali** aŭ **femi** por esprimi iĉecon aŭ inecon, se oni pensas ke tio estas grava.
+
+Ofte, anstataŭ uzi **hu**, estas pli bone ripeti la substantivon pri kio oni parolas.
 
 La ideon de posedo estas esprimebla per la modifila finaĵo **-i**:
 
