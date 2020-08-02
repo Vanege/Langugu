@@ -327,3 +327,42 @@ En Esperanto, ofte okazas ke iu uzas *unu* aŭ *iu* anstataŭ la ĝustan *oni*. 
 
 * **oni** (personu) musta wera masku : *oni* devas porti maskon / *iu* (persono) devas porti maskon / *unu* (persono) devas porti maskon
 
+
+## 17: Informo pri proksimeco ne estas devigata kiam oni montras ion
+
+En la angla, kiam oni volas montri ion, oni devas elekti unu el du "demonstrative" (singulare): "this" aŭ "that". Ĝenerale, oni diras ke oni uzu "this" kiam la afero estas proksima, kaj "that" kiam la afero estas malproksima, sed en praktiko, en detaloj, la reguloj por la ĝusta elekto estas tre malsimplaj.
+
+[Kelkaj lingvoj ne devigas tiun informon de proksimeco.](https://wals.info/chapter/41) Ekzemple en la franca lingvo, anstataŭ heziti inter "this" aŭ "that", oni povas ĉiam kun certeco uzi "ce" (kaj ties fleksiajn formojn "cet" "cette" ktp). Parolantoj de la franca do ne bezonas ĉiam atenti pri "proksimeco".
+
+Tio ne signifas ke la franca estas malpli esprimpova ol la angla, tio nur signifas ke la franca ne devigas tiun informon kiam ĝi ne estas utila: en situacio kie la alparolato povas ne esti certa pri kio oni parolas (kiam kunteksto ne sufiĉas), oni povas aldoni "-ci" kiu indikas ke oni parolas pri io pli proksima ol io alia, aŭ oni povas aldoni "-là" kiu indikas ke oni parolas pri io malpli proksima ol io alia. Tiu funkcimaniero kongruas kun la principo ***Ne devigu informon, kiu ne ĉiam estas utila***.
+
+Denaskuloj de la franca havas multe da problemoj kiam ili lernas la anglan. Por ili, [tiu distingo "this/that" ne estas natura, kaj devigas atenti pri multe pli da aferoj ol nura "proksimeco](http://cle.ens-lyon.fr/anglais/se-former/les-precis-et-le-workbook/precis-de-grammaire/this-that-these-those). Ankaŭ okazas problemoj por denaskuloj de aliaj lingvoj, kiuj ankaŭ havas du-vortan sistemon: ili devas lerni novan *ŝanĝpunkton*. Efektive, kiam io estas sufiĉe proksima por uzi "this" en la angla, tio eble ankoraŭ ne estas sufiĉe proksima por la "this" de alia lingvo! Kompare al tio, la franca "-ci" (la afero estas pli proksima ol alia afero) estas multe pli klara.
+
+Kaj nun, mia persona sperto:
+
+Kiam oni provis instrui al mi la anglan lingvon en lernejo, unu el la plej malfacilaj aferoj por mi estis ĝuste uzi "this" aŭ "that". La klarigo de la instruisto estis tia: "se la afero estas proksima, oni uzas "this", se la afero estas malproksima, oni uzas "that"".
+
+Tiu klarigo ne kontentigis min (kaj daŭre ne kontentigas). Kiel oni scias ĉu io estas sufiĉe proksima por povi ĝuste uzi "this"? Kiom da centimetroj for de mia korpo devas esti afero por ke ĝi postulu "that"? La respondo fakte dependas de multege de detaloj, kiuj ne rekte rilatas al proksimeco. Tiuj influaj detaloj ne estas konsciaj por denaskuloj, aŭ ne plu estas konsciaj por spertaj parolantoj.
+
+Mi tamen sukcesis lerni kiel uzi "this" aŭ "that" ĝuste. Sed tio ne estis per simpla klara gramatika regulo ĉiamfunkcianta (tia regulo ne ekzistas), sed pro aŭskultado de miloj da horoj de anglalingva parolado. Mi devis konsumi amason da anglaĵoj ĝis kiam mi akiris la "senton por ĝi": Mi uzu "this" kiam en simila kunteksto kaj por tiu vorto, anglalingvulo uzus "this". Same por "that". Iom post iom, mi povis elekti la ĝustan pli rapide.
+
+Laŭ mi, helplingvo ne funkciu tiel. ***Gramatikaj reguloj devas esti precizaj kaj sufiĉaj***, tio estas: oni ne devu kutimiĝi al lingvo dum miloj da horoj por uzi ion same ĝuste kiel bonaj parolantoj.
+
+La ĝusta ("this" aŭ "that") efektive dependas de multege da detaloj: ĉu oni volas krei kontraston kun io malpli proksima (sed kiu en absoluta mezuro ankaŭ estas proksima), ĉu oni volas atentigi pri io nova aŭ pri io jam komune konata, ĉu oni volas mencii ion lastatempe aŭ ĵus priparolitan (eĉ se ĝi ne estas proksima space aŭ tempe), ĉu oni volas emfazi pri la specialeco aŭ la netaŭgeco de io, ĉu estas kadre de la fiksita esprimo "this or that" (eĉ se la du aferoj same proksimas). Oni ankaŭ devas memori la fiksitajn signifojn de multaj kombinaĵoj, ekzemple "this weekend" ne signifas "this" kun "weekend" sed "the next week end in the future starting from now".
+
+Sed tiu problemo estas specifa al la angla, ĉu ne? Oni povus krei planlingvon kun devigata "this/that"-distingo, kiu sekvus simplan regulon? Unue, mi ne pensas ke tio estas ideala (pro la devigata informo), due, mi ne pensas ke tio eblas. Ekde kiam oni havas devigatan "this/that"-distingon, oni devas lerni multe da kaŝitaj reguloj, ekzemple pri:
+* Kie troviĝas la ŝanĝpunkto ekde kiam oni devas uzi "this" aŭ "that"?
+* Kiel fari en situacioj kie fizika loko ne ekzistas, ekzemple kiam oni parolas pri konceptoj, aŭ kiam oni parolas pri io sur ekrano?
+* Kion fari kiam la proksimecoj lokaj, tempaj kaj konversaciaj ne interkongruas?
+
+En detaloj, oni ne scios. Do homoj verŝajne uzos la distingon "this/that" imite al sia denaska lingvo, do en maniero ne tute regula, kaj en maniero iom unika por ĉiu lingva deveno.
+
+Por konkludi, jen kiel tio funkcias en Langugu: ekzistas nur unu vorto por montri: la adjektivo **ti**:
+* Mu lika **ti** katu : "I like **this** cat" / "I like **that** cat"
+
+Se oni volas mencii proksimecon (aŭ malproksimecon), oni povas fari tion per adjektivo kiu indikas proksimecon (aŭ malproksimecon):
+* Mu lika ti **neri** katu : "I like this cat" / "I like the cat, which is **near**"
+* Mu lika ti **naneri** katu : "I like that cat" / "I like the cat, which is **far**"
+
+Tiel oni reuzas aferojn, kiuj jam estas en la lingvo, kaj tiel oni estas multe pli klara ol la multsignifa "this" de la angla, aŭ *ĉi* de Esperanto.
+
