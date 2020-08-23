@@ -366,3 +366,20 @@ Se oni volas mencii proksimecon (aŭ malproksimecon), oni povas fari tion per ad
 
 Tiel oni reuzas aferojn, kiuj jam estas en la lingvo, kaj tiel oni estas multe pli klara ol la multsignifa "this" de la angla, aŭ *ĉi* de Esperanto.
 
+
+## 18: Ne ekzistas propra difina artikolo "la"
+
+La difina artikolo *la* ofte estas konsiderata kiel ĉefa problemo de Esperanta gramatiko ([fonto](https://eo.wikisource.org/w/index.php?title=Dosiero%3AUmujo_2a%2C_2016-08.pdf&page=12)). Imitante naciajn lingvojn, la uzado de difina artikolo sekvas multajn neklarajn regulojn. (Ĝi ankaŭ sekvas multajn malregulaĵojn, ekzemple se oni parolas pri *la luno*, oni ne parolas pri LA luno, sed pri specifa astro, kiun oni povus pli klare nomi *laluno*.). Por parolantoj de lingvoj, kiuj ne havas difinan artikolon, estas tre malfacile uzi ĝin ĝuste en Esperanto. Ankaŭ ne helpas ilin ke fluaj parolantoj mem ne ĉiuj uzas ĝin tute sammaniere, kaj ne ĉiuj estas same toleremaj pri kio estus ĝusta uzo de ĝi.
+
+[PMEG](https://bertilow.com/pmeg/gramatiko/difiniloj/la/index.html) bone listigas gramatikajn regulojn ligitajn al *la*. Se vi volas havi ideon pri la problemoj, kiujn homoj renkontas pro *la*, mi invitas vin legi [ĉi tiun artikolon](https://lingvakritiko.com/2007/02/05/la-artikolo/). (Estas ironie ke en la artikolo, *la* estas uzata iom strange apud pluralaj substantivoj.)
+
+La ĉefa rolo de *la* en Esperanto estas mencii ke oni parolas pri afero, kiu jam estas konata de la leganto (aŭ aŭskultanto). Oni tiam parolas pri afero, kiu jam estis **difinita**: *Mi ŝatas katon*. *La kato estas bela*. Ĉi tie oni parolas pri la sama kato.
+
+Sed oni ankaŭ povas esprimi difinitecon en Esperanto per alia maniero: *tiu* aŭ *ĉi*: *Mi ŝatas katon*. *(Tiu) (ĉi) kato estas bela*. Resume, estas redundeco de funkcio. Mi fakte rimarkis, ke en preskaŭ ĉiuj okazoj, kie oni uzas *la*, oni povus uzi *tiu* sen perdo en kompreno. La kelkaj fojojn, kiam tio ne funkcias, oni povas facile aldoni adjektivon (*mema*), de komplemento (*de nia planedo*) aŭ subfrazo (*kiun mi menciis.*)
+
+Kompreneble, oni ne donu plurajn manierojn por esprimi la saman aferon, ĉar tiam aperus malklaraj reguloj, kiuj dirus kiam oni uzu iun formon aŭ la alian.
+
+En Langugu estas simple: *la*, kiam ĝi esprimas difinitecon (ekzemple kiam oni montras ion, kion oni jam menciis), estas tradukebla per **ti**.:
+* Mu lika katu. **Ti** katu ba preti : Mi ŝatas katon. *La* kato estas bela. = Mi ŝatas katon. *Tiu* kato estas bela.
+
+Fakte, multege da lingvoj de la mondo uzas la [saman vorton por la difina artikolo (la) kaj la montra vorteto (tiu)](https://wals.info/feature/37A#2/25.5/148.9).
