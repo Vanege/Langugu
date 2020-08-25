@@ -424,7 +424,7 @@ Por la us-modo (ebla, teoria aŭ kondiĉa ago), oni povas aldoni la verbon **wol
 
 Sed por multaj okazoj kie oni uzas *-us* en Esperanto, aldoni **maybi** (*eble*) sufiĉas:
 
-* **Maybi** yu wanta trinka: *Eble* vi vol*us* trinki  
+* **Maybi** yu wanta drinka: *Eble* vi vol*us* trinki  
 * **Maybi** yu musta hava yi owni romu: *Eble* vi dev*us* havi vian propran ĉambron   
 
 Oni povas facile uzi modon kaj tempon (aŭ plurajn modojn) samtempe. En Langugu, ili ne batalas por esti finaĵo de la sama verbo:
