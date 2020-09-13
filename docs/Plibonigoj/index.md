@@ -367,7 +367,7 @@ Se oni volas mencii proksimecon (aŭ malproksimecon), oni povas fari tion per ad
 Tiel oni reuzas aferojn, kiuj jam estas en la lingvo, kaj tiel oni estas multe pli klara ol la multsignifa "this" de la angla, aŭ *ĉi* de Esperanto.
 
 
-## 18: Ne ekzistas propra difina artikolo "la"
+## 18: Ne ekzistas difina artikolo kiel "la"
 
 La difina artikolo *la* ofte estas konsiderata kiel ĉefa problemo de Esperanta gramatiko ([fonto](https://eo.wikisource.org/w/index.php?title=Dosiero%3AUmujo_2a%2C_2016-08.pdf&page=12)). Imitante naciajn lingvojn, la uzado de difina artikolo sekvas multajn neklarajn regulojn. (Ĝi ankaŭ sekvas multajn malregulaĵojn, ekzemple se oni parolas pri *la luno*, oni ne parolas pri LA luno, sed pri specifa astro, kiun oni povus pli klare nomi *laluno*.). Por parolantoj de lingvoj, kiuj ne havas difinan artikolon, estas tre malfacile uzi ĝin ĝuste en Esperanto. Ankaŭ ne helpas ilin ke fluaj parolantoj mem ne ĉiuj uzas ĝin tute sammaniere, kaj ne ĉiuj estas same toleremaj pri kio estus ĝusta uzo de ĝi.
 
@@ -383,3 +383,36 @@ En Langugu estas simple: *la*, kiam ĝi esprimas difinitecon (ekzemple kiam oni 
 * Mu lika katu. **Ti** katu ba preti : Mi ŝatas katon. *La* kato estas bela. = Mi ŝatas katon. *Tiu* kato estas bela.
 
 Fakte, multege da lingvoj de la mondo uzas la [saman vorton por la difina artikolo (la) kaj la montra vorteto (tiu)](https://wals.info/feature/37A#2/25.5/148.9).
+
+
+## 19: Adjektivoj kaj adverboj havas la saman formon
+
+Multe da eraroj en Esperanto venas de la uzo de adjektiva finaĵo kiam la adverba finaĵo devas esti uzita.
+
+Konsideru ĉi tiujn frazojn:
+* *Prepari pastaĵon estas rapida*
+* *Estas bona ke vi sukcesis*
+* *Bona!*
+
+Kvankam ili estas tute bone kompreneble, ili estas konsiderataj eraraj laŭ plimulto de spertaj Esperantistoj. Respektive, devus esti *rapide*, *bone*, kaj *bone* (eĉ se en la lasta, oni povis intenci diri *bona novaĵo!*).
+
+Kial? Ne vere ekzistas bona kialo por tio. Simple estis decidite ke tio estu tiel en Esperanto. Kiam oni priskribas agon ("prepari pastaĵon"), frazon ("vi sukcesis"), aŭ kiam priskribo estas skribite sole, la priskriba vorto devas havi la finaĵon -e.
+
+Tio estas arbitra, kaj iras kontraŭ la kutimoj de multaj naciaj lingvoj (kio okazigas erarojn de uzo fare de ties uzantoj). Esperantistoj povus esti toleremaj, kaj akcepti ambaŭ formojn (la lingvo estus pli facila!), sed nia lingva komunumo estas tro preskribema: el malsamaj vortaj formoj, oni konstante kreas regulojn laŭ kiuj oni devus uzi iun formon aŭ la alian.
+
+Kiel oni povus fari, por ke homoj ne agu kontraŭ siaj kutimoj? Jen simpla solvo: ne havi vortan diferencon inter a-vorto kaj e-vorto! Tiel, homoj ne plu povas heziti inter ambaŭ! En Langugu, ĉiuj adjektivoj kaj adverboj, nomitaj modifiloj, finiĝas per -i.
+
+* god**i** : bon*a* / bon*e*
+
+Se ambaŭ *bona* kaj *bone* uzas la saman formon, kiel scii kiam **godi** estas uzata adjektive aŭ adverbe? Per pozicio kaj kunteksto. Oni ĝenerale metas modifilon antaŭ la vorton, kiun ĝi modifas. Se modifilo modifas substantivon, ĝi funkcias kiel Esperanta adjektivo, se ne, ĝi funkcias kiel Esperanta adverbo. Esence, la funkcio de modifilo ĉiam estas la sama: nuancigi aŭ priskribi ion sen ŝanĝi la esencon.
+
+* god**i** kat**u** : bon*a* kato
+* god**i** slep**a** : bon*e* dormi
+
+"La modifilo antaŭ la modifita vorto" ne estas strikta regulo. Kunteksto kaj verŝajneco pli gravas, kaj kiam ili preskaŭ ĉiam sufiĉas, ne valoras malfaciligi lingvon. Libereco de pozicio (sen ŝanĝo de formo) utilas, ĉar kiam oni kreas frazojn, oni ne ĉiam pensas pri ĉiuj detaloj ĝustatempe.
+
+Kelkfoje, oni povas heziti, kiam modifilo povas modifi du vortojn: **mani likedi katu** povas signifi *multaj ŝatitaj katoj* aŭ *multe ŝatita kato*. Se kunteksto ne helpas scii ke temas pri multaj katoj, oni povas facile solvi tion per eta movo de la modifiloj. Ekzemple per **likedi mani katu** aŭ **mani katu likedi**, oni pli certas ke temas pri multaj katoj. Per **katu mani likedi**, oni pli certas ke temas pri kato tre ŝatita.
+
+Oni povas demandi sin ĉu la finaĵoj de Esperanto -a kaj -e ne estus pli simplaj, sed per ili oni iom malpli bezonus pensi pri vortordo. Ekzemple, se adverbo troviĝas tuj antaŭ substantivo, oni jam certas ke ĝi ne temas pri la substantivo. Miaimprese, tio helpas maloftege. Oni ĉiuokaze devas lerni la vortordojn de adjektivoj kaj adverboj en Esperanto, se oni ne volas soni strange (vidu "*Mi lernis serioze lingvojn multajn*", "*Mi ŝatas vin tre*", "*Blankaj tute floroj*).
+
+Preferoj pri vortordo en la lingvokomunumo ekzistas aŭ nature aperas. La vortordo Subjekto Verbo Objekto iom forigas la utilecon de la finaĵo -n. Simile, la vortordo Adjektivo Substantivo, kaj Adverbo Verbo iom forigas la utilecon de du finaĵoj -a kaj -e. Oni profitu de la pozicia informo, kiu ĉiuokaze ekzistas. Esperanto estas pli malfacila ol Langugu, ĉar ne nur oni devas lerni regulojn pri uzo de -a aŭ de -e en Esperanto, oni ankaŭ devas lerni la vortordojn.
