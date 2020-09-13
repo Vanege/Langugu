@@ -1225,7 +1225,7 @@ La dekstra radiko estas la esenco, kaj la maldekstra radiko precizigas ĝin. Tio
 
 Kio estas la diferenco inter kunmeti kaj simple meti adjektivon antaŭ substantivon? Kiam oni kunmetas, oni kreas novan vorton do novan precizan koncepton. Se oni uzas adjektivon, oni donas liberecon pri la interpretado de la adjektivo:
 * **vapori sipu** : *vapora ŝipo* (ŝipo kiu iel rilatas al vaporo, do ĝi povas esti ŝipo kiu funkcias per vaporo, sed ankaŭ ŝipo el vaporo!)
-* **vaporsipu** : *vaporŝipo* (specifa tipo de ŝipo, kun specifa funkcimaniero, pri kiu oni povas legi pli detale en vortaro aŭ encikopedio)
+* **vaporsipu** : *vaporŝipo* (specifa tipo de ŝipo, kun specifa funkcimaniero, pri kiu oni povas legi pli detale en vortaro aŭ enciklopedio)
 * **webi plasu** : *reta ejo* (ajna loko en la interreto)
 * **webplasu** : *retejo* (specifa tipo de loko en la interreto kiu havas retadreson)
 
