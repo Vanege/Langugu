@@ -6,7 +6,7 @@ module.exports = {
     logo: '/img/logo.png',
     nav: [
       { text: 'Kurso', link: '/Kurso/'},
-      { text: 'Plibonigoj', link: '/Plibonigoj/'},
+      { text: 'Plibonigoj kompare al Esperanto', link: '/Plibonigoj/'},
       { text: 'Korektilo', link: 'https://vanege.github.io/langugi-korekteru/' },
       { text: 'Vikio', link: 'https://langugu.fandom.com/wiki/Langugu' },
       { text: 'Komunumo', link: 'https://langugu.telegramo.org' },

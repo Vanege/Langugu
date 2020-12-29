@@ -1,418 +1,534 @@
 Ĉi tiu paĝo listigas la ĉefajn plibonigojn de Langugu kompare al Esperanto. Kompreneble, se oni komparus al la Angla, la listo estus multege pli granda.
 
-Ĉi tiu paĝo estas en konstruado. Bonvolu reveni pli poste por havi pli detalan liston.
+## Algoritmo
 
+- La vortoj estas jam rekoneblaj, ĉar ili venas de bazaj anglaj vortoj post uzo de algoritmo. La angla estas la lingvo, kiun ĉiuj kiuj uzas la interreton iom konas. Oni reuzu tion, kion homoj jam scias.
 
-## 0: Algoritmo kaj unulingva vortfonto -> Pli antaŭvidebla lingvo
+> **godi dogu** : "good dog"  
+> **hapi newi yeru** : "happy new year"  
+> **do yu speka ti langugu?** : "do you speak the language?"  
 
-Vortaj radikoj de Langugu venas de la angla lingvo, post uzo de regula algoritmo. Rezulte, homoj kiuj konas bazajn vortojn de la angla lingvo (la plimulto de homoj kun aliro al la interreto) ŝparas multege da tempo en lernado.
+- La vortoj estas pli facile memoreblaj, ĉar oni povas facile rekrei ilin uzante la algoritmon en onia kapo.
 
-Planlingvo kies vortoj miksas plurajn fontlingvojn faras ke kiam lernanto provas lerni novan vorton, ri hezitas kaj konfuzas inter la malsamaj ebloj donitaj de malsamaj lingvoj. La algoritmo de Langugu sur la angla lingvo grandparte solvas tiun problemon de antaŭvidebleco.
+> *Paroli* "to speak" iĝas **speka** ĉar kiam pluraj vokalliteroj sekvas unu la alian ("ea"), oni konservas nur la unuan ("e") (kaj verboj finiĝas per -a).  
+> *Tomato* "tomato" iĝas **tomatu** ĉar vokalliteroj en la fino malaperas (kaj substantivoj finiĝas per -u).  
 
-La algoritmo de Langugu ankaŭ donas aŭtonomion al parolantoj: kiam radiko por koncepto mankas en Langugu, ajnulo povas importi vorton de la angla, anstataŭ atendi decidon de ia aŭtoritato.
+- La vortoj kiuj mankas estas facile aldoneblaj per la algoritmo, sen bezoni aprobon de iu aŭtoritato.
 
-Frazoj en Langugu ofte estas legeblaj kaj kompreneblaj de homoj, kiuj ne studis la lingvon, pro ilia kono de la angla. La lingvo estas do malpli fermita al la ekstera mondo ol kutimaj planlingvoj.
+> Por la *kronviruso*, oni simple uzu la algoritmon sur la anglan vorton "coronavirus": **koronavirusu**. Ne estos debato pri la ĝusta vorto. Ĉiuj komprenos la vorton kaj konsentos ĉar la algoritmo estas objektiva.
 
+- La algoritmo havas nur 10 regulojn. Tio permesas ne esti blokita pro mankanta vorto en konversacio, ĉar oni povas tre rapide uzi la algoritmon por traduki anglan vorton.
 
-## 1: Literoj estas rekte tajpeblaj
+> Lerni la anglan (kion homoj jam faras pro lernejoj), rekte helpas paroli Langugu flue, ĉar Langugu reuzas multaj bazajn vortojn de la Angla. Sed entute, lerni Langugu estas multe pli rapide ol lerni la anglan.
 
-La alfabeto de Esperanto :
-* a b c ĉ d e f g ĝ h ĥ i j ĵ k l m n o p r s ŝ t u ŭ v z
+- La algoritmo kontribuas al malaltigi la kvanton de arbitreco. Ĉia formo de arbitra neantaŭvidebla elekto estas minimumigita en la lingvo.
 
-La alfabeto de Langugu :
-* a b d e f g h i k l m n o p r s t u v w y z
+> Planlingvoj kiuj uzas plurajn lingvojn kiel fontojn estas malpli facilaj, ĉar lernantoj ne povas antaŭvidi de kiu lingvo vorto venas. En tia planlingvo, ĉiu vorto estas rezulto de arbitra aŭtora elekto, kio postulas plian laboron al la lernanto.
 
-Ĉapelliteroj malaperis, *ŭ* iĝis **w** kaj *j* iĝis **y**. 
+> Kiam vorto aŭ gramatika punkto de planlingvo ne venas de aŭtora decido, sed de objektiva afero (algoritmo, aŭ komunaj ecoj de kreolaj lingvoj), uzantoj de la lingvo povas pli facile posedi la lingvon, ĉar ili povas sammaniere riĉigi ĝin sen atendi aprobon de aŭtoro. Ĉiu minoritato (ekzemple socia aŭ genra) povas aldoni vorton kiun ĝi bezonas, sen atendi preskriban eliton kiel akademion, kiu ne povas realisme bone kompreni kaj reprezenti grandan kaj diversan parolantaron.
 
-Homoj do ne bezonas agordi sian klavaron por tajpi la lingvon ĝuste.
+> Dek arbitraj reguloj de algoritmo estas multe pli memoreblaj ol miloj da vortoj arbitre elektitaj.
 
+> Ĝenerale, arbitreco estas malbona por permesi al planlingvoj adaptiĝi al sociaj bezonoj. Ekzemple, kelkaj homoj malakceptas vortojn kiel "ri" kaj "-iĉ-", ĉar ili konsideras pronomojn kaj afiksojn kiel fermitajn klasojn (kiuj ne rajtas enhavi novajn vortojn). En praktiko, tia arbitra preskribemo kontribuas al la subpremo de sociaj grupoj, kio ne estas dezirinda en lingvo, kiu provas esti la plej alirebla por averaĝa homarano.
 
-## 2: Malpli da malfacilaj sonoj
+> En ĉi tiu dokumento, vi vidos ke Langugu provas maksimume forigi kaj limigi la arbitrajn decidojn en Esperanto. Ekzemple, Langugu forigas la modojn, korelativojn, participojn, kaj malfermas la prepoziciojn. Estas pli liberige kaj pli facile reuzi gramatikajn konceptojn, kiel adverbojn, verbojn, kaj subfrazojn.
 
-[Ofteco de sonoj](https://phoible.org/parameters)
+## Literoj
 
-* Langugu ne uzas /ĵ/ [ʒ], ĉar ĝi estas en nur 16% de lingvoj.
-* Langugu ne uzas /ĥ/ [x], ĉar ĝi estas en nur 19% de lingvoj.
-* En Langugu, /r/ estas farebla per ajna [r-eca sono](https://eo.wikipedia.org/wiki/R-eca_konsonanto).
-* Langugu ne uzas postalveolarajn sonojn (ŝ, ĵ, ĉ, ĝ). Tiel homoj ne povas konfuzi tiujn sonojn kun la alveolaraj sonoj (s, z, c (ts), dz).
+- La alfabeto ne uzas ĉapelitajn literojn, kiujn multaj homoj ne povas rekte tajpi sen prepari ion unue. (Kio foje malkuraĝigas homojn provi Esperanton.)
 
+## Sonoj
 
-## 3: Malpli da konsonantaroj
+- La sonoj ne havas /ĵ/ [ʒ] kaj /ĥ/ [x], kiuj estas maloftaj en lingvoj.
 
-["Consonant cluster"](https://en.wikipedia.org/wiki/Consonant_cluster)
+> [Ili estas en 16% kaj 19% de lingvoj respektive.](https://phoible.org/parameters)
 
-En Esperanto, ofte okazas ke pluraj konsonantoj troviĝas apude aŭ ene de vorto aŭ inter vortoj. En Langugu, tio okazas malpli ofte.
+- La sonoj malfacilaj permesas multajn alofonojn, ekzemple [r] estas farebla angle, hispane, france, japane, germane, japane, eĉ kiel "l".
 
-* Esperanto: Mi vola**s l**udi ku**n m**u**lt**a**j k**atoj
-* Langugu: Mu wana **pl**aya wito mani katu
+> R-sonoj estas malfacile lerneblaj. Malpermesi diversajn realigojn de r nur igus la lingvon pli malfacila por multaj homoj. Oni ĉiuokaze ne povas konfuzi /r/ kun /ĥ/, ĉar tiu lasta ne ekzistas. Oni povus konfuzi /r/ kun /l/, sed la nombro de okazoj kie vorto malsamas de alia vorto nur per r aŭ l estas malgranda. Kunteksto ĉiam helpas, kaj okaze de reala problemo, oni povus uzi alian vorton per uzo de la algoritmo sur sinonimo, aŭ per derivado.
 
-Multaj lingvoj de la mondo ne permesas multajn konsonantojn troviĝi apude. Parolantoj de tiuj lingvoj do ofte aldonas fantoman vokalon inter konsonantoj senvole.
+- La sonoj postalveolaraj (/ŝ/ kaj /ĵ/) ne estas uzataj, tiel oni ne povas konfuzi ilin kun la sonoj alveolaraj (/s/ kaj /z/).
 
+> Neniu konfuzo do inter serĉi kaj ŝerci.
 
-## 4: Ŝvao por helpi pri konsonantaroj
+- Du konsonantoj troviĝas apude iomete malpli ofte ol en Esperanto. La lingvo estas do iom pli facile elparolebla.
 
-Por helpi denaskulojn de lingvoj, kiuj ne havas grandajn konsonantarojn, homoj povas libere aldoni la sonon [ə] ([ŝvao](https://en.wikipedia.org/wiki/Schwa)) inter du konsonantoj. Noto: [[ə] estas la plej ofta vokalo de la Angla](https://www.youtube.com/watch?v=qu4zyRqILYM).
+> La plej oftaj kaj bazaj vortoj de la angla estas uzataj por la algoritmo. Se oni uzus pli maloftajn sinonimojn, oni povus havi lingvon kun malmulte da apudaj sonoj, sed la lingvo estus pli arbitra kaj malpli rekonebla. Ĉiuokaze, la lingvo enhavas solvon:
 
-**slepa** estas do parolebla /slepa/ kaj /səlepa/
+- Se oni ne povas facile elparoli du konsonantojn apude, oni povas meti la [sonon [ə]](https://www.youtube.com/watch?v=qu4zyRqILYM) inter la konsonantoj. Tio nomiĝas la helpa ŝvao.
 
-Ĝi ankaŭ estas uzebla por arta celo, ekzemple en kantado por pligrandigi la nombron de silaboj de vorto.
+> Ekzemple, **mu speka englisu** povas esti dirata kiel **mu səpeka enəgəlisu**.
 
+- La helpa ŝvao permesas facile adapti nombron de silaboj en kantado.
+- Vortoj ĉiam finiĝas per vokalo, do elparoli ilin estas pli facile. Tio ankaŭ helpas scii kiam vorto finiĝas.
 
-## 5: La fino de vortoj estas pli klare aŭdebla
+## Vortoj
 
-En Langugu, vortoj ĉiam finiĝas per vokalo. Tio helpas tiujn, kies lingvoj faras same. Sed pli utila konsekvenco: oni povas pli facile aŭdi kiam vorto finiĝas.
+- Oni bezonas lerni malpli da bazaj radikoj kaj vortoj.
 
-[La plej ofta vortoklaso en la Angla estas substantivoj](https://english.stackexchange.com/questions/55486/what-are-the-percentages-of-the-parts-of-speech-in-english). En Langugu, ili finiĝas per **-u**. ["u" estas la plej malofta vokallitero de la Angla](https://en.wikipedia.org/wiki/Letter_frequency). Ĉar radikoj en Langugu venas de la skriba formo de la Angla (post eta transformiĝo), oni povas facile aŭdi kiam substantivo finiĝas, ĉar la sono /u/ plej ofte indikas finon de vorto ol ne.
+> **plasu** : *ejo* / *loko*  
+> **gropu** : *aro* / *grupo*  
+> **hava** : *havi* / *posedi*  
+> **geta** : *ekhavi* / *akiri* / *ricevi*   
+> **mori lika** : *preferi* (*plie ŝati*)  
+> **fuli godi** : *perfekta* (*tute bona*)  
 
+- Multaj vortoj havas pli larĝan signifon, kio malaltigas la nombron de vortoj, kiuj estas bezonataj por baza esprimado.
 
-## 6: Afablaj vortoj ne havas misteran akuzativan formon
+> **mani** : *multe* / *tre* / *ege*  
+> **knowa** : *koni* / *scii*  
+> **aska** : *demandi* / *peti*  
+> **reli** : *reala* / *vera*  
+> **fuli** : *tute* / *plene*  
 
-En Esperanto, komencantoj demandas sin kial oni diras *saluton*, *dankon*, *bonvenon*, ĉar ili ne vidas verbon. Oni devas diri al ili, ke oni subkomprenigas ian verbon.
+> La lingvo ne perdas en precizeco, ĉar tre ofte la precizeco ne estas utila ĉar kunteksto sufiĉas. Se oni vere bezonas la detalojn, oni povas klare esprimi ilin per aldonaj vortoj. La lingvo ne devigas pripensi informojn kiuj ne ĉiam estas utilaj.
 
-La akuzativa formo ne ekzistas en Langugu do tiu demando ne ekzistas.
+- Se oni bezonas precizecon aŭ detalon, anstataŭ lerni tute novan vorton, oni reuzas aliajn vortojn.
 
+> **fuli knowa** : *scii* (*tute 'koni'*)  
+> **somi knowa** : *koni* (*iom 'koni'*)  
 
-## 7: La prefikso por malo (mal-) estas pli ofte uzata
+- La afikso por *mal-* **na-** estas pli ofte uzata.
 
-Tiel lernantoj devas memori malpli da radikoj:
+> **nabuya** : *vendi*  
+> **nastanda** : *kuŝi*  
+> **nawisi** : *stulta*  
+> **nawati** : *tuje*  
 
-* nabuya (na-buya) : vendi (mal-aĉeti)
-* nastanda (na-standa) : kuŝi (mal-stari)
-* nawisi (na-wisi) : stulta (mal-inteligenta)
-* nawito (na-wito) : sen (mal-kun)
+- Ĝenerale, reuzado de radikoj estas pli vasta ol en Esperanto.
 
-Pli da ekzemploj troveblas en la kurso.
+## Substantivoj
 
+- Ĉiuj substantivoj finiĝas per **-u**, sed ankaŭ ĉiuj vortoj kiuj finiĝas per **-u** estas substantivoj. (En Esperanto, ekzistas vortoj kiel *do*, *pro*, kiuj ne estas substantivoj. Tutnovaj komencantoj povas misinterpreti ilin.)
 
-## 8: Akuzativo ne estas markita
+- La finaĵo de substantivoj (-u) uzas la vokalan literon kiu malplej oftas en la Angla. Plie, substantivo estas la plej ofta vortotipo en Langugu. Rezulte, la finaĵo tre ofte helpas aŭdi kiam vorto komenciĝas kaj finiĝas.
 
-La akuzativo kaj la neakuzativa uzo de la n-finaĵo estas konsiderataj kiel ĉefaj problemoj de Esperanta gramatiko ([fonto](https://eo.wikisource.org/w/index.php?title=Dosiero%3AUmujo_2a%2C_2016-08.pdf&page=12)).
+## "Akuzativo"
 
-En Langugu, akuzativo neniam estas markita:
+- La akuzativa formo de substantivoj (kaj adjektivoj) ne ekzistas. La vortordoj SVO (*Mi volas pomon*) kaj OSV (Mi volas pomon, *kiun vi havas*) sufiĉas.
 
-* mu lika katu : mi ŝatas katon
+> La akuzativa finaĵo estas redunda informo kun la vortordo. Ne estu du manieroj por esprimi la saman aferon, ĉar tiam homoj aŭ hezitas, aŭ uzas unu manieron sed forgesas la neforgesendan alian. Ĉiuj lingvoj ekhavas preferan vortordon (eĉ tiuj, kiuj havas akuzativon), do oni prefere uzi la vortordan informon.
 
-Por konstrui frazon, oni devas elekti pozicion por ĉiu vorto. Tio estas devigata de tempo (parole) kaj spaco (skribe). Nia mondo faras ke oni ne povas diri ĉiujn vortojn samtempe kaj samspace.
+> Rezulte, ne plu eblas fari erarojn kie oni forgesas uzi ĝin, aŭ kie oni uzas ĝin kiam oni ne devas. Respekti la vortordon sufiĉas. *Mi ŝatas kato*. *Vi estas bonan**.
 
-La pozicio de ĉiu vorto portas informon. Ekzemple, en Esperanto, la substantivo (o-vorto) kiu troviĝas plej proksime de la maldekstro de verbo estas normale la subjekto. La alia substantivo de la frazo (se ĝi ekzistas, kaj se ĝi ne estas post prepozicio), normale estas la objekto.
+- Oni ne povas uzi nekutimajn vortordojn, kiuj malfaciligas rapidan komprenadon.
 
-Kelkaj ŝatas diri ke la vortordo en Esperanto estas libera. Ke oni povus ekzemple ĉiam diri "Volas pomon mi". Tio eblas, sed tio ne apartenas al la efektiva lingvo. Se oni ĉiam uzas vortordon, kiu ne estas SVO aŭ OSV (en demandoj, rilataj subfrazoj aŭ emfazoj) oni estas strangulo kies parolado apartenas al poezia mondo.
+> *Volas min vi* estas poezia, sed ekzistas aliaj manieroj fari lingvan arton, kiuj ne malhelpas komprenadon. Se oni volas emfazi vorton, oni prefere reuzas simplan metodon kiel aldonon de adjektivo.
 
-***Ne havu malsamajn metodojn por esprimi la saman aferon***:
-- Aperas hezitado inter la metodoj (ĉu mi uzu la metodon 1 aŭ la metodon 2?)
-- Kiam du esprimoj signifas la saman aferon, sed skribiĝas malsame, homoj emas imagi nuancojn inter ili. Tiu nuanco estos poste lernenda. (ekz: Zamenhof imagis ke "*Pomon mi volas*" kaj "*Mi volas pomon*" estus samsignifaj. Sed en praktiko oni uzas la unuan nur se oni volas esprimi ion, kion la dua ne faras.
-- Se unu el tiuj metodoj estas deviga, oni kreas situaciojn kie la informo povas esti bone transdonita, sed la frazo estas gramatike malĝusta. Do situacioj kie iu, kiu nur volas esprimi sin, povas esti ĝenata de homoj, kiuj pensas ke gramatika ĝusteco pli gravas ol komunikado. 
+- Oni ne povas forgesi aldoni ĝin al apudaj adjektivoj.
 
-Tiu problemo okazas en Esperanto en frazo kia "*Mi manĝis pomo*". Absolute neniu bona parolanto de Esperanto povas miskompreni tiun frazon. Sed absolute iuj parolantoj korektos, ĉar ili kredas devi "savi" la lingvon, aŭ ili volas savi komencanton de aliaj pedantoj.
+> Adjektiva kongrueco estas nenatura por multe da homoj. Aĉas ke frazo kiel *Mi vidas bela katon* estas konsiderata malĝusta. La informo pri rekta objekto jam troviĝas en la vortordo kaj en la -n de kato. Se io estas komprenebla de parolantoj de helplingvo, ĝi devus esti gramatike ĝusta en tiu helplingvo.
 
-Kio fareblas por solvi tiun problemon?
-* Solvo 1 : forigi la markadon de akuzativo per *-n*.
-* Solvo 2 : forigi vortordojn.
+- Oni ne havas markilon kiu havas tro da malsamaj funkcioj.
+
+> -n estas nomata akuzativa finaĵo, sed ĝi fakte havas multe pli da funkcioj ol montri rektan objekton. Ofte, ĝi funkcias kiel anstataŭo al prepozicio kiel *dum* aŭ *en* (kelkaj funkcioj). Sufiĉe freneze, ĝi ankaŭ povas indiki "atingon" de loko, kaj tiam ĝi estas aldonebla al lokaj adverboj (*Mi iras arbaren*). Ĉiuj aldonaj funkcioj de -n, kiuj estas utilaj, povas esti anstaŭataj per prepozicioj. Entute, la akuzativa finaĵo aldonas nenion, kion la jama gramatiko jam povas doni.
+
+> Neniam estas dezirinde kiam markilo miksas malsamtipajn funkciojn, ĉar tiam lernanto ne tuj scias por kiu funkcio la markilo estas uzata.
+
+## "Pluralo"
+
+- La plurala finaĵo -j ne ekzistas. Kunteksto kaj adjektivoj ofte sufiĉas por havi informon de pluraleco (kiam ĝi gravas), do devigi uzi pluralan finaĵon ĉefe donas eblojn erari per nekongruaj frazoj.
+
+> **katu** : *kato* / *katoj*  
+> **oni katu** : *unu kato*  
+> **twi katu** : *du katoj*  
+> **mani katu** : *multaj katoj*  
+> **ali katu** : *ĉiuj katoj*  
+
+> Rezulte, eraroj kiel *tri kato** aŭ *ili estas bela** gramatike ne eblas. Oni ne bezonas relegi sin por kontroli nombran kongruecon.
+
+> Se precizeco utilas, pluraleco povas esti rapide indikita per la adjektivo **si**: **si katu** : *katoj*
+
+- Same, ne plu ekzistas adjektiva kongrueco.
+
+> Eraro kiel *multa katoj** ne eblas. Oni ne malfaciligu la kreadon de frazoj per reguloj kiuj devigas atenti pri pli da informoj ol estas bezonate por esti komprenata.
+
+## Pronomoj
+
+- Pronomoj estas substantivoj, do ili uzas la finaĵon de substantivo (ne la finaĵon de infinitiva verbo).
+
+> **mu** : *mi*  
+> **yu** : *vi*  
+
+- Por la tria persono, unu pronomo sufiĉas: **hu**. Ĉiam mencii genron estas nek oportuna, nek dezirinda se oni zorgas pri egaleca traktado de ĉiuj.
+
+> **hu** : *li* / *ŝi* / *ri* / ajna vivaĵo  
+
+> Por nevivaĵoj, agoj kaj konceptoj, oni normale uzas **ti** + nedevigata substantivo (pli da informoj pli sube)
+
+- Por "pluralaj" pronomoj, oni uzas la adjektivon de pluraleco **si**.
+
+> **si mu** : *ni*  
+> **si yu** : *vi*  
+> **si hu** : *ili*  
+
+> **si** ankaŭ povas esti metita post la koncernata substantivo)  
+
+> La informo de pluraleco ne estas devigata, do estas tute ebla uzi **yu** por plurala *vi*  
+
+- La informo de refleksiveco en la tria persono ne estas devigata per pronomo kiel *si*. Kunteksto tre ofte sufiĉas por scii ĉu pronomo estas uzata refleksive aŭ ne. (Se oni menciis nur unu personon ĝis nun, la pronomo estas tre verŝajne uzata refleksive.)
+
+> **hu hera hu** : *ri aŭdas rin* / *ri aŭdas sin*
+
+- Se oni volas esti pli preciza pri refleksiveco, oni povas aldoni adjektivon aŭ uzi alian substantivon.
+
+> **hu hera hu selfi** : *ri aŭdas sin*  
+> **hu hera hu oteri** : *ri aŭdas rin*  
+> (Adjektivo plej kutime estas antaŭ la vorto al kiu ĝi rilatas, sed tio ne estas strika regulo (pli da informoj pli sube))
+
+- Pronomo por *oni* ne ekzistas, ĉar ĝi estas ege redunda kun aliaj aferoj. Oni uzas la adjektivon/nombron **oni** (*unu*) kun nedeviga substantivo.
+
+> **oni** : *oni* / *iu* / *unu*
+
+- Rezulte, pri pronomoj, la radikoj  **mu**, **yu** kaj **hu** sufiĉas. Ili estas normalaj substantivoj, kio estas malfermita klaso (Do neniu povas plendi pri pronomo kiel "ri".). Por precizigi inecon, iĉecon aŭ alian genron aŭ socian aspekton, oni povas uzi adjektivon aŭ alian substantivon.
+
+## Difiniloj
+
+- La artikolo *la* ne ekzistas.
+
+> En Esperanto *la* estas malfacilega afero ([fonto 1](https://eo.wikisource.org/w/index.php?title=Dosiero%3AUmujo_2a%2C_2016-08.pdf&page=12), [fonto 2](https://lingvakritiko.com/2007/02/05/la-artikolo/), [fonto 3](https://bertilow.com/pmeg/gramatiko/difiniloj/la/index.html)). Ĝi donas informon, kiu ne ĉiam estas utila. Ĝi havas tro da funkcioj, el kiuj kelkaj estas redundaj. Ĝi foje aldonas neantaŭvideblajn signifojn kiel en "*la luno*" kaj "*la patro*", kiuj ne estas nur "*la*" kun substantivo. Eĉ inter spertaj parolantoj de Esperanto, ĉiu uzas "la" iom malsame, ĉefe pro influo de denaska lingvo.
+
+- Por diri ke oni parolas pri specifa afero, oni nur unu difinilon: la adjektivon **ti**.
+
+> **ti katu** : *tiu kato* / *ĉi tiu kato* / *ĉi tiu kato* / *ĉikato* / *la kato*
+
+> La angla havas devigatan informon pri proksimeco aŭ konateco per "this" aŭ "that". Tiu dunivele distingo estas malfacile instruebla (ĝi vere ne simple temas pri proksimeco), kaj ĉiu lingvo konsideras malsame kio estas sufiĉa por uzi iun formon aŭ la alian. Oni devas konsideri multe da aferoj, por io kio ne ĉiam estas utila. Kelkaj lingvoj kiel la franca kaj la germana ne ĉiam devigas tiun informon.
+
+> Ekzistas multaj metodoj por indiki proksimecon se tiu informo estas utila. Voĉe, oni povas insisti per gesto, skribe, oni povas aldoni **ti plasi** se oni parolas pri loka proksimeco, aŭ simple aldoni la adjektivon **neri**.
+
+> **ti katu ti plasi** : *ĉi tiu* (loke proksima) *kato*  
+> **ti si neri katu** : *ĉi tiuj proksimaj katoj*  
+
+## Adjektivoj kaj adverboj
+
+- Adjektivoj kaj adverboj, nomataj **modifilojn**, ĉiam finiĝas per **-i**. Aldoni modifilon estas la ĉefa maniero aldoni detalon.
+
+> Esperanto havas plurajn arbitrajn regulojn rilate al la uzo de *-e* aŭ *-a*. Ekzemple, se modifilo staras sole, oni devas uzi -e, eĉ se oni fakte priskribas ion. Se oni priskribas agon aŭ verbon per *estas*, oni devas uzi *-e*. Sed se oni priskribas la saman aferon per *tio* kun *estas*, oni devas uzi *-a*. Sed ankaŭ ekzistas malkonsentoj inter spertaj Esperantistoj pro la ekzisto aŭ ne de subkomprenita substantivo.
+
+> Per unika finaĵo por modifiloj, multaj eraroj ne estas eblaj:  
+> *aŭskulti muzikon estas komfortiga**  
+> *estas agrabla ke vi vizitis min*(*)    
+> *bona!**  
+
+> Realeco kaj vortordo sufiĉas por scii ĉu modifilo estas uzata ajektive aŭ adverbe. Same kiel por la neekzisto de la akuzativa finaĵo, oni profitas de la pozicia informo. Oni plejofte metas la modifilon antaŭ la vorto, al kiu ĝi rilatas. Por adverboj, la pozicio estas tre libera.
+
+> **mu fasti hava rabitu** : *mi rapide havas kuniklon*  
+> **mu hava fasti rabitu** : *mi havas rapidan kuniklon*   
+> **mu hava rabitu fasti** : *mi havas kuniklon rapide*  
+> **fasti mu hava rabitu** : *rapide mi havas kuniklon*  
+> **fasti nagodi** : *rapide malbona*    
+
+- Ĉiuj vortoj kiuj finiĝas per -i estas modifiloj.
+
+> Multaj oftaj adverboj en Esperanto ne finiĝas per *-e* (*ankoraŭ*, *nur*, *preskaŭ*, *pli*, multaj tabelvortoj...) Tio malfaciligas la lernadon de la vortotipo de tiuj vortoj sen bona kialo. Ekzemple, kelkaj lernantoj diras ion kiel "*Mi volas pli amikon.*"  
+
+- Nombroj estas ĝuste konsiderataj kiel adjektivoj do modifiloj, do ili finiĝas per **-i**.
+
+> **zeri katu** : *nul kato* / *neniu kato*  
+> **oni katu** : *unu kato*  
+> **twi katu** : *du katoj*  
+
+- Modifiloj neniam ŝanĝiĝas. Nenia *-j* aŭ *-n*. La informo jam troviĝas en la kunteksto aŭ en apudaj modifiloj.
+
+> Neniu dubo ĉu vorto kiel *unuj* aŭ *kelka* estas ĝusta.
+
+## Verboj
+
+- Verboj havas unikan finaĵon: **-a**. Ĉiuj vortoj, kiuj finiĝas per **-a**, estas verboj.
+
+- Ĉiuj verboj estas uzeblaj transitive. Do oni ne bezonas lerni ĉu verbo estas transitiva.
+
+> Kiam Esperanta netransitiva verbo estas tre ofte uzata kun la sama prepozicio, oni povas facile imagi tiujn verbojn transitivaj sen la prepozicio.  
+
+> **mu worka mi proyektu** : *mi laboras pri mia projekto*  
+> **mu kra mi katu** : *mi ploras pri mia kato*  
+> **hu figta nafrindu** : *ri batalas kontraŭ malamiko*  
+
+> Kiam oni povas facile imagi agon al io, kio rilatas al la radiko, ne indas malpermesi uzi la verbon tiel.  
+
+> **mu watera ti floweru** : *mi akvumas la floron*  
+> **mu inka ti paperu** : *mi metas inkon sur la paperon*  
+
+- Verboj ne havas internan transitivecon (aŭ netransitivecon).
+
+> Kelkaj vortoj povas esti uzata preskaŭ ĉiam transitive aŭ netransitive, sed tio ne signifas ke ili ĉiam devas esti. La ĉeesto de objekto estas preskaŭ ĉiam sufiĉa indiko de transitiveco.
+
+> **ti kaku burna** : *la kuko brulas*  
+> **ti ovenu burna ti kaku** : *ti forno bruligis la kukon*  
+> **tomatu growa** : *tomatoj kreskiĝas*  
+> **mu growa tomatu** : *mi kreskas tomatojn*  
+
+> Tio helpas malaltigi la nombrojn de duoblaj verboj en Esperanto, kiuj malsamiĝas nur de transitiveco:  
+
+> **ti filmu starta** : *la filmo ekas*  
+> **mu starta filmu** : *mi komencas filmon*  
+> **ti no kana!** : *tio ne eblas!*  
+> **mu kana swima** : *mi povas naĝi*  
+
+> Por pli da precizeco, oni povas aldoni **-ed-** aŭ **-er-** al la verbo, kio indikas direkton de la ago (pli da informoj troîgas pli sube).
+
+- La verbo *esti* estas mallonga, kaj ne estas devigata.
+
+> **yu ba nisi** / **yu nisi** : *vi estas afabla* / *vi afablas*  
+> **katu ba undero tablu** / **katu undero tablu** : *kato estas sub la tablo*  
+> **yu ba steleru!** / **yu ba steleru** : *vi estas ŝtelisto!*  
+
+> Multaj lingvoj ne havas aŭ ne devigas la uzon de priskriba aŭ ekzista *esti*. En multaj okazoj, estas oportune ne uzi ĉi tiun verbon. En Esperanto, la longeco de *estas* estas ĝena. Pro la natura emo al koncizeco, stataj verboj el adjektivoj iĝas preferataj. ("*Vi belas*" anstataŭ "*Vi estas bela*".) Tiuj novaj stataj verboj verŝajne ne facile aperos en Langugu ĉar "**Yu ba bigi**" jam koncizas, kaj diri "**Yu bigi**" jam eblas.
+
+## Voĉoj
+
+- Por indiki ke subjekto ricevas agon (kiel en pasiva voĉo), oni simple uzas verbon kun **-eda**.
+
+> **Katu kila** : *Kato mortigas*  
+> **Katu kila fisu** : *Kato mortigas katon*  
+> **Fisu kileda** : *Fiŝo estas mortig(a/i)ta*  
+> **Fisu kileda katu** : *Fiŝo estas mortig(a/i)ta de fiŝo*  
+
+> Komparu tion al Esperanto, kie oni devas 1) aldoni la verbon *esti*, 2) konjugacii ĝin laŭ tempo aŭ modo, 3) uzi participon kiu devigas informon pri aspekto (*ita* se la ago estas finiĝinta, *ata* se okazanta), 4) aldoni la prepozicion *de* se oni volas montri la aganton.
+
+> En Langugu, oni ne bezonas lerni plian gramatikaĵon. La pasiva formo estas kvazaŭ oni uzas alian verbon, kiu finiĝas per **-eda**, kiu diras ke la subjekto estas la ricevanto de ago.
+
+- Oni povas uzi **-eda** anstataŭ *-iĝ-* kiam ĝi estas uzata por indiki ke la subjekto ricevas agon.
+
+> **Doru kloseda** : *Pordo estas fermata* / *Pordo fermiĝas*  
+> **Wordu uzeda** : *Vorto estas uzata* / *Vorto uziĝas*  
+
+> Multaj Esperantistoj miskomprenas verbojn kun *-iĝ-*: ili kredas ke ĝi *uziĝas* nur kiam la aganto kaj la agato estas la sama afero. Multaj ekzemploj kie la subjekto de -*iĝ*- ne faras la agon mem (aŭ la si mem) *troviĝas* en Esperanto. Kaj ĉi tiu funkcio estas parte redunda al la pasiva formo. Kiel en la superaj ekzemploj, kaj tia konstruaĵo ŝajne oftiĝas koncizeco.
+
+> Se oni volas diri ke la aganto agas al si mem, oni ne bezonas ŝanĝi la verbon, oni povas aldoni objekton kiu referencas la subjekton, aŭ la adjektivon **selfi**.
+
+> **Doru klosa hu selfi** / **Doru klosa selfi** : *Pordo fermas sin*  
+
+- Kelkaj verboj, kiuj estas aŭ transitivaj aŭ netransitivaj depende de kunteksto, ne ĉiam estas klaraj kiam objekto ne ĉeestas. Tiam, oni povas uzi **-eda** kaj **-era** por precizigi direkton. **-era** uzas la signifon kiun la verbo klare havus se objekto ĉeestus.
+
+> **Personu burna** : *Persono bruligas* / *Persono brulas*  
+> **Personu burnera** : *Persono bruligas*  
+> **Personu burneda** : *Persono brulas*  
+
+## "Tempoj"
+
+- Verboj ne ŝanĝiĝas depende de tempo. La kunteksto kaj la resto de frazo ofte sufiĉas por scii ĉu la ago estas ligita al specifa tempo.
+
+> **Mu ofteni slepa** : *Mi ofte dormas*  
+> **Mu yusti eta** :* Mi ĵus manĝis*  
+> **Tomorowi mu dansa** : *Morgaŭ mi dancos*  
+> **Yu lerna** : *Vi lernas*    
+> **Mu worka foro hava moneyu** : *Mi laboras por havi monon*  
+> **Hu wanta hava katu** : *Ri volas havi katon*  
+
+> Tiel, eraroj kiel *mi ĵus manĝas**, *mi poste manĝi*, *mi volas manĝas** aŭ *mi ŝatas por ripozas** ne eblas. Ne estas bona ideo devigi ŝanĝi verbon laŭ tempa informo, ĉar tio kreas eblon erari, sen doni pli da komunika valoro.
+
+> Se la tempa informo mankas sed estas bezonata, oni povas facile aldoni ĝin per adverbo. Ekzemple, jen du utilaj adverboj: **pi** (*-is*) kaj **wili** (*-os*). Ili du iom malpli longas ol **befori** (*antaŭe*) kaj **afteri** (*poste*).
+
+> **Mu pi slepa** : *Mi dormis*  
+> **Mu wili slepa** : *Mi dormos*  
+
+## "Modoj"
+
+- Verboj ne ŝanĝiĝas depende de modo (*-u* aŭ *-us*).
+
+> Kiam io estas devigata, oni jam povas scii tion per la maniero diri kaj skribi (**!**), aŭ per klara aldono de la verbo **musta** (*devi*).
+
+> **Listena!** : *Aŭskultu!*  
+> **Yu musta wata** : *Vi atendu / Vi devas atendi*  
+
+> Kiam io estas volata, oni jam povas scii tion per la ĉeesto de verbo kiel "voli" aŭ "deziri" en la ĉeffrazo.
+
+> **Mu wanta ko yu lerna** : *Mi volas ke vi lernu*  
+
+> Kiam io estas imagata aŭ kondiĉa, oni jam povas scii tion per la ĉeesto de vorto kiel "se", "imagu", aŭ pro tio ke la frazo estas propona demando.
+
+> **Ifo yu listena, yu understanda** : *Se vi aŭskultus, vi komprenus*  
+> **Imagina ko katu kana fla** : *Imagu ke katoj povus flugi*  
+> **Do yu wanta kofu** : *Ĉu vi volus kafon?*
+
+En Esperanto, la finaĵoj *-us* kaj *-u* estas apenaŭ utilaj. Ili estas informe redundaj kun la aliaj vortoj menciitaj pli supre. *-u* estas malfacila, ĉar ĝi havas plurajn funkciojn. La devigo uzi la du finaĵojn estas ĝena, ĉar tio kreas eblojn erari:
+- *Mi ŝatus se vi venas.*
+- *Manĝas!*
+- *Mi volas ke vi manĝos*. (legu pli sube)
+
+Ĝena afero estas ke tempoj kaj modoj konkurencas por la sama pozicio en verbo. Oni ne povas uzi tempon kaj modon samtempe ("mi volusos manĝi"), kio devigas alivortigi (mi eble volos manĝi")
+- Mi *volusos* manĝi -> Mi *eble volos* manĝi  
+- Mi volas ke vi *manĝosu* -> Mi volas ke vi *poste* *manĝu*  
+
+Frazo kiel "*Mi volas ke vi manĝos*" estas ĝusta laŭ mi se la tempo (*-os* ĉi tie) estas pli grava informo ol la (jam esprimita) volateco (*-u*), sed multaj Esperantistoj malkonsentas.
+
+Per aldonaj verboj (**musta** (devas)...) aŭ adverboj (**maybi** (*eble*), **afteri** (*poste*)...), ĉiuj tiuj problemoj de konkurenco ne plu ekzistas. Oni povas uzi ilin libere kaj kiome oni volas. La lingvo ankaŭ estas tiel malpli arbitra, ĉar verboj kaj adverboj ne estas fermitaj klasoj, male al verbaj finaĵoj. (Kial nur du modoj? Kial ne tri? Kial du modoj de kelkaj hindeŭropaj lingvoj? Ili fakte ĉiuj uzas ilin iom malsame...).
+
+## "Aspektoj"
+
+- En Esperanto, oni povas esprimi ĉu ago estas finita aŭ okazanta per specialaj afiksoj (*-int-* *-it-* kaj *-ant-* *-at-*). Langugu ne esprimas aspektojn tiel. Anstataŭe, oni uzas adverbojn. Kiel ĉio en la lingvo, oni reuzas konceptojn anstataŭ lerni novajn.
+
+> **Katu nowi slepa** : *Kato estas dormanta (kato nunŭ dormas)*  
+> **Katu stili slepa** : *Kato estas dormanta (kato ankoraŭ dormas)*  
+> **Katu alredi slepa** : *Kato estas dorminta (kato jam dormis)*  
+
+## "Participoj"
+
+Ĉi tie, kiam mi parolas pri participoj, mi parolas pri ĉiuj vortoj kiuj enhavas la specialajn afiksojn *-int-* *-it-* *-ant-* *-at-* *-ont-* kaj *-ot-*.
+
+Participoj de Esperanto kunportas multajn problemojn:
+
+- Ilia uzo estas devigata kiom oni volas uzi la pasivan formon.
  
-La solvo 2 ne fareblas. Kial? Ĉar en ĉiuj naturaj lingvoj prefera ordo aperas. La plej ofta vortordo de lingvo ne ĉiam estas deviga vortordo, sed ĝia ofteco faras ke homoj rimarkas kiam alia vortordo (kiu estas malpli ofta) estas uzata. Tio signifas ke ne eblas forigi pozician informon. Tiu informo, se ĝi ne estas uzata, estos uzata de la lingva komunumo iumaniere. Pro la influo de preskaŭ ĉiuj lingvoj de la mondo, tiu pozicia informo emos indiki kie troviĝas subjekto aŭ verbo aŭ similaj konceptoj.
+Ekzemple, se oni volas diri ke mi ricevas la agon "*aŭdi*", oni devas elekti inter du formoj: *mi estas aŭdata*, aŭ *mi estas aŭdita*. Tio signifas ke oni devas doni informon pri aspekto (nefinita per "*aŭdata*" aŭ finita "*aŭdita*"). Sed, la aspekta informo ofte ne estas utila (se mi estas atakita aŭ atakata, mi ĉiuokaze iros al malsanulejo). Do kial malhelpi la uzon de la pasiva formo per troŝarĝita participo? Langugu ne havas tiun problemon ĉar la pasiva formo estas esprimebla per **-ed-**, sen aspekta informo. Resume: *Mi estas aŭd(i/a)ta* -> **Mu hereda**.
 
-Do la rezulto estas, ke se oni volas fari helplingvon, kie komprenebleco kongruas kun gramatika ĝusteco, tiam akuzativa formo por vortoj estas malbona ideo.
+- Ili entenas du nedisigeblajn informojn samtempe: voĉon (sen aŭ kun *n*) kaj aspekton (*i*, *a*, *o*).
 
-La *-n* de Esperanto estas eĉ pli malfacile lernebla pro tio ke ĝi ankaŭ estas uzata por aferoj, kiuj ne estas la rekta objekto de verbo (la vera akuzativo). Ekzemple, aldone al pozicia prepozicio ĝi povas indiki direkton (simile al *al*), kaj ĝi ankaŭ povas esprimi ion kion kelkaj prepozicioj kiel *je* kaj *dum* povas esprimi. En Langugu, anstataŭ uzi neklaran finaĵon, oni uzas la klaran ĝustan prepozicion.
+Tio signifas ekzemple, ke se oni volas krei adjektivon por priskribi aĵon, kiu ricevas la agon "*manĝi*", oni devas nepre elekti inter "*manĝita*" aŭ "*manĝata*". Tio estas neutila precizeco, kio postulas pli da tempo por pripensi. Kaj ankaŭ eblas ke oni intence ne volas esti tiom preciza. Je tiu afero, Esperanto estas pli aĉa ol la naturaj lingvoj, kie oni povas uzi "eaten" (EN) aŭ "mangé" (FR). En Langugu, por tiu ekzemplo, oni nur bezonas uzi **-edi**. *Manĝ(i/a)ta* -> **Etedi**.
 
+- Adjektivaj kaj adverbaj aktivaj participoj funkcias strange: ili povas preni rektan objekton, kvazaŭ ili estus verboj.
 
-## 9: Pluraleco ne ŝanĝas substantivojn
+"*Mi vidas katon trikantan lakton*".
 
-En Esperanto, kiam ekzistas pli ol unu afero, oni devas meti *-j* sur la substantivo de la koncernata afero (kaj ankaŭ sur la adjektivoj de ĉi tiu substantivo, sed mi parolos pri tio en alia parto):
+- Adjektivaj participoj estas oftege redundaj kun rilataj subfrazoj.
 
-* kato (unu kato)
-* kato*j* (*pli ol unu* katoj)
+La normala kaj simpla maniero diri "*Mi vidas katon trinkantan lakton*" estas per rilata subfrazo: "*Mi vidas katon, kiu trinkas lakton*". Tiel oni klare vidas kie estas la subjektoj kaj objektoj, kaj la verboj efektive havas verban finaĵon. Langugu nur permesas la manieron per rilata subfrazo. La rilata pronomo **ki** estas eĉ pli bona ol tiu en Esperanto ĉar ĝi estas unusilaba. Resume: *Mi vidas katon trinkantan lakton* = *Mi vidas katon, kiu trinkas lakton* -> **Mu eya katu, ki drinka milku**.
 
-Tiu informo de pluraleco (per ĉeesto de -j) aŭ de nepluraleco (per neĉeesto de -j) estas devigata al ĉiuj substantivoj. Tio ŝajnas simpla se onia denaska lingvon faras tion, sed ekzistas multaj lingvoj kiuj ne faras tion. Kiam la parolantoj de tiuj lingvoj lernas Esperanton, ili devas lerni novan kutimon: ĉiam konsideri la pluralecon kiam oni uzas substantivon. Tio estas laboro por la cerbo, kio malrapidigas kreadon de ĝustaj frazoj.
+- Adverbaj prepozicioj estas redundaj kun prepozicioj (*antaŭ*, *dum*, *post*, *per*, ...).
 
-Kiel parolantoj de tiuj lingvoj faras kiam ili volas indiki pluralecon, sed sen ŝanĝi substantivon? Tre ofte, ili aldonas adjektivon, kiu indikas pluralecon. Tiel oni ankaŭ faras en Langugu:
+Vidu la frazon "*Mi laboras aŭskultante muzikon*". Ĝi estas samsignifa al la frazo "*Mi laboras dum mi aŭskultas muzikon*". La sola avantaĝo de la formo kun la participo estas la nedevigo uzi la subjekton "*mi*". (Ial, ekzistas arbitra regulo ke uzi infinitivan verbon post "dum" ne eblas.) En Langugu, tiu afero ne ekzistas, ĉar uzi verbon rekte post prepozicio ĉiam eblas. Resume: *Mi laboras aŭskultante muzikon* = *Mi laboras dum mi aŭskultas muzikon* -> **Mu worka duringo/bo listena musiku**.
 
-* **oni** katu : kato / *unu* kato
-* **si** katu : kato*j* / *pluraj* katoj
-* twi katu : du katoj
-* mani katu : multaj katoj
-* ali katu : ĉiuj katoj
+Resume, oni ne vere bezonas participojn. Ili alportas problemojn al lernantoj, kaj ĉio, kion ili faras, estas farebla per aliaj gramatikaĵoj jamekzistantaj (= kiuj jam ekzistas).
 
-Ankaŭ Esperanto povas esprimi pluralecon per aldono de plurala adjektivo:
 
-* *unu* kato (unu kato)
-* *pluraj* katoj (pli ol unu katoj)
+## "Tabelvortoj"
 
-Kiel vi vidis pri la akuzativo, pri la pluraleco Esperanto ne sekvas la helplingvan principon:
+Langugu ne havas apartan gramatikan kategorion por la "tabelvortoj" de Esperanto. Langugu reuzas substantivojn kaj modifilojn. Tabelvortoj de Esperanto alportas multajn problemojn al komencantoj. Tio ĉefe okazas, ĉar ili ne bone reuzas la regulojn de Esperanta vortfarado.
 
-***Ne havu malsamajn metodojn por esprimi la saman aferon***
+- Multaj tabelvortaj partoj estas redundaj kun normalaj vortoj.
 
-Se ekzistas du metodoj, se oni uzas la unuan metodon (ekz: aldoni pluralan adjektivon), oni povas forgesi la duan, kaj se tiu dua metodo estas gramatike devigata (ekz: aldoni *-j* al plurala substantivo), tiam oni povas fari gramatikan eraron, eĉ kiam neniu povas miskompreni:
+"*-o*" samas al "*-afero*". "*-e*" samas al "*-loke*", "*-iam*" samas al "*-momente*", "*-iom*" samas al "*-kvante*", "*-iel*" samas al "*-maniere*", ktp. "*neni-*" samas al "*nul-*", "*i-*" similas al "*unu-*" aŭ "*specifa-*", ktp.
 
-* du kato
-* multaj kato
-* unu katoj
+- Tabelvortaj postpartoj kaŝas sian vortotipon (ĉu ili estas adverboj, ktp).
 
-Estas malagrable esti tute komprenebla, sed tamen esti gramatike malĝusta. Normalaj homoj lernas lingvon por esti komprenata, ne por esti gramatike ĝusta. Oni parolas por komuniki, ne por esti korektata. Do, ĉar en Langugu pluraleco esprimiĝas nur per adjektivoj, tiuj supre menciitaj eraroj ne povas okazi.
+"*-om*", "*-am*", "*-el*" ktp kreas adverbojn, sed ne havas la finaĵon "*-e*". ("*tiom*" kaj "*tiome*" estas samsignifaj).
 
-Fakte, oni ankoraŭ povus erari se oni uzas du kontraŭdirajn adjektivojn:
-* **oni** **twi** katu : *unu* *du* kato(j)
+- Tabelvortaj postpartoj estas konfuzeblaj kun aliaj gramatikaj markiloj.
 
-Sed estas malpli facile erari kiam oni devas konscie aldoni plian vorton.
+"*-u*" de tabelvorto ne estas "*-u*" de imperativo. "*-e*" de tabelvorto ne indikas manieron, sed lokon. Bonŝance, la "*-o*" por aĵo kreas substantivon, kaj la "*-a*" de tipo kreas adjektivon.
 
+- La tuta tabelvorta tabelo devas esti lernata kiel tuton por eviti erarojn de interpretado.
 
-## 10: Pluraleco ne estas devigata informo
+Tio estas bezonata pro tio ke tabelvortoj sekvas specialajn regulojn, kaj se oni ne scias ĉu vorto estas tabelvorto, oni povas ne uzi ĝin bone, aŭ oni povas misinterpreti la finaĵon.
 
-Jen alia helplingva principo:
+Ekzemple, se oni kredas ke "*ali-*" estas tabelvorta antaŭparto, oni interpretus "*alie*" kiel "*aliloke*". Sed "*alie*" fakte signifas "*alimaniere*", ĉar "*ali-*" ne estas tabelvorta antaŭparto, sed normala radiko, do "*-e*" ne estas la tabelvorta postparto pri loko ĉi tie, sed la finaĵo kiu kreas adverbojn.
 
-***Ne devigu informon, kiu ne ĉiam estas utila***
-* Se gramatiko devigas iun informon (ekzemple: pluraleco, tempo, aspekto, genro de persono, refleksiveco ktp.), la parolantoj devas pensi aŭ serĉi tiun informon. Sed ofte aldoni tiun informon ne estas utila, ĉar alia vorto aŭ frazo jam komunikis ĝin, aŭ la kunteksto sufiĉe.
-* Tiu "troŝarĝado" de informoj povas ankaŭ esti ĝena por aŭskultantoj: aŭskultantoj ne scias pri kiu informo koncentriĝi: ĉu iu informo estas intence donita aŭ ĉu ĝi estas ĉi tie pro gramatika devigo? Efektive, se oni rajtas komuniki nur tion, kion oni volas, tiam aŭskultantoj scias ke ili aŭdas nur tion, kion oni volas ke ili aŭdu. (Ekz: se lingvo ne devigas mencii genron en pronomo, se oni uzas genran pronomon, tiam la aŭskultanto scias ke genro gravas al la konversacio).
+- La tabelvorta tabelo havas arbitran grandecon.
 
-Jen kiel la nedevigeco de pluraleco montriĝas en Langugu:
-* katu : kato *aŭ* katoj
-* **oni** katu : kato (*unu* kato)
-* **si** katu : katoj (*pluraj* katoj)
+Se oni plisekvus la tabelvortan modelon, oni povus utile havi antaŭpartojn por paroli pri io alia "*ali-*", aŭ pri io sama "*sam-*". Sed la problemoj menciitaj pli supre ne permesas pligrandigi la tabelon per klara maniero. Do aŭ Esperanto malklariĝos, aŭ ĝi pluvivos laŭ tiu arbitra hindeŭropeca tabelo.
 
-Ĉu homoj vere volus skribi frazon kiel **mu lika katu** (*mi ŝatas katon* AŬ *mi ŝatas katojn*? Ĉu tia frazo ne estus tro malpreciza?
+- Tabelvortoj devigas lerni novajn esceptajn regulojn pri kunmetado.
 
-Unue, ĉiu frazo troviĝas ene de specifa kunteksto. Kunteksto helpas kompreni, kaj gramatiko de bona helplingvo devus povi akcepti tion. En la kunteksto kie du homoj parolas pri siaj plej ŝatataj bestoj, **mu lika katu** estas pri katoj ĝenerale. En la kunteksto kie homo vizitas amikon kiu havas iun katon, **mu lika katu** estas pri tiu singulara kato.
+Tabelvorta antaŭparto ĉiam devas veni kun tabelvorta postparto. Oni ekzemple ne povas diri "*ti-loke*", sed oni devas diri "*tiu-loke*". Oni ne povas diri "*ali-e*" (por diri "*aliloke*") sed "*ali-ie*".
 
-Due, ĉiam eblas precizigi per adjektivo, do ne ekzistas perdo de libereco. (Fakte estas gajno de libereco per la eblo nemencii pluralecon). Se aŭskultanto konfuziĝis, ĉar la manko de pluraleca informo igis pensi pri aliaj nerilataj katoj, tiam la parolanto povas ripeti kun preciziga adjektivo. La parolanto iĝas responsa pri tio, kion ri diras. Imagante esti en la situacio de la aŭskultantoj, la parolanto scias ĉu ri bezonas aldoni plian informon (aŭ ne) por ke la aŭskultantoj havu sufiĉe (sed ne tro) por ĝuste kompreni.
+- Tabelvorta antaŭparto estas esence redunda kun adjektivoj kaj adverboj, aŭ kunmetado de ili.
 
+"*Nenio*" samas al "*Nulaj aferoj*" (**Zeri tingu**). "*Iel*" samas al "*Unumaniere*" (**Oni maneri**).
 
-## 11: Pluraleco ne ŝanĝas ligitajn adjektivojn
+Se Esperanto havus normalan radikon por "*ti-*", "*ki-*", "*ĉi-*" (kaj eble ankaŭ por ), la lingvo entute ne plu bezonus tabelvortojn. Oni povus esprimi ĉiujn el ili per kunmetado de normalaj radikoj laŭ la normalaj reguloj de kunmetado.
 
-En Esperanto, kiam substantivo estas plurala, tiam siaj adjektivoj devas ankaŭ porti la finaĵon *-j*.
+Langugu havas normalajn radikojn por la tuta tabelvorto, kaj ili estas sufiĉe mallongaj. Por "*ti-*", Langugu reuzas la difinan modifilon **ti**. Por "*ki-*", **ki**. Por "*ĉi-*", **ali**. Ekzemple, oni povas traduki tiel: "*Tie*" -> **Ti plasi**, "*Ĉia*" -> **Ali tipi**".
 
-* via*j* bela*j* katoj
-* ĉiu*j* katoj estas bela*j*
+- Multe da Esperantistoj konfuzas "*tiu*" kaj "*tio*".
 
-Oni facile rimarkas, ke la informo pri pluraleco jam troviĝas sur la substantivo (*katoj*). Do kial ripeti tiun informon? En la Angla, oni ne faras tion: adjektivoj ne ŝanĝiĝas depende de pluraleco.
+Oni normale uzas "*tiu*" sen posta substantivo kiam oni parolas pri koncepto kiun oni jam enkondukis. Se oni ne enkondukis koncepton, oni plej verŝajne parolas pri persono. Sed oftege anglalingvaj unulingvuloj uzas "*tiu*" kiam ili devus uzi "*tio*". Tio eĉ okazas ĉe spertaj parolantoj.
 
-Komparu kun Langugu (por la samaj frazoj):
+Kelkaj homoj, ofte pli komencantaj, ankaŭ uzas "*tio*" (= *tiu afero*) antaŭ substantivo... Tiom da problemoj okazas parte ĉar la angla lingvo uzas la saman vorton "that" en ambaŭ okazoj. Fakte, ne nur la angla faras tion. Tio estas tre ofta en lingvoj de la mondo, kaj oni ĉiam bone komprenas.
 
-* yi preti **si** katu
-* **ali** katu ba preti
+Langugu ne agas kontraŭ kutimo de la plej studata lingvo de la mondo, kiam tiu kutimo ne estas esence malbona. En ambaŭ okazoj, oni povas uzi "**ti**" en Langugu. Se substantivo ne troviĝas post ĝi, oni povas supozi la ekziston de nemenciita "**tingu**" (*afero*).
 
-Eraroj pri -j sur adjektivoj estas tre  oftaj en Esperanto. Surprize, ankaŭ ĉe homoj, kies denaskaj lingvoj ŝanĝas la adjektivon. Eble ĉar kiam oni parolas novan lingvon, oni ankoraŭ ne havas sufiĉe da tempo por atenti pri ĉiuj detaloj (ekzemple pluraleco) kiuj riskas ŝanĝi formon de vorto.
 
-Du argumentoj estas ofte prezentataj favore al markado de pluraleco sur adjektivoj en Esperanto:
+## Prepozicioj
 
-1) Tio helpas scii al kiu substantivo la adjektivo rilatas, ĉar se la adjektivo portas *-j*, ĝi devas esti pri substantivo kiu portas *-j*.
+- Prepozicioj ĉiam finiĝas per **-o**. Ili do estas pli facile rekoneblaj kaj malpli konfuzeblaj kun vortoj de aliaj vortotipoj.  
 
-Pri Esperanto (kaj Langugu), mi ne povas facile imagi situacion kie tio helpas. Oni jam scias al kiu substantivo adjektivo rilatas, ĉar la substantivo troviĝas apud ĝi. (Kutime, oni metas la adjektivon tuj antaŭ la substantivo, foje tuj post ĝi, foje post la verbo "esti"). En la malmultegaj okazoj, kie ne estas klare al kiu substantivo adjektivo rilatas, oni povas ripeti la substantivon.
+- Kelkaj prepozicioj de Esperanto, kiuj estas ofte erare uzataj, aŭ kiuj estas neutile troprecizaj, iĝas la sama vorto.
 
-2) Tio donas "redundecon" al la informo de pluraleco. Se pro misprononcado, pro misaŭdo aŭ pro bruo, la *-j* de la substantivo ne estas aŭdita, la *-j* de la adjektivo tamen povas esti aŭdita. Tiel la informo de pluraleco havas pli da ŝancoj esti transdonita.
+> **Mu playa wito frindu** : *Mi ludas kun amiko*  
+> **Mu playa wito balu** : *Mi ludas per pilko*  
+> **Oni twifu ofo pizu** : *Duono de pico*  
+> **Glasu ofo yusu** : *Glaso da suko*  
 
-Al tiu argumento de "redundeco", mi respondas ke jam ekzistas solvo (kiu ekzistas en ĉiuj lingvoj) kontraŭ perdo de informo: peti ke oni ripetu (la frazon aŭ la vorton). Kiel rezulto de tiu fakto, jen plia helplingva principo:
+- La ĝenerala prepozicio **bo** estas pli ofte uzeblaj ol "*je*" de Esperanto. Kune kun la fakto ke ĉiuj verboj estas uzeblaj transitive, lernantoj devas malpli ofte lerni "kiu prepozicio iras kun kiu verbo".
 
-***Ne devigu ripeti informon.***
+> **Dogu playa bo parku** : *Hundo ludas en parko*  
+> **Hu liva bo mi hosu** : *Ri vivas/loĝas ĉe mia domo*  
+> **Si hu beliva bo meritu** : *Ili kredas je merito*  
+> **Si yu apera bo webplasu** : *Vi (ĉiuj) aperas en/sur retejo*  
 
+> Ankoraŭ ekzistas aliaj prepozicioj se oni volas esti preciza (**insido**, **duringo**...), sed oni neniam estas devigata esti preciza. Oni jam povas diri multe per malmultaj prepozicioj.
 
-## 12: Pronomoj funkcias kiel substantivoj
+- Prepozicioj ne estas fermita klaso. Oni povas krei novan per aldono de la finaĵo -o al iu radiko x. Tiam la signifo similas al "**bo x to/ofo**" (*en/je x al/de*). Tiuj novaj prepozicioj ofte estas oportunaj.
 
-En Langugu, ĉiuj substantivoj finiĝas per **-u**:
+> **tanko** : *en danko al* / *danke al*  
+> **Mu pi suksesa tanko yi helpu** : *Mi sukcesis danke al via helpo*  
+> **kaso** : *en (o)kazo de* / *(o)kaze de*  
+> **Kaso firu, klosa ti doru** : *Okaze de fajro, fermu tiun pordon*  
+> **komparo** : *kompare al*  
+> **Mu no bigi komparo yu** : *Mi ne grandas kompare al vi*  
 
-* katu : kato
-* tingu : afero
+- Ne ekzistas arbitra regulo, kiu diras ke oni ne rajtas uzi verbon rekte post prepozicio (krom prepozicioj de limigita listo kiel "*por*" "*sen*" ktp). Pro tiu regulo, oni ofte ŝanĝas la verbon al substantivo, sed tio ne ĉiam estas oportuna. (Ekzemple kiam la o-formo ne signifas klaran unuopan agon.)
 
-Pronomoj ankaŭ estas substantivoj, ili do finiĝas per la sama finaĵo:
+> **Mu lerna wito reda** : *Mi lernas per legi*  
+> **Mu lerna wito reda boku** : *Mi lernas per legi libron*  
 
-* mu : mi
-* yu : vi
+- Ne ekzistas "pro/ĉar"-distingo. Tio signifas ke oni povas meti substantivon aŭ frazon post prepozicio sen devi ŝanĝi la vorton. Prepozicio ĉiam estas uzebla por ambaŭ.
 
-Kial ili finiĝas per *-i* en Esperanto? Ĉar oni ofte konsideras pronomon kiel propran vortoklason, kiu sekvas regulojn iom malsamajn de normalaj substantivoj.
+> **Mu eta bekaso wantu** : *Mi manĝas pro volo*  
+> **Mu eta bekaso mu wanta** : *Mi manĝas ĉar mi volas*  
+> **Mu eta foro livu** : *Mi manĝas por vivo*  
+> **Mu eta foro mu liva** : *Mi manĝas por tio ke mi vivu*  
+> **Mu ba hapi spito nawinu** : *Mi feliĉas malgraŭ malvenko*  
+> **Mu ba hapi spito mu nawina** : *Mi feliĉas kvankam mi malvenkas*  
 
-Ĉu tiu distingo inter substantivoj kaj pronomoj vere estas utila? Substantivoj jam povas fari ĉion, kion pronomoj povas. La sola granda diferenco en Esperanto estas ke pronomo kun *-a* (do -ia) esprimas nur posedon, dum por normalaj substantivoj, tiu *-a* povas esprimi pli da aferoj (posedon interalie).
 
-Jen principo, kiun Langugu provas sekvi:
+## Vortfarado
 
-***Reuzu gramatikajn regulojn anstataŭ krei novajn***
+- Kiam oni kunmetas du radikojn, la rezulta koncepto devas esti precizigo de la dekstra radiko. Kunmetaĵo kiel "*ter-pom-o*" ne eblas, ĉar *terpomo* ne estas tipo de *pomo*.
+  
+- La signifo de derivitaj vortoj kiam oni ŝanĝas la lastan finaĵon estas pli regula, kaj la rezulto povas esti pli vaste komprenata.
 
-Ĝenerale, **oni evitu krei novajn vortoklasojn** (kiuj arigas vortojn laŭ la gramatikaj reguloj, kiujn la vortoj devas sekvi):
-- Nova vortoklaso signifas novajn gramatikajn regulojn, kiuj devas esti memorataj.
-- Oni devas memori al kiu klaso apartenas vorto. Ju pli da klasoj, des pli da eblaj duboj. (Bonŝance en Esperanto, oni scias ke pronomo estas pronomo (kaj ne verbo) ĉar ĝi estas mallonga, sed tio ankaŭ limigas la nombron de eblaj pronomoj se oni konsideras tion kiel regulon).
-- Vortoklaso riskas esti perceptata kiel "fermita", tio estas ke parolantoj ne kuraĝas aldoni novan vorton al tiu vortoklaso, aŭ ne sentas tion *ĝusta*.
+> "say/a" (verbe baza)  
+> **saya** : *diri*  
+> **sayu** : *diro* (*diraĵo* aŭ *dir-ago*)  
+> **sayi** : "*dira*" (io kiel *dirita* aŭ *dirata* aŭ *dirinta* aŭ *diranta*)  
 
-En Esperanto, se "pronomoj" ne estus propra vortoklaso, kaj do ili estus normalaj "substantivoj", malpli da homoj kredus ke la vortoklaso estus fermita. Malpli da homoj plendus pri la pronomo "ri", kaj tio bonas ĉar tiu vorto estas bezonata, oportuna, kaj ĝi jam objektive apartenas al la lingvo. Esperantistoj estus pli agrablaj al Esperantistoj.
+> "water/u" (substantive baza)  
+> **wateru** : *akvo*  
+> **watera** : "*akvi*" (io kiel *akvumi* aŭ *akvigi*)  
+> **wateri** : *akva*  
 
-Malpli da arbitraj fermitaj klasoj signifas ke membroj de la lingvokomunumo povas pli facile aldoni kaj forigi vortojn depende de bezono (per la natura lingvouzado). La lingvo do povas pli facile adaptiĝi al la evoluo kaj al la bezonoj de la parolantaro. La eraroj de lingvokreanto (kiu ekzemple forgesus meti gravan vorton en iu klaso) povas pli facile esti riparataj fare de la lingvokomunumo.
+> "korekt/i" (modifile baza)  
+> **korekti** : *ĝusta*  
+> **korekta** : *ĝustigi*   
+> **korektu** : "*ĝusto*" (io kiel *ĝusteco* aŭ *ĝustigo*)    
 
+> Se oni bezonas pli precizan interpreton de tiuj vortoj, oni povas kunmeti plian radikon (ekzemplo troviĝas pli sube).
 
-## 13: Pronomoj estas malmultaj
+- Por eviti duoblaĵojn kiel aro/grupo, ejo/loko, preskaŭ ĉiuj "afiksoj" de Langugu estas normalaj radikoj.
 
-* **mu** : *mi* / *ni*
-* **yu** : *vi*
-* **hu** : *ĝi* / *ri* / *li* / *ŝi* / *ili*
+> **plasu** : *loko* / *ejo*  
+> **webplasu** : *retejo*  
+> **bosu** : *ĉefo* / *estro*  
+> **businesbosu** : *entreprenestro*  
+> **partu** : *parto* / *ero*  
+> **sandpartu** : *sablero*  
 
-Tri pronomoj sufiĉas por paroli pri ĉio. ***Malaltigu la nombron de memorindaĵoj.*** Tiu planlingva principo estas la plej komprenebla: se oni devas memori pli da vortoj (aŭ esceptoj), oni devas studi pli longe, sed ne ĉiuj homoj pretas aŭ povas studi pli longe.
+- Ĉar "afikso" estas fakte normala radiko kiun oni kunmetas, kaj ĉar oni povas libere enkonduki novajn radikojn, neniu povas kunmetadon de radiko kiu havus la signifon de "*-iĉ-*" en Esperanto (*iĉo* estas iĉgenra persono).
 
-Por multaj homoj kiuj ne bone konas lingvojn, malmultaj vortoj signifas malmultan esprimpovon. Tio ne veras se lingvo havas produktivan gramatikon, kiu permesas havi senlimajn esprimeblojn pro senfinaj ebloj de kunmetado (ene de frazo aŭ ene de vorto). Memori vorton aldonas nur unu esprimpovon, sed memori produktivan gramatikan regulon aldonas multe pli da povoj.
+- Multaj afiksoj de Esperanto ne alportas grandan valoron. Prefere al ili, oni reuzas la gramatikajn regulojn kiuj jam ekzistas rilate al la uzo de substantivoj, modifiloj kaj verboj.
 
-Kiam Esperanto uzas pluralan pronomon, Langugu reuzas la fakton, ke oni povas esprimi pluralon (aŭ nepluralecon) per modifilo:
+> **bigi** : *granda* / *ega*  
+> **bigi boku** : *granda libro* / *librego*  
+> **memberu** : *membro* / *ano*  
+> **famili memberu** : *familiano*   
+> **maka** : *igi* / *fari*  
+> **maka godi** / **goda** : *igi bona* / *bonigi*
 
-* **oni** : iu / unu
-* **si** : plura
-* **oni mu** : mi
-* **oni yu** : vi (unu persono/afero)
-* **oni hu** : ĝi / ri / ...
-* **si mu** : ni
-* **si yu** : vi (pluraj personoj/aferoj)
-* **si hu** : ili
+- Kelkaj afiksoj de Esperanto havas tro proksiman signifon, kaj oni ne ĉiam bezonas esti tiom preciza.
 
+> **etplasu** : *manĝejo* / *manĝujo* / *manĝingo* / *manĝloko*  
+> **bakeru** : *bakisto* / *bakanto* / *bakulo* / *bakilo*  
 
-## 14: Pronomoj ne devigas indiki genron (*li*, *ŝi*)
-
-Bona helplingvo bezonas genroneŭtralajn pronomojn, ĉar se oni devas serĉi la genron de la personoj, pri kiuj oni parolas, oni devas elspezi iom da cerbumado al tio. Tio malfaciligas la kreadon de ĝustaj frazoj, eĉ kiam genro tute ne gravas al tio, kio estas dirata. ***Ne devigu informon, kiu ne ĉiam estas utila***
-
-Ni vivas en socio kie homoj estas diskriminaciataj laŭ genroj. Lingvo kiu devigas mencii genron estas lingvo kiu devigas esti ebla viktimo de diskriminacio. Lingvo kiu helpas diskriminacion ne estas dezirinda.
-
-Genro en Langugu esprimeblas per modifilo, kiun oni povas libere meti apud substantivo kiel pronomo. 
-
-* **mali** : *iĉa*
-* **femi** : *ina*
-* **enbi** : *ipa*
-* **hu** : *ri*
-* **mali hu** : *li*
-* **femi hu** : *ŝi*
-* **enbi hu** : ???
-
-Modifiloj (kaj substantivoj) ne estas fermitaj klasoj. Homoj povas libere krei aŭ uzi tiom da malsamaj modifiloj, kiom estas genroj aŭ aliaj formoj de socia identiĝo. Do, je pronoma nivelo, parolantoj de Langugu vere povas esprimiĝi kiel ili mem volas, sen arbitra limo.
-
-
-## 15: Pronomoj ne devigas indiki refleksivecon (*si*)
-
-La pronomo *si* ofte estas konsiderata kiel unu el la plej malfacilaj aferoj en Esperanto. ["Si" alportas multajn arbitrajn regulojn](https://bertilow.com/pmeg/gramatiko/pronomoj/si/index.html) (ekzemple, ĝi ne povas esti subjekto, ĝi povas esti uzata nur por la tria persono, ...), kiuj povis esti facile evitata.
-
-La ĉefa problemo de *si* estas ke ĝi devigas atenti pri refleksiveco (aŭ nerefleksiveco) ĉiam, kiam oni uzas tripersonan pronomon (kiel ĝi, ri, ktp). Tio postulas memori ekzakte kiu estas la gramatika subjekto dum la tuta frazo. 
-
-En Esperanto:
-* Li lavas *lian* sakon : Li lavas *aliies* sakon
-* Li lavas *sian* sakon : Li lavas *propran* sakon
-
-(En Esperanto ne eblas koncize esprimi "li lavas aliies aŭ propran sakon".)
-
-Tiu devigo de refleksiveca informo postulas mensan gimnastikon, kiu ne ĉiam estas normala en la plimulto de lingvoj de la mondo. Anstataŭe, tiuj lingvoj ofte uzas kuntekston por scii ĉu temas pri ago al la subjekto mem aŭ al io alia.
-
-En la angla kaj la franca, por precizigi la refleksivecon de poseda pronomo, adjektivo povas esti aldonita:
-
-En la angla:
-* He washes his bag : Li lavas sian/lian sakon
-* He washes his *own* bag : Li lavas *sian* sakon
-
-En la franca:
-* Il lave son sac : Li lavas sian/lian sakon
-* Il lave son *propre* sac : Li lavas *sian* sakon
-
-Do en tiuj okazoj, parolantoj de la angla kaj la franca povas esprimi posedon sen zorgi pri refleksiveco. Tio funkcias bone, kaj tio estas pli simpla ol en Esperanto. ***Ne devigu informon, kiu ne ĉiam estas utila***.
-
-En Langugu, la informo de refleksiveco ne estas devigata. Oni povas indiki ĝin laŭbezone per adjektivo:
-* **selfi** : *propra*
-* **oteri** : *alia*
-* Hu wasa hi bagu : Li lavas sian/rian sakon
-* Hu wasa **selfi** (hi) bag : Li lavas *sian* sakon
-* Hu wasa **oteri** hi bagu : Li lavas *rian* sakon
-
-Tiu metodo ankaŭ funkcias por neposedaj pronomoj (kaj por ĉio alia):
-* Hu wasa hu : Li lavas sin/rin
-* Hu wasa **selfi** (hu) : Li lavas *sin*
-* Hu wasa **oteri** hu : Li lavas *lin*
-
-Principe, kial havi plian pronomon por refleksiveco (*si*) kiam oni jam havas adjektivon por refleksiveco (*propra*/**selfi**)? ***Ne havu malsamajn metodojn por esprimi la saman aferon***. 
-
-
-## 16: *oni*, *iu* kaj *unu* estas la sama vorto
-
-* **oni** : *oni* / *iu* / *unu*
-
-En Esperanto, ofte okazas ke iu uzas *unu* aŭ *iu* anstataŭ la ĝustan *oni*. Tio ne povas okazi en Langugu ĉar "tabelvortoj" kaj "nombroj" ne estas apartaj vortoklasoj. Ili ne bezonas propran vorton.
-
-**oni** estas modifilo. Kiam ĝi ne troviĝas antaŭ substantivo, oni povas imagi la vorton **personu** (persono) post ĝi.
-
-* **oni** (personu) musta wera masku : *oni* devas porti maskon / *iu* (persono) devas porti maskon / *unu* (persono) devas porti maskon
-
-
-## 17: Informo pri proksimeco ne estas devigata kiam oni montras ion
-
-En la angla, kiam oni volas montri ion, oni devas elekti unu el du "demonstrative" (singulare): "this" aŭ "that". Ĝenerale, oni diras ke oni uzu "this" kiam la afero estas proksima, kaj "that" kiam la afero estas malproksima, sed en praktiko, en detaloj, la reguloj por la ĝusta elekto estas tre malsimplaj.
-
-[Kelkaj lingvoj ne devigas tiun informon de proksimeco.](https://wals.info/chapter/41) Ekzemple en la franca lingvo, anstataŭ heziti inter "this" aŭ "that", oni povas ĉiam kun certeco uzi "ce" (kaj ties fleksiajn formojn "cet" "cette" ktp). Parolantoj de la franca do ne bezonas ĉiam atenti pri "proksimeco".
-
-Tio ne signifas ke la franca estas malpli esprimpova ol la angla, tio nur signifas ke la franca ne devigas tiun informon kiam ĝi ne estas utila: en situacio kie la alparolato povas ne esti certa pri kio oni parolas (kiam kunteksto ne sufiĉas), oni povas aldoni "-ci" kiu indikas ke oni parolas pri io pli proksima ol io alia, aŭ oni povas aldoni "-là" kiu indikas ke oni parolas pri io malpli proksima ol io alia. Tiu funkcimaniero kongruas kun la principo ***Ne devigu informon, kiu ne ĉiam estas utila***.
-
-Denaskuloj de la franca havas multe da problemoj kiam ili lernas la anglan. Por ili, [tiu distingo "this/that" ne estas natura, kaj devigas atenti pri multe pli da aferoj ol nura "proksimeco](http://cle.ens-lyon.fr/anglais/se-former/les-precis-et-le-workbook/precis-de-grammaire/this-that-these-those). Ankaŭ okazas problemoj por denaskuloj de aliaj lingvoj, kiuj ankaŭ havas du-vortan sistemon: ili devas lerni novan *ŝanĝpunkton*. Efektive, kiam io estas sufiĉe proksima por uzi "this" en la angla, tio eble ankoraŭ ne estas sufiĉe proksima por la "this" de alia lingvo! Kompare al tio, la franca "-ci" (la afero estas pli proksima ol alia afero) estas multe pli klara.
-
-Kaj nun, mia persona sperto:
-
-Kiam oni provis instrui al mi la anglan lingvon en lernejo, unu el la plej malfacilaj aferoj por mi estis ĝuste uzi "this" aŭ "that". La klarigo de la instruisto estis tia: "se la afero estas proksima, oni uzas "this", se la afero estas malproksima, oni uzas "that"".
-
-Tiu klarigo ne kontentigis min (kaj daŭre ne kontentigas). Kiel oni scias ĉu io estas sufiĉe proksima por povi ĝuste uzi "this"? Kiom da centimetroj for de mia korpo devas esti afero por ke ĝi postulu "that"? La respondo fakte dependas de multege de detaloj, kiuj ne rekte rilatas al proksimeco. Tiuj influaj detaloj ne estas konsciaj por denaskuloj, aŭ ne plu estas konsciaj por spertaj parolantoj.
-
-Mi tamen sukcesis lerni kiel uzi "this" aŭ "that" ĝuste. Sed tio ne estis per simpla klara gramatika regulo ĉiamfunkcianta (tia regulo ne ekzistas), sed pro aŭskultado de miloj da horoj de anglalingva parolado. Mi devis konsumi amason da anglaĵoj ĝis kiam mi akiris la "senton por ĝi": Mi uzu "this" kiam en simila kunteksto kaj por tiu vorto, anglalingvulo uzus "this". Same por "that". Iom post iom, mi povis elekti la ĝustan pli rapide.
-
-Laŭ mi, helplingvo ne funkciu tiel. ***Gramatikaj reguloj devas esti precizaj kaj sufiĉaj***, tio estas: oni ne devu kutimiĝi al lingvo dum miloj da horoj por uzi ion same ĝuste kiel bonaj parolantoj.
-
-La ĝusta ("this" aŭ "that") efektive dependas de multege da detaloj: ĉu oni volas krei kontraston kun io malpli proksima (sed kiu en absoluta mezuro ankaŭ estas proksima), ĉu oni volas atentigi pri io nova aŭ pri io jam komune konata, ĉu oni volas mencii ion lastatempe aŭ ĵus priparolitan (eĉ se ĝi ne estas proksima space aŭ tempe), ĉu oni volas emfazi pri la specialeco aŭ la netaŭgeco de io, ĉu estas kadre de la fiksita esprimo "this or that" (eĉ se la du aferoj same proksimas). Oni ankaŭ devas memori la fiksitajn signifojn de multaj kombinaĵoj, ekzemple "this weekend" ne signifas "this" kun "weekend" sed "the next week end in the future starting from now".
-
-Sed tiu problemo estas specifa al la angla, ĉu ne? Oni povus krei planlingvon kun devigata "this/that"-distingo, kiu sekvus simplan regulon? Unue, mi ne pensas ke tio estas ideala (pro la devigata informo), due, mi ne pensas ke tio eblas. Ekde kiam oni havas devigatan "this/that"-distingon, oni devas lerni multe da kaŝitaj reguloj, ekzemple pri:
-* Kie troviĝas la ŝanĝpunkto ekde kiam oni devas uzi "this" aŭ "that"?
-* Kiel fari en situacioj kie fizika loko ne ekzistas, ekzemple kiam oni parolas pri konceptoj, aŭ kiam oni parolas pri io sur ekrano?
-* Kion fari kiam la proksimecoj lokaj, tempaj kaj konversaciaj ne interkongruas?
-
-En detaloj, oni ne scios. Do homoj verŝajne uzos la distingon "this/that" imite al sia denaska lingvo, do en maniero ne tute regula, kaj en maniero iom unika por ĉiu lingva deveno.
-
-Por konkludi, jen kiel tio funkcias en Langugu: ekzistas nur unu vorto por montri: la adjektivo **ti**:
-* Mu lika **ti** katu : "I like **this** cat" / "I like **that** cat"
-
-Se oni volas mencii proksimecon (aŭ malproksimecon), oni povas fari tion per adjektivo kiu indikas proksimecon (aŭ malproksimecon):
-* Mu lika ti **neri** katu : "I like this cat" / "I like the cat, which is **near**"
-* Mu lika ti **naneri** katu : "I like that cat" / "I like the cat, which is **far**"
-
-Tiel oni reuzas aferojn, kiuj jam estas en la lingvo, kaj tiel oni estas multe pli klara ol la multsignifa "this" de la angla, aŭ *ĉi* de Esperanto.
-
-
-## 18: Ne ekzistas difina artikolo kiel "la"
-
-La difina artikolo *la* ofte estas konsiderata kiel ĉefa problemo de Esperanta gramatiko ([fonto](https://eo.wikisource.org/w/index.php?title=Dosiero%3AUmujo_2a%2C_2016-08.pdf&page=12)). Imitante naciajn lingvojn, la uzado de difina artikolo sekvas multajn neklarajn regulojn. (Ĝi ankaŭ sekvas multajn malregulaĵojn, ekzemple se oni parolas pri *la luno*, oni ne parolas pri LA luno, sed pri specifa astro, kiun oni povus pli klare nomi *laluno*.). Por parolantoj de lingvoj, kiuj ne havas difinan artikolon, estas tre malfacile uzi ĝin ĝuste en Esperanto. Ankaŭ ne helpas ilin ke fluaj parolantoj mem ne ĉiuj uzas ĝin tute sammaniere, kaj ne ĉiuj estas same toleremaj pri kio estus ĝusta uzo de ĝi.
-
-[PMEG](https://bertilow.com/pmeg/gramatiko/difiniloj/la/index.html) bone listigas gramatikajn regulojn ligitajn al *la*. Se vi volas havi ideon pri la problemoj, kiujn homoj renkontas pro *la*, mi invitas vin legi [ĉi tiun artikolon](https://lingvakritiko.com/2007/02/05/la-artikolo/). (Estas ironie ke en la artikolo, *la* estas uzata iom strange apud pluralaj substantivoj.)
-
-La ĉefa rolo de *la* en Esperanto estas mencii ke oni parolas pri afero, kiu jam estas konata de la leganto (aŭ aŭskultanto). Oni tiam parolas pri afero, kiu jam estis **difinita**: *Mi ŝatas katon*. *La kato estas bela*. Ĉi tie oni parolas pri la sama kato.
-
-Sed oni ankaŭ povas esprimi difinitecon en Esperanto per alia maniero: *tiu* aŭ *ĉi*: *Mi ŝatas katon*. *(Tiu) (ĉi) kato estas bela*. Resume, estas redundeco de funkcio. Mi fakte rimarkis, ke en preskaŭ ĉiuj okazoj, kie oni uzas *la*, oni povus uzi *tiu* sen perdo en kompreno. La kelkaj fojojn, kiam tio ne funkcias, oni povas facile aldoni adjektivon (*mema*), de komplemento (*de nia planedo*) aŭ subfrazo (*kiun mi menciis.*)
-
-Kompreneble, oni ne donu plurajn manierojn por esprimi la saman aferon, ĉar tiam aperus malklaraj reguloj, kiuj dirus kiam oni uzu iun formon aŭ la alian.
-
-En Langugu estas simple: *la*, kiam ĝi esprimas difinitecon (ekzemple kiam oni montras ion, kion oni jam menciis), estas tradukebla per **ti**.:
-* Mu lika katu. **Ti** katu ba preti : Mi ŝatas katon. *La* kato estas bela. = Mi ŝatas katon. *Tiu* kato estas bela.
-
-Fakte, multege da lingvoj de la mondo uzas la [saman vorton por la difina artikolo (la) kaj la montra vorteto (tiu)](https://wals.info/feature/37A#2/25.5/148.9).
-
-
-## 19: Adjektivoj kaj adverboj havas la saman formon
-
-Multe da eraroj en Esperanto venas de la uzo de adjektiva finaĵo kiam la adverba finaĵo devas esti uzita.
-
-Konsideru ĉi tiujn frazojn:
-* *Prepari pastaĵon estas rapida*
-* *Estas bona ke vi sukcesis*
-* *Bona!*
-
-Kvankam ili estas tute bone kompreneble, ili estas konsiderataj eraraj laŭ plimulto de spertaj Esperantistoj. Respektive, devus esti *rapide*, *bone*, kaj *bone* (eĉ se en la lasta, oni povis intenci diri *bona novaĵo!*).
-
-Kial? Ne vere ekzistas bona kialo por tio. Simple estis decidite ke tio estu tiel en Esperanto. Kiam oni priskribas agon ("prepari pastaĵon"), frazon ("vi sukcesis"), aŭ kiam priskribo estas skribite sole, la priskriba vorto devas havi la finaĵon -e.
-
-Tio estas arbitra, kaj iras kontraŭ la kutimoj de multaj naciaj lingvoj (kio okazigas erarojn de uzo fare de ties uzantoj). Esperantistoj povus esti toleremaj, kaj akcepti ambaŭ formojn (la lingvo estus pli facila!), sed nia lingva komunumo estas tro preskribema: el malsamaj vortaj formoj, oni konstante kreas regulojn laŭ kiuj oni devus uzi iun formon aŭ la alian.
-
-Kiel oni povus fari, por ke homoj ne agu kontraŭ siaj kutimoj? Jen simpla solvo: ne havi vortan diferencon inter a-vorto kaj e-vorto! Tiel, homoj ne plu povas heziti inter ambaŭ! En Langugu, ĉiuj adjektivoj kaj adverboj, nomitaj modifiloj, finiĝas per -i.
-
-* god**i** : bon*a* / bon*e*
-
-Se ambaŭ *bona* kaj *bone* uzas la saman formon, kiel scii kiam **godi** estas uzata adjektive aŭ adverbe? Per pozicio kaj kunteksto. Oni ĝenerale metas modifilon antaŭ la vorton, kiun ĝi modifas. Se modifilo modifas substantivon, ĝi funkcias kiel Esperanta adjektivo, se ne, ĝi funkcias kiel Esperanta adverbo. Esence, la funkcio de modifilo ĉiam estas la sama: nuancigi aŭ priskribi ion sen ŝanĝi la esencon.
-
-* god**i** kat**u** : bon*a* kato
-* god**i** slep**a** : bon*e* dormi
-
-"La modifilo antaŭ la modifita vorto" ne estas strikta regulo. Kunteksto kaj verŝajneco pli gravas, kaj kiam ili preskaŭ ĉiam sufiĉas, ne valoras malfaciligi lingvon. Libereco de pozicio (sen ŝanĝo de formo) utilas, ĉar kiam oni kreas frazojn, oni ne ĉiam pensas pri ĉiuj detaloj ĝustatempe.
-
-Kelkfoje, oni povas heziti, kiam modifilo povas modifi du vortojn: **mani likedi katu** povas signifi *multaj ŝatitaj katoj* aŭ *multe ŝatita kato*. Se kunteksto ne helpas scii ke temas pri multaj katoj, oni povas facile solvi tion per eta movo de la modifiloj. Ekzemple per **likedi mani katu** aŭ **mani katu likedi**, oni pli certas ke temas pri multaj katoj. Per **katu mani likedi**, oni pli certas ke temas pri kato tre ŝatita.
-
-Oni povas demandi sin ĉu la finaĵoj de Esperanto -a kaj -e ne estus pli simplaj, sed per ili oni iom malpli bezonus pensi pri vortordo. Ekzemple, se adverbo troviĝas tuj antaŭ substantivo, oni jam certas ke ĝi ne temas pri la substantivo. Miaimprese, tio helpas maloftege. Oni ĉiuokaze devas lerni la vortordojn de adjektivoj kaj adverboj en Esperanto, se oni ne volas soni strange (vidu "*Mi lernis serioze lingvojn multajn*", "*Mi ŝatas vin tre*", "*Blankaj tute floroj*).
-
-Preferoj pri vortordo en la lingvokomunumo ekzistas aŭ nature aperas. La vortordo Subjekto Verbo Objekto iom forigas la utilecon de la finaĵo -n. Simile, la vortordo Adjektivo Substantivo, kaj Adverbo Verbo iom forigas la utilecon de du finaĵoj -a kaj -e. Oni profitu de la pozicia informo, kiu ĉiuokaze ekzistas. Esperanto estas pli malfacila ol Langugu, ĉar ne nur oni devas lerni regulojn pri uzo de -a aŭ de -e en Esperanto, oni ankaŭ devas lerni la vortordojn.
+> Se oni bezonas pli precizan interpreton de tiuj vortoj, oni povas kunmeti plian precizigan radikon, ekzemple "*bakilo*" estus "**baktolu**" aŭ io alia.
