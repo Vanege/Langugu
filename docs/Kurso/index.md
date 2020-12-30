@@ -1,6 +1,6 @@
 Se vi povas paroli Esperanton kaj iom la Anglan, vi povas lerni Langugu tre tre rapide. Anstataŭ memori novajn gramatikajn regulojn kaj vortojn, vi ĉefe bezonos forgesi kelkajn malsimplaĵojn de Esperanto.
 
-Se vi havas demandon, vi vidu la [Gramatikon](/Gramatiko/Gramatiko) aŭ demandu al parolantoj de Langugu per [Telegram](https://langugu.telegramo.org). Se vi volas legi tekston en Langugu, vidu la [Vikion](https://langugu.fandom.com/wiki/Langugu). Se vi volas skribi aŭ kompreni tekston en Langugu, provu la [Korektilon](https://vanege.github.io/langugi-korekteru/).
+Se vi havas demandon, demandu al parolantoj de Langugu per [Telegram](https://langugu.telegramo.org). Se vi volas legi tekston en Langugu, vidu la [Vikion](https://langugu.fandom.com/wiki/Langugu). Se vi volas skribi aŭ kompreni tekston en Langugu, provu la [Korektilon](https://vanege.github.io/langugi-korekteru/).
 
 
 ## 0: Elparolo
@@ -8,18 +8,26 @@ Se vi havas demandon, vi vidu la [Gramatikon](/Gramatiko/Gramatiko) aŭ demandu 
 Jen la literoj de Langugu:
 
 Vokaloj: **a e i o u**   
-Konsonantoj: **b d f g h k l m n p s t w y r v z**  
+Konsonantoj: **ch b d f g h j k l m n p s sh t w y r v z**  
 
-Ĉiu litero elparoliĝas kiel en la [Internacia Fonetika Alfabeto](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), do kiel en Esperanto, kun tiu escepto:
+* **ch** kaj **sh** estu konsiderataj kiel unu litero
 
+Ĉiu litero elparoliĝas kiel en la [Internacia Fonetika Alfabeto](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), do kiel en Esperanto, kun tiuj esceptoj:
+
+* **ch** elparoliĝas kiel en la Angla, do kiel *ĉ* en Esperanto
+* **sh** elparoliĝas kiel en la Angla, do kiel *ŝ* en Esperanto
+* **j** elparoliĝas kiel en la Angla, do kiel *ĝ* en Esperanto
 * **y** elparoliĝas kiel en la Angla, do kiel *j* en Esperanto
-* **w** elparoliĝas kiel *ŭ* en Esperanto, sed ĝi ankaŭ povas komenci silabon
+* **w** elparoliĝas kiel en la Angla, do kiel *ŭ* en Esperanto
 
 Por malofte konataj sonoj, multaj variaĵoj estas akceptataj kaj bone funkcias, ekzemple:
 
-* **r** povas esti elparolita kiel *l*, kaj ĉiuj naciaj variaĵoj de "r"  
-* **v** povas esti elparolita kiel *b*  
-* **z** povas esti elparolita kiel *s*  
+* **ch** povas esti elparolata kiel *ts*
+* **sh** povas esti elparolata kiel *s*
+* **j** povas esti elparolata kiel *y*
+* **r** povas esti elparolata kiel *l*, kaj kiel ĉiuj naciaj variaĵoj de "r"  
+* **v** povas esti elparolata kiel *b*  
+* **z** povas esti elparolata kiel *s*  
 
 Kompare al Esperanto, Langugu havas malmulte da vortoj, kie konsonantoj troviĝas apude. Tamen, laŭ bezono aŭ stilo, inter du konsonantoj, oni rajtas elparoli [ə](https://en.wikipedia.org/wiki/Schwa):
 * wanta: /wanta/ aŭ /wanəta/
@@ -88,12 +96,21 @@ Se estas sinsekvo de la sama konsonanto, nur unu restas. (Do "ss" iĝas **s**, "
 
 * **maneru** : maniero ("manner") ("nn" iĝis **n**)
 
-Se la litero h troviĝas tuj post konsonanto, ĝi malaperas.
+Se la litero "h" troviĝas tuj post konsonanto, kaj ĝi ne sekvas "s", "c" aŭ "p", ĝi malaperas.
 
 * **tingu** : afero ("thing") ("h" estas post la konsonanto "t")
 * **hosu** : domo ("house") (tie "h" ne malaperis)
 
-Vi ne bezonas parkeri la regulojn de la [Algoritmo](/Gramatiko/Algoritmu). Oni uzas ĝin nur kiam io ne estas esprimebla per vortoj de la [korektilo](https://vanege.github.io/langugi-korekteru/) aŭ kunuzado de ili.
+Se la litero "h" troviĝas post "s" aŭ "c", ĝi ne malaperas. Kaj la "sh" aŭ "ch" estas elparolataj kiel *ŝ* aŭ *ĉ*.
+
+* **fishu** : fiŝo ("fish")
+* **childu** : infano ("child")
+
+Se la litero "h" troviĝas post "p", "ph" iĝas "f".
+
+* **fotu** : foto ("photo")
+
+Vi ne bezonas parkeri la regulojn de la [Algoritmo](/Kurso/#_29-algoritmo). Oni uzas ĝin nur kiam io ne estas esprimebla per vortoj de la [korektilo](https://vanege.github.io/langugi-korekteru/) aŭ kunuzado de ili.
 
 Vi finis la duan lecionon! Jen **godi tingu** farita!
 
@@ -185,7 +202,9 @@ Pronomoj finiĝas per **-u**, ĉar ili estas normalaj substantivoj:
 
 * **mu** : mi / ni
 * **yu** : vi
-* **hu** : ĝi / ri / ... / ili
+* **hu** : ĝi / ri / ... / ili (por vivaĵo)
+
+(Por konceptoj kaj nevivaĵoj, oni kutime uzas **ti**, vi legos pri tiu vorto pli poste.)
 
 Jen ĉio. Oni ne bezonas indiki socian statuson aŭ genron. Tamen, povas esti oportune esti preciza pri nombro. Tiel oni povas fari:
 
@@ -194,7 +213,7 @@ Jen ĉio. Oni ne bezonas indiki socian statuson aŭ genron. Tamen, povas esti op
 * **oni hu** : ĝi / ri / ...
 * **si mu** : ni
 * **si yu** : vi (pluraj personoj/aferoj)
-* **si hu** : ili
+* **si hu** : ili (por vivaĵoj)
 
 Indiki pluralecon ne estas devige en Langugu, do eblas uzi **yu** kiel "you" de la angla (singulare kaj plurale). Sed plejofte, se oni ne uzas **si**, oni parolas pri unu persono/afero:
 
@@ -362,7 +381,7 @@ Jen kelkaj utilaj adverboj por esprimi nivelojn de certeco:
 Ofte, stranga Esperanta frazaĵo tradukiĝas per adverbo:
 
 * Yu **progresi** lerna : Vi *iom post iom* lernas  
-* Si mu neda helpa **resiproki** : Ni devas helpi *unu la alian*  
+* Si mu musta helpa **resiproki** : Ni devas helpi *unu la alian*  
 
 Memoru ke se vi bezonas helpon, vi povas peti en la [grupo en Telegram](https://langugu.telegramo.org)!
 
@@ -386,16 +405,16 @@ Ekzistas du tre utilaj mallongaj tempaj modifiloj, kiuj esprimas ĝeneralan is-t
 Kompreneble, oni ne ĉiam bezonas ilin. Ekzemple, se oni jam scias ke la ago okazas antaŭe aŭ poste:  
 
 * **Befori**, mu hava nagodi internetu : *Antaŭe*, mi hav*is* malbonan interreton  
-* **Afteri**, mu sanga mi komputeru : *Poste*, mi ŝanĝ*os* mian komputilon  
+* **Afteri**, mu changa mi komputeru : *Poste*, mi ŝanĝ*os* mian komputilon  
 
 Jen kelkaj aliaj utilaj tempaj modifiloj, kiuj estas pli precizaj.
 
-* Mu **yusti** nabegina : Mi *ĵus* fin*is*  
+* Mu **justi** nabegina : Mi *ĵus* fin*is*  
 * Mu **soni** begina : Mi *baldaŭ* komenc*os*  
 
 Jen aliaj ekzemploj por tagoj:
 * **Naneksti dayi**, mu meta frindu : *Hieraŭ*, mi renkont*is* amikon  
-* **Nowi dayi**, mu playa playu : *Hodiaŭ*, mi lud*as* ludon  
+* **Nowi dayi**, mu playa : *Hodiaŭ*, mi lud*as*  
 * **Neksti dayi**, mu kala famili memberu : *Morgaŭ*, mi vok*os* familianon     
 
 **Ti neksti lesoni, yu wili lerna oteri importanti tingu!**
@@ -510,18 +529,18 @@ Vortoj kun eda permesas multe malgrandigi la nombron de lernendaj verboj kompare
 * lika : ŝati ("to like")
 * likeda : plaĉi (al) ("to please")
 
-**Yu yusti nabegina importanti tingu. Ti neksti lesonu wili ba esi.**
+**Yu justi lerna importanti tingu. Ti neksti lesonu wili ba esi.**
 
 
 ## 13: Nombro
 
 Substantivoj ne ŝanĝiĝas depende de ĉu oni parolas pri pluraj aŭ nur unu afero:
 
-* sildu : infano / infanoj
+* childu : infano / infanoj
 
 Oni scias kiam substantivo estas plurala per kunteksto, aŭ per aliaj elementoj, kiuj jam indikas pluralecon:
 
-* mani sildu : multaj infanoj
+* mani childu : multaj infanoj
 * namami adultu : malmultaj adoltoj
 * **somi** kompanu : *kelkaj* firmaoj
 * **eksesi** problemu : *tro da* problemoj / *troaj* problemoj
@@ -582,7 +601,7 @@ Nombro povas iĝi orda vorto per aldono de **-ifi** al la radiko:
 Oni povas uzi komparajn modifilojn:
 * Ti mesagu ba **mori** simpli : Tiu mesaĝo estas *pli* simpla
 * Ti eksamplu ba **namori** kleri : Tiu ekzemplo estas *malpli* klara
-* Ti partu ba **mosti** nahabiti : Tiu parto estas *plej* stranga
+* Ti partu ba **mosti** nahabiti : Tiu parto estas *plej* malkutima
 * Mu **mori lika** pikturu : Mi *preferas* bildon
 
 Por kompari al alia afero, oni povas uzi la prepozicion **tano** (*ol*) antaŭ tiu afero:
@@ -623,7 +642,7 @@ Jen tradukoj por Esperantaj tabelvortoj (kaj eĉ pli):
 -am : timi|ti timi|ki timi|oni timi|ali timi|zeri timi|oteri timi|ani timi|...
 -e : plasi|ti plasi|ki plasi|oni plasi|ali plasi|zeri plasi|oteri plasi|ani plasi|...
 -el : maneri|ti maneri|ki maneri|oni maneri|ali maneri|zeri maneri|oteri maneri|ani maneri|...
--om : musi|ti musi|ki musi|oni musi|ali musi|zeri musi|oteri musi|ani musi|...
+-om : muchi|ti muchi|ki muchi|oni muchi|ali muchi|zeri muchi|oteri muchi|ani muchi|...
 ...|...|...|...|...|...|...|...|...
     
 La tabelo ne estas fermita, oni povus ekzemple havi plian kolumnon por **everi** (*ĉiu*), aŭ plian linion por **temi** (*teme*). (La tabelvorto por **tiuteme**/**tiurilate** estus *ti temi*)
@@ -632,7 +651,7 @@ Kiel en Esperanto, **ki** estas uzebla kaj por fari demandojn, kaj por komenci r
 
 * **Ti tingu** hava preti koloru : *Tio* (Tiu afero) havas belan koloron 
 * **Ti plasi** eroru ba : *Tie* eraro estas
-* Horu hava **ki musi** minutu? : *Kiom* da minutoj havas horo?
+* Horu hava **ki muchi** minutu? : *Kiom* da minutoj havas horo?
 * Yu wanta oteri plasu **ki resoni**? : *Kial* vi volas alian lokon?
 * **Oni timi**, fami personu pi visita mi urbanu : *Iam* (*Unufoje*), fama persono vizitis mian urbon
 * Mu **zeri maneri** kana finda solvu : Mi *neniel* povas trovi solvon
@@ -660,7 +679,7 @@ Se la respondo de la demando devas esti **yeso** (*jes*) aŭ **no** (*ne*), oni 
 Se la respondo de la demando devas esti afero, oni metas **ki** (*ki-*) antaŭ la informo, kiun oni volas, kaj ? en la fino:
 * **Ki** hapena? : *Kio* okazas?
 * Yu pi saya **ki**? : *Kion* vi diris?
-* Ti kosta **ki musi**? : *Kiom multe* tio kostas?
+* Ti kosta **ki muchi**? : *Kiom multe* tio kostas?
 * **Ki answeru** ba korekti? : *Kiu respondo* estas ĝusta?
 * **Ki timi** yu koma? : *Kiam (kiumomente)* vi venas?
 
@@ -694,7 +713,7 @@ La prepozicio **bo** indikas ĝeneralan proksimecon kaj rilaton. En Esperanto, �
 * Si yu apera **bo** webplasu : Vi ĉiuj aperas *en*/*sur* retejo
 * Si mu sita **bo** tablu : Ni sidas *ĉe* tablo
 * Mu nastanda **bo** bedu : Mi kuŝas *sur* lito
-* No sosa ti onifi **bo** ti listu : Ne elektu la unuan *sur* la listo
+* No chosa ti onifi **bo** ti listu : Ne elektu la unuan *sur* la listo
 
 **bo** estis kreita pro pluraj kialoj:
 - Kelkaj prepozicioj, kiun ĝi anstataŭas, sonas tro simile: "ino" kaj "ono" sonas tro simile al **no**, kaj "ato" sonas tro simile al **to** (alia prepozicio).
@@ -728,7 +747,7 @@ Lokaj prepozicioj:
 > Katu hideda **bako** furnituru : Kato estas kaŝata malantaŭ meblo  
 > Ti dormplasu ba **abovo** ti kokplasu : La dormĉambro estas *super* la kuirejo  
 > Mi keybordu ba **betweno** mi skrenu ando mi mosu : Mia klavaro estas *inter* mia ekrano kaj mia muso  
-> Pusa hu **undero** ti doru : Puŝu ĝin *sub* la pordo  
+> Pusa ti **undero** ti doru : Puŝu ĝin *sub* la pordo  
 > Ti leteru A ba ofteni listeda **beforo** Z : La litero A estas ofte listigata *antaŭ* Z  
 > Puta ti wordu **aftero** ti oteri : Metu tiun vorton *post* la alia  
 
@@ -812,11 +831,11 @@ Jen aliaj tre utilaj prepozicioj:
 Oni povas indiki kondiĉan aŭ teorian subfrazon per **ifo** (*se*, *ĉu*):
 
 > Upa handu **ifo** yu agra : Levu/Altigu manon *se* vi konsentas  
-> Mu no knowa **ifo** hu eksista : Mi ne scias *ĉu* ĝi ekzistas  
+> Mu no knowa **ifo** ti eksista : Mi ne scias *ĉu* tio ekzistas  
 
 Oni povas indiki tion, kio okazas se kondiĉo estas plenumita, per nedeviga **teno**:
 
-> Ifo ti boku ba interesti, **teno** mu wili sosa hu : Se tiu libro estas interesa, *tiam* mi elektos ĝin
+> Ifo ti boku ba interesti, **teno** mu wili chosa ti : Se tiu libro estas interesa, *tiam* mi elektos ĝin
 
 "Konjukcioj" estas traktataj kiel prepozicioj:
 
@@ -827,7 +846,7 @@ Oni povas indiki tion, kio okazas se kondiĉo estas plenumita, per nedeviga **te
 > Yu eta **ando** afteri yu wasa : Vi manĝas *kaj* poste vi purigos  
 > Tolu foro eta ba forku **ando** knifu : Iloj por manĝi estas forko *kaj* tranĉilo  
 > Mali parentu, femi parentu **oro** oteri, ti no ba importanti : Iĉa parento (/ patro), ina parento (/ patrino) *aŭ* alia, tio ne gravas  
-> Do yu yoka **oro** do yu saya ti nayoki? : Ĉu vi ŝercas *aŭ* ĉu vi diras tion serioze?  
+> Do yu joka **oro** do yu saya ti najoki? : Ĉu vi ŝercas *aŭ* ĉu vi diras tion serioze?  
 
 Notu ke prepozicioj en Langugu ne estas fermita klaso: eblas krei novajn:
 
@@ -845,7 +864,7 @@ Tio kompreneble ankaŭ funkcias rilate al la Angla "in substantivo to/of":
 * "in front of" -> **fronto**
 * "instead of" -> **stedo**  
 
-Oni ne trouzu la eblon krei prepoziciojn. Ili ne ĉiam estas facile kompreneblaj, kaj ĉiam pli bonas esprimi sin per vortoj, kiuj jam konatas en la lingvo.
+Oni ne trouzu la eblon krei prepoziciojn. Ili ne ĉiam estas facile kompreneblaj, kaj ĉiam pli bonas esprimi sin per vortoj, kiuj jam estas konataj en la lingvo.
 
 
 ## 20: Prepozicio (3)
@@ -911,29 +930,29 @@ Jen kelkaj oftaj:
 * **uwu** : esprimas ĝojon, kontentigon aŭ ajnan agrablan senton
 
 > yi haru ba mani softi **uwu** : via haro estas tre mola 😌   
-> ti katu atenta hi sildu **uwu** : tiu kato zorgas pri sia infano ❤️ 😍   
+> ti katu atenta hi childu **uwu** : tiu kato zorgas pri sia infano ❤️ 😍   
 > **uwu** ti hava godi tastu! : *ho*, tio havas bonan guston! ☺️  
 
 * **ewe** : kiam oni volas esprimi malaprobon aŭ minaci
 
-> **ewe**, ti ba mi kaku, no tosa! : *hej*, tio estas mia kuko, ne tuŝu! 😠  
+> **ewe**, ti ba mi kaku, no tocha! : *hej*, tio estas mia kuko, ne tuŝu! 😠  
 
 * **ono** : esprimas negativan sperton, kompaton aŭ ajnan malagrablan senton
 
 > **ono**, mi komputeru no mori worka : *ve*, mia komputilo ne plu funkcias 😨😰😱  
 > **ono**, yu no kana simpli maka moneyu! : *neee*, vi ne povas simple fari monon! 😭  
-> **ono**, mi pi walka bo krapu : *fek*, mi marŝis sur fekaĵon 🤢
+> **ono**, mi pi walka bo shitu : *fek*, mi marŝis sur fekaĵon 🤢
 
 * **haha** : esprimas amuziĝon aŭ ridadon
 
 > **haha**, moneyi printeru maka brr : *haha*, monprintilo faras brr 😆  
-> **haha**, yu pi walka bo krapu : *mdr*, vi marŝis sur fekaĵon 😂  
+> **haha**, yu pi walka bo shitu : *mdr*, vi marŝis sur fekaĵon 😂  
 
 * ho : esprimas pli malpli ĉiujn esprimojn de interna sento
 
 > **ho** : *ho*
 
-**oko** (*okej*), **so** (*nu*, *do*) kaj **ando** (*kaj*) estas la ĉefaj "plenigaj vortoj" de Langugu, tio signifas ke ili estas uzataj por... plenigi konversacion. Ili utilas ekzemple por peti atenton de aŭskultanto, rompi ĝenan silenton aŭ por doni al si tempon.
+**oko** (*okej*), **so** (*nu*, *do*, *tiom*) kaj **ando** (*kaj*) estas la ĉefaj "plenigaj vortoj" de Langugu, tio signifas ke ili estas uzataj por... plenigi konversacion. Ili utilas ekzemple por peti atenton de aŭskultanto, rompi ĝenan silenton aŭ por doni al si tempon.
 
 > **Oko**... mu preparedi foro ga : *Okej*... mi pretas por iri  
 > **So**... ki hapena naneksti dayi? : *Nu*/*Do*... kio okazis hieraŭ?  
@@ -941,7 +960,7 @@ Jen kelkaj oftaj:
 
 Kiel en Esperanto, **oko** ankaŭ estas uzebla por rapide indiki komprenon aŭ konsenton. **So** estas uzebla ĉie kie *do* estas uzebla en Esperanto.
 
-Se oni volas diri al iu, ke oni ne ŝatas tiun, oni povas diri **krapu to yu** (*fek al vi)*. Male, por diri ke oni ŝatas iun, oni povas diri **hugu to yu** (*brakumo al vi*).
+Se oni volas diri al iu, ke oni ne ŝatas tiun, oni povas diri **shitu to yu** (*fek al vi)*. Male, por diri ke oni ŝatas iun, oni povas diri **hugu to yu** (*brakumo al vi*).
 
 
 ## 22: ko-subfrazo
@@ -1001,7 +1020,7 @@ Esperanto havas tutan serion de vortoj kun rilata rolo: *kiu*, *kio*, *kie*, *ki
 
 En la supra ekzemplo, **ki plasi** evidentigas ke oni parolas pri **plasu** (*loko*) de la ĉeffrazo.
 
-* Ti pandu wili nameda **ki timi** hu hava oni montu : La pando estos nomata *kiam* ĝi havos unu monaton.
+* Ti pandu wili nameda **ki timi** hu hava agu ofo oni montu : La pando estos nomata *kiam* ĝi havos aĝon de unu monato.
 * Mu wanta knowa **ki resoni** yu pi naada ti artiklu : Mi volas scii *kial* vi forigis (malaldonis) la artikolon.
 * Ti nayongi personu rita **ki maneri** babu drawa : Tiu maljunulo skribas *kiel* bebo desegnas  
 
@@ -1020,7 +1039,7 @@ Sed **Mu koma ki yu wanta** ne estas sence ĝusta, ĉar oni ne scias pri kio oni
 
 **Mu koma ti timi yu wanta** ankaŭ estas malĝusta, ĉar mankas **ki** por klarigi kion **yu wanta** faras en la frazo. Tio estas kvazaŭ skribi *Mi venas tiam vi volas*.
 
-**Yu yusti nabegina naesi (buto importanti) lesonu ofo ti korsu. Normali, yu fela nowi ko yu kana saya mani tingu, ki yu no kana saya befori.**
+**Yu justi reda naesi (buto importanti) lesonu ofo ti korsu. Normali, yu fela nowi ko yu kana saya mani tingu, ki yu no kana saya befori.**
 
 
 ## 24: Lando, lingvo
@@ -1033,7 +1052,7 @@ Nomoj de landoj en Langugu simple estas la nomoj de la landoj en la Angla, post 
 * **rusu** : *Ruslando* ("Russia")
 * **yapanu** : *Japanujo* ("Japan")
 * **indu** : *Hindujo*/*Barato* ("India")
-* **sinu** : *Ĉinujo* ("China")
+* **chinu** : *Ĉinujo* ("China")
 * **germanu** : *Germanujo* ("Germany")
 * **fransu** : *Francujo* ("France")
 * **spanu** : *Hispanujo* ("Spain")
@@ -1063,19 +1082,19 @@ Por paroli pri io, kio rilatas al la lando, oni povas ŝanĝi ĝin al modifilo:
 Por lingvoj, oni same uzas la Algoritmon el la nomoj en la Angla. Oni ne kreas kunmetaĵon rilate al vorto de lando aŭ homgrupo, ĉar lingvo povas esti parolata en pluraj landoj, kaj de malsamaj homgrupoj:
 
 * **mandarinu** : *la mandarena* ("Mandarin")
-* **englisu** : *la angla* ("English")
+* **englishu** : *la angla* ("English")
 * **hindustanu** : *la hindustana* ("Hindustani")
-* **spanisu** : *la hispana* ("Spanish")
+* **spanishu** : *la hispana* ("Spanish")
 * **arabiku** : *la araba* ("Arabic")
 * **malayu** : *la malaja* ("Malay")
 * **rusinu** : *la rusa* ("Russian")
 * **bengalu** : *la bengala* ("Bengali")
 * **portugusu** : *la portugala* ("Portuguese")
-* **frensu** : *la franca* ("French")
+* **frenchu** : *la franca* ("French")
 * **germanu** : *la germana* ("German") 
 * **esperantu** : *esperanto* ("Esperanto")
 
-Kio pri vortoj homgrupaj vortoj kiel *franco*? Nu, se oni volas paroli pri iu, kiu loĝas en Francujo, oni povas diri **fransi personu**. Se oni volas paroli pri iu, kiu havas francan civitanecon, oni povas diri **fransi sitizenu**. Se oni volas paroli pri iu, kiu parolas la francan, oni povas diri **frensi spekeru**. 
+Kio pri vortoj homgrupaj vortoj kiel *franco*? Nu, se oni volas paroli pri iu, kiu loĝas en Francujo, oni povas diri **fransi personu**. Se oni volas paroli pri iu, kiu havas francan civitanecon, oni povas diri **fransi sitizenu**. Se oni volas paroli pri iu, kiu parolas la francan, oni povas diri **frenchi spekeru**. 
 
 Ĝenerale, kiam oni prezentas homon en Langugu, oni evitas uzi substantivon kiu reprezentas anon de kultura homgrupo. Estas pli bone diri **britani personu** (*bretona persono*) ol **britanu** (*bretono*), krom se la homo mem esprimis la volon esti priparolata tiel.
 
@@ -1084,10 +1103,10 @@ Je individua nivelo, ĉiu persono estas miksaĵo de pluraj kulturoj kaj homgrupa
 Vi eble rimarkis ke la Algoritmo foje donas vortojn, kiujn jam ekzistas. Ekzemple **germanu** povas kaj esti *Germanujo*, kaj *la germana lingvo*. En praktiko, kunteksto faras ke konfuzo tre malofte okazas. Sed se tio estas ĝena, homoj povas libere uzi alternativojn, kaj se ili estas pli kompreneblaj kaj oportunaj, ili nature populariĝos.
 
 Jen kelkaj frazoj por lerni kelkajn oftajn vortojn:
-> Boti englisu and frensu spekeda bo kanadu. : Ambaŭ la angla kaj la franca estas parolataj en Kanado.  
-> Mu eya astralu bo filmu fromo ti sanelu ofo Evildea. : Mi rigardas Aŭstralion en filmo el la kanalo de Evildea.  
+> Boti englishu ando frenchu spekeda bo kanadu. : Ambaŭ la angla kaj la franca estas parolataj en Kanado.  
+> Mu eya astralu bo filmu fromo ti chanelu ofo Evildea. : Mi rigardas Aŭstralion en filmo el la kanalo de Evildea.  
 > Almosti ali nativi langugu ofo astralu soni naapera. : Preskaŭ ĉiuj indiĝenaj lingvoj de Aŭstralio baldaŭ malaperos.  
-> Finisu ba interesti, buto nahapi mu no suksesa lerna hu. : La finna estas interesa, sed bedaŭrinde/malfeliĉe mi ne sukcesas lerni ĝin.  
+> Finishu ba interesti, buto nahapi mu no suksesa lerna ti. : La finna estas interesa, sed bedaŭrinde/malfeliĉe mi ne sukcesas lerni ĝin.  
 
 
 ## 25: -ed-, -er-
@@ -1110,7 +1129,7 @@ En Esperanto, ne vere estas granda diferenco inter "*mi ŝatatas*" (**mu likeda*
 **-edu** reprezentas aferon (ofte personon), kiu estas ricevanto de ago okazanta aŭ finita:
 
 * lik**edu** : ŝat*ito* / ŝat*ato*
-* sos**edu** : elekt*ito* / elekt*ato*
+* chos**edu** : elekt*ito* / elekt*ato*
 * kil**edu** : mortig*ito* / mortig*ato*
 
 Langugu havas alian direktan markilon: **-er-**. Por verboj, **-era** emfazas kaj certigas ke oni uzas la plej oftan ordon (sen la -er-). Do ĝi similas al la participoj "*int*" kaj "*ant*" (sed malsame al tiuj, **-er-** ne precizigas gramatikan aspekton):
@@ -1130,7 +1149,7 @@ Esperanto foje havas verbajn adjektivojn aŭ adverbojn, kiuj povas ricevi objekt
 **-er-** estas plej ofte uzata en la formo **-eru**, kie ĝi reprezentas aferon (ofte personon), kiu (ofte aŭ ne) estas aganto de ago okazanta aŭ finita:
 
 * lik**eru** : ŝat*into* / ŝat*anto*
-* sos**eru** : elekt*into* / elekt*anto*
+* chos**eru** : elekt*into* / elekt*anto*
 * kil**eru** : mortig*into* / mortig*anto*
 * begin**eru** : komenc*into* / komenc*anto*
 * spek**eru** : parol*into* / parol*anto*
@@ -1147,7 +1166,7 @@ Jen kelkaj frazoj por lerni kelkajn oftajn vortojn:
 > Sositu, ki fuli worka, neda farmeru, makeru, informeru, ando mori. : Socio, kiu plene funkcias, bezonas farmistojn, kreantojn, informantojn, ktp.  
 > Somi timi, ti komplaneru pi maka mori nagodi tingu tano ti komplanedu. : Kelkfoje, la plendanto faris pli da malbonaj aferoj ol la plendato.  
 > Atlesti 80% ofo ali burneri aktu no hava humani originu. : Almenaŭ 80% de ĉiuj bruligaj agoj ne havas homan originon.   
-> Ti plasi ti planu. Ifo hu ba likedi, tano hu wili ba makedi. : Jen la plano. Se ĝi estas ŝatata, tiam ĝi estos farata.  
+> Ti plasi ti planu. Ifo ti ba likedi, tano ti wili ba makedi. : Jen la plano. Se ĝi estas ŝatata, tiam ĝi estos farata.  
 
 
 ## 26: Ŝanĝo de finaĵo
@@ -1220,12 +1239,12 @@ Kiel en Esperanto, eblas krei novajn vortojn kunmetante radikojn. Tio permesas e
 * busines**bos**u : entrepren*estr*o
 * sand**part**u : sabl*er*o
 
-La dekstra radiko estas la esenco, kaj la maldekstra radiko precizigas ĝin. Tio signifas ke se oni kunmetas ion maldekstre de la radiko **sipu** (*ŝipo*), la rezulto ĉiam estos tipo de *ŝipo*:
-* vapor**sip**u : vapor*ŝip*o (tipo de ŝipo)
+La dekstra radiko estas la esenco, kaj la maldekstra radiko precizigas ĝin. Tio signifas ke se oni kunmetas ion maldekstre de la radiko **shipu** (*ŝipo*), la rezulto ĉiam estos tipo de *ŝipo*:
+* vapor**ship**u : vapor*ŝip*o (tipo de ŝipo)
 
 Kio estas la diferenco inter kunmeti kaj simple meti adjektivon antaŭ substantivon? Kiam oni kunmetas, oni kreas novan vorton do novan precizan koncepton. Se oni uzas adjektivon, oni donas liberecon pri la interpretado de la adjektivo:
-* **vapori sipu** : *vapora ŝipo* (ŝipo kiu iel rilatas al vaporo, do ĝi povas esti ŝipo kiu funkcias per vaporo, sed ankaŭ ŝipo el vaporo!)
-* **vaporsipu** : *vaporŝipo* (specifa tipo de ŝipo, kun specifa funkcimaniero, pri kiu oni povas legi pli detale en vortaro aŭ enciklopedio)
+* **vapori shipu** : *vapora ŝipo* (ŝipo kiu iel rilatas al vaporo, do ĝi povas esti ŝipo kiu funkcias per vaporo, sed ankaŭ ŝipo el vaporo!)
+* **vaporshipu** : *vaporŝipo* (specifa tipo de ŝipo, kun specifa funkcimaniero, pri kiu oni povas legi pli detale en vortaro aŭ enciklopedio)
 * **webi plasu** : *reta ejo* (ajna loko en la interreto)
 * **webplasu** : *retejo* (specifa tipo de loko en la interreto kiu havas retadreson)
 
@@ -1238,7 +1257,7 @@ Ekzistas bonaj kialoj por preferi adjektivojn al kunmetado, interalie:
 Jen kelkaj frazoj por lerni kelkajn oftajn vortojn:
 > Onli twi politikpartu ba nawisi politiki sistemu : Nur du politikaj partioj estas stulta politika sistemo.  
 > Ti universiti bosu nalova ti representeru ofo studeru : La universitatestro malamas la reprezentanton de la studantoj.  
-> Langugeru zeri timi forgeta akusativi markeru : Parolantoj de Langugu neniam forgesas akuzativmarkilon.  
+> Langugeru zeri timi forgeta akusativi markeru : Parolantoj de Langugu neniam forgesas la markilon de akuzativo.  
 
 
 ## 28: Afiksa alternativo
@@ -1277,7 +1296,7 @@ La substantiva formo de verba radiko jam povas indiki agon. Oni precizigas ke ĝ
 * **gropu** : *aro* / grupo
 * tenti gropu : tendaro
 * bosi gropu : estraro
-* aski listu : demandaro
+* asklistu : demandaro
 
 Kelkaj tradicaj vortoj kun *-ar-* montras konceptojn ne facile diveneblaj. Tiam oni preferas uzi rekonstrui ilin alimaniere aŭ uzi novan radikon:
 
@@ -1336,7 +1355,7 @@ Tiu radiko ankaŭ utilas por modifila radiko kiam oni volas esti preciza ke oni 
 * horsplasu : ĉevalejo
 
 Anstataŭ *-uj-* kaj *-ing-*, oni uzas la nomon de la tipo de ujo, aŭ la koncepton havas propran vorton:
-* salti sakeru : salujo
+* salti shakeru : salujo
 * kati boksu : katujo
 * fridgu : fridujo
 * waletu : monujo
@@ -1360,7 +1379,7 @@ Same kiel por *-ar-*, kelkaj tradiciaj vortoj havas nefacile diveneblan signifon
 ### -estr-
 
 * **bosu** : *estro*
-* sitbosu : urbestro
+* urbanbosu : urbestro
 * gropi bosu / gropbosu : grupestro
 
 ### -et-
@@ -1376,9 +1395,9 @@ Tre malofte vorto kun *-et-* havas neregulan signifon. Tiam oni uzas alian vorto
 
 ### -id-
 
-* **sildu** / **progenu** : *ido*
-* esperanti sildu : Esperantido
-* royali sildu : reĝido
+* **shildu** / **progenu** : *ido*
+* esperanti shildu : Esperantido
+* royali shildu : reĝido
 
 Se oni parolas pri juna besto, oni preferas uzi **yongi**:
 * yongi katu : katido
@@ -1402,7 +1421,7 @@ Ankaŭ eblas kunmeti:
 
 La kunmeta formo estas oportuna kiam oni volas uzi *-ed-* aŭ *-er-*:
 
-* lernmakeru : lerniganto / instruisto
+* lernmakeru (/ techeru) : lerniganto / instruisto
 
 ### -iĝ-
 
@@ -1505,7 +1524,7 @@ Por ĉiuj neoficialaj afiksoj, tio funkcias simile. Oni preferas reuzi gramatika
 
 ### Kion fari se vorto mankas?
 
-Se okazas, ke vi ne trovas en la vortlisto de la [Korektilo](https://vanege.github.io/langugi-korekteru/) vorton, kiu havas la signifon de tio, kion vi volas diri, provu tion, en ordo de prioritato:
+Se okazas, ke vi ne trovas tradukon en la Korpuso (VENONTA), provu tion, en ordo de prioritato:
 1) Demandu al aliaj uzantoj de la lingvo kiel ili dirus.
 2) Provu uzi plurajn vortojn. ("to prefer" -> **mori lika**)
 3) Provu kunmeti radikojn. ("school" -> **lernplasu**)
@@ -1527,20 +1546,20 @@ Se okazas, ke vi ne trovas en la vortlisto de la [Korektilo](https://vanege.gith
 
 5) Forigu duoblajn konsonantojn. (battle -> batl)
 
-6) Ŝanĝu c al k, se en la Angla vorto, c (aŭ la grupo de literoj en kiu ĝi estas) faras la sonon de k, se ne, ŝanĝu al s.  
+6) Ŝanĝu c al k, se en la Angla vorto, c (aŭ la grupo de literoj en kiu ĝi estas) faras la sonon de k, se ne, ŝanĝu al s. Tamen, se c estas sekvata de h, ŝanĝu nenion!
 > **c**at /**k**æt/ => **k**at  
 > pro**c**ess /ˈprɑses/ => proses  
 > a**c***c*ess /ˈæ**k**ˌses/ => a**k**ses  
-> **ch**orus /ˈ**k**ɔrəs/ => **k**horus  
-> **ch**ange /tʃeɪndʒ/ => shang  
-   
-7)  Ŝanĝu j al y. (joke -> yok)
+> **ch**orus => chorus  
+> **ch**ange => chang  
 
-8)  Ŝanĝu q al k.
+7) Ŝanĝu q al k.
 
-9)  Ŝanĝu x al ks.
+8) Ŝanĝu x al ks.
 
-10)  Forigu h kiam ĝi estas post konsonanto. (khorus -> korus) (mith -> mit) (shang -> sang) (ghost -> gost) (telephon -> telepon)  
+9)  Forigu h kiam ĝi estas post konsonanto, kiu ne estas s, c aŭ p. (khorus -> korus) (mith -> mit) (ghost -> gost)  
+
+10)  Ŝanĝu ph al f. (phot -> fot)  
 
 11)  Forigu w kiam ĝi estas antaŭ r. (write -> rit)
 
@@ -1584,24 +1603,24 @@ Ekestis tro da problemoj pro nekonscio aŭ forgeso de Angla vorto sen tia finaĵ
 
 ## 30: Suporta
 
-Godi komu to ti lasti lesonu ofo ti korsu. Ti lesonu ba fuli ritedi wito Langugu. Ali wordpartu bo ti lesonu ba alredi usedi befori. Ifo yu no aha oni wordu, yu kana finda translatu foro ti wordu (bo englisu oro esperantu) wito ti [korekteru](https://vanege.github.io/langugi-korekteru/).
+Godi komu to ti lasti lesonu ofo ti korsu. Ti lesonu ba fuli ritedi wito Langugu. Ali wordpartu bo ti lesonu ba alredi usedi befori. Ifo yu no aha oni wordu, yu kana finda translatu foro ti wordu (bo englisu oro esperantu) wito ti Korpusu (VENONTA).
 
-Onifi, mu (Vanege) wanta tanka yu foro yi worku. Ifo yu reda ti tekstu, ti probabli mena ko yu alredi studa Langugu duringo mori tano teni horu. Ti mena ko yu finda ti langugu somi interesti (bekaso gramaru oro oteri resonu). Ti alsi mena ko mu pi suksesa maka ti korsu enogi amusi oro helpi.
+Onifi, mu (Vanege) wanta tanka yu foro yi worku. Ifo yu reda ti tekstu, ti probabli mena ko yu alredi studa Langugu duringo mori tano teni horu. Ti mena ko yu finda ti langugu somi interesti (bekaso ti gramaru oro bekaso oteri resonu).
 
-Oni langugu, ki no hava komunita, ba oni bodu, ki no hava livu. So, mu wanta aska tingu to yu: do yu wanta helpa maka Langugu mori useda? Mu tinka ko mori makedi langugu manero Esperantu neda liva. Mu ando somi oteri personu mani lika usa Langugu. Ti ba mani godi tingu, ifo oni kana usa Langugu mori! Ifo yu helpa, ti fuli komunitu wili tanka yu.
+Ani langugu, ki no hava komunitu, no reli ba langugu. So, mu wanta aska tingu to yu: do yu wanta helpa maka Langugu mori useda (so mori livi)? Mu tinka ko mori makedi langugu manero Esperantu neda liva. Mu ando somi personu mani lika usa Langugu. Ti ba mani godi tingu, ifo oni kana usa Langugu mori! Ifo yu helpa si mu, ti fuli komunitu wili tanka yu.
 
 Mani maneru foro helpa eksista:
 * Yu kana ga to [ti telegrami gropu](https://langugu.telegramo.org/) ando rita (oro speka) wito oteri personu. Maybi yu wili finda newi frindu!
-* Yu kana ga to [ti wiku ando ada artiklu](https://langugu.fandom.com/wiki/Ki_resoni_ando_ki_maneri_helpa_Langugu%3F). Mu wili korekta.
-* Maka ani tingu, ki yu habiti lika maka, buto ti timi wito Langugu! Afteri, promota ti tingu, ki yu pi maka!
-* Speka aboto Langugu to oteri personu. Eksampli, yu kana senda linku ofo ti korsu to esperanti frindu.
+* Yu kana ga to [ti wiku ando ada artiklu](https://langugu.fandom.com/wiki/Ki_resoni_ando_ki_maneri_helpa_Langugu%3F). Mu wili korekta. (Notu: ti wiku stili no ba updatedi!)
+* Maka ani tingu, ki yu lika maka, buto ti timi, maka ti wito Langugu! Afteri, maka si mu eya ti, ki yu pi maka!
+* Speka aboto Langugu to oteri personu. Eksampli, yu kana senda linku to ti korsu to esperanti frindu.
   
 Usa langugu ba ti mosti godi maneru foro lerna, buto alsi foro helpa. So, mu hopa ko afteri ti korsu, yu wili usa ti langugu wito si mu!
 
 
 ## #1: Ti verbu "ba"
 
-Yu pi lerna ko **ba** ba spesili wordu bekaso yu ali timi alowedi no usa hu:
+Yu pi lerna ko **ba** ba spesili wordu bekaso yu ali timi alowedi no usa ti wordu:
 
 * yu ali timi **ba** alowedi = yu ali timi alowedi
 * ti katu **ba** bigi = ti katu bigi
@@ -1619,14 +1638,14 @@ Yu alsi pi lerna ko **ba** kana sowa (maka eya) twi tingu:
 
 > problemu **ba** = problemu **findeda** = problemu **eksista**
 
-Nowi, yu lerna newi tingu: ifo ti wordu **ba** ba useda foro mena **findeda** oro **eksista**, tano ti wordu **ba** alsi kana putedi yusti beforo ti subyektu:
+Nowi, yu lerna newi tingu: ifo ti wordu **ba** ba useda foro mena **findeda** oro **eksista**, tano ti wordu **ba** alsi kana putedi justi beforo ti subyektu:
 
 * problemu **ba** = **ba** problemu = problemu
 * Mu lika ko zeri problemu **ba** = Mu lika ko **ba** zeri problemu = Mu lika ko zeri problemu
 
 Bo mani langugu, oni puta tingu beforo ti substantivu foro ekspresa ti: "There is x" (EN), "Hay x" (ES), "Il y a x" (FR), "Estas x" (EO)...
 
-So almosti ali personu wito ki mu pi speka hava (bo beginu) problemu foro puta **ba** bo ti korekti plasu. Ofteni si hu puta hu beforo ti subyektu, buto ki timi ti hapena, oni hava zeri problemu foro aha. So no *ba* godi resonu foro naalowa ti.
+So almosti ali personu wito ki mu pi speka hava (bo beginu) problemu foro puta **ba** bo ti korekti plasu. Ofteni si hu puta ti wordu beforo ti subyektu, buto ki timi ti hapena, oni hava zeri problemu foro aha. So no *ba* godi resonu foro naalowa ti.
 
 
 ## #2: Somi helpi rotu manero sufiksu

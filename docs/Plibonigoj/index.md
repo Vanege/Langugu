@@ -17,9 +17,9 @@
 
 > Por la *kronviruso*, oni simple uzu la algoritmon sur la anglan vorton "coronavirus": **koronavirusu**. Ne estos debato pri la ĝusta vorto. Ĉiuj komprenos la vorton kaj konsentos ĉar la algoritmo estas objektiva.
 
-- La algoritmo havas nur 10 regulojn. Tio permesas ne esti blokita pro mankanta vorto en konversacio, ĉar oni povas tre rapide uzi la algoritmon por traduki anglan vorton.
+- La algoritmo havas nur 11 regulojn. Tio permesas ne esti blokita pro mankanta vorto en konversacio, ĉar oni povas tre rapide uzi la algoritmon por traduki anglan vorton.
 
-> Lerni la anglan (kion homoj jam faras pro lernejoj), rekte helpas paroli Langugu flue, ĉar Langugu reuzas multaj bazajn vortojn de la Angla. Sed entute, lerni Langugu estas multe pli rapide ol lerni la anglan.
+> Lerni la anglan (kion homoj jam faras pro lernejoj), rekte helpas paroli Langugu flue, ĉar Langugu reuzas multajn bazajn vortojn de la Angla. Sed entute, lerni Langugu estas multe pli rapide ol lerni la anglan.
 
 - La algoritmo kontribuas al malaltigi la kvanton de arbitreco. Ĉia formo de arbitra neantaŭvidebla elekto estas minimumigita en la lingvo.
 
@@ -39,7 +39,7 @@
 
 ## Sonoj
 
-- La sonoj ne havas /ĵ/ [ʒ] kaj /ĥ/ [x], kiuj estas maloftaj en lingvoj.
+- La sonoj ne havas /ĵ/ [ʒ] (sole) kaj /ĥ/ [x], kiuj estas maloftaj en lingvoj.
 
 > [Ili estas en 16% kaj 19% de lingvoj respektive.](https://phoible.org/parameters)
 
@@ -47,17 +47,13 @@
 
 > R-sonoj estas malfacile lerneblaj. Malpermesi diversajn realigojn de r nur igus la lingvon pli malfacila por multaj homoj. Oni ĉiuokaze ne povas konfuzi /r/ kun /ĥ/, ĉar tiu lasta ne ekzistas. Oni povus konfuzi /r/ kun /l/, sed la nombro de okazoj kie vorto malsamas de alia vorto nur per r aŭ l estas malgranda. Kunteksto ĉiam helpas, kaj okaze de reala problemo, oni povus uzi alian vorton per uzo de la algoritmo sur sinonimo, aŭ per derivado.
 
-- La sonoj postalveolaraj (/ŝ/ kaj /ĵ/) ne estas uzataj, tiel oni ne povas konfuzi ilin kun la sonoj alveolaraj (/s/ kaj /z/).
-
-> Neniu konfuzo do inter serĉi kaj ŝerci.
-
 - Du konsonantoj troviĝas apude iomete malpli ofte ol en Esperanto. La lingvo estas do iom pli facile elparolebla.
 
 > La plej oftaj kaj bazaj vortoj de la angla estas uzataj por la algoritmo. Se oni uzus pli maloftajn sinonimojn, oni povus havi lingvon kun malmulte da apudaj sonoj, sed la lingvo estus pli arbitra kaj malpli rekonebla. Ĉiuokaze, la lingvo enhavas solvon:
 
 - Se oni ne povas facile elparoli du konsonantojn apude, oni povas meti la [sonon [ə]](https://www.youtube.com/watch?v=qu4zyRqILYM) inter la konsonantoj. Tio nomiĝas la helpa ŝvao.
 
-> Ekzemple, **mu speka englisu** povas esti dirata kiel **mu səpeka enəgəlisu**.
+> Ekzemple, **mu speka englishu** povas esti dirata kiel **mu səpeka enəgəlishu**.
 
 - La helpa ŝvao permesas facile adapti nombron de silaboj en kantado.
 - Vortoj ĉiam finiĝas per vokalo, do elparoli ilin estas pli facile. Tio ankaŭ helpas scii kiam vorto finiĝas.
@@ -271,7 +267,7 @@
 
 > **yu ba nisi** / **yu nisi** : *vi estas afabla* / *vi afablas*  
 > **katu ba undero tablu** / **katu undero tablu** : *kato estas sub la tablo*  
-> **yu ba steleru!** / **yu ba steleru** : *vi estas ŝtelisto!*  
+> **yu ba steleru!** / **yu steleru!** : *vi estas ŝtelisto!*  
 
 > Multaj lingvoj ne havas aŭ ne devigas la uzon de priskriba aŭ ekzista *esti*. En multaj okazoj, estas oportune ne uzi ĉi tiun verbon. En Esperanto, la longeco de *estas* estas ĝena. Pro la natura emo al koncizeco, stataj verboj el adjektivoj iĝas preferataj. ("*Vi belas*" anstataŭ "*Vi estas bela*".) Tiuj novaj stataj verboj verŝajne ne facile aperos en Langugu ĉar "**Yu ba bigi**" jam koncizas, kaj diri "**Yu bigi**" jam eblas.
 
@@ -280,9 +276,9 @@
 - Por indiki ke subjekto ricevas agon (kiel en pasiva voĉo), oni simple uzas verbon kun **-eda**.
 
 > **Katu kila** : *Kato mortigas*  
-> **Katu kila fisu** : *Kato mortigas katon*  
-> **Fisu kileda** : *Fiŝo estas mortig(a/i)ta*  
-> **Fisu kileda katu** : *Fiŝo estas mortig(a/i)ta de fiŝo*  
+> **Katu kila fishu** : *Kato mortigas fiŝon*  
+> **Fishu kileda** : *Fiŝo estas mortig(a/i)ta*  
+> **Fishu kileda katu** : *Fiŝo estas mortig(a/i)ta de fiŝo*  
 
 > Komparu tion al Esperanto, kie oni devas 1) aldoni la verbon *esti*, 2) konjugacii ĝin laŭ tempo aŭ modo, 3) uzi participon kiu devigas informon pri aspekto (*ita* se la ago estas finiĝinta, *ata* se okazanta), 4) aldoni la prepozicion *de* se oni volas montri la aganton.
 
@@ -290,14 +286,14 @@
 
 - Oni povas uzi **-eda** anstataŭ *-iĝ-* kiam ĝi estas uzata por indiki ke la subjekto ricevas agon.
 
-> **Doru kloseda** : *Pordo estas fermata* / *Pordo fermiĝas*  
-> **Wordu uzeda** : *Vorto estas uzata* / *Vorto uziĝas*  
+> **Doru naopeneda** : *Pordo estas fermata* / *Pordo fermiĝas*  
+> **Wordu useda** : *Vorto estas uzata* / *Vorto uziĝas*  
 
 > Multaj Esperantistoj miskomprenas verbojn kun *-iĝ-*: ili kredas ke ĝi *uziĝas* nur kiam la aganto kaj la agato estas la sama afero. Multaj ekzemploj kie la subjekto de -*iĝ*- ne faras la agon mem (aŭ la si mem) *troviĝas* en Esperanto. Kaj ĉi tiu funkcio estas parte redunda al la pasiva formo. Kiel en la superaj ekzemploj, kaj tia konstruaĵo ŝajne oftiĝas koncizeco.
 
 > Se oni volas diri ke la aganto agas al si mem, oni ne bezonas ŝanĝi la verbon, oni povas aldoni objekton kiu referencas la subjekton, aŭ la adjektivon **selfi**.
 
-> **Doru klosa hu selfi** / **Doru klosa selfi** : *Pordo fermas sin*  
+> **Doru naopena ti selfi** / **Doru klosa selfi** : *Pordo fermas sin*  
 
 - Kelkaj verboj, kiuj estas aŭ transitivaj aŭ netransitivaj depende de kunteksto, ne ĉiam estas klaraj kiam objekto ne ĉeestas. Tiam, oni povas uzi **-eda** kaj **-era** por precizigi direkton. **-era** uzas la signifon kiun la verbo klare havus se objekto ĉeestus.
 
@@ -310,7 +306,7 @@
 - Verboj ne ŝanĝiĝas depende de tempo. La kunteksto kaj la resto de frazo ofte sufiĉas por scii ĉu la ago estas ligita al specifa tempo.
 
 > **Mu ofteni slepa** : *Mi ofte dormas*  
-> **Mu yusti eta** :* Mi ĵus manĝis*  
+> **Mu justi eta** : *Mi ĵus manĝis*  
 > **Tomorowi mu dansa** : *Morgaŭ mi dancos*  
 > **Yu lerna** : *Vi lernas*    
 > **Mu worka foro hava moneyu** : *Mi laboras por havi monon*  
@@ -448,7 +444,7 @@ Langugu ne agas kontraŭ kutimo de la plej studata lingvo de la mondo, kiam tiu 
 > **Mu playa wito frindu** : *Mi ludas kun amiko*  
 > **Mu playa wito balu** : *Mi ludas per pilko*  
 > **Oni twifu ofo pizu** : *Duono de pico*  
-> **Glasu ofo yusu** : *Glaso da suko*  
+> **Glasu ofo jusu** : *Glaso da suko*  
 
 - La ĝenerala prepozicio **bo** estas pli ofte uzeblaj ol "*je*" de Esperanto. Kune kun la fakto ke ĉiuj verboj estas uzeblaj transitive, lernantoj devas malpli ofte lerni "kiu prepozicio iras kun kiu verbo".
 
@@ -464,7 +460,7 @@ Langugu ne agas kontraŭ kutimo de la plej studata lingvo de la mondo, kiam tiu 
 > **tanko** : *en danko al* / *danke al*  
 > **Mu pi suksesa tanko yi helpu** : *Mi sukcesis danke al via helpo*  
 > **kaso** : *en (o)kazo de* / *(o)kaze de*  
-> **Kaso firu, klosa ti doru** : *Okaze de fajro, fermu tiun pordon*  
+> **Kaso firu, naopena ti doru** : *Okaze de fajro, fermu tiun pordon*  
 > **komparo** : *kompare al*  
 > **Mu no bigi komparo yu** : *Mi ne grandas kompare al vi*  
 
