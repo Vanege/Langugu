@@ -355,7 +355,7 @@ Per aldonaj verboj (**musta** (devas)...) aŭ adverboj (**maybi** (*eble*), **af
 
 - En Esperanto, oni povas esprimi ĉu ago estas finita aŭ okazanta per specialaj afiksoj (*-int-* *-it-* kaj *-ant-* *-at-*). Langugu ne esprimas aspektojn tiel. Anstataŭe, oni uzas adverbojn. Kiel ĉio en la lingvo, oni reuzas konceptojn anstataŭ lerni novajn.
 
-> **Katu nowi slepa** : *Kato estas dormanta (kato nunŭ dormas)*  
+> **Katu nowi slepa** : *Kato estas dormanta (kato nune dormas)*  
 > **Katu stili slepa** : *Kato estas dormanta (kato ankoraŭ dormas)*  
 > **Katu alredi slepa** : *Kato estas dorminta (kato jam dormis)*  
 
@@ -511,7 +511,7 @@ Langugu ne agas kontraŭ kutimo de la plej studata lingvo de la mondo, kiam tiu 
 > **partu** : *parto* / *ero*  
 > **sandpartu** : *sablero*  
 
-- Ĉar "afikso" estas fakte normala radiko kiun oni kunmetas, kaj ĉar oni povas libere enkonduki novajn radikojn, neniu povas kunmetadon de radiko kiu havus la signifon de "*-iĉ-*" en Esperanto (*iĉo* estas iĉgenra persono).
+- Ĉar "afikso" estas fakte normala radiko kiun oni kunmetas, kaj ĉar radiko ne estas fermita klaso (oni povas libere uzi novajn), tio signifas ke neniu rajtas plendi pri novaj utilaj radikoj/sufiksoj kiel "*-iĉ-*" en Esperanto.
 
 - Multaj afiksoj de Esperanto ne alportas grandan valoron. Prefere al ili, oni reuzas la gramatikajn regulojn kiuj jam ekzistas rilate al la uzo de substantivoj, modifiloj kaj verboj.
 
