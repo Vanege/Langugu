@@ -144,7 +144,7 @@ Jen kiel oni povas uzi modifilojn por priskribi sep nivelojn de boneco:
 * mani godi : tre bona / bonega
 * godi : bona
 * namani godi : iomete bona / boneta
-* midi godi : mezbona
+* midli godi : mezbona
 * namani nagodi : iomete malbona / malboneta
 * nagodi : malbona
 * mani nagodi : tre malbona / malbonega
@@ -439,7 +439,7 @@ Memoru ke la subjekto ne estas deviga por la imperativo, kiam la subjekto estus 
 
 Por la us-modo (ebla, teoria aŭ kondiĉa ago), oni povas aldoni la verbon **wolda** ("to would"):
 
-* Mu **wolda** lika buya hu : Mi ŝat*us* aĉeti ĝin
+* Mu **wolda** lika buya ti : Mi ŝat*us* aĉeti ĝin
 
 Sed por multaj okazoj kie oni uzas *-us* en Esperanto, aldoni **maybi** (*eble*) sufiĉas:
 
@@ -1050,7 +1050,7 @@ Nomoj de landoj en Langugu simple estas la nomoj de la landoj en la Angla, post 
 
 * **indonesu** : *Indonezio* ("Indonesia")
 * **rusu** : *Ruslando* ("Russia")
-* **yapanu** : *Japanujo* ("Japan")
+* **japanu** : *Japanujo* ("Japan")
 * **indu** : *Hindujo*/*Barato* ("India")
 * **chinu** : *Ĉinujo* ("China")
 * **germanu** : *Germanujo* ("Germany")
@@ -1395,9 +1395,9 @@ Tre malofte vorto kun *-et-* havas neregulan signifon. Tiam oni uzas alian vorto
 
 ### -id-
 
-* **shildu** / **progenu** : *ido*
-* esperanti shildu : Esperantido
-* royali shildu : reĝido
+* **childu** / **progenu** : *ido*
+* esperanti childu : Esperantido
+* royali childu : reĝido
 
 Se oni parolas pri juna besto, oni preferas uzi **yongi**:
 * yongi katu : katido
