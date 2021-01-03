@@ -405,7 +405,7 @@ Ekzistas du tre utilaj mallongaj tempaj modifiloj, kiuj esprimas ĝeneralan is-t
 Kompreneble, oni ne ĉiam bezonas ilin. Ekzemple, se oni jam scias ke la ago okazas antaŭe aŭ poste:  
 
 * **Befori**, mu hava nagodi internetu : *Antaŭe*, mi hav*is* malbonan interreton  
-* **Afteri**, mu changa mi komputeru : *Poste*, mi ŝanĝ*os* mian komputilon  
+* **Afteri**, mu modifa mi komputeru : *Poste*, mi ŝanĝ*os* mian komputilon  
 
 Jen kelkaj aliaj utilaj tempaj modifiloj, kiuj estas pli precizaj.
 
@@ -1551,7 +1551,7 @@ Se okazas, ke vi ne trovas tradukon en la Korpuso (VENONTA), provu tion, en ordo
 > pro**c**ess /ˈprɑses/ => proses  
 > a**c***c*ess /ˈæ**k**ˌses/ => a**k**ses  
 > **ch**orus => chorus  
-> **ch**ange => chang  
+> **ch**oose => chos  
 
 7) Ŝanĝu q al k.
 
