@@ -7,8 +7,7 @@ module.exports = {
     nav: [
       { text: 'Kurso', link: '/Kurso/'},
       { text: 'Plibonigoj kompare al Esperanto', link: '/Plibonigoj/'},
-      { text: 'Korektilo (neĝisdata)', link: 'https://vanege.github.io/langugi-korekteru/' },
-      { text: 'Vikio (neĝisdata)', link: 'https://langugu.fandom.com/wiki/Langugu' },
+      { text: 'Korpuso / Vortaro', link: 'https://vanege.github.io/conlang-sentence-dictionary/?targetedConlang=Langugu' },
       { text: 'Komunumo', link: 'https://langugu.telegramo.org' },
     ],
     sidebar: {
