@@ -759,7 +759,7 @@ Tempaj prepozicioj:
 
 > Tra **beforo** desida : Provu *antaŭ* decidi  
 > **Aftero** mani eta, mu no kana mori moveda : *Post* multe manĝi, mi ne plu povas moviĝi  
-> Yu no rigta ga otsidi **duringo** krisisu : Vi ne rajtas iri ekstere *dum* krizo  
+> Yu no permiteda ga otsidi **duringo** krisisu : Vi ne rajtas iri ekstere *dum* krizo  
   
 Movaj prepozicioj (tempaj kaj lokaj):
 
@@ -1524,7 +1524,7 @@ Por ĉiuj neoficialaj afiksoj, tio funkcias simile. Oni preferas reuzi gramatika
 
 ### Kion fari se vorto mankas?
 
-Se okazas, ke vi ne trovas tradukon en la Korpuso (VENONTA), provu tion, en ordo de prioritato:
+Se okazas, ke vi ne trovas tradukon en la [frazaro](https://vanege.github.io/conlang-sentence-dictionary/?targetedConlang=Langugu), provu tion, en ordo de prioritato:
 1) Demandu al aliaj uzantoj de la lingvo kiel ili dirus.
 2) Provu uzi plurajn vortojn. ("to prefer" -> **mori lika**)
 3) Provu kunmeti radikojn. ("school" -> **lernplasu**)
@@ -1535,8 +1535,8 @@ Se okazas, ke vi ne trovas tradukon en la Korpuso (VENONTA), provu tion, en ordo
 ### La Algoritmo
 
 1) Elektu la plej oftan kaj klaran vorton por tiu koncepto, kiu ne ŝajnas konfuzebla kun jamaj radikoj  
-  Vi povas trovi la konatecon de Angla vorto per Cambridge Dictionary: https://dictionary.cambridge.org/dictionary/english/  
-  Vi povas trovi sinonimojn per Thesaurus: http://www.thesaurus.com/  
+  Vi povas trovi la konatecon de Angla vorto per [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/)  
+  Vi povas trovi sinonimojn per [Thesaurus](http://www.thesaurus.com/)  
   
 2) Kiam pluraj vokaloj (aeoiu) aperas apude, konservu nur la unuan. (speak -> spek)
 
