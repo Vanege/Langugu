@@ -7,7 +7,7 @@ module.exports = {
     nav: [
       { text: 'Kurso', link: '/Kurso/'},
       { text: 'Plibonigoj kompare al Esperanto', link: '/Plibonigoj/'},
-      { text: 'Legaĵoj', link: '/Legaĵoj/'},
+      { text: 'Legaĵoj', link: '/Legajxoj/'},
       { text: 'Frazaro', link: 'https://vanege.github.io/conlang-sentence-dictionary/?targetedConlang=Langugu' },
       { text: 'Komunumo', link: 'https://langugu.telegramo.org' },
     ],
@@ -18,7 +18,7 @@ module.exports = {
       '/Plibonigoj/': [
         ['', 'Plibonigoj'] 
       ],
-      '/Legaĵoj/': [
+      '/Legajxoj/': [
         ['', 'Legaĵoj'] 
       ]
     }
