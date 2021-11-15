@@ -1524,7 +1524,7 @@ Por ĉiuj neoficialaj afiksoj, tio funkcias simile. Oni preferas reuzi gramatika
 
 ### Kion fari se vorto mankas?
 
-Se okazas, ke vi ne trovas tradukon en la [frazaro](https://vanege.github.io/conlang-sentence-dictionary/?targetedConlang=Langugu), provu tion, en ordo de prioritato:
+Se okazas, ke vi ne trovas tradukon en la [frazaro](https://conlang-corpora.vercel.app/?l1=Esperanto&l2=Langugu), provu tion, en ordo de prioritato:
 1) Demandu al aliaj uzantoj de la lingvo kiel ili dirus.
 2) Provu uzi plurajn vortojn. ("to prefer" -> **mori lika**)
 3) Provu kunmeti radikojn. ("school" -> **lernplasu**)

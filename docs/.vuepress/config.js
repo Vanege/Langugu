@@ -9,7 +9,7 @@ module.exports = {
       { text: 'Plibonigoj kompare al Esperanto', link: '/Plibonigoj/'},
       { text: 'Legaĵoj', link: '/Legajxoj/'},
       { text: 'Demandejo', link: '/Demandejo/'},
-      { text: 'Frazaro', link: 'https://vanege.github.io/conlang-sentence-dictionary/?targetedConlang=Langugu' },
+      { text: 'Frazaro', link: 'https://conlang-corpora.vercel.app/?l1=Esperanto&l2=Langugu' },
       { text: 'Komunumo', link: 'https://langugu.telegramo.org' },
     ],
     sidebar: {
